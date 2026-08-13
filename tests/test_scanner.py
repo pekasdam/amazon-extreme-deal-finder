@@ -4,32 +4,21 @@ CONFIG = {
     "minimum_discount_percent": 90,
     "pricing_error_percent": 95,
     "near_free_max_price": 5.0,
-    "near_free_min_normal_price": 20.0,
+    "near_free_min_reference_price": 20.0,
     "max_current_price": 5000.0,
-    "comparison_range": 3,
 }
 
 
-def raw_deal(current=199, normal=9999, price_type=0):
-    size = max(34, price_type + 1)
-    current_arr = [-1] * size
-    current_arr[price_type] = current
-    delta = [[-1] * size for _ in range(4)]
-    dp = [[-1] * size for _ in range(4)]
-    delta[3][price_type] = normal - current
-    dp[3][price_type] = round((normal - current) / normal * 100)
-    return {
+def test_near_free_pricing_error():
+    raw = {
         "asin": "B000TEST01",
         "title": "Test Product",
-        "current": current_arr,
-        "delta": delta,
-        "deltaPercent": dp,
-        "creationDate": 7661010,
+        "price": "1.99",
+        "originalPrice": "99.99",
+        "discountPercent": 98,
+        "url": "https://www.amazon.com/dp/B000TEST01",
     }
-
-
-def test_near_free_pricing_error():
-    deal = extract_deal(raw_deal(199, 9999, 0), 0, CONFIG)
+    deal = extract_deal(raw, CONFIG)
     assert deal is not None
     assert deal.discount_percent > 97
     assert "NEAR FREE" in deal.tier
@@ -37,14 +26,39 @@ def test_near_free_pricing_error():
 
 
 def test_rejects_under_90_percent():
-    deal = extract_deal(raw_deal(1500, 10000, 0), 0, CONFIG)
-    assert deal is None
+    raw = {
+        "asin": "B000TEST02",
+        "title": "Not Extreme",
+        "price": 15.0,
+        "originalPrice": 100.0,
+        "discountPercent": 85,
+    }
+    assert extract_deal(raw, CONFIG) is None
 
 
-def test_warehouse_price_type_index():
-    deal = extract_deal(raw_deal(499, 15000, 9), 9, CONFIG)
+def test_computes_discount_from_prices_not_claim():
+    raw = {
+        "asin": "B000TEST03",
+        "title": "Math Wins",
+        "price": 9.99,
+        "originalPrice": 199.99,
+        "discountPercent": 10,
+    }
+    deal = extract_deal(raw, CONFIG)
     assert deal is not None
-    assert deal.price_type_name == "Amazon Warehouse"
+    assert deal.discount_percent >= 95
+
+
+def test_reported_discount_fallback():
+    raw = {
+        "asin": "B000TEST04",
+        "title": "No List Price",
+        "price": 5.0,
+        "discountPercent": 95,
+    }
+    deal = extract_deal(raw, CONFIG)
+    assert deal is not None
+    assert deal.reference_price == 100.0
 
 
 def test_score_caps_at_100():
