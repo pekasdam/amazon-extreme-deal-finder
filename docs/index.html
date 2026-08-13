@@ -1,44 +1,1513 @@
+
 <!doctype html>
-<html lang="en">
+
+<html>
+
 <head>
+
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Amazon Extreme Deal Finder</title>
+
+<meta
+name="viewport"
+content="width=device-width,initial-scale=1">
+
+<title>
+Amazon Deal Finder
+</title>
+
 <style>
-:root { color-scheme: dark; font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-body { margin:0; background:#0b0d10; color:#f4f6f8; }
-header { padding:36px 20px 22px; max-width:1100px; margin:auto; }
-h1 { margin:0 0 8px; font-size:clamp(32px,6vw,58px); letter-spacing:-2px; }
-.sub { color:#aab2bd; font-size:18px; }
-.summary { display:flex; gap:12px; flex-wrap:wrap; margin-top:18px; }
-.pill { border:1px solid #303641; border-radius:999px; padding:8px 12px; color:#d7dce2; }
-main { max-width:1100px; margin:auto; padding:12px 20px 50px; display:grid; grid-template-columns:repeat(auto-fit,minmax(310px,1fr)); gap:16px; }
-.deal { border:1px solid #282d35; border-radius:18px; padding:20px; background:#12151a; box-shadow:0 10px 34px rgba(0,0,0,.18); }
-.deal.near { border-width:2px; }
-.badge { display:inline-block; font-size:12px; font-weight:800; letter-spacing:.6px; padding:7px 9px; border-radius:999px; background:#252a32; }
-h2 { font-size:19px; line-height:1.35; margin:14px 0 18px; }
-.numbers { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
-.numbers div { background:#0d1014; border-radius:12px; padding:12px; }
-.numbers span { display:block; color:#8d96a2; font-size:10px; font-weight:800; margin-bottom:3px; }
-.numbers strong { font-size:20px; }
-.meta,.source { color:#929ba6; font-size:13px; margin:12px 0; }
-.button { display:block; text-align:center; text-decoration:none; font-weight:800; color:#111; background:#f4f6f8; border-radius:12px; padding:12px; }
-.empty { grid-column:1/-1; color:#aab2bd; border:1px dashed #343b46; border-radius:18px; padding:28px; }
-footer { max-width:1100px; margin:auto; padding:0 20px 40px; color:#737d89; font-size:12px; }
+
+body {
+background:#0b0d10;
+color:white;
+font-family:
+system-ui,
+-apple-system,
+sans-serif;
+margin:0;
+}
+
+header {
+max-width:1100px;
+margin:auto;
+padding:30px 18px;
+}
+
+h1 {
+font-size:42px;
+margin-bottom:5px;
+}
+
+.subtitle {
+color:#aaa;
+}
+
+main {
+max-width:1100px;
+margin:auto;
+padding:10px 18px 50px;
+display:grid;
+grid-template-columns:
+repeat(
+auto-fit,
+minmax(290px,1fr)
+);
+gap:16px;
+}
+
+.deal {
+background:#15181d;
+border:1px solid #333;
+border-radius:18px;
+padding:18px;
+}
+
+.deal img {
+width:100%;
+height:210px;
+object-fit:contain;
+background:white;
+border-radius:12px;
+}
+
+.badge {
+display:inline-block;
+margin-top:12px;
+padding:7px 10px;
+border-radius:20px;
+background:#292e36;
+font-size:12px;
+font-weight:bold;
+}
+
+h2 {
+font-size:18px;
+}
+
+.prices {
+display:grid;
+grid-template-columns:
+1fr 1fr;
+gap:8px;
+}
+
+.prices div {
+background:#0c0e11;
+padding:12px;
+border-radius:10px;
+}
+
+.prices span {
+font-size:10px;
+color:#999;
+display:block;
+}
+
+.prices strong {
+font-size:19px;
+}
+
+.button {
+display:block;
+margin-top:15px;
+padding:13px;
+background:white;
+color:black;
+text-align:center;
+text-decoration:none;
+font-weight:bold;
+border-radius:10px;
+}
+
 </style>
+
 </head>
+
 <body>
+
 <header>
-  <h1>Amazon Extreme Deals</h1>
-  <div class="sub">Amazon Today's Deals filtered for 90%+ discounts and possible pricing errors.</div>
-  <div class="summary">
-    <div class="pill">0 deals found</div>
-    <div class="pill">Updated 2026-08-13 02:02 UTC</div>
-    <div class="pill">95%+ = possible pricing error</div>
-    <div class="pill">$5 or less can qualify as near-free</div>
-    <div class="pill">Free-budget mode: max 2 results/scan</div>
-  </div>
+
+<h1>
+🔥 Amazon Deal Finder
+</h1>
+
+<div class="subtitle">
+Biggest discounts first.
+Pricing errors and near-free deals
+automatically rise to the top.
+</div>
+
+<p>
+23 deals found
+<br>
+Updated 2026-08-13 02:23 UTC
+</p>
+
 </header>
-<main><p class='empty'>No 90%+ Amazon Today's Deals were returned in this scan. Extreme pricing mistakes are rare and may disappear quickly.</p></main>
-<footer>Source: Amazon Today's Deals through Apify. A large advertised discount is not proof of a pricing error. Verify the product, seller, quantity, shipping, coupon requirements, and final checkout price before purchasing. Amazon or a seller may correct or cancel erroneous prices.</footer>
-</body></html>
+
+<main>
+
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/61u-OaDSfQL.jpg" loading="lazy">
+
+<div class="badge">
+✅ 50%+ GOOD DEAL
+</div>
+
+<h2>
+Beats Studio Pro Premium Wireless Over-Ear Headphones- Up to 40-Hour Battery Life, Active Noise Cancelling, Great for Travel &amp; Commuting, USB-C Lossless Audio, Apple &amp; Android Compatible -Black | Over-ear audio with active noise canceling, 40-hour battery life and Bluetooth connectivity
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$169.95
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$349.99
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+51.4%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$180.04
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 51/100
+</p>
+
+<a
+href="https://www.amazon.com/Beats-Studio-Pro-Personalized-Compatibility/dp/B0C8PR4W22"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/81YYCJW3PTL.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+Niagara Sleep Solution Ultra Soft &amp; Cooling Mattress Topper - Queen Size | Rayon Derived from Bamboo, Pillow Top Mattress Pad, 20&quot; Deep Pocket, Back Pain Relief, Perfect for Hot Sleepers, Green
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$37.89
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$69.99
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+45.9%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$32.10
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 46/100
+</p>
+
+<a
+href="https://www.amazon.com/Viscose-Bamboo-Queen-Mattress-Topper/dp/B07D5DN269"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/414-yxOaD8L.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+Blink Outdoor 4 – Wireless smart security camera, two-year battery life, 1080p HD day and infrared night live view, two-way talk. Sync Module Core included – 3 camera system
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$103.99
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$189.99
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+45.3%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$86.00
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 45/100
+</p>
+
+<a
+href="https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLQT3CG"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/719E-PGfC1L.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+SUPFINE Magnetic for iPhone 17 Pro Case Black | With Screen Protector, Translucent Matte, Compatible with MagSafe, Military Grade Drop Proof, Rugged Shockproof Protective
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$6.58
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$9.99
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+34.1%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$3.41
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 34/100
+</p>
+
+<a
+href="https://www.amazon.com/SUPFINE-Pro-Case-Translucent-Anti-Fingerprint/dp/B0FH67STX8"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/51kJvfwJSWL.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+Beats Solo 4 - Wireless On-Ear Bluetooth Headphones, Up to 50-Hour Battery Life, Ultra-Lightweight Comfort, Powerful and Balanced Sound, Apple &amp; Android Compatible - Amazon Exclusive Metallic Pink
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$99.95
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$149.99
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+33.4%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$50.04
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 33/100
+</p>
+
+<a
+href="https://www.amazon.com/Beats-Solo-Ear-Headphones-Ultra-Lightweight/dp/B0FHLPS8ZF"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/81gvtcBEHeL.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+Bedsure King Comforter Set, Beige Soft Prewashed Bedding for All Seasons, 3 Pieces GentleSoft™ Bed Set, 1 Lightweight Comforter (104&quot;x90&quot;) and 2 Pillowcases (20&quot;x36&quot;)
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$33.98
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$49.99
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+32.0%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$16.01
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 32/100
+</p>
+
+<a
+href="https://www.amazon.com/Bedsure-Comforter-Prewashed-Lightweight-Pillowcases/dp/B0CGLPC42G"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/616Leg1GwuL.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+Ring Battery Doorbell 2K (newest model) Retinal 2K with wide-angle video, up to 6x Enhanced Zoom, Two-Way Talk, and Built-In Battery, Speckled Gray
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$69.99
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$99.99
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+30.0%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$30.00
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 30/100
+</p>
+
+<a
+href="https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/81F83eGmXEL.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+Physician&#x27;s CHOICE Probiotics 60 Billion CFU - 10 Strains + Organic Prebiotics - Immune, Digestive &amp; Gut Health - Supports Occasional Constipation, Diarrhea, Gas &amp; Bloating - for Women &amp; Men - 30ct
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$21.35
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$29.97
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+28.8%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$8.62
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 29/100
+</p>
+
+<a
+href="https://www.amazon.com/Probiotics-Formulated-Probiotic-Supplement-Acidophilus/dp/B079H53D2B"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/510+fa1wg7L.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+Levoit Tower Fan for Bedroom, 28ft/s Fans that Blow Cold Air, 28dB Quiet | Standing Floor Fan for Room, 90° Oscillating, 5 Speeds 4 Modes &amp; Temp Sensor, Bladeless, 12H Timer, Remoter, 36 inch, White
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$54.93
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$74.99
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+26.8%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$20.06
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 27/100
+</p>
+
+<a
+href="https://www.amazon.com/Levoit-Tower-Bedroom-28ft-Quiet/dp/B0BVZFQ4DF"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/61w1n9p2R0L.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+Shark Navigator Lift-Away Vacuum, HEPA, Carpet and Pet Hair, Blue, NV360 | Lift-Away Pod, Carpet and Hard Floor Cleaning, Swivel Steering, Brushroll Shutoff, 0.9-Qt Dust Cup, Upholstery/Crevice Tools
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$149.00
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$199.99
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+25.5%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$50.99
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 26/100
+</p>
+
+<a
+href="https://www.amazon.com/Shark-Navigator-Professional-Anti-Allergy-NV360/dp/B00JH98GR4"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/71JH8MLN5vL.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+Crest Teeth Whitening Strips, Crest 3D Whitestrips Professional Effects, Enamel Safe Teeth Whitening Kit, 22 Treatments (44 Strips), Professional-Level Whitening, 19 Levels Whiter
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$34.99
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$45.99
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+23.9%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$11.00
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 24/100
+</p>
+
+<a
+href="https://www.amazon.com/Crest-Professional-Whitestrips-Whitening-Treatments/dp/B00AHAWWO0"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/71f2tFqlfIL.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+Dell 34 Monitor S3425DW, WQHD VA, 120Hz, FreeSync Premium, Eye Comfort | HDR10, Anti-Glare, 300 cd/m2 Brightness, 3,000:1 Contrast, 95% DCI-P3, 2x10W Speakers, USB-C 65W Power Delivery
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$329.99
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$419.99
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+21.4%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$90.00
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 21/100
+</p>
+
+<a
+href="https://www.amazon.com/Dell-Plus-USB-C-Curved-Monitor/dp/B0F1H325FN"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/51d4Esi79-L.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+DJI Osmo Pocket 3 Creator Combo, Vlogging Camera with 1&#x27;&#x27; CMOS &amp; 4K/120fps | 3-Axis Stabilization, Spotlight Follow, Fast Focusing, Mic Included for Clear Sound, Small Camera for Photography
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$499.00
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$629.00
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+20.7%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$130.00
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 21/100
+</p>
+
+<a
+href="https://www.amazon.com/DJI-Vlogging-Stabilization-Tracking-Photography/dp/B0CG19FGQ5"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/71gv46SSzvL.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+DREO Tower Fan for Bedroom, 28ft/s Velocity, Ultra Quiet Fan, 8 Speeds | 2026 Upgraded DC Motor, 90° Oscillating, 4 Modes Standing Fan, Bladeless Fan for Indoors, Floor Fans with Remote, Black
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$64.94
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$79.99
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+18.8%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$15.05
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 19/100
+</p>
+
+<a
+href="https://www.amazon.com/DREO-Tower-Bedroom-Velocity-Speeds/dp/B09MKPDJRT"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/71QWTUwZvYL.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+Premier Protein 30g High Protein Shake, Chocolate, 12 Pack | 160 Calories, 24 Vitamins &amp; Minerals, No Added Sugar, Supports Muscle Health, Gluten-Free, 11.5 oz
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$26.70
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$31.98
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+16.5%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$5.28
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 17/100
+</p>
+
+<a
+href="https://www.amazon.com/Premier-Protein-Shake-Chocolate-11-5/dp/B07MJL8NXR"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/71BO5XeJ2SL.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+Google Pixel 11 Pro Fold - Olive - 256 GB with $350 Amazon Gift Card
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$1,899.00
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$2,249.00
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+15.6%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$350.00
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 16/100
+</p>
+
+<a
+href="https://www.amazon.com/Google-Pixel-11-Pro-Fold/dp/B0HCRVD7VP"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/71z7uvkodQL.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+Google Pixel 11 Pro - Obsidian - 256 GB with $200 Amazon Gift Card
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$1,099.00
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$1,299.00
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+15.4%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$200.00
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 15/100
+</p>
+
+<a
+href="https://www.amazon.com/Google-Pixel-11-Pro-Obsidian/dp/B0HBF7SYK8"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/61-Uqovhk0L.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+Google Pixel 10a - 30+ Hours Battery, Camera Coach, Gemini - Obsidian 128GB | Gemini Live, durable design, 7 years of Pixel Drops, 30+ hour battery, Camera Coach, Call Screen, Car Crash Detection
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$424.00
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$499.00
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+15.0%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$75.00
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 15/100
+</p>
+
+<a
+href="https://www.amazon.com/Google-Pixel-10a-Battery-Obsidian/dp/B0GHRHXVN1"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/71aYeCcdBRL.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+Novilla Bliss Queen Size Mattress, 12 Inch Gel Memory Foam Mattress Queen | Cool Night Sleep &amp; Pressure Relief, Support Foam for Spine Alignment &amp; Motion Isolation, Medium Plush Feel
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$254.98
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$299.99
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+15.0%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$45.01
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 15/100
+</p>
+
+<a
+href="https://www.amazon.com/Novilla-Bliss-Queen-Mattress-Memory/dp/B083YYBNF9"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/71t-9BTIg9L.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom, H13 True HEPA Filter, 24db Filtration System Cleaner Odor Eliminators, Remove 99.97% Dust Smoke Mold Pollen, Core 300, White | Quiet HEPA Sleep Mode, Remove 99.97% Dust Pollen Smoke Pet Odor, AHAM VERIFIDE, Core300-P, Up to 1073 ft², White
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$84.99
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$99.99
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+15.0%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$15.00
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 15/100
+</p>
+
+<a
+href="https://www.amazon.com/LEVOIT-Purifier-Home-Allergies-Pets/dp/B07VVK39F7"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/61RVryJZMEL.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+$10 Nintendo eShop Gift Card [Digital Code]
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$8.53
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$10.00
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+14.7%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$1.47
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 15/100
+</p>
+
+<a
+href="https://www.amazon.com/Nintendo-eShop-Gift-Card-Digital/dp/B01LZNGPY3"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/81ZBOce1WwL.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+Hanes mens Underwear Boxer Briefs Pack, Cool &amp; Breathable Cotton Moisture-wicking Underwear for Men, No Ride Up
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$21.57
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$23.98
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+10.1%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$2.41
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 10/100
+</p>
+
+<a
+href="https://www.amazon.com/Hanes-Breathable-ComfortFlex-Waistband-Multipack/dp/B086KSDTQ4"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+<article class="deal">
+
+<img src="https://m.media-amazon.com/images/I/71Htmz+yZxL.jpg" loading="lazy">
+
+<div class="badge">
+Amazon Deal
+</div>
+
+<h2>
+Google Pixel 11 - Obsidian - 256 GB with $100 Amazon Gift Card
+</h2>
+
+<div class="prices">
+
+<div>
+<span>NOW</span>
+<strong>
+$899.00
+</strong>
+</div>
+
+<div>
+<span>REGULAR</span>
+<strong>
+$999.00
+</strong>
+</div>
+
+<div>
+<span>OFF</span>
+<strong>
+10.0%
+</strong>
+</div>
+
+<div>
+<span>SAVE</span>
+<strong>
+$100.00
+</strong>
+</div>
+
+</div>
+
+<p>
+Score 10/100
+</p>
+
+<a
+href="https://www.amazon.com/Google-Pixel-11-Obsidian-Amazon/dp/B0HBFZDB3F"
+target="_blank"
+class="button">
+
+OPEN ON AMAZON
+
+</a>
+
+</article>
+
+
+</main>
+
+</body>
+
+</html>
