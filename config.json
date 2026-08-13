@@ -1,10 +1,10 @@
 {
-  "minimum_discount_percent": 90,
+  "minimum_discount_percent": 0,
   "pricing_error_percent": 95,
   "near_free_max_price": 5.0,
   "near_free_min_reference_price": 20.0,
   "max_current_price": 5000.0,
-  "max_results_per_scan": 2,
-  "apify_actor": "codenest~amazon-deals-scraper",
-  "max_total_charge_usd_per_run": 0.01
+  "max_results_per_scan": 32,
+  "apify_actor": "piotrv1001~amazon-todays-deals-scraper",
+  "max_total_charge_usd_per_run": 0.07
 }
