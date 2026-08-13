@@ -5,6 +5,6 @@
   "near_free_min_reference_price": 20.0,
   "max_current_price": 5000.0,
   "max_results_per_scan": 2,
-  "apify_actor": "premiumscraper~amazon-products-scraper-today-deals",
+  "apify_actor": "codenest~amazon-deals-scraper",
   "max_total_charge_usd_per_run": 0.01
 }
