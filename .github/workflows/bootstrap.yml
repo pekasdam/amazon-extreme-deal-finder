@@ -1,4 +1,4 @@
-name: Install Amazon Deal Finder
+name: Install Apify Update
 
 on:
   workflow_dispatch:
@@ -9,23 +9,25 @@ permissions:
 jobs:
   install:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Unpack project
+      - name: Install Apify version
         run: |
-          unzip -o amazon-extreme-deal-finder-upload.zip
-          rm -f amazon-extreme-deal-finder-upload.zip
+          unzip -o amazon-apify-update.zip
+          rm -f amazon-apify-update.zip
 
-          # GitHub blocks Actions bots from creating workflow files.
-          # We will create scan.yml manually afterward.
-          rm -f .github/workflows/scan.yml
-
-      - name: Commit installed files
+      - name: Commit updated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "Install Amazon extreme deal finder"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Switch Amazon deal finder to Apify"
+            git push
+          fi
