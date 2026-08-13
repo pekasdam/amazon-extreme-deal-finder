@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Amazon Extreme Deal Finder</title>
+<style>
+:root { color-scheme: dark; font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+body { margin:0; background:#0b0d10; color:#f4f6f8; }
+header { padding:36px 20px 22px; max-width:1100px; margin:auto; }
+h1 { margin:0 0 8px; font-size:clamp(32px,6vw,58px); letter-spacing:-2px; }
+.sub { color:#aab2bd; font-size:18px; }
+.summary { display:flex; gap:12px; flex-wrap:wrap; margin-top:18px; }
+.pill { border:1px solid #303641; border-radius:999px; padding:8px 12px; color:#d7dce2; }
+main { max-width:1100px; margin:auto; padding:12px 20px 50px; display:grid; grid-template-columns:repeat(auto-fit,minmax(310px,1fr)); gap:16px; }
+.deal { border:1px solid #282d35; border-radius:18px; padding:20px; background:#12151a; box-shadow:0 10px 34px rgba(0,0,0,.18); }
+.deal.near { border-width:2px; }
+.badge { display:inline-block; font-size:12px; font-weight:800; letter-spacing:.6px; padding:7px 9px; border-radius:999px; background:#252a32; }
+h2 { font-size:19px; line-height:1.35; margin:14px 0 18px; }
+.numbers { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+.numbers div { background:#0d1014; border-radius:12px; padding:12px; }
+.numbers span { display:block; color:#8d96a2; font-size:10px; font-weight:800; margin-bottom:3px; }
+.numbers strong { font-size:20px; }
+.meta { color:#929ba6; font-size:13px; margin:16px 0; }
+.button { display:block; text-align:center; text-decoration:none; font-weight:800; color:#111; background:#f4f6f8; border-radius:12px; padding:12px; }
+.empty { grid-column:1/-1; color:#aab2bd; border:1px dashed #343b46; border-radius:18px; padding:28px; }
+footer { max-width:1100px; margin:auto; padding:0 20px 40px; color:#737d89; font-size:12px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Amazon Extreme Deals</h1>
+  <div class="sub">Only products calculated at 90%+ below their 90-day reference price.</div>
+  <div class="summary">
+    <div class="pill">0 deals found</div>
+    <div class="pill">Updated 2026-08-13 00:36 UTC</div>
+    <div class="pill">95%+ flagged as possible pricing errors</div>
+    <div class="pill">$5 or less can qualify as near-free</div>
+  </div>
+</header>
+<main><p class='empty'>No 90%+ drops were found in this scan. The scanner is working; extreme pricing errors are naturally rare.</p></main>
+<footer>Pricing errors can be corrected or canceled before shipment. Verify the product, seller, quantity, shipping, coupon requirements, and final checkout price before purchasing.</footer>
+</body></html>

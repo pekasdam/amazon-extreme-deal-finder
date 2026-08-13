@@ -1,0 +1,13 @@
+{
+  "domain_id": 1,
+  "amazon_domain": "amazon.com",
+  "minimum_discount_percent": 90,
+  "pricing_error_percent": 95,
+  "near_free_max_price": 5.00,
+  "near_free_min_normal_price": 20.00,
+  "max_current_price": 5000.00,
+  "comparison_range": 3,
+  "pages_per_price_type": 3,
+  "price_types": [0, 1, 18, 8, 9],
+  "max_results": 250
+}
