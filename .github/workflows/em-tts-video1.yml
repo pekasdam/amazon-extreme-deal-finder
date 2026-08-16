@@ -1,0 +1,61 @@
+name: EM Property Group TTS Video 1
+
+on:
+  push:
+    branches:
+      - em-tts-video1
+    paths:
+      - 'em_tts/**'
+      - '.github/workflows/em-tts-video1.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  generate-narration:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Piper
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install piper-tts
+
+      - name: Download commercially usable Joe voice
+        run: |
+          mkdir -p voices
+          python -m piper.download_voices en_US-joe-medium --data-dir voices
+
+      - name: Generate narration
+        run: |
+          python -m piper \
+            -m en_US-joe-medium \
+            --data-dir voices \
+            --sentence-silence 0.12 \
+            --input-file em_tts/video1.txt \
+            -f EM_Property_Group_Video1_Joe_Raw.wav
+
+      - name: Master narration
+        run: |
+          ffmpeg -y -i EM_Property_Group_Video1_Joe_Raw.wav \
+            -af "highpass=f=70,lowpass=f=15000,acompressor=threshold=-20dB:ratio=2.2:attack=8:release=90,loudnorm=I=-16:TP=-1.5:LRA=9" \
+            EM_Property_Group_Video1_Natural_Master.wav
+          ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 EM_Property_Group_Video1_Natural_Master.wav > duration.txt
+
+      - name: Upload narration
+        uses: actions/upload-artifact@v4
+        with:
+          name: EM-Property-Group-Video1-Natural-Narration
+          path: |
+            EM_Property_Group_Video1_Natural_Master.wav
+            EM_Property_Group_Video1_Joe_Raw.wav
+            duration.txt
+          retention-days: 1
