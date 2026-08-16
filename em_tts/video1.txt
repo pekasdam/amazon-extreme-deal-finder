@@ -1,180 +1,204 @@
-A rental property can look cheap... and still be a terrible investment.
+A rental property can look cheap and still be a bad investment.
 
-And sometimes, a house that costs a little more can actually be the better deal.
+And a property that looks expensive can sometimes be the safer deal.
 
-So before you buy your first rental, there’s one question you need to be able to answer:
+So before you buy your first rental, you need to answer one question:
 
-Is this property actually going to make money?
+Does this property actually work after the real expenses are included?
 
-In this video, I’m going to show you a simple way to look at a rental deal without making the math complicated.
+In this video, I’m going to walk through a hypothetical rental property from start to finish. We’ll look at the rent, the one-percent rule, operating expenses, financing, cash flow, cash-on-cash return, neighborhood risk, and then I’ll stress-test the deal to see what happens when something goes wrong.
 
-And at the end, we’ll break down a hypothetical one-hundred-and-twenty-thousand-dollar rental, renting for fifteen hundred dollars a month, and decide whether I’d buy it, pass on it, or negotiate.
+At the end, we’ll give the property an EM Property Group Deal Score and decide whether it’s a buy, a pass, or a deal worth negotiating.
+
+This is a hypothetical example for education. The numbers are simplified, and any real property needs its own due diligence.
 
 Welcome to EM Property Group.
 
 Real Estate Investing Made Simple.
 
-Here’s the first thing I want you to remember.
+Let’s start with the property.
 
-A low purchase price does not automatically mean you’re getting a good deal.
+Our hypothetical purchase price is one hundred and twenty thousand dollars.
 
-A lot of new investors see a cheap house and immediately get excited.
+We think the property can rent for fifteen hundred dollars per month.
 
-But the purchase price is only the beginning.
+A beginner might stop right there and say, “That sounds good.”
 
-The number that really matters is what’s left after all the bills are paid.
+But those two numbers don’t tell us enough.
 
-So let’s start with rent.
+The first thing I want to verify is the rent.
 
-You want a realistic rent number.
+I don’t want the seller’s projected rent.
 
-Not what the seller says you might get.
+I don’t want the highest asking rent I can find online.
 
-Not the highest rent you can find online.
+And I definitely don’t want to use a rent number just because it makes the deal work.
 
-And definitely not the number you need just to make the deal look good.
+I want realistic comparable rentals.
 
-Look for similar rentals in the same area.
+So imagine we find three similar homes in the same general area.
 
-Similar number of bedrooms and bathrooms.
+One rents for fourteen hundred dollars.
 
-Similar square footage.
+One rents for fourteen seventy-five.
 
-Similar condition.
+And one rents for fifteen fifty.
 
-And, most importantly, a similar location.
+Same general property type. Similar bedrooms and bathrooms. Similar size and condition.
 
-Let’s say comparable homes are renting for fourteen hundred, fourteen seventy-five, and fifteen fifty.
+For this example, I’m comfortable underwriting the property at fifteen hundred dollars per month.
 
-I’d probably underwrite the property around fifteen hundred a month.
+That doesn’t mean fifteen hundred is guaranteed.
 
-Could it rent for more? Maybe.
+It means it’s a reasonable working number for our hypothetical analysis.
 
-But I would rather have the deal work using a conservative number.
+Now let’s check the one-percent rule.
 
-For our example, the purchase price is one hundred and twenty thousand dollars.
+One percent of one hundred and twenty thousand dollars is twelve hundred dollars.
 
-Expected rent is fifteen hundred dollars a month.
+Our projected rent is fifteen hundred.
 
-Now, on paper, that easily passes the one-percent rule.
+So yes, this deal passes the one-percent rule.
 
-One percent of one hundred and twenty thousand is twelve hundred dollars.
+But this is one of the most important things a new investor needs to understand:
 
-And our rent is fifteen hundred.
+Passing the one-percent rule does not mean you should buy the property.
 
-That looks pretty good.
+The one-percent rule is a filter.
 
-But this is where beginners can get fooled.
+It tells me, “This might be worth analyzing.”
 
-The one-percent rule is a quick screening tool.
+That’s all.
 
-That’s it.
+Now we move to the expenses.
 
-It tells you a property might be worth looking at.
+For this example, let’s estimate property taxes at one hundred eighty dollars per month.
 
-It does not tell you how much money you’re actually going to keep.
+Insurance at one hundred dollars.
 
-Now we get into the expenses.
+Property management at one hundred fifty.
 
-For this example, let’s estimate one hundred eighty dollars a month for property taxes.
+A maintenance reserve of one hundred twenty.
 
-One hundred dollars for insurance.
+A vacancy reserve of seventy-five.
 
-One hundred fifty for property management.
+And another one hundred dollars per month set aside for larger future repairs and capital expenses.
 
-One hundred twenty for a maintenance reserve.
+That gives us seven hundred twenty-five dollars per month in estimated operating costs before the mortgage.
 
-Seventy-five dollars for vacancy.
+This is where rental-property math gets dangerous if you oversimplify it.
 
-And another one hundred dollars a month set aside for bigger future repairs, like a roof, furnace, or water heater.
+If somebody tells you:
 
-Add all of that up, and we’re already at seven hundred twenty-five dollars a month.
+“The rent is fifteen hundred and my mortgage is six hundred fifty, so I cash-flow eight hundred fifty dollars,”
 
-And we haven’t even paid the mortgage yet.
+that is not a real cash-flow calculation.
 
-This is where a lot of rental-property math goes bad.
+Taxes exist.
 
-You’ll hear somebody say:
+Insurance exists.
 
-“The rent is fifteen hundred, my mortgage is six-fifty, so I’m making eight hundred fifty dollars a month.”
+Vacancies happen.
 
-No.
+Things break.
 
-That is not cash flow.
+Property managers get paid.
 
-You still have taxes.
+Roofs, furnaces, plumbing, electrical, appliances, and water heaters eventually cost money.
 
-Insurance.
+You may not pay every expense every month, but you still need to account for them.
 
-Vacancy.
+Now let’s add financing.
 
-Repairs.
+For this hypothetical example, we’ll use approximately six hundred thirty dollars per month for mortgage principal and interest.
 
-Management.
+Add that to the seven hundred twenty-five dollars of operating expenses.
 
-And the big expenses that eventually show up on every property.
+Now we’re at one thousand three hundred fifty-five dollars per month in total estimated expenses.
 
-If you leave those numbers out, you aren’t calculating profit.
+Our rent is fifteen hundred.
 
-You’re just making the deal look better than it really is.
+Fifteen hundred minus thirteen fifty-five leaves about one hundred forty-five dollars per month.
 
-Now let’s add the financing.
+That’s only seventeen hundred forty dollars per year.
 
-For this example, we’ll assume the principal and interest payment is about six hundred thirty dollars a month.
+So look at what just happened.
 
-Add that to our seven hundred twenty-five dollars in operating expenses.
+At the beginning, the property looked strong.
 
-Now our total estimated monthly expenses are about one thousand three hundred fifty-five dollars.
+One hundred twenty thousand purchase price.
 
-The property brings in fifteen hundred dollars.
+Fifteen hundred rent.
 
-Fifteen hundred minus thirteen fifty-five leaves us with about one hundred forty-five dollars a month in estimated cash flow.
+It passed the one-percent rule easily.
 
-That’s only about seventeen hundred forty dollars a year.
+But once we underwrote the real expenses, our margin got thin.
 
-Now look at how different the deal feels.
+Now let’s look at cash-on-cash return.
 
-At the beginning, it easily passed the one-percent rule.
+Suppose the buyer puts thirty thousand dollars down.
 
-But after we actually ran the expenses, the cash flow is pretty thin.
+After closing costs and initial reserves, let’s say total cash invested is about thirty-five thousand dollars.
 
-Next, let’s look at cash-on-cash return.
+Our estimated annual cash flow is seventeen hundred forty dollars.
 
-Let’s say you put thirty thousand dollars down.
+Divide seventeen forty by thirty-five thousand.
 
-After closing costs and the money you keep in reserve, maybe you have about thirty-five thousand dollars of your own cash tied up in the deal.
+That’s roughly a five-percent annual cash-on-cash return.
 
-If the property makes about seventeen hundred forty dollars a year in cash flow, divide that by thirty-five thousand.
+A five-percent cash-on-cash return is not automatically good or bad.
 
-That gives you roughly a five-percent annual cash-on-cash return.
-
-Does that automatically make it a bad investment?
-
-No.
-
-The tenant may help pay down your mortgage.
+It has to be judged against the risk, the neighborhood, the condition of the property, your financing, and your alternatives.
 
 The property could appreciate.
 
-And rents might go up over time.
+The tenant could pay down part of the loan over time.
 
-But I don’t want to buy a property because I’m hoping those things happen.
+Rents could rise.
 
-I want the deal to make sense using realistic numbers today.
+But I never want those future possibilities to be the only reason the deal works.
 
-And there’s one more part of the deal that a calculator can’t completely measure.
+I want today’s numbers to give me a margin of safety.
 
-The neighborhood.
+Now let’s do something that a lot of quick deal calculators skip.
 
-A property making three hundred dollars a month in a rough or unstable area may be a worse investment than a property making two twenty-five in a strong, stable rental area.
+Let’s stress-test the property.
 
-Look at vacancy.
+First stress test: what if the rent is fifty dollars lower than expected?
+
+Instead of fifteen hundred, we only get fourteen fifty.
+
+Our estimated monthly cash flow falls from one hundred forty-five dollars to about ninety-five dollars.
+
+That’s not much room.
+
+Second stress test: what if insurance ends up fifty dollars more per month than our estimate?
+
+Now that ninety-five dollars can fall to around forty-five dollars.
+
+One small change in rent and one small change in insurance have nearly wiped out the monthly cash flow.
+
+Third stress test: imagine a three-thousand-dollar repair during the first year.
+
+At one hundred forty-five dollars of projected monthly cash flow, it would take more than twenty months of that cash flow just to recover a three-thousand-dollar expense.
+
+That doesn’t mean the property is a terrible deal.
+
+It means the deal has very little cushion at this purchase price.
+
+And that brings us to the neighborhood.
+
+A spreadsheet can’t tell you everything.
+
+A property making three hundred dollars per month in a high-vacancy area with constant turnover may be less attractive than a property making two hundred twenty-five in a stable neighborhood with consistent rental demand.
+
+I want to understand vacancy.
 
 Crime.
 
-The condition of the surrounding properties.
+The physical condition of nearby properties.
 
-Jobs in the area.
+Employment.
 
 Schools.
 
@@ -184,47 +208,107 @@ Property taxes.
 
 Insurance costs.
 
-And whether people actually want to live there.
+And whether tenants actually want to stay in that area.
 
-You’re not just buying a house.
+You are not just buying four walls and a roof.
 
-You’re buying the income that location can produce.
+You are buying the income that the location can produce.
 
-So... would I buy our one-hundred-and-twenty-thousand-dollar example?
+Now I want to score our hypothetical deal.
 
-At that price, with only about one hundred forty-five dollars a month in estimated cash flow, I would not rush to buy it.
+Here is the EM Property Group Deal Scorecard.
 
-I’d try to negotiate the price down.
+Rent-to-price ratio: strong. The deal passes the one-percent screen.
 
-I’d double-check that fifteen hundred dollars really is a conservative rent.
+Cash flow: weak. One hundred forty-five dollars per month is positive, but the cushion is thin.
 
-I’d verify the taxes and insurance.
+Cash-on-cash return: moderate. Around five percent in this example.
 
-And I’d make sure I didn’t miss any major repairs.
+Expense resilience: weak. A couple of small changes can erase most of the profit.
 
-If I can lower the purchase price, improve the cash flow, and leave myself more room for surprises, then the deal becomes a lot more interesting.
+Neighborhood: unknown. We cannot score that honestly without researching a real location.
 
-And that’s really the lesson.
+Property condition: unknown. We would need an inspection or a realistic repair assessment.
 
-Don’t fall in love with the house.
+So this is not a green-light deal.
 
-Fall in love with the numbers.
+It’s a yellow-light deal.
 
-Before you buy your first rental, remember:
+That means I would not rush to buy it at one hundred and twenty thousand dollars.
 
-Cheap does not automatically mean good.
+Instead, I would ask a better question:
 
-Passing the one-percent rule does not automatically mean good.
+At what price does this deal become safer?
 
-And rent is not the same thing as profit.
+Let’s say we could negotiate the purchase price down enough to reduce our mortgage payment and preserve more cash reserves.
 
-Run the numbers conservatively.
+Or maybe we discover that fifteen hundred is actually conservative and the verified market rent is higher.
 
-Leave room for something to go wrong.
+Or maybe taxes and insurance come in below our estimate.
 
-And if the deal still works after that, then you may actually have something worth buying.
+Any one of those could improve the deal.
 
-Subscribe to EM Property Group for more beginner-friendly rental property breakdowns.
+But I do not want to assume those improvements.
+
+I want to verify them.
+
+That’s the difference between hoping a deal works and underwriting a deal.
+
+So would I buy this hypothetical property?
+
+At one hundred and twenty thousand dollars, with the assumptions we used today, I would not call it an automatic buy.
+
+I would negotiate.
+
+I would verify rent.
+
+I would verify taxes and insurance.
+
+I would inspect the property carefully.
+
+And I would want a bigger margin between the rent and my total monthly costs.
+
+If I can create that margin, the deal becomes much more interesting.
+
+If I can’t, I’m willing to pass.
+
+That mindset matters.
+
+You do not need every property.
+
+You need the right property at the right numbers.
+
+Before you buy your first rental, remember these five things.
+
+A cheap purchase price does not automatically mean a good deal.
+
+Passing the one-percent rule does not automatically mean a good deal.
+
+Rent is not the same thing as profit.
+
+A deal should survive reasonable changes in your assumptions.
+
+And you should never be afraid to walk away when the margin is too thin.
+
+That is how I want to analyze rentals on this channel.
+
+Real numbers.
+
+Conservative assumptions.
+
+Clear risks.
+
+And a simple final decision: buy, negotiate, or pass.
+
+If you want more beginner-friendly rental-property breakdowns, subscribe to EM Property Group.
+
+And in the comments, tell me what you would do with this hypothetical deal.
+
+Would you buy it at one hundred twenty thousand?
+
+Would you negotiate?
+
+Or would you pass?
 
 EM Property Group.
 
