@@ -1,4 +1,4 @@
-name: EM Property Group Video Factory
+name: EM Property Group Zero-Fee Video Factory
 
 on:
   workflow_dispatch:
@@ -8,13 +8,14 @@ on:
     paths:
       - 'em_property_group_factory/current_video.json'
       - 'em_property_group_factory/render_and_upload.py'
+      - 'em_property_group_factory/requirements.txt'
       - '.github/workflows/em-property-group-factory.yml'
 
 permissions:
   contents: read
 
 jobs:
-  build-and-upload-private:
+  build-review-package:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
@@ -26,7 +27,7 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install video factory
+      - name: Install free video tools
         run: |
           python -m pip install --upgrade pip
           python -m pip install -r em_property_group_factory/requirements.txt
@@ -39,22 +40,42 @@ jobs:
           mkdir -p voices
           python -m piper.download_voices en_US-joe-medium --data-dir voices
 
-      - name: Build video and upload Private when YouTube is connected
-        env:
-          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
-          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
-          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+      - name: Build video package
         run: |
           python em_property_group_factory/render_and_upload.py em_property_group_factory/current_video.json
 
-      - name: Upload review package
+      - name: Create YouTube upload instructions
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          m=json.loads(Path('em_property_group_factory/current_video.json').read_text())
+          y=m.get('youtube', {})
+          text=(
+              'TITLE:\n'+y.get('title','')+'\n\n'
+              'DESCRIPTION:\n'+y.get('description','')+'\n\n'
+              'UPLOAD SETTINGS:\n'
+              "Visibility: Private first\n"
+              "Audience: No, it's not made for kids\n"
+              "AI / altered content disclosure: Yes\n"
+              "Category: Education\n"
+              "Language: English (United States)\n"
+              "License: Standard YouTube License\n"
+              "Paid promotion: No\n"
+          )
+          out=Path('build/em_property_group')
+          out.mkdir(parents=True, exist_ok=True)
+          (out/'youtube_upload_info.txt').write_text(text)
+          PY
+
+      - name: Upload complete review package
         uses: actions/upload-artifact@v4
         with:
-          name: EM-Property-Group-Private-Review-Package
+          name: EM-Property-Group-YouTube-Ready-Package
           path: |
             build/em_property_group/video_upload_ready.mp4
             build/em_property_group/thumbnail.jpg
             build/em_property_group/captions.srt
-            build/em_property_group/youtube_video_id.txt
-          if-no-files-found: ignore
+            build/em_property_group/youtube_upload_info.txt
+          if-no-files-found: error
           retention-days: 7
