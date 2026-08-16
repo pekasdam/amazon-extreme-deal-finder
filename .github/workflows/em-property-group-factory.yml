@@ -1,0 +1,60 @@
+name: EM Property Group Video Factory
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - em-property-group-factory
+    paths:
+      - 'em_property_group_factory/current_video.json'
+      - 'em_property_group_factory/render_and_upload.py'
+      - '.github/workflows/em-property-group-factory.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-upload-private:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install video factory
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r em_property_group_factory/requirements.txt
+          python -m pip install piper-tts
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-dejavu-core
+
+      - name: Download neural voice
+        run: |
+          mkdir -p voices
+          python -m piper.download_voices en_US-joe-medium --data-dir voices
+
+      - name: Build video and upload Private when YouTube is connected
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: |
+          python em_property_group_factory/render_and_upload.py em_property_group_factory/current_video.json
+
+      - name: Upload review package
+        uses: actions/upload-artifact@v4
+        with:
+          name: EM-Property-Group-Private-Review-Package
+          path: |
+            build/em_property_group/video_upload_ready.mp4
+            build/em_property_group/thumbnail.jpg
+            build/em_property_group/captions.srt
+            build/em_property_group/youtube_video_id.txt
+          if-no-files-found: ignore
+          retention-days: 7
