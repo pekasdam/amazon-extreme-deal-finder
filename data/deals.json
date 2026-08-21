@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T14:52:41.759618+00:00",
+  "generated_at": "2026-08-21T22:40:00.880532+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 23,
   "deals": [
@@ -12,22 +12,22 @@
       "savings": 256.64,
       "tier": "\ud83d\udcb0 70%+ VERY STRONG DEAL",
       "score": 70,
-      "detected_at": "2026-08-21T14:52:41.759456+00:00",
+      "detected_at": "2026-08-21T22:40:00.880252+00:00",
       "amazon_url": "https://www.amazon.com/Terunsoul-Dash-128GB-5-8GHz-WiFi6/dp/B0H7J38GDF",
       "image_url": "https://m.media-amazon.com/images/I/71+ekd6Xr7L.jpg"
     },
     {
-      "asin": "B0C8PR4W22",
-      "title": "Beats Studio Pro Premium Wireless Over-Ear Headphones- Up to 40-Hour Battery Life, Active Noise Cancelling, Great for Travel & Commuting, USB-C Lossless Audio, Apple & Android Compatible -Black | Over-ear audio with active noise canceling, 40-hour battery life and Bluetooth connectivity",
-      "current_price": 169.95,
+      "asin": "B0C8PWSW7T",
+      "title": "Beats Studio Pro Premium Wireless Over-Ear Headphones- Up to 40-Hour Battery Life, Active Noise Cancelling, Great for Travel & Commuting, USB-C Lossless Audio, Apple & Android Compatible - Navy | Active Noise Cancelling with 40-hour battery and spatial audio for music, calls and travel",
+      "current_price": 149.99,
       "reference_price": 349.99,
-      "discount_percent": 51.44,
-      "savings": 180.04,
+      "discount_percent": 57.14,
+      "savings": 200.0,
       "tier": "\u2705 50%+ GOOD DEAL",
-      "score": 51,
-      "detected_at": "2026-08-21T14:52:41.759416+00:00",
-      "amazon_url": "https://www.amazon.com/Beats-Studio-Pro-Personalized-Compatibility/dp/B0C8PR4W22",
-      "image_url": "https://m.media-amazon.com/images/I/61u-OaDSfQL.jpg"
+      "score": 57,
+      "detected_at": "2026-08-21T22:40:00.880215+00:00",
+      "amazon_url": "https://www.amazon.com/Beats-Studio-Pro-Personalized-Compatibility/dp/B0C8PWSW7T",
+      "image_url": "https://m.media-amazon.com/images/I/61GiuI-ebWL.jpg"
     },
     {
       "asin": "B0D6J5B98H",
@@ -38,7 +38,7 @@
       "savings": 92.0,
       "tier": "Amazon Deal",
       "score": 46,
-      "detected_at": "2026-08-21T14:52:41.759449+00:00",
+      "detected_at": "2026-08-21T22:40:00.880333+00:00",
       "amazon_url": "https://www.amazon.com/ROVE-R2-4K-DUAL-STARVIS-Included/dp/B0D6J5B98H",
       "image_url": "https://m.media-amazon.com/images/I/81ockFWJLsL.jpg"
     },
@@ -51,7 +51,7 @@
       "savings": 32.1,
       "tier": "Amazon Deal",
       "score": 46,
-      "detected_at": "2026-08-21T14:52:41.759345+00:00",
+      "detected_at": "2026-08-21T22:40:00.880145+00:00",
       "amazon_url": "https://www.amazon.com/Viscose-Bamboo-Queen-Mattress-Topper/dp/B07D5DN269",
       "image_url": "https://m.media-amazon.com/images/I/81YYCJW3PTL.jpg"
     },
@@ -64,9 +64,35 @@
       "savings": 50.0,
       "tier": "Amazon Deal",
       "score": 42,
-      "detected_at": "2026-08-21T14:52:41.759407+00:00",
+      "detected_at": "2026-08-21T22:40:00.880176+00:00",
       "amazon_url": "https://www.amazon.com/Pocket-Hose-Ballistic-Expandable-No-Kink/dp/B0GWFF75Z5",
       "image_url": "https://m.media-amazon.com/images/I/81SV8FRKAEL.jpg"
+    },
+    {
+      "asin": "B01GNVF8S8",
+      "title": "Waterpik Cordless Advanced Portable Water Flosser, Rechargeable, White | 3 Settings, 4 Tips, Travel Bag, for Gums, Teeth, Dental Braces, Implants, Shower Use ADA Accepted WP-580 Packaging May Vary",
+      "current_price": 59.98,
+      "reference_price": 99.99,
+      "discount_percent": 40.01,
+      "savings": 40.01,
+      "tier": "Amazon Deal",
+      "score": 40,
+      "detected_at": "2026-08-21T22:40:00.880277+00:00",
+      "amazon_url": "https://www.amazon.com/Waterpik-Cordless-Rechargeable-Portable-Irrigator/dp/B01GNVF8S8",
+      "image_url": "https://m.media-amazon.com/images/I/71eBZVebI4L.jpg"
+    },
+    {
+      "asin": "B0FK2HPNCB",
+      "title": "eufy E25 Robot Vacuum and Mop Combo, 20,000 Pa, HydroJet Roller Mop | Extendable Side Brush, Zero-Tangle Design, All-in-One Station, AI Obstacle Avoidance, Edge-to-Corner Cleaning",
+      "current_price": 599.99,
+      "reference_price": 999.99,
+      "discount_percent": 40.0,
+      "savings": 400.0,
+      "tier": "Amazon Deal",
+      "score": 40,
+      "detected_at": "2026-08-21T22:40:00.880341+00:00",
+      "amazon_url": "https://www.amazon.com/eufy-HydroJet-Cleaning-Zero-Tangle-Avoidance/dp/B0FK2HPNCB",
+      "image_url": "https://m.media-amazon.com/images/I/61HYCNbUjAL.jpg"
     },
     {
       "asin": "B0FHLPS8ZF",
@@ -77,35 +103,9 @@
       "savings": 50.04,
       "tier": "Amazon Deal",
       "score": 33,
-      "detected_at": "2026-08-21T14:52:41.759381+00:00",
+      "detected_at": "2026-08-21T22:40:00.880224+00:00",
       "amazon_url": "https://www.amazon.com/Beats-Solo-Ear-Headphones-Ultra-Lightweight/dp/B0FHLPS8ZF",
       "image_url": "https://m.media-amazon.com/images/I/51kJvfwJSWL.jpg"
-    },
-    {
-      "asin": "B0DG4WXBCF",
-      "title": "MEDITHERAPY Retinal Skin Booster Serum 5.07 fl oz | Retinaldehyde, Niacinamide, Cica | Korean Hydrating Face & Body Serum for Dull, Uneven Skin, All Skin Types, K-Beauty",
-      "current_price": 17.49,
-      "reference_price": 24.99,
-      "discount_percent": 30.01,
-      "savings": 7.5,
-      "tier": "Amazon Deal",
-      "score": 30,
-      "detected_at": "2026-08-21T14:52:41.759506+00:00",
-      "amazon_url": "https://www.amazon.com/MEDITHERAPY-Retinaldehyde-Niacinamide-Hydrating-K-Beauty/dp/B0DG4WXBCF",
-      "image_url": "https://m.media-amazon.com/images/I/61fuHSbuE2L.jpg"
-    },
-    {
-      "asin": "B07Z98X1QZ",
-      "title": "Move Free Advanced Joint Support, Glucosamine, Chondroitin + MSM - 3x120 ct | Supports Mobility Comfort Strength Flexibility & Bone, 120 Servings, Bone & Joint Support Supplement tablets, Fruitx-B",
-      "current_price": 53.99,
-      "reference_price": 75.45,
-      "discount_percent": 28.44,
-      "savings": 21.46,
-      "tier": "Amazon Deal",
-      "score": 28,
-      "detected_at": "2026-08-21T14:52:41.759280+00:00",
-      "amazon_url": "https://www.amazon.com/Move-Free-Glucosamine-chondroitin-Tablets/dp/B07Z98X1QZ",
-      "image_url": "https://m.media-amazon.com/images/I/81K-jNGRiqL.jpg"
     },
     {
       "asin": "B0F151GFYR",
@@ -116,22 +116,9 @@
       "savings": 70.0,
       "tier": "Amazon Deal",
       "score": 28,
-      "detected_at": "2026-08-21T14:52:41.759433+00:00",
+      "detected_at": "2026-08-21T22:40:00.880233+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Wired-Doorbell-Newest-Model/dp/B0F151GFYR",
       "image_url": "https://m.media-amazon.com/images/I/51cJpjaOeEL.jpg"
-    },
-    {
-      "asin": "B0DC156Y5X",
-      "title": "JIYU Toner Pads - Korean Skincare for Dark Spots, Wrinkles & Dull Skin - Hydrating Facial Treatment with Snail Mucin, Niacinamide, Peptides & Centella - 100 Count",
-      "current_price": 43.99,
-      "reference_price": 59.95,
-      "discount_percent": 26.62,
-      "savings": 15.96,
-      "tier": "Amazon Deal",
-      "score": 27,
-      "detected_at": "2026-08-21T14:52:41.759465+00:00",
-      "amazon_url": "https://www.amazon.com/Toning-Polish-Pads-Hydrating-Niacinamide/dp/B0DC156Y5X",
-      "image_url": "https://m.media-amazon.com/images/I/71Xy2v8lWjL.jpg"
     },
     {
       "asin": "B0CGKVHHCY",
@@ -142,9 +129,22 @@
       "savings": 19.37,
       "tier": "Amazon Deal",
       "score": 26,
-      "detected_at": "2026-08-21T14:52:41.759364+00:00",
+      "detected_at": "2026-08-21T22:40:00.880267+00:00",
       "amazon_url": "https://www.amazon.com/MaryRuths-Multivitamin-Multimineral-Supplement-Picolinate/dp/B0CGKVHHCY",
       "image_url": "https://m.media-amazon.com/images/I/814Ed9bkCRL.jpg"
+    },
+    {
+      "asin": "B0C33CHG99",
+      "title": "Cosori TurboBlaze Air Fryer, 9-in-1, 6 Qt, PFAS-Free Ceramic Coating | 90\u00b0\u2013450\u00b0F, 5 Level Fan Speeds, 9 in 1 Air Fry, Roast, Bake, Broil, Dry, Frozen, Proof, Reheat, Keep Warm, Safety lock, 1725W",
+      "current_price": 89.99,
+      "reference_price": 119.99,
+      "discount_percent": 25.0,
+      "savings": 30.0,
+      "tier": "Amazon Deal",
+      "score": 25,
+      "detected_at": "2026-08-21T22:40:00.880368+00:00",
+      "amazon_url": "https://www.amazon.com/TurboBlaze-Premium-Ceramic-Coating-90%C2%B0-450%C2%B0F/dp/B0C33CHG99",
+      "image_url": "https://m.media-amazon.com/images/I/81R9sA3IyBL.jpg"
     },
     {
       "asin": "B0GVTPKJVT",
@@ -155,7 +155,7 @@
       "savings": 35.0,
       "tier": "Amazon Deal",
       "score": 23,
-      "detected_at": "2026-08-21T14:52:41.759481+00:00",
+      "detected_at": "2026-08-21T22:40:00.880315+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT",
       "image_url": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg"
     },
@@ -168,9 +168,35 @@
       "savings": 40.0,
       "tier": "Amazon Deal",
       "score": 22,
-      "detected_at": "2026-08-21T14:52:41.759355+00:00",
+      "detected_at": "2026-08-21T22:40:00.880163+00:00",
       "amazon_url": "https://www.amazon.com/SHOKZ-New-OpenRun-Pro-Comfortable/dp/B0D2HKCMBP",
       "image_url": "https://m.media-amazon.com/images/I/417fmeqXikL.jpg"
+    },
+    {
+      "asin": "B0CWJS6Q5C",
+      "title": "HP 17 Inch FHD Laptop Computer for Business & Students 16GB RAM 512GB SSD | Intel i3-N305 8 Core Processor, 17.3 inch FHD IPS Display, Windows 11 Pro, Copilot AI Key, Fast Charging, Wi-Fi 6",
+      "current_price": 699.99,
+      "reference_price": 899.99,
+      "discount_percent": 22.22,
+      "savings": 200.0,
+      "tier": "Amazon Deal",
+      "score": 22,
+      "detected_at": "2026-08-21T22:40:00.880359+00:00",
+      "amazon_url": "https://www.amazon.com/HP-Laptop-Computer-Business-Students/dp/B0CWJS6Q5C",
+      "image_url": "https://m.media-amazon.com/images/I/71qHp95jOFL.jpg"
+    },
+    {
+      "asin": "B0D3D5LKG9",
+      "title": "BEDLORE Queen Mattress Topper , Thick Pillow Top Mattress Pad | Stretchable Pockets Fit 6\u201d-18\u201d Mattress, Soft Breathable Mattress Topper for Back Pain Relief and Hot Sleepers(Dark Gray)",
+      "current_price": 37.98,
+      "reference_price": 47.99,
+      "discount_percent": 20.86,
+      "savings": 10.01,
+      "tier": "Amazon Deal",
+      "score": 21,
+      "detected_at": "2026-08-21T22:40:00.880350+00:00",
+      "amazon_url": "https://www.amazon.com/Mattress-Viscose-Derived-Stretchable-Pockets/dp/B0D3D5LKG9",
+      "image_url": "https://m.media-amazon.com/images/I/81fEHxFn38L.jpg"
     },
     {
       "asin": "B0CG19FGQ5",
@@ -181,35 +207,9 @@
       "savings": 130.0,
       "tier": "Amazon Deal",
       "score": 21,
-      "detected_at": "2026-08-21T14:52:41.759490+00:00",
+      "detected_at": "2026-08-21T22:40:00.880287+00:00",
       "amazon_url": "https://www.amazon.com/DJI-Vlogging-Stabilization-Tracking-Photography/dp/B0CG19FGQ5",
       "image_url": "https://m.media-amazon.com/images/I/51d4Esi79-L.jpg"
-    },
-    {
-      "asin": "B0DT2344N3",
-      "title": "Beats Powerbeats Pro 2 - Wireless Noise Cancelling Workout Earbuds with Secure- Fit Earhooks, Up to 45-Hour Battery with Charging Case, Sweat & Water Resistant, Heart Rate Monitoring - Jet Black | High-performance audio with 12-hour battery and IPX4 water resistance",
-      "current_price": 199.95,
-      "reference_price": 249.99,
-      "discount_percent": 20.02,
-      "savings": 50.04,
-      "tier": "Amazon Deal",
-      "score": 20,
-      "detected_at": "2026-08-21T14:52:41.759473+00:00",
-      "amazon_url": "https://www.amazon.com/Beats-Powerbeats-Wireless-Bluetooth-Earbuds/dp/B0DT2344N3",
-      "image_url": "https://m.media-amazon.com/images/I/51HOUQVBlsL.jpg"
-    },
-    {
-      "asin": "B09RTVN5GN",
-      "title": "Energizer Alkaline Power AAA Batteries (32 Pack), Long-Lasting | For wireless mouse, flashlights, thermometers, smart home devices, and controllers; hold power for up to 10 years in storage",
-      "current_price": 15.99,
-      "reference_price": 19.99,
-      "discount_percent": 20.01,
-      "savings": 4.0,
-      "tier": "Amazon Deal",
-      "score": 20,
-      "detected_at": "2026-08-21T14:52:41.759441+00:00",
-      "amazon_url": "https://www.amazon.com/Energizer-Batteries-Triple-Long-Lasting-Alkaline/dp/B09RTVN5GN",
-      "image_url": "https://m.media-amazon.com/images/I/81pOmUuueWL.jpg"
     },
     {
       "asin": "B09RTVD1GF",
@@ -220,7 +220,7 @@
       "savings": 3.99,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-08-21T14:52:41.759372+00:00",
+      "detected_at": "2026-08-21T22:40:00.880243+00:00",
       "amazon_url": "https://www.amazon.com/Energizer-Batteries-Double-Long-Lasting-Alkaline/dp/B09RTVD1GF",
       "image_url": "https://m.media-amazon.com/images/I/91jWXKov1YL.jpg"
     },
@@ -233,7 +233,7 @@
       "savings": 6.29,
       "tier": "Amazon Deal",
       "score": 17,
-      "detected_at": "2026-08-21T14:52:41.759399+00:00",
+      "detected_at": "2026-08-21T22:40:00.880296+00:00",
       "amazon_url": "https://www.amazon.com/G4Free-Straight-Sweatpants-Stretch-Business/dp/B0C7ZC7B7H",
       "image_url": "https://m.media-amazon.com/images/I/51FbAdOJGaL.jpg"
     },
@@ -246,7 +246,7 @@
       "savings": 200.0,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-08-21T14:52:41.759318+00:00",
+      "detected_at": "2026-08-21T22:40:00.880105+00:00",
       "amazon_url": "https://www.amazon.com/Google-Pixel-11-Pro-Amazon/dp/B0HBFZD2VD",
       "image_url": "https://m.media-amazon.com/images/I/71MrZaHIDsL.jpg"
     },
@@ -259,22 +259,22 @@
       "savings": 29.01,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-08-21T14:52:41.759390+00:00",
+      "detected_at": "2026-08-21T22:40:00.880203+00:00",
       "amazon_url": "https://www.amazon.com/Plaud-Transcribe-Summarize-Ultra-Slim-InstantView/dp/B0FYQ4Y2ZZ",
       "image_url": "https://m.media-amazon.com/images/I/61szWLRVVvL.jpg"
     },
     {
-      "asin": "B0CYV4FCJS",
-      "title": "Serene Herbs Soursop Bitters Liquid with Soursop Leaves for Gut Cleanse, Detox & Immune Boost with Black Seed, Moringa, Irish Moss, Ashwaganda, Turmeric, 16 fl oz (16 Fl, Soursop)",
-      "current_price": 34.19,
-      "reference_price": 39.99,
-      "discount_percent": 14.5,
-      "savings": 5.8,
+      "asin": "B0DQDQVTT3",
+      "title": "DREO Fan for Bedroom, 2026 Upgraded, 90ft Airflow, Quiet Fan, 90\u00b0 Oscillating Standing Fan for Whole Room, DC Motor, 8+H Speeds, 3 Modes, 38-42'' Adjustable Height, 8H Timer, 105\u00b0 Manual Vertical",
+      "current_price": 69.92,
+      "reference_price": 79.99,
+      "discount_percent": 12.59,
+      "savings": 10.07,
       "tier": "Amazon Deal",
-      "score": 14,
-      "detected_at": "2026-08-21T14:52:41.759425+00:00",
-      "amazon_url": "https://www.amazon.com/Soursop-Bitters-Liquid-Supports-Digestive/dp/B0CYV4FCJS",
-      "image_url": "https://m.media-amazon.com/images/I/613y5DU45HL.jpg"
+      "score": 13,
+      "detected_at": "2026-08-21T22:40:00.880305+00:00",
+      "amazon_url": "https://www.amazon.com/Dreo-Oscillating-Standing-Adjustable-Circulator/dp/B0DQDQVTT3",
+      "image_url": "https://m.media-amazon.com/images/I/71aFnr3iJXL.jpg"
     },
     {
       "asin": "B0DJMP6T3N",
@@ -285,7 +285,7 @@
       "savings": 11.0,
       "tier": "Amazon Deal",
       "score": 11,
-      "detected_at": "2026-08-21T14:52:41.759334+00:00",
+      "detected_at": "2026-08-21T22:40:00.880190+00:00",
       "amazon_url": "https://www.amazon.com/BISSELL-Upholstery-HydroRinse-Self-Cleaning-4075/dp/B0DJMP6T3N",
       "image_url": "https://m.media-amazon.com/images/I/71Zg+lIkXeL.jpg"
     },
@@ -298,7 +298,7 @@
       "savings": 20.02,
       "tier": "Amazon Deal",
       "score": 11,
-      "detected_at": "2026-08-21T14:52:41.759498+00:00",
+      "detected_at": "2026-08-21T22:40:00.880324+00:00",
       "amazon_url": "https://www.amazon.com/Purifiers-Washable-Pre-Filter-VERIFIDE-Allergies/dp/B0BGPF71Q6",
       "image_url": "https://m.media-amazon.com/images/I/710w2H0ip+L.jpg"
     }
