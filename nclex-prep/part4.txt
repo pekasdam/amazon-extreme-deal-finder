@@ -1,0 +1,155 @@
+ give clinical report','Avoid mentioning recent changes to prevent bias'],1,'A complete, current handoff supports continuity and reduces errors during transfer.','Transitions are high-risk moments—communicate current risks and pending needs.');
+add('CC','Which action is appropriate when a client requests access to their health information?',['Tell the client records are never available','Follow facility process and applicable law for client access to records','Delete notes the client may dislike','Ask another client to explain the process'],1,'Clients generally have rights to access health information through established legal and facility procedures.','Protect privacy while supporting lawful client access to information.');
+add('CC','Which assignment should the nurse question?',['Stable client needing scheduled oral medications assigned to an LPN/VN within scope','Unstable client with rapidly dropping blood pressure assigned to a UAP for independent monitoring','Stable client needing hygiene assigned to a UAP','Client needing routine dressing change assigned according to scope/policy'],1,'An unstable client requires nursing assessment and close clinical judgment; independent monitoring cannot be transferred to unlicensed personnel.','Do not delegate assessment or responsibility for unstable clients.','Hard');
+add('CC','A client cannot afford prescribed medications after discharge. What is the best nursing action?',['Tell the client to skip doses','Notify the care team and connect the client with available pharmacy, social-work, or assistance resources','Suggest borrowing someone else’s medication','Document the problem but take no action'],1,'Financial barriers can directly affect adherence and safety; early coordination with appropriate resources is part of discharge planning.','Identify barriers before discharge and connect the client with resources.');
+add('CC','Which statement about informed consent is correct?',['The nurse may force consent if the procedure is beneficial','The provider performing the procedure is responsible for explaining risks, benefits, and alternatives; the nurse may witness the signature and verify voluntariness per policy','Family consent always overrides a capable adult','Consent is valid even if the client is heavily sedated and unable to understand'],1,'Informed consent requires adequate explanation, capacity, understanding, and voluntariness; nursing responsibilities vary by policy but include advocacy and witnessing when appropriate.','Consent must be informed and voluntary.');
+add('CC','A client with a new colostomy says, “I cannot manage this at home.” Which referral is most helpful?',['Wound/ostomy specialist or appropriate home-health support','Security','Radiology','Housekeeping'],0,'Specialized ostomy and home-health support can reinforce skills, supplies, and adaptation after discharge.','Match referrals to the client’s specific self-care barrier.');
+add('CC','Which action by the nurse best demonstrates cost-effective care without compromising safety?',['Use the most expensive supply for every task','Use appropriate resources, avoid unnecessary waste, and follow evidence-based protocols','Skip prescribed care to save money','Reuse single-use supplies'],1,'Cost-effective care uses resources responsibly while maintaining safety, quality, and required standards.','Cost awareness never justifies unsafe shortcuts.');
+add('CC','A competent adult client wants the spouse excluded from care discussions. What should the nurse do?',['Include the spouse anyway','Honor the client’s privacy preference unless a legal exception applies','Tell the spouse everything because they are married','Ask another family member to decide'],1,'A capable client controls who receives private health information except where law permits or requires disclosure.','The client—not family status—directs routine information sharing.');
+add('CC','Which client situation is best suited for case-management involvement?',['Short uncomplicated visit with no follow-up needs','Frequent readmissions, multiple chronic conditions, and difficulty obtaining medications','Routine vital-sign check','One-time request for a pillow'],1,'Complex care needs, repeated utilization, and access barriers are classic reasons for coordinated case-management support.','Case management helps align complex services across settings.');
+
+const CASES=[
+{
+ id:'copd', title:'Case 1: COPD Exacerbation', summary:'68-year-old with COPD admitted for worsening dyspnea. RR 30/min, HR 112/min, BP 148/86, SpO₂ 86% on room air, anxious with accessory muscle use. Productive cough with thick sputum.',
+ tabs:{Vitals:'RR 30 • HR 112 • BP 148/86 • SpO₂ 86% RA • Temp 100.4°F',History:'COPD, former smoker, uses bronchodilator inhalers at home',Labs:'ABG and CBC pending',Notes:'Increasing work of breathing; able to speak only short phrases.'},
+ items:[
+  {stage:'Recognize Cues',type:'multi',stem:'Which findings are most concerning cues? Select all that apply.',choices:['SpO₂ 86% on room air','Accessory muscle use','BP 148/86','Unable to speak full sentences','Former smoking history'],answer:[0,1,3],rationale:'Hypoxemia, increased work of breathing, and limited speech indicate significant respiratory compromise.',rule:'Recognize cues that show current instability, not just background risk.'},
+  {stage:'Analyze Cues',type:'single',stem:'Which problem best explains the priority cues?',choices:['Impaired gas exchange','Constipation','Chronic pain','Social isolation'],answer:0,rationale:'The oxygen saturation, dyspnea, and increased work of breathing point to impaired gas exchange.',rule:'Cluster related cues into the most dangerous physiologic problem.'},
+  {stage:'Prioritize Hypotheses',type:'single',stem:'Which hypothesis should be prioritized first?',choices:['Acute respiratory deterioration','Risk for boredom','Knowledge deficit about diet','Sleep pattern disturbance'],answer:0,rationale:'Respiratory deterioration threatens oxygenation and is the highest priority.',rule:'Prioritize threats to airway and breathing.'},
+  {stage:'Generate Solutions',type:'multi',stem:'Which interventions should the nurse anticipate? Select all that apply.',choices:['Position upright','Apply/titrate oxygen as ordered and monitor response','Administer prescribed bronchodilator','Place flat in bed','Monitor respiratory status closely'],answer:[0,1,2,4],rationale:'Upright positioning, prescribed oxygen/bronchodilation, and close reassessment support ventilation and oxygenation.',rule:'Generate solutions that directly target the priority problem.'},
+  {stage:'Take Action',type:'single',stem:'Which action should the nurse take first?',choices:['Position upright and immediately assess/support oxygenation','Offer a large meal','Encourage hallway ambulation','Delay care until ABG results return'],answer:0,rationale:'Immediate support of breathing and oxygenation comes before nonurgent tasks or delayed diagnostics.',rule:'Do the highest-priority safe action first.'},
+  {stage:'Evaluate Outcomes',type:'single',stem:'Which finding best indicates improvement?',choices:['SpO₂ 92% with less accessory muscle use','RR increases to 36/min','Increasing drowsiness','Unable to finish a sentence'],answer:0,rationale:'Improved saturation and reduced work of breathing show better gas exchange.',rule:'Evaluate whether the intervention improved the original priority cues.'}
+ ]
+},
+{
+ id:'pph', title:'Case 2: Postpartum Hemorrhage', summary:'26-year-old, 1 hour after vaginal delivery. Reports feeling dizzy. Fundus is boggy and above the umbilicus. Heavy lochia with clots. HR 122/min, BP 92/54 mm Hg.',
+ tabs:{Vitals:'HR 122 • BP 92/54 • RR 24 • Temp 98.8°F',History:'G2P2, uncomplicated pregnancy, prolonged labor',Labs:'Admission Hgb 11.4 g/dL',Notes:'Heavy vaginal bleeding; fundus boggy.'},
+ items:[
+  {stage:'Recognize Cues',type:'multi',stem:'Which findings are priority cues? Select all that apply.',choices:['Boggy uterus','Heavy lochia with clots','HR 122/min','BP 92/54 mm Hg','Uncomplicated pregnancy history'],answer:[0,1,2,3],rationale:'Uterine atony, heavy bleeding, tachycardia, and hypotension indicate postpartum hemorrhage with hypovolemia.',rule:'Combine local bleeding signs with perfusion signs.'},
+  {stage:'Analyze Cues',type:'single',stem:'Which cause is most likely?',choices:['Uterine atony','Migraine','Urinary tract infection','Normal postpartum adaptation'],answer:0,rationale:'A boggy enlarged uterus with heavy bleeding most strongly suggests uterine atony.',rule:'Boggy uterus + heavy bleeding = think atony.'},
+  {stage:'Prioritize Hypotheses',type:'single',stem:'Which problem is the highest priority?',choices:['Hypovolemia from postpartum hemorrhage','Knowledge deficit','Disturbed sleep','Constipation'],answer:0,rationale:'Active blood loss with hypotension threatens circulation.',rule:'Circulation-threatening bleeding is an emergency.'},
+  {stage:'Generate Solutions',type:'multi',stem:'Which interventions should the nurse anticipate? Select all that apply.',choices:['Fundal massage','Call for help/notify provider per protocol','Maintain IV access and prepare fluids/medications as ordered','Leave the client alone','Quantify blood loss'],answer:[0,1,2,4],rationale:'Immediate hemorrhage care includes uterine massage, escalation, IV support, uterotonics/fluids as ordered, and quantifying blood loss.',rule:'Hemorrhage care is simultaneous: stop bleeding, support circulation, escalate.'},
+  {stage:'Take Action',type:'single',stem:'Which action should the nurse perform first?',choices:['Massage the fundus while calling for assistance','Complete discharge teaching','Offer oral snacks','Encourage showering'],answer:0,rationale:'Fundal massage directly treats likely uterine atony while help is mobilized.',rule:'When the cause is obvious and life-threatening, act while escalating.'},
+  {stage:'Evaluate Outcomes',type:'single',stem:'Which finding best indicates improvement?',choices:['Fundus becomes firm and bleeding decreases','HR rises to 138/min','BP falls to 78/40 mm Hg','Dizziness worsens'],answer:0,rationale:'A firm uterus and decreasing bleeding indicate response to treatment.',rule:'Improvement should reverse the original hemorrhage cues.'}
+ ]
+},
+{
+ id:'sepsis', title:'Case 3: Sepsis & Shock', summary:'74-year-old from home with fever and confusion. Temp 102.7°F, HR 126/min, RR 28/min, BP 84/46 mm Hg. Urine is cloudy and foul-smelling. Skin is warm; client is difficult to redirect.',
+ tabs:{Vitals:'T 102.7°F • HR 126 • RR 28 • BP 84/46',History:'Type 2 diabetes, recurrent UTIs',Labs:'WBC 18,400/mm³ • Lactate 4.1 mmol/L • Creatinine elevated from baseline',Notes:'New confusion and reduced urine output.'},
+ items:[
+  {stage:'Recognize Cues',type:'multi',stem:'Which cues indicate severe infection with poor perfusion? Select all that apply.',choices:['Hypotension','Elevated lactate','New confusion','Tachycardia','Stable appetite'],answer:[0,1,2,3],rationale:'Hypotension, elevated lactate, acute mental-status change, and tachycardia are concerning for sepsis with impaired perfusion.',rule:'Sepsis cues cross multiple systems: infection + organ dysfunction/perfusion change.'},
+  {stage:'Analyze Cues',type:'single',stem:'Which condition best explains the findings?',choices:['Sepsis with shock physiology','Simple seasonal allergy','Stable chronic diabetes','Mild dehydration only'],answer:0,rationale:'Infection signs plus hypotension, elevated lactate, and organ dysfunction strongly support sepsis/shock.',rule:'Look for infection plus acute organ dysfunction.'},
+  {stage:'Prioritize Hypotheses',type:'single',stem:'Which problem is most urgent?',choices:['Inadequate tissue perfusion','Constipation','Chronic knowledge deficit','Loneliness'],answer:0,rationale:'Hypotension and elevated lactate indicate inadequate tissue perfusion, which is immediately life-threatening.',rule:'Shock is a circulation emergency.'},
+  {stage:'Generate Solutions',type:'multi',stem:'Which actions should the nurse anticipate as part of time-sensitive sepsis care? Select all that apply.',choices:['Rapid assessment and escalation','IV access and ordered fluids','Cultures/labs and antibiotics as ordered','Delay treatment until all results return','Frequent perfusion and urine-output reassessment'],answer:[0,1,2,4],rationale:'Sepsis management is time-sensitive and includes escalation, fluids when indicated, cultures/labs, antibiotics, and close reassessment.',rule:'Do not delay life-saving sepsis treatment while waiting for every test.'},
+  {stage:'Take Action',type:'single',stem:'Which action has the highest priority now?',choices:['Initiate emergency sepsis/shock interventions per protocol and support circulation','Provide a routine bath','Begin discharge planning','Encourage ambulation'],answer:0,rationale:'The client is hemodynamically unstable and requires immediate resuscitative care.',rule:'Unstable perfusion comes before routine care.'},
+  {stage:'Evaluate Outcomes',type:'single',stem:'Which finding best suggests improved perfusion?',choices:['BP improves and urine output increases','Confusion worsens','Lactate rises','Skin becomes mottled with weaker pulses'],answer:0,rationale:'Improved blood pressure and urine output are signs of better organ perfusion.',rule:'Evaluate perfusion using mental status, BP, pulses, urine output, and trends.'}
+ ]
+}
+];
+</script><script>'use strict';
+const $=id=>document.getElementById(id);
+const $$=sel=>[...document.querySelectorAll(sel)];
+const clamp=(n,a,b)=>Math.max(a,Math.min(b,n));
+const shuffle=a=>{const x=[...a];for(let i=x.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[x[i],x[j]]=[x[j],x[i]]}return x};
+const fmtPct=n=>Number.isFinite(n)?Math.round(n)+'%':'—';
+const esc=s=>String(s).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+
+const STORAGE='pnPrepLabV2';
+function freshState(){return {version:2,answered:0,points:0,cat:{},missed:{},saved:[],examDate:'',exams:[],caseScores:[],reviewed:0};}
+function loadState(){
+  try{
+    const v=JSON.parse(localStorage.getItem(STORAGE)||'null');
+    if(v&&v.version===2)return Object.assign(freshState(),v);
+    const old=JSON.parse(localStorage.getItem('nclexLab')||'null');
+    if(old){
+      const s=freshState();s.answered=old.answered||0;s.points=old.correct||0;s.saved=Array.isArray(old.saved)?old.saved:[];
+      return s;
+    }
+  }catch(e){}
+  return freshState();
+}
+let S=loadState();
+function save(){localStorage.setItem(STORAGE,JSON.stringify(S));}
+function categoryStat(code){S.cat[code]??={a:0,p:0};return S.cat[code];}
+function accuracy(stat){return stat&&stat.a?stat.p/stat.a*100:NaN;}
+
+let practiceMode='mixed',practiceCount=25,practiceSession=null,pOrder=[];
+let currentCase=null,caseIndex=0,casePoints=0,caseOrder=[];
+let examLength=85,examSession=null,examTimer=null,examStartedAt=0,eOrder=[];
+let reviewTab='missed';
+
+function go(id){
+  $$('.page').forEach(p=>p.classList.add('hide'));
+  $(id).classList.remove('hide');
+  $$('#nav button').forEach(b=>b.classList.toggle('active',b.dataset.page===id));
+  window.scrollTo({top:0,behavior:'instant'});
+  if(id==='home')renderHome();
+  if(id==='practice')showPracticeSetup();
+  if(id==='cases')renderCaseList();
+  if(id==='exam')showExamSetup();
+  if(id==='progress')renderProgress();
+  if(id==='plan')renderPlan();
+  if(id==='review')renderReview();
+}
+$$('#nav button').forEach(b=>b.addEventListener('click',()=>go(b.dataset.page)));
+
+function daysUntil(dateStr){
+  if(!dateStr)return null;
+  const now=new Date();const today=new Date(now.getFullYear(),now.getMonth(),now.getDate());
+  const parts=dateStr.split('-').map(Number);const d=new Date(parts[0],parts[1]-1,parts[2]);
+  return Math.ceil((d-today)/86400000);
+}
+function studyMission(days){
+  const missed=Object.keys(S.missed).length;
+  if(days===null)return {title:'Set an exam date',text:'Add the test date and the app will build a daily target.',tasks:[]};
+  if(days<0)return {title:'Update your exam date',text:'The saved test date has passed.',tasks:[]};
+  if(days===0)return {title:'Test day',text:'Keep review light: key safety rules, calm pacing, food, hydration, and required ID.',tasks:[['review','Review key misses']]};
+  if(days<=7)return {title:`${days} day${days===1?'':'s'} to go`,text:'Simulation + targeted remediation. Protect sleep and avoid cramming new material.',tasks:[['exam','85-question exam'],['missed',`Review ${Math.min(25,Math.max(10,missed))} missed`],['cases','1 NGN case']]};
+  if(days<=14)return {title:`${days} days to go`,text:'High-volume mixed practice with daily clinical judgment.',tasks:[['mixed','75 mixed questions'],['weak','20 weak-area questions'],['cases','1 NGN case']]};
+  if(days<=28)return {title:`${days} days to go`,text:'Build speed and fix weak categories before the final week.',tasks:[['mixed','60 mixed questions'],['missed','15 missed questions'],['cases','1 NGN case']]};
+  return {title:`${days} days to go`,text:'Build a strong base across all eight PN client-needs areas.',tasks:[['mixed','40 mixed questions'],['missed','10 review questions'],['cases','1 NGN case']]};
+}
+function taskAction(kind){if(kind==='exam')return "go('exam')";if(kind==='cases')return "go('cases')";return `openPractice('${kind}')`;}
+function renderHome(){
+  const acc=S.answered?S.points/S.answered*100:NaN;
+  const latest=S.exams.length?S.exams[S.exams.length-1].score:NaN;
+  $('homeAnswered').textContent=S.answered;
+  $('homeAccuracy').textContent=fmtPct(acc);
+  $('homeMissed').textContent=Object.keys(S.missed).length;
+  $('homeReadiness').textContent=fmtPct(latest);
+  const days=daysUntil(S.examDate);$('homeDays').textContent=days===null?'—':Math.max(0,days);
+  const m=studyMission(days);$('missionTitle').textContent=m.title;$('missionText').textContent=m.text;
+  $('missionActions').innerHTML=m.tasks.map(([k,t])=>`<button onclick="${taskAction(k)}">${esc(t)}</button>`).join('');
+  const weak=getWeakCodes();$('weakLabel').textContent=weak.length?weak.slice(0,2).map(c=>CAT[c]).join(' • '):'Adapts to your scores';
+  $('homeMessage').textContent=S.answered<25?'Start with mixed practice so the app can identify weak areas.':'Keep pushing the categories that are below 75%.';
+}
+
+function showPracticeSetup(){
+  $('practiceSetup').classList.remove('hide');$('practicePlayer').classList.add('hide');$('practiceResult').classList.add('hide');
+  updatePracticeSetupUI();
+}
+function updatePracticeSetupUI(){
+  $$('#practiceModeBtns button').forEach(b=>b.classList.toggle('active',b.dataset.mode===practiceMode));
+  $$('#practiceCountBtns button').forEach(b=>b.classList.toggle('active',+b.dataset.count===practiceCount));
+  $('categorySelect').disabled=practiceMode!=='category';
+}
+function setupSelectors(){
+  $('categorySelect').innerHTML=Object.entries(CAT).map(([k,v])=>`<option value="${k}">${v}</option>`).join('');
+  $$('#practiceModeBtns button').forEach(b=>b.onclick=()=>{practiceMode=b.dataset.mode;updatePracticeSetupUI()});
+  $$('#practiceCountBtns button').forEach(b=>b.onclick=()=>{practiceCount=+b.dataset.count;updatePracticeSetupUI()});
+  $$('.exam-option').forEach(x=>x.onclick=()=>{examLength=+x.dataset.len;$$('.exam-option').forEach(y=>y.classList.toggle('selected',y===x))});
+  $$('.review-tabs button').forEach(b=>b.onclick=()=>{reviewTab=b.dataset.review;$$('.review-tabs button').forEach(x=>x.classList.toggle('active',x===b));renderReviewList()});
+}
+function openPractice(mode='mixed'){
+  practiceMode=mode;go('practice');
+  if(mode==='mixed'||mode==='weak'||mode==='missed')beginPractice();
+}
+function getWeakCodes(){
+  const attempted=Object.keys(CAT).map(c=>({c,a:accuracy(S.cat[c])})).filter(x=>Number.isFinite(x.a)).sort((a,b)=>a.a-b.a);
+  if(!attempted.length)return [];
+  const below=attempted.filter(x=>x.a<75).map(x=>x.c);
+  return below.length?below:attempted.slice(0,3).map(x=>x.c);
+}
+function practicePool(){
+  if(practiceMode==='category')return Q.filter(q=>q.cat===$('categorySelect').value);
+  if(practiceMo
