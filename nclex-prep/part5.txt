@@ -1,0 +1,168 @@
+de==='missed'){
+    const ids=new Set(Object.keys(S.missed).map(Number));const p=Q.filter(q=>ids.has(q.id)).sort((a,b)=>(S.missed[b.id]||0)-(S.missed[a.id]||0));
+    return p.length?p:Q;
+  }
+  if(practiceMode==='weak'){
+    const codes=getWeakCodes();return codes.length?Q.filter(q=>codes.includes(q.cat)):Q;
+  }
+  return Q;
+}
+function beginPractice(){
+  const pool=practicePool();
+  let n=Math.min(practiceCount,pool.length);
+  if(!n){alert('There are no questions in this set yet.');return;}
+  let items=practiceMode==='missed'?pool.slice(0,n):shuffle(pool).slice(0,n);
+  practiceSession={items,index:0,points:0,answeredCurrent:false,mode:practiceMode};
+  $('practiceSetup').classList.add('hide');$('practiceResult').classList.add('hide');$('practicePlayer').classList.remove('hide');
+  renderPracticeQuestion();
+}
+function instructionFor(q){if(q.type==='multi')return 'Select all that apply. Partial credit is used for practice.';if(q.type==='ordered')return 'Put the actions in the best order using the arrows.';return 'Select the best answer.';}
+function initOrder(q,kind){const a=q.choices.map((_,i)=>i);if(kind==='p')pOrder=a;if(kind==='c')caseOrder=a;if(kind==='e')eOrder=a;}
+function renderChoices(el,q,kind,disabled=false){
+  if(q.type==='ordered'){
+    let order=kind==='p'?pOrder:kind==='c'?caseOrder:eOrder;
+    if(!order.length)initOrder(q,kind);
+    order=kind==='p'?pOrder:kind==='c'?caseOrder:eOrder;
+    el.innerHTML=`<div class="order-list">${order.map((choiceIdx,pos)=>`<div class="order-item"><span class="order-num">${pos+1}</span><span>${esc(q.choices[choiceIdx])}</span><button ${disabled||pos===0?'disabled':''} onclick="moveOrder('${kind}',${pos},-1)">↑</button><button ${disabled||pos===order.length-1?'disabled':''} onclick="moveOrder('${kind}',${pos},1)">↓</button></div>`).join('')}</div>`;
+    return;
+  }
+  const inputType=q.type==='multi'?'checkbox':'radio';
+  el.innerHTML=q.choices.map((c,i)=>`<label class="choice"><input ${disabled?'disabled':''} type="${inputType}" name="${kind}choice" value="${i}"><span class="choice-letter">${String.fromCharCode(65+i)}</span><span>${esc(c)}</span></label>`).join('');
+  el.querySelectorAll('.choice').forEach(l=>l.addEventListener('click',()=>{if(disabled)return;if(q.type==='single')el.querySelectorAll('.choice').forEach(x=>x.classList.remove('selected'));l.classList.toggle('selected',l.querySelector('input').checked)}));
+}
+function moveOrder(kind,pos,delta){
+  const arr=kind==='p'?pOrder:kind==='c'?caseOrder:eOrder;const next=pos+delta;if(next<0||next>=arr.length)return;[arr[pos],arr[next]]=[arr[next],arr[pos]];
+  const q=kind==='p'?practiceSession.items[practiceSession.index]:kind==='c'?currentCase.items[caseIndex]:examSession.items[examSession.index].q;
+  renderChoices(kind==='p'?$('pChoices'):kind==='c'?$('cChoices'):$('eChoices'),q,kind,false);
+}
+function getResponse(q,kind){
+  if(q.type==='ordered')return [...(kind==='p'?pOrder:kind==='c'?caseOrder:eOrder)];
+  const vals=[...document.querySelectorAll(`input[name=${kind}choice]:checked`)].map(x=>+x.value);
+  return q.type==='single'?(vals.length?vals[0]:null):vals;
+}
+function scoreResponse(q,response){
+  if(q.type==='single')return response===q.answer?1:0;
+  if(q.type==='ordered')return q.answer.reduce((n,v,i)=>n+(response[i]===v?1:0),0)/q.answer.length;
+  const correct=new Set(q.answer),selected=new Set(response);let raw=0;
+  selected.forEach(i=>raw+=correct.has(i)?1:-1);
+  return clamp(raw/correct.size,0,1);
+}
+function hasResponse(q,r){if(q.type==='single')return r!==null;if(q.type==='ordered')return Array.isArray(r)&&r.length===q.choices.length;return Array.isArray(r)&&r.length>0;}
+function responseLabel(points){return points>=.999?'Correct':points>0?'Partial credit':'Incorrect';}
+function feedbackHTML(q,pts){
+  const correct=correctAnswerText(q);
+  let review='';
+  if(q.type==='single'){
+    review=`<div class="choice-review"><b>Why the other choices are not best</b><ul>${q.choices.map((c,i)=>i===q.answer?'':`<li><b>${esc(c)}:</b> does not best match the priority, indication, or safest action in this stem.</li>`).join('')}</ul></div>`;
+  }else if(q.type==='multi'){
+    review=`<div class="choice-review"><b>Choice map</b><ul>${q.choices.map((c,i)=>`<li>${q.answer.includes(i)?'✓ Correct':'— Not selected in the keyed answer'}: ${esc(c)}</li>`).join('')}</ul></div>`;
+  }else{
+    review=`<div class="choice-review"><b>Correct sequence</b><p>${esc(correct)}</p></div>`;
+  }
+  return `<h3>${responseLabel(pts)}${pts>0&&pts<1?` — ${Math.round(pts*100)}% credit`:''}</h3><p><b>Correct answer:</b> ${esc(correct)}</p><p>${esc(q.rationale)}</p>${review}<div class="rule"><b>Rule to remember:</b> ${esc(q.rule)}</div>`;
+}
+function markChoices(el,q,response){
+  if(q.type==='ordered'){const rows=[...el.querySelectorAll('.order-item')];rows.forEach((r,pos)=>r.classList.add(response[pos]===q.answer[pos]?'correct':'wrong'));return;}
+  [...el.querySelectorAll('.choice')].forEach((l,i)=>{const isCorrect=Array.isArray(q.answer)?q.answer.includes(i):q.answer===i;const chosen=Array.isArray(response)?response.includes(i):response===i;if(isCorrect)l.classList.add('correct');if(chosen&&!isCorrect)l.classList.add('wrong');l.querySelector('input').disabled=true;});
+}
+function recordStandalone(q,pts,fromMissed=false){
+  S.answered++;S.points+=pts;const cs=categoryStat(q.cat);cs.a++;cs.p+=pts;
+  if(pts<.999)S.missed[q.id]=(S.missed[q.id]||0)+1;
+  else if(S.missed[q.id]){delete S.missed[q.id];S.reviewed++;}
+  save();
+}
+function renderPracticeQuestion(){
+  const ps=practiceSession,q=ps.items[ps.index];ps.answeredCurrent=false;pOrder=[];
+  $('pNum').textContent=`${ps.index+1} of ${ps.items.length}`;$('pScore').textContent=`${Math.round(ps.points*10)/10} pts`;$('pTrack').style.width=`${ps.index/ps.items.length*100}%`;
+  $('pCategory').textContent=CAT[q.cat];$('pType').textContent=q.type==='multi'?'Select all':q.type==='ordered'?'Ordered':'Single best';$('pDifficulty').textContent=q.diff;
+  $('pStem').textContent=q.stem;$('pInstruction').textContent=instructionFor(q);initOrder(q,'p');renderChoices($('pChoices'),q,'p');
+  $('pFeedback').className='feedback hide';$('pFeedback').innerHTML='';$('pCheck').classList.remove('hide');$('pNext').classList.add('hide');$('pSkip').classList.remove('hide');
+  $('pBookmark').textContent=S.saved.includes(q.id)?'★':'☆';$('pBookmark').onclick=()=>{S.saved=S.saved.includes(q.id)?S.saved.filter(x=>x!==q.id):[...S.saved,q.id];save();$('pBookmark').textContent=S.saved.includes(q.id)?'★':'☆'};
+}
+function checkPracticeAnswer(){
+  if(practiceSession.answeredCurrent)return;const q=practiceSession.items[practiceSession.index],r=getResponse(q,'p');if(!hasResponse(q,r)){alert('Choose an answer first.');return;}
+  const pts=scoreResponse(q,r);practiceSession.points+=pts;practiceSession.answeredCurrent=true;recordStandalone(q,pts,practiceSession.mode==='missed');markChoices($('pChoices'),q,r);
+  const f=$('pFeedback');f.className=`feedback ${pts>=.999?'good':pts>0?'partial':'bad'}`;f.innerHTML=feedbackHTML(q,pts);
+  $('pCheck').classList.add('hide');$('pSkip').classList.add('hide');$('pNext').classList.remove('hide');$('pTrack').style.width=`${(practiceSession.index+1)/practiceSession.items.length*100}%`;
+}
+function nextPracticeQuestion(skipped){
+  if(skipped&&!practiceSession.answeredCurrent){const q=practiceSession.items[practiceSession.index];recordStandalone(q,0,practiceSession.mode==='missed');practiceSession.answeredCurrent=true;}
+  practiceSession.index++;if(practiceSession.index>=practiceSession.items.length)return finishPractice();renderPracticeQuestion();
+}
+function finishPractice(){
+  $('practicePlayer').classList.add('hide');const pct=Math.round(practiceSession.points/practiceSession.items.length*100);const r=$('practiceResult');r.classList.remove('hide');
+  r.innerHTML=`<div class="card result-card"><span class="eyebrow">SESSION COMPLETE</span><div class="result-score">${pct}%</div><h2>${pct>=80?'Strong session':pct>=65?'Keep building':'Target the misses'}</h2><p class="sub">${Math.round(practiceSession.points*10)/10} of ${practiceSession.items.length} practice points earned.</p><div class="result-actions"><button onclick="beginPractice()">Repeat mode</button><button class="ghost" onclick="go('review')">Review misses</button></div></div>`;
+  renderHome();
+}
+function exitPractice(){if(practiceSession&&practiceSession.index>0&&!confirm('Exit this practice session?'))return;showPracticeSetup();}
+
+function renderCaseList(){
+  $('caseList').classList.remove('hide');$('casePlayer').classList.add('hide');$('caseResult').classList.add('hide');
+  $('caseCards').innerHTML=CASES.map((c,i)=>`<div class="card case-card"><div><span class="eyebrow">6-QUESTION NGN CASE</span><h2>${esc(c.title)}</h2><p>${esc(c.summary)}</p></div><button onclick="startCase(${i})">Start case</button></div>`).join('');
+}
+function startCase(i){currentCase=CASES[i];caseIndex=0;casePoints=0;$('caseList').classList.add('hide');$('caseResult').classList.add('hide');$('casePlayer').classList.remove('hide');renderCaseQuestion();}
+function exitCase(){if(caseIndex>0&&!confirm('Exit this case?'))return;renderCaseList();}
+function renderCaseQuestion(){
+  const q=currentCase.items[caseIndex];caseOrder=[];$('cNum').textContent=`${caseIndex+1} of 6`;$('cScore').textContent=`${Math.round(casePoints*10)/10} pts`;$('cTrack').style.width=`${caseIndex/6*100}%`;
+  $('cStage').textContent=q.stage;$('cTitle').textContent=currentCase.title;$('cSummary').textContent=currentCase.summary;
+  const tabs={Summary:currentCase.summary,...currentCase.tabs};$('cTabs').innerHTML=Object.keys(tabs).map((k,i)=>`<button class="${i===0?'active':''}" onclick="showCaseTab('${k.replace(/'/g,"\\'")}')">${esc(k)}</button>`).join('');$('cData').textContent=tabs.Summary;
+  $('cStem').textContent=q.stem;$('cInstruction').textContent=instructionFor(q);initOrder(q,'c');renderChoices($('cChoices'),q,'c');$('cFeedback').className='feedback hide';$('cCheck').classList.remove('hide');$('cNext').classList.add('hide');
+}
+function showCaseTab(k){const tabs={Summary:currentCase.summary,...currentCase.tabs};$('cData').textContent=tabs[k];[...$('cTabs').children].forEach(b=>b.classList.toggle('active',b.textContent===k));}
+function checkCaseAnswer(){
+  const q=currentCase.items[caseIndex],r=getResponse(q,'c');if(!hasResponse(q,r)){alert('Choose an answer first.');return;}const pts=scoreResponse(q,r);casePoints+=pts;markChoices($('cChoices'),q,r);const f=$('cFeedback');f.className=`feedback ${pts>=.999?'good':pts>0?'partial':'bad'}`;f.innerHTML=feedbackHTML(q,pts);$('cCheck').classList.add('hide');$('cNext').classList.remove('hide');$('cTrack').style.width=`${(caseIndex+1)/6*100}%`;
+}
+function nextCaseQuestion(){caseIndex++;if(caseIndex>=currentCase.items.length)return finishCase();renderCaseQuestion();}
+function finishCase(){const pct=Math.round(casePoints/currentCase.items.length*100);S.caseScores.push({id:currentCase.id,date:new Date().toISOString(),score:pct});S.caseScores=S.caseScores.slice(-30);save();$('casePlayer').classList.add('hide');$('caseResult').classList.remove('hide');$('caseResult').innerHTML=`<div class="card result-card"><span class="eyebrow">CASE COMPLETE</span><h2>${esc(currentCase.title)}</h2><div class="result-score">${pct}%</div><p class="sub">Practice score across all six clinical-judgment steps.</p><div class="result-actions"><button onclick="startCase(${CASES.indexOf(currentCase)})">Repeat case</button><button class="ghost" onclick="renderCaseList()">Choose another</button></div></div>`;}
+
+function showExamSetup(){clearInterval(examTimer);$('examSetup').classList.remove('hide');$('examPlayer').classList.add('hide');$('examResult').classList.add('hide');}
+function weightedCounts(n){
+  const entries=Object.entries(WEIGHTS).map(([c,w])=>({c,raw:n*w/100,n:Math.floor(n*w/100)}));let rem=n-entries.reduce((a,x)=>a+x.n,0);entries.sort((a,b)=>(b.raw-b.n)-(a.raw-a.n));for(let i=0;i<rem;i++)entries[i%entries.length].n++;return Object.fromEntries(entries.map(x=>[x.c,x.n]));
+}
+function buildStandalone(n){const counts=weightedCounts(n),out=[];Object.entries(counts).forEach(([c,count])=>out.push(...shuffle(Q.filter(q=>q.cat===c)).slice(0,count)));return shuffle(out);}
+function caseExamItems(){return CASES.map((c,ci)=>c.items.map((item,ii)=>({source:'case',q:{...item,cat:null,diff:'NGN'},case:c,caseIndex:ci,itemIndex:ii})));}
+function buildExam(len){
+  const stand=buildStandalone(len-18),blocks=caseExamItems();const chunks=[[],[],[],[]];stand.forEach((q,i)=>chunks[Math.min(3,Math.floor(i/(stand.length/4)))].push({source:'standalone',q}));
+  return [...chunks[0],...blocks[0],...chunks[1],...blocks[1],...chunks[2],...blocks[2],...chunks[3]];
+}
+function beginExam(){
+  examSession={items:buildExam(examLength),index:0,points:0,answers:[],cat:{}};examStartedAt=Date.now();$('examSetup').classList.add('hide');$('examResult').classList.add('hide');$('examPlayer').classList.remove('hide');
+  clearInterval(examTimer);examTimer=setInterval(updateTimer,1000);updateTimer();renderExamQuestion();
+}
+function updateTimer(){if(!examSession)return;const elapsed=Math.floor((Date.now()-examStartedAt)/1000),left=Math.max(0,5*60*60-elapsed),h=Math.floor(left/3600),m=Math.floor((left%3600)/60),sec=left%60;$('eTimer').textContent=[h,m,sec].map(x=>String(x).padStart(2,'0')).join(':');if(left===0){clearInterval(examTimer);finishExam(true);}}
+function renderExamQuestion(){
+  const item=examSession.items[examSession.index],q=item.q;eOrder=[];$('eNum').textContent=`Question ${examSession.index+1} of ${examSession.items.length}`;$('eCat').textContent=item.source==='case'?`${item.q.stage} • ${item.case.title}`:CAT[q.cat];$('eTrack').style.width=`${examSession.index/examSession.items.length*100}%`;
+  if(item.source==='case'){$('eCaseContext').classList.remove('hide');$('eCaseContext').innerHTML=`<b>${esc(item.case.title)} — ${esc(item.q.stage)}</b><br>${esc(item.case.summary)}<br><small>${esc(item.case.tabs.Vitals||'')}</small>`;}else $('eCaseContext').classList.add('hide');
+  $('eStem').textContent=q.stem;$('eInstruction').textContent=instructionFor(q);initOrder(q,'e');renderChoices($('eChoices'),q,'e');$('eNext').textContent=examSession.index===examSession.items.length-1?'Finish exam':'Next';
+}
+function examNext(){
+  const item=examSession.items[examSession.index],q=item.q,r=getResponse(q,'e');if(!hasResponse(q,r)){alert('Choose an answer before moving on. You cannot return to this question.');return;}const pts=scoreResponse(q,r);examSession.points+=pts;examSession.answers.push({item,response:r,points:pts});
+  if(item.source==='standalone'){const cs=examSession.cat[q.cat]??={a:0,p:0};cs.a++;cs.p+=pts;if(pts<.999)S.missed[q.id]=(S.missed[q.id]||0)+1;}
+  examSession.index++;if(examSession.index>=examSession.items.length)return finishExam(false);renderExamQuestion();
+}
+function confirmExitExam(){if(confirm('End the exam now? Unanswered questions will count as zero in this practice score.'))finishExam(true);}
+function finishExam(endedEarly){
+  clearInterval(examTimer);const total=examSession.items.length,pct=Math.round(examSession.points/total*100),elapsed=Math.floor((Date.now()-examStartedAt)/1000);S.exams.push({date:new Date().toISOString(),score:pct,len:total,answered:examSession.answers.length,elapsed});S.exams=S.exams.slice(-20);save();$('examPlayer').classList.add('hide');$('examResult').classList.remove('hide');
+  const cats=Object.entries(examSession.cat).sort((a,b)=>accuracy(a[1])-accuracy(b[1])).slice(0,3);
+  const review=examSession.answers.filter(a=>a.points<.999);
+  const reviewHtml=review.length?`<div class="card exam-review"><div class="section-head"><div><span class="eyebrow">POST-EXAM REMEDIATION</span><h2>Missed & partial-credit items</h2></div><b>${review.length}</b></div>${review.map((a,i)=>{const q=a.item.q;return `<details class="exam-review-item"><summary><b>${i+1}. ${esc(q.stem)}</b> — ${Math.round(a.points*100)}%</summary><p><b>Correct answer:</b> ${esc(correctAnswerText(q))}</p><p>${esc(q.rationale)}</p><div class="rule"><b>Rule:</b> ${esc(q.rule)}</div></details>`}).join('')}</div>`:'';
+  $('examResult').innerHTML=`<div class="card result-card"><span class="eyebrow">${endedEarly?'EXAM ENDED':'SIMULATION COMPLETE'}</span><div class="result-score">${pct}%</div><h2>${pct>=80?'Strong practice result':pct>=65?'Building readiness':'More remediation recommended'}</h2><p class="sub">${Math.round(examSession.points*10)/10} practice points out of ${total}. Answered ${examSession.answers.length}/${total}. This is not an official NCLEX pass probability.</p>${cats.length?`<div class="case-data" style="text-align:left"><b>Lowest tested areas</b><br>${cats.map(([c,s])=>`${esc(CAT[c])}: ${fmtPct(accuracy(s))}`).join('<br>')}</div>`:''}<div class="result-actions"><button onclick="beginExam()">Retake ${total}</button><button class="ghost" onclick="go('review')">Review misses</button></div></div>${reviewHtml}`;renderHome();
+}
+
+function renderProgress(){
+  $('progAcc').textContent=fmtPct(S.answered?S.points/S.answered*100:NaN);$('progBest').textContent=S.exams.length?Math.max(...S.exams.map(x=>x.score))+'%':'—';$('progCase').textContent=S.caseScores.length?Math.round(S.caseScores.reduce((a,x)=>a+x.score,0)/S.caseScores.length)+'%':'—';$('progReviewed').textContent=S.reviewed;
+  $('categoryProgress').innerHTML=Object.entries(CAT).map(([c,name])=>{const a=accuracy(S.cat[c]),p=Number.isFinite(a)?a:0,cls=Number.isFinite(a)?a<65?'weak':a>=80?'strong':'':'';return `<div class="prog-row"><span>${esc(name)} <small style="display:block;color:#667085">${WEIGHTS[c]}% of 2026 blueprint</small></span><div class="bar"><i style="width:${p}%"></i></div><b class="${cls}">${Number.isFinite(a)?Math.round(a)+'%':'—'}</b></div>`}).join('');
+  const hist=[...S.exams].reverse();$('examHistory').innerHTML=hist.length?hist.map(x=>`<div class="history-row"><div><b>${x.len}-question simulation</b><small>${new Date(x.date).toLocaleDateString()}</small></div><small>${Math.round(x.elapsed/60)} min</small><b>${x.score}%</b></div>`).join(''):'<p class="sub">No full simulations yet.</p>';
+}
+
+function saveExamDate(){S.examDate=$('examDate').value;save();renderPlan();renderHome();}
+function renderPlan(){
+  $('examDate').value=S.examDate||'';const days=daysUntil(S.examDate),m=studyMission(days);const body=$('planBody');
+  if(days===null){body.innerHTML='<div class="card plan-day"><p class="sub">Choose the scheduled exam date above to generate the countdown plan.</p></div>';return;}
+  const phase=days<=7?'Final simulation week':days<=14?'Intensive remediation':days<=28?'Build + remediate':'Foundation phase';
+  body.innerHTML=`<div class="card plan-day"><span class="plan-badge">${esc(phase)}</span><h2 style="margin-top:12px">${esc(m.title)}</h2><p class="sub">${esc(m.text)}</p><div class="plan-list">${m.tasks.map(([k,t],i)=>`<div class="plan-task"><span>${i+1}</span><div><b>${esc(t)}</b><small style="display:block;color:#667085">${k==='exam'?'Simulate test-day pacing with no rationales until the end.':k==='cases'?'Complete all six clinical-judgment steps.':'Review every rationale and rule to remember.'}</small></div></div>`).join('')}</div></div><div class="card plan-day"><span class="eyebrow">WEEKLY RHYTHM</span><h2>What to repeat</h2><div class="plan-list"><div class="plan-task"><span>1</span><div><b>Mixed client-needs practice</b><small style="display:block;color:#667085">Keeps the eight tested areas in rotation.</small></div></div><div class="plan-task"><span>2</span><div><b>Weak-area remediation</b><small style="display:block;color:#667085">The app automatically targets low-scoring categories.</small></div></div><div class="plan-task"><span>3</span><div><b>NGN clinical judgment</b><small style="display:block;color:#667085">Practice recognizing cues through evaluating outcomes.</small></div></div></div></div>`;
+}
+
+function renderReview(){renderReviewList();}
+function renderReviewList(){
+  const ids=reviewTab==='missed'?Object.keys(S.missed).map(Number).sort((a,b)=>(S.m
