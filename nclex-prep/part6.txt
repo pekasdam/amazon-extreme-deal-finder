@@ -1,0 +1,12 @@
+issed[b]||0)-(S.missed[a]||0)):S.saved;
+  const qs=ids.map(id=>Q.find(q=>q.id===id)).filter(Boolean);$('reviewActions').innerHTML=reviewTab==='missed'&&qs.length?`<button class="big-btn" onclick="openPractice('missed')">Practice missed questions</button>`:'';
+  $('reviewList').innerHTML=qs.length?qs.slice(0,50).map(q=>`<div class="card review-card"><div class="review-meta"><span>${esc(CAT[q.cat])}</span><span>${reviewTab==='missed'?`${S.missed[q.id]} miss${S.missed[q.id]===1?'':'es'}`:'Bookmarked'}</span></div><h3>${esc(q.stem)}</h3><p><b>Answer:</b> ${esc(correctAnswerText(q))}</p><p><b>Why:</b> ${esc(q.rationale)}</p><button onclick="launchSingle(${q.id})">Practice this question</button></div>`).join(''):`<div class="card"><p class="sub">${reviewTab==='missed'?'No missed questions waiting for review.':'No bookmarks yet. Tap ☆ while practicing.'}</p></div>`;
+}
+function correctAnswerText(q){if(q.type==='single')return q.choices[q.answer];if(q.type==='multi')return q.answer.map(i=>q.choices[i]).join('; ');return q.answer.map((i,n)=>`${n+1}. ${q.choices[i]}`).join(' → ');}
+function launchSingle(id){const q=Q.find(x=>x.id===id);if(!q)return;practiceMode=S.missed[id]?'missed':'mixed';practiceSession={items:[q],index:0,points:0,answeredCurrent:false,mode:practiceMode};go('practice');$('practiceSetup').classList.add('hide');$('practiceResult').classList.add('hide');$('practicePlayer').classList.remove('hide');renderPracticeQuestion();}
+
+let deferredInstall=null;window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();deferredInstall=e;$('installBtn').hidden=false});$('installBtn').onclick=async()=>{if(!deferredInstall)return;deferredInstall.prompt();await deferredInstall.userChoice;deferredInstall=null;$('installBtn').hidden=true};
+
+setupSelectors();renderHome();renderCaseList();
+</script>
+</body></html>
