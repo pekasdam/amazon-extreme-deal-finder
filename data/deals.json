@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-08-28T18:39:33.096228+00:00",
+  "generated_at": "2026-08-29T03:42:39.244941+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 23,
   "deals": [
+    {
+      "asin": "B0DJGDC3BD",
+      "title": "Amazon Fire TV Stick HD (newest model), free & live TV, Alexa Voice Remote, powered by the TV, effortless setup, find shows faster with Alexa+",
+      "current_price": 17.99,
+      "reference_price": 39.99,
+      "discount_percent": 55.01,
+      "savings": 22.0,
+      "tier": "\u2705 50%+ GOOD DEAL",
+      "score": 55,
+      "detected_at": "2026-08-29T03:42:39.244780+00:00",
+      "amazon_url": "https://www.amazon.com/Amazon-Fire-TV-Stick-HD-Thin-and-Portable/dp/B0DJGDC3BD",
+      "image_url": "https://m.media-amazon.com/images/I/610j-wmxRcL.jpg"
+    },
+    {
+      "asin": "B0FYPGR48K",
+      "title": "Brightown 52FT Solar String Lights Outdoor Waterproof, Up to 26Hrs Runtime | 15+1 LED Bulbs, USB & Solar Powered, Remote Control & Dimmable Timer, Ideal for Backyard, Garden, Camping & Christmas Decor",
+      "current_price": 17.99,
+      "reference_price": 39.99,
+      "discount_percent": 55.01,
+      "savings": 22.0,
+      "tier": "\u2705 50%+ GOOD DEAL",
+      "score": 55,
+      "detected_at": "2026-08-29T03:42:39.244812+00:00",
+      "amazon_url": "https://www.amazon.com/Brightown-Outdoor-Waterproof-Shatterproof-Dimmable/dp/B0FYPGR48K",
+      "image_url": "https://m.media-amazon.com/images/I/71DtVWb7JbL.jpg"
+    },
     {
       "asin": "B01M16WBW1",
       "title": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - White | Hotel Luxury Bed Sheets for Women & Men, Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets, Oeko-Tex Bed Sheet Set",
@@ -12,7 +38,7 @@
       "savings": 18.76,
       "tier": "Amazon Deal",
       "score": 47,
-      "detected_at": "2026-08-28T18:39:33.095934+00:00",
+      "detected_at": "2026-08-29T03:42:39.244658+00:00",
       "amazon_url": "https://www.amazon.com/Queen-Size-Piece-Sheet-Set/dp/B01M16WBW1",
       "image_url": "https://m.media-amazon.com/images/I/61o6SkL3DOL.jpg"
     },
@@ -25,7 +51,7 @@
       "savings": 140.0,
       "tier": "Amazon Deal",
       "score": 47,
-      "detected_at": "2026-08-28T18:39:33.095948+00:00",
+      "detected_at": "2026-08-29T03:42:39.244721+00:00",
       "amazon_url": "https://www.amazon.com/INSIGNIA-Class-Smart-Remote-NS-50F502NA26/dp/B0F1DGM1TM",
       "image_url": "https://m.media-amazon.com/images/I/8107AeAPxhL.jpg"
     },
@@ -38,35 +64,22 @@
       "savings": 92.0,
       "tier": "Amazon Deal",
       "score": 46,
-      "detected_at": "2026-08-28T18:39:33.096012+00:00",
+      "detected_at": "2026-08-29T03:42:39.244738+00:00",
       "amazon_url": "https://www.amazon.com/ROVE-R2-4K-DUAL-STARVIS-Included/dp/B0D6J5B98H",
       "image_url": "https://m.media-amazon.com/images/I/81ockFWJLsL.jpg"
     },
     {
-      "asin": "B07S652B12",
-      "title": "Shark Pet Cordless Stick Vacuum, Grey, IX141 | HyperVelocity Suction, XL Dust Cup, LED Headlights, Removeable Handheld, Crevice & Pet Tool, 40-Min Runtime, Lightweight",
-      "current_price": 169.0,
-      "reference_price": 299.99,
-      "discount_percent": 43.66,
-      "savings": 130.99,
+      "asin": "B0F7Z4QZTT",
+      "title": "Amazon Fire TV Stick 4K Plus (newest model) with AI-powered Fire TV Search, Wi-Fi 6, stream hundreds of thousands of movies and shows, free & live TV, find shows faster with Alexa+",
+      "current_price": 39.99,
+      "reference_price": 69.99,
+      "discount_percent": 42.86,
+      "savings": 30.0,
       "tier": "Amazon Deal",
-      "score": 44,
-      "detected_at": "2026-08-28T18:39:33.096075+00:00",
-      "amazon_url": "https://www.amazon.com/Shark-Lightweight-Rechargeable-Removable-IX141/dp/B07S652B12",
-      "image_url": "https://m.media-amazon.com/images/I/61U1ACMvrHL.jpg"
-    },
-    {
-      "asin": "B0GWFF75Z5",
-      "title": "Pocket Hose Ballistic 100 FT Expandable Garden Hose, No-Kink, As Seen on TV | Anti-burst sleeve reinforced with bulletproof fiber, 360\u00b0 swiveling pocket pivot connector, lightweight compact design",
-      "current_price": 69.99,
-      "reference_price": 119.99,
-      "discount_percent": 41.67,
-      "savings": 50.0,
-      "tier": "Amazon Deal",
-      "score": 42,
-      "detected_at": "2026-08-28T18:39:33.096050+00:00",
-      "amazon_url": "https://www.amazon.com/Pocket-Hose-Ballistic-Expandable-No-Kink/dp/B0GWFF75Z5",
-      "image_url": "https://m.media-amazon.com/images/I/81SV8FRKAEL.jpg"
+      "score": 43,
+      "detected_at": "2026-08-29T03:42:39.244633+00:00",
+      "amazon_url": "https://www.amazon.com/Amazon-newest-AI-powered-Search-million/dp/B0F7Z4QZTT",
+      "image_url": "https://m.media-amazon.com/images/I/51WtNy0OxLL.jpg"
     },
     {
       "asin": "B01GNVF8S8",
@@ -77,7 +90,7 @@
       "savings": 40.01,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-08-28T18:39:33.096002+00:00",
+      "detected_at": "2026-08-29T03:42:39.244764+00:00",
       "amazon_url": "https://www.amazon.com/Waterpik-Cordless-Rechargeable-Portable-Irrigator/dp/B01GNVF8S8",
       "image_url": "https://m.media-amazon.com/images/I/71eBZVebI4L.jpg"
     },
@@ -90,48 +103,22 @@
       "savings": 270.0,
       "tier": "Amazon Deal",
       "score": 39,
-      "detected_at": "2026-08-28T18:39:33.095960+00:00",
+      "detected_at": "2026-08-29T03:42:39.244756+00:00",
       "amazon_url": "https://www.amazon.com/roborock-Qrevo-Pro-Multifunctional-Self-Cleaning/dp/B0GGRSMXKN",
       "image_url": "https://m.media-amazon.com/images/I/61dUJLJCe5L.jpg"
     },
     {
-      "asin": "B0CCZC9J1V",
-      "title": "Bose QuietComfort Headphones - Wireless Bluetooth Headphones, Active Over Ear Noise Cancelling and Mic, USB-C Charging, Deep Bass, Up to 24 Hours of Playtime, White Smoke",
+      "asin": "B0CCZ26B5V",
+      "title": "Bose QuietComfort Headphones - Wireless Bluetooth Headphones, Active Over Ear Noise Cancelling and Mic, USB-C Charging, Deep Bass, Up to 24 Hours of Playtime, Black",
       "current_price": 229.0,
       "reference_price": 359.0,
       "discount_percent": 36.21,
       "savings": 130.0,
       "tier": "Amazon Deal",
       "score": 36,
-      "detected_at": "2026-08-28T18:39:33.095912+00:00",
-      "amazon_url": "https://www.amazon.com/Bose-QuietComfort-Cancelling-Headphones-Bluetooth/dp/B0CCZC9J1V",
-      "image_url": "https://m.media-amazon.com/images/I/51K77J9rCjL.jpg"
-    },
-    {
-      "asin": "B0DXHGTMQL",
-      "title": "The AirScent Waterless Diffuser - Cold Air Scent Diffuser Oil Machine | For Homes, Offices, Hotels and Spas - Aromatherapy Diffuser For Aesthetic Scenting - Black - 4.05 Oz - Fragrance Not Included",
-      "current_price": 66.45,
-      "reference_price": 99.99,
-      "discount_percent": 33.54,
-      "savings": 33.54,
-      "tier": "Amazon Deal",
-      "score": 34,
-      "detected_at": "2026-08-28T18:39:33.095899+00:00",
-      "amazon_url": "https://www.amazon.com/AirScent-Waterless-Diffuser-Fragrance-Aromatherapy/dp/B0DXHGTMQL",
-      "image_url": "https://m.media-amazon.com/images/I/61XTghTDE8L.jpg"
-    },
-    {
-      "asin": "B08F6GPQQ7",
-      "title": "Ring Floodlight Cam Wired Plus, Outdoor home or business security with motion-activated 1080p HD video and floodlights, White",
-      "current_price": 119.99,
-      "reference_price": 179.99,
-      "discount_percent": 33.34,
-      "savings": 60.0,
-      "tier": "Amazon Deal",
-      "score": 33,
-      "detected_at": "2026-08-28T18:39:33.096088+00:00",
-      "amazon_url": "https://www.amazon.com/Ring-Floodlight-Cam-Wired-Plus/dp/B08F6GPQQ7",
-      "image_url": "https://m.media-amazon.com/images/I/41jJhGQLvWL.jpg"
+      "detected_at": "2026-08-29T03:42:39.244698+00:00",
+      "amazon_url": "https://www.amazon.com/Bose-QuietComfort-Cancelling-Headphones-Bluetooth/dp/B0CCZ26B5V",
+      "image_url": "https://m.media-amazon.com/images/I/61windvlNZL.jpg"
     },
     {
       "asin": "B0GLV9PML4",
@@ -142,7 +129,7 @@
       "savings": 72.0,
       "tier": "Amazon Deal",
       "score": 32,
-      "detected_at": "2026-08-28T18:39:33.095821+00:00",
+      "detected_at": "2026-08-29T03:42:39.244596+00:00",
       "amazon_url": "https://www.amazon.com/Samsung-Odyssey-1440P-Gaming-Monitor/dp/B0GLV9PML4",
       "image_url": "https://m.media-amazon.com/images/I/71HCnFPkVhL.jpg"
     },
@@ -155,7 +142,7 @@
       "savings": 18.02,
       "tier": "Amazon Deal",
       "score": 30,
-      "detected_at": "2026-08-28T18:39:33.095992+00:00",
+      "detected_at": "2026-08-29T03:42:39.244730+00:00",
       "amazon_url": "https://www.amazon.com/Pillows-for-Sleeping-2-Pack/dp/B01LYNW421",
       "image_url": "https://m.media-amazon.com/images/I/61XtBANZuJL.jpg"
     },
@@ -168,7 +155,7 @@
       "savings": 30.0,
       "tier": "Amazon Deal",
       "score": 30,
-      "detected_at": "2026-08-28T18:39:33.095875+00:00",
+      "detected_at": "2026-08-29T03:42:39.244648+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
       "image_url": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg"
     },
@@ -181,22 +168,35 @@
       "savings": 30.0,
       "tier": "Amazon Deal",
       "score": 30,
-      "detected_at": "2026-08-28T18:39:33.096062+00:00",
+      "detected_at": "2026-08-29T03:42:39.244772+00:00",
       "amazon_url": "https://www.amazon.com/All-new-Echo-Show-5/dp/B09B2SBHQK",
       "image_url": "https://m.media-amazon.com/images/I/61gwIm-iSnL.jpg"
     },
     {
-      "asin": "B0DC91H3JK",
-      "title": "Amazon Echo Show 11 (newest model), Vibrant Full-HD 11\" display with more viewing area and spatial audio, Designed for Alexa+, Graphite",
+      "asin": "B09JZ5BG26",
+      "title": "Ring Spotlight Cam Plus, Battery, Home or business security with HD video, Two-Way Talk, Color Night Vision, and Security Siren, White",
+      "current_price": 109.99,
+      "reference_price": 149.99,
+      "discount_percent": 26.67,
+      "savings": 40.0,
+      "tier": "Amazon Deal",
+      "score": 27,
+      "detected_at": "2026-08-29T03:42:39.244796+00:00",
+      "amazon_url": "https://www.amazon.com/Ring-Spotlight-Cam-Plus-Battery-White/dp/B09JZ5BG26",
+      "image_url": "https://m.media-amazon.com/images/I/51AGnaahGML.jpg"
+    },
+    {
+      "asin": "B0DC96PPZK",
+      "title": "Amazon Echo Show 11 (newest model), Vibrant Full-HD 11\" display with more viewing area and spatial audio, Designed for Alexa+, Glacier White",
       "current_price": 189.99,
       "reference_price": 249.99,
       "discount_percent": 24.0,
       "savings": 60.0,
       "tier": "Amazon Deal",
       "score": 24,
-      "detected_at": "2026-08-28T18:39:33.095982+00:00",
-      "amazon_url": "https://www.amazon.com/Amazon-Echo-Show-11-Vibrant-Full-HD-11-display-Graphite-Amazon/dp/B0DC91H3JK",
-      "image_url": "https://m.media-amazon.com/images/I/51Aqp1X3LzL.jpg"
+      "detected_at": "2026-08-29T03:42:39.244690+00:00",
+      "amazon_url": "https://www.amazon.com/Amazon-Echo-Show-11-Vibrant-Full-HD-11-display-Glacier-White-Amazon/dp/B0DC96PPZK",
+      "image_url": "https://m.media-amazon.com/images/I/61zm0lzJHcL.jpg"
     },
     {
       "asin": "B0C5DPSW5Y",
@@ -207,22 +207,35 @@
       "savings": 80.0,
       "tier": "Amazon Deal",
       "score": 23,
-      "detected_at": "2026-08-28T18:39:33.096037+00:00",
+      "detected_at": "2026-08-29T03:42:39.244788+00:00",
       "amazon_url": "https://www.amazon.com/Echo-Show-15-Smart-Display/dp/B0C5DPSW5Y",
       "image_url": "https://m.media-amazon.com/images/I/61xQl81iYQL.jpg"
     },
     {
-      "asin": "B0GVTPKJVT",
-      "title": "Amazon Fire HD 10 tablet, built for relaxation, 10.1\" vibrant Full HD screen, octa-core processor, 4 GB RAM, 32 GB, Black",
-      "current_price": 119.99,
-      "reference_price": 154.99,
-      "discount_percent": 22.58,
-      "savings": 35.0,
+      "asin": "B0DDL8WGH5",
+      "title": "DJI Mic Mini (2 TX + 1 RX + Charging Case), Ultralight, Detail-Rich Audio | 48h Use, Noise Cancelling, Automatic Limiting, Wireless Microphone for Camera/iPhone/Android, Vlog, Streaming",
+      "current_price": 78.99,
+      "reference_price": 99.0,
+      "discount_percent": 20.21,
+      "savings": 20.01,
       "tier": "Amazon Deal",
-      "score": 23,
-      "detected_at": "2026-08-28T18:39:33.096024+00:00",
-      "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT",
-      "image_url": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg"
+      "score": 20,
+      "detected_at": "2026-08-29T03:42:39.244804+00:00",
+      "amazon_url": "https://www.amazon.com/DJI-Microphone-Ultralight-Detail-Rich-Cancelling/dp/B0DDL8WGH5",
+      "image_url": "https://m.media-amazon.com/images/I/6132m-fHnjL.jpg"
+    },
+    {
+      "asin": "B00GB85JR4",
+      "title": "NatureWise Vitamin D3 5000IU Supplement, Immune Support, 360 Mini Softgels | Vitamin D 125 mcg - Organic Extra Virgin Olive Oil - Muscle & Bone Support - Gluten Free & USA Manufactured - 1-Year Supply",
+      "current_price": 11.98,
+      "reference_price": 14.99,
+      "discount_percent": 20.08,
+      "savings": 3.01,
+      "tier": "Amazon Deal",
+      "score": 20,
+      "detected_at": "2026-08-29T03:42:39.244827+00:00",
+      "amazon_url": "https://www.amazon.com/NatureWise-Vitamin-Function-Cold-Pressed-Gluten-Free/dp/B00GB85JR4",
+      "image_url": "https://m.media-amazon.com/images/I/7162k36ybFL.jpg"
     },
     {
       "asin": "B09V7Z4TJG",
@@ -233,7 +246,7 @@
       "savings": 3.78,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-08-28T18:39:33.095970+00:00",
+      "detected_at": "2026-08-29T03:42:39.244681+00:00",
       "amazon_url": "https://www.amazon.com/Medicube-Zero-Pore-Pads-Dual-Textured/dp/B09V7Z4TJG",
       "image_url": "https://m.media-amazon.com/images/I/71Mcspt-6AL.jpg"
     },
@@ -246,7 +259,7 @@
       "savings": 2.59,
       "tier": "Amazon Deal",
       "score": 19,
-      "detected_at": "2026-08-28T18:39:33.096100+00:00",
+      "detected_at": "2026-08-29T03:42:39.244820+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Basics-AAA-High-Performance-36/dp/B00LH3DMUO",
       "image_url": "https://m.media-amazon.com/images/I/81Apg8B6+0L.jpg"
     },
@@ -259,7 +272,7 @@
       "savings": 2.5,
       "tier": "Amazon Deal",
       "score": 16,
-      "detected_at": "2026-08-28T18:39:33.095923+00:00",
+      "detected_at": "2026-08-29T03:42:39.244712+00:00",
       "amazon_url": "https://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-Count/dp/B00MNV8E0C",
       "image_url": "https://m.media-amazon.com/images/I/81iJ+tnLADL.jpg"
     },
@@ -272,7 +285,7 @@
       "savings": 7.5,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-08-28T18:39:33.095859+00:00",
+      "detected_at": "2026-08-29T03:42:39.244670+00:00",
       "amazon_url": "https://www.amazon.com/DoorDash-DoorDash_Standard_50-eGift-Card/dp/B0FQN3LKFR",
       "image_url": "https://m.media-amazon.com/images/I/31WWEaejRiL.jpg"
     },
@@ -285,22 +298,9 @@
       "savings": 7.5,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-08-28T18:39:33.095887+00:00",
+      "detected_at": "2026-08-29T03:42:39.244747+00:00",
       "amazon_url": "https://www.amazon.com/DoorDash-Physical-Gift-Card-50/dp/B0FKFS63D1",
       "image_url": "https://m.media-amazon.com/images/I/41FhRjzXelL.jpg"
-    },
-    {
-      "asin": "B004MFME2G",
-      "title": "Nespresso Original, Livanto, Medium Roast, 50-Count Espresso Coffee Pods | Capsules Pack of 1",
-      "current_price": 38.25,
-      "reference_price": 45.0,
-      "discount_percent": 15.0,
-      "savings": 6.75,
-      "tier": "Amazon Deal",
-      "score": 15,
-      "detected_at": "2026-08-28T18:39:33.096113+00:00",
-      "amazon_url": "https://www.amazon.com/Nespresso-Original-Livanto-50-Count-Espresso/dp/B004MFME2G",
-      "image_url": "https://m.media-amazon.com/images/I/81TVsDRQcKL.jpg"
     }
   ]
 }
