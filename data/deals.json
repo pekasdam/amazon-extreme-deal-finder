@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-09-02T17:53:40.392126+00:00",
+  "generated_at": "2026-09-03T00:14:12.495393+00:00",
   "source": "Apify Amazon Today's Deals",
-  "count": 22,
+  "count": 23,
   "deals": [
     {
-      "asin": "B0H94BMX1K",
-      "title": "HP New Everyday Slim Laptop \u2022 2026 Edition \u2022 AMD Processor \u2022 128GB SSD \u2022 Microsoft 365 \u2022 Thin & Portable \u2022 Fast Charge \u2022 Long Battery Life \u2022 Windows 11",
+      "asin": "B0HC3FB58F",
+      "title": "HP New Everyday Slim Laptop, 2026 Edition, Intel N150 Processor, 4GB DDR5 RAM, 128GB SSD, Long Battery Life, Windows 11",
       "current_price": 299.99,
-      "reference_price": 699.99,
-      "discount_percent": 57.14,
-      "savings": 400.0,
+      "reference_price": 679.99,
+      "discount_percent": 55.88,
+      "savings": 380.0,
       "tier": "\u2705 50%+ GOOD DEAL",
-      "score": 57,
-      "detected_at": "2026-09-02T17:53:40.392006+00:00",
-      "amazon_url": "https://www.amazon.com/HP-Everyday-Processor-Microsoft-Portable/dp/B0H94BMX1K",
-      "image_url": "https://m.media-amazon.com/images/I/61Lsc1yEOvL.jpg"
+      "score": 56,
+      "detected_at": "2026-09-03T00:14:12.495284+00:00",
+      "amazon_url": "https://www.amazon.com/HP-Everyday-Processor-Battery-Windows/dp/B0HC3FB58F",
+      "image_url": "https://m.media-amazon.com/images/I/618H1SaEDaL.jpg"
     },
     {
       "asin": "B0DJGDC3BD",
@@ -25,7 +25,7 @@
       "savings": 22.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 55,
-      "detected_at": "2026-09-02T17:53:40.391985+00:00",
+      "detected_at": "2026-09-03T00:14:12.495263+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Fire-TV-Stick-HD-Thin-and-Portable/dp/B0DJGDC3BD",
       "image_url": "https://m.media-amazon.com/images/I/610j-wmxRcL.jpg"
     },
@@ -38,7 +38,7 @@
       "savings": 201.99,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-09-02T17:53:40.391940+00:00",
+      "detected_at": "2026-09-03T00:14:12.495252+00:00",
       "amazon_url": "https://www.amazon.com/Sony-WH-1000XM5-Canceling-Headphones-Hands-Free/dp/B09XS7JWHH",
       "image_url": "https://m.media-amazon.com/images/I/61O3iMlnJIL.jpg"
     },
@@ -51,35 +51,48 @@
       "savings": 140.0,
       "tier": "Amazon Deal",
       "score": 47,
-      "detected_at": "2026-09-02T17:53:40.391895+00:00",
+      "detected_at": "2026-09-03T00:14:12.495194+00:00",
       "amazon_url": "https://www.amazon.com/INSIGNIA-Class-Smart-Remote-NS-50F502NA26/dp/B0F1DGM1TM",
       "image_url": "https://m.media-amazon.com/images/I/8107AeAPxhL.jpg"
     },
     {
-      "asin": "B0B1N7LJD3",
-      "title": "Blink Outdoor 4 \u2013 Wireless smart security camera, two-year battery life, two-way talk. Required Sync Module not included \u2013 Add-on camera",
-      "current_price": 37.99,
-      "reference_price": 69.99,
-      "discount_percent": 45.72,
-      "savings": 32.0,
+      "asin": "B0GY4TQ2P8",
+      "title": "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 3,000W Peak, Home Backup | LiFePO4 Battery, Up to 35-Hour Fridge Backup, 1,500W Solar Generator for Home, UPS, Outdoor, and Emergency Use (3000W Peak)",
+      "current_price": 649.99,
+      "reference_price": 1199.0,
+      "discount_percent": 45.79,
+      "savings": 549.01,
       "tier": "Amazon Deal",
       "score": 46,
-      "detected_at": "2026-09-02T17:53:40.391864+00:00",
-      "amazon_url": "https://www.amazon.com/Blink-Outdoor-4th-Gen-Add/dp/B0B1N7LJD3",
-      "image_url": "https://m.media-amazon.com/images/I/41HqQuiOi2L.jpg"
+      "detected_at": "2026-09-03T00:14:12.495200+00:00",
+      "amazon_url": "https://www.amazon.com/Anker-SOLIX-Portable-Station-Backup/dp/B0GY4TQ2P8",
+      "image_url": "https://m.media-amazon.com/images/I/71d9U6KPEVL.jpg"
     },
     {
-      "asin": "B0FLYG9C4N",
-      "title": "Bose QuietComfort Headphones - Wireless Bluetooth Headphones, Active Over Ear Noise Cancelling and Mic, USB-C Charging, Deep Bass, Up to 24 Hours of Playtime, Ice Blue - Limited Edition Color",
+      "asin": "B0DHLQT3CG",
+      "title": "Blink Outdoor 4 \u2013 Wireless smart security camera, two-year battery life, 1080p HD day and infrared night live view, two-way talk. Sync Module Core included \u2013 3 camera system",
+      "current_price": 103.99,
+      "reference_price": 189.99,
+      "discount_percent": 45.27,
+      "savings": 86.0,
+      "tier": "Amazon Deal",
+      "score": 45,
+      "detected_at": "2026-09-03T00:14:12.495171+00:00",
+      "amazon_url": "https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLQT3CG",
+      "image_url": "https://m.media-amazon.com/images/I/414-yxOaD8L.jpg"
+    },
+    {
+      "asin": "B0F2LCBKVN",
+      "title": "Bose QuietComfort Headphones - Wireless Bluetooth Headphones, Active Over Ear Noise Cancelling and Mic, USB-C Charging, Deep Bass, Up to 24 Hours of Playtime, Petal Pink - Limited Edition Color",
       "current_price": 199.0,
       "reference_price": 359.0,
       "discount_percent": 44.57,
       "savings": 160.0,
       "tier": "Amazon Deal",
       "score": 45,
-      "detected_at": "2026-09-02T17:53:40.391914+00:00",
-      "amazon_url": "https://www.amazon.com/Bose-QuietComfort-Headphones-Bluetooth-Cancelling/dp/B0FLYG9C4N",
-      "image_url": "https://m.media-amazon.com/images/I/51EqSJkNhmL.jpg"
+      "detected_at": "2026-09-03T00:14:12.495223+00:00",
+      "amazon_url": "https://www.amazon.com/Bose-QuietComfort-Bluetooth-Headphones-Cancelling/dp/B0F2LCBKVN",
+      "image_url": "https://m.media-amazon.com/images/I/51VyH2KY-eL.jpg"
     },
     {
       "asin": "B0F7Z4QZTT",
@@ -90,7 +103,7 @@
       "savings": 30.0,
       "tier": "Amazon Deal",
       "score": 43,
-      "detected_at": "2026-09-02T17:53:40.391978+00:00",
+      "detected_at": "2026-09-03T00:14:12.495187+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-newest-AI-powered-Search-million/dp/B0F7Z4QZTT",
       "image_url": "https://m.media-amazon.com/images/I/51WtNy0OxLL.jpg"
     },
@@ -103,7 +116,7 @@
       "savings": 40.01,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-09-02T17:53:40.391930+00:00",
+      "detected_at": "2026-09-03T00:14:12.495235+00:00",
       "amazon_url": "https://www.amazon.com/Waterpik-Cordless-Rechargeable-Portable-Irrigator/dp/B01GNVF8S8",
       "image_url": "https://m.media-amazon.com/images/I/71eBZVebI4L.jpg"
     },
@@ -116,7 +129,7 @@
       "savings": 270.0,
       "tier": "Amazon Deal",
       "score": 39,
-      "detected_at": "2026-09-02T17:53:40.391999+00:00",
+      "detected_at": "2026-09-03T00:14:12.495246+00:00",
       "amazon_url": "https://www.amazon.com/roborock-Qrevo-Pro-Multifunctional-Self-Cleaning/dp/B0GGRSMXKN",
       "image_url": "https://m.media-amazon.com/images/I/61dUJLJCe5L.jpg"
     },
@@ -129,22 +142,9 @@
       "savings": 60.0,
       "tier": "Amazon Deal",
       "score": 33,
-      "detected_at": "2026-09-02T17:53:40.391963+00:00",
+      "detected_at": "2026-09-03T00:14:12.495294+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Floodlight-Cam-Wired-Plus/dp/B08F6GPQQ7",
       "image_url": "https://m.media-amazon.com/images/I/41jJhGQLvWL.jpg"
-    },
-    {
-      "asin": "B09B8V1LZ3",
-      "title": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Charcoal",
-      "current_price": 54.99,
-      "reference_price": 79.99,
-      "discount_percent": 31.25,
-      "savings": 25.0,
-      "tier": "Amazon Deal",
-      "score": 31,
-      "detected_at": "2026-09-02T17:53:40.391971+00:00",
-      "amazon_url": "https://www.amazon.com/Amazon-vibrant-helpful-routines-Charcoal/dp/B09B8V1LZ3",
-      "image_url": "https://m.media-amazon.com/images/I/71hNp8d9WvL.jpg"
     },
     {
       "asin": "B01LYNW421",
@@ -155,22 +155,22 @@
       "savings": 18.02,
       "tier": "Amazon Deal",
       "score": 30,
-      "detected_at": "2026-09-02T17:53:40.391906+00:00",
+      "detected_at": "2026-09-03T00:14:12.495205+00:00",
       "amazon_url": "https://www.amazon.com/Pillows-for-Sleeping-2-Pack/dp/B01LYNW421",
       "image_url": "https://m.media-amazon.com/images/I/61XtBANZuJL.jpg"
     },
     {
-      "asin": "B0FHJ7TKZM",
-      "title": "Ring Battery Doorbell 2K (newest model) Retinal 2K with wide-angle video, up to 6x Enhanced Zoom, Two-Way Talk, and Built-In Battery, Speckled Gray",
+      "asin": "B0G2D1R15Q",
+      "title": "Ring Battery Doorbell 2K (newest model) Retinal 2K with wide-angle video, up to 6x Enhanced Zoom, Two-Way Talk, and Built-In Battery, Matte Mocha",
       "current_price": 69.99,
       "reference_price": 99.99,
       "discount_percent": 30.0,
       "savings": 30.0,
       "tier": "Amazon Deal",
       "score": 30,
-      "detected_at": "2026-09-02T17:53:40.391830+00:00",
-      "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
-      "image_url": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg"
+      "detected_at": "2026-09-03T00:14:12.495140+00:00",
+      "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0G2D1R15Q",
+      "image_url": "https://m.media-amazon.com/images/I/51kY6VkfPeL.jpg"
     },
     {
       "asin": "B09B2SBHQK",
@@ -181,9 +181,35 @@
       "savings": 30.0,
       "tier": "Amazon Deal",
       "score": 30,
-      "detected_at": "2026-09-02T17:53:40.392019+00:00",
+      "detected_at": "2026-09-03T00:14:12.495279+00:00",
       "amazon_url": "https://www.amazon.com/All-new-Echo-Show-5/dp/B09B2SBHQK",
       "image_url": "https://m.media-amazon.com/images/I/61gwIm-iSnL.jpg"
+    },
+    {
+      "asin": "B0BVZFQ4DF",
+      "title": "Levoit Tower Fan for Bedroom, 28ft/s Fans that Blow Cold Air, 28dB Quiet | Standing Floor Fan for Room, 90\u00b0 Oscillating, 5 Speeds 4 Modes & Temp Sensor, Bladeless, 12H Timer, Remote, 36 inch, White",
+      "current_price": 54.93,
+      "reference_price": 74.99,
+      "discount_percent": 26.75,
+      "savings": 20.06,
+      "tier": "Amazon Deal",
+      "score": 27,
+      "detected_at": "2026-09-03T00:14:12.495258+00:00",
+      "amazon_url": "https://www.amazon.com/Levoit-Tower-Bedroom-28ft-Quiet/dp/B0BVZFQ4DF",
+      "image_url": "https://m.media-amazon.com/images/I/510+fa1wg7L.jpg"
+    },
+    {
+      "asin": "B0DR9ML5X9",
+      "title": "STANLEY IceFlow 2.0 Flip Straw Tumbler, 30 oz, Rose Quartz | Easy Carry Handle | Twist On Lid and Flip Up Straw | Leak Resistant Water Bottle | Insulated Stainless Steel | BPA-Free",
+      "current_price": 26.25,
+      "reference_price": 35.0,
+      "discount_percent": 25.0,
+      "savings": 8.75,
+      "tier": "Amazon Deal",
+      "score": 25,
+      "detected_at": "2026-09-03T00:14:12.495290+00:00",
+      "amazon_url": "https://www.amazon.com/STANLEY-IceFlow-Straw-Tumbler-Quartz/dp/B0DR9ML5X9",
+      "image_url": "https://m.media-amazon.com/images/I/51mLnHdRpxL.jpg"
     },
     {
       "asin": "B0DC91H3JK",
@@ -194,7 +220,7 @@
       "savings": 60.0,
       "tier": "Amazon Deal",
       "score": 24,
-      "detected_at": "2026-09-02T17:53:40.391886+00:00",
+      "detected_at": "2026-09-03T00:14:12.495210+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Echo-Show-11-Vibrant-Full-HD-11-display-Graphite-Amazon/dp/B0DC91H3JK",
       "image_url": "https://m.media-amazon.com/images/I/51Aqp1X3LzL.jpg"
     },
@@ -207,7 +233,7 @@
       "savings": 70.0,
       "tier": "Amazon Deal",
       "score": 23,
-      "detected_at": "2026-09-02T17:53:40.391992+00:00",
+      "detected_at": "2026-09-03T00:14:12.495241+00:00",
       "amazon_url": "https://www.amazon.com/Dehumidifier-AEOCKY-Compressor-Intelligent-Humidistat/dp/B0D1C6HWFF",
       "image_url": "https://m.media-amazon.com/images/I/61Rb8OrhWML.jpg"
     },
@@ -220,7 +246,7 @@
       "savings": 80.0,
       "tier": "Amazon Deal",
       "score": 23,
-      "detected_at": "2026-09-02T17:53:40.392013+00:00",
+      "detected_at": "2026-09-03T00:14:12.495274+00:00",
       "amazon_url": "https://www.amazon.com/Echo-Show-15-Smart-Display/dp/B0C5DPSW5Y",
       "image_url": "https://m.media-amazon.com/images/I/61xQl81iYQL.jpg"
     },
@@ -233,22 +259,9 @@
       "savings": 15.0,
       "tier": "Amazon Deal",
       "score": 22,
-      "detected_at": "2026-09-02T17:53:40.391877+00:00",
+      "detected_at": "2026-09-03T00:14:12.495180+00:00",
       "amazon_url": "https://www.amazon.com/FilterBuy-24x25x1-Pleated-Furnace-Filters/dp/B00CJZ91C2",
       "image_url": "https://m.media-amazon.com/images/I/819J5lTvveL.jpg"
-    },
-    {
-      "asin": "B0B2KWHKYT",
-      "title": "Duracell Coppertop AAA Batteries, 28 Pack, 12-Year Shelf Life, Storage Tray",
-      "current_price": 21.26,
-      "reference_price": 26.69,
-      "discount_percent": 20.34,
-      "savings": 5.43,
-      "tier": "Amazon Deal",
-      "score": 20,
-      "detected_at": "2026-09-02T17:53:40.391922+00:00",
-      "amazon_url": "https://www.amazon.com/Duracell-Coppertop-Batteries-Ingredients-Long-lasting/dp/B0B2KWHKYT",
-      "image_url": "https://m.media-amazon.com/images/I/71Sm6NjQemL.jpg"
     },
     {
       "asin": "B0DHLQMWW7",
@@ -259,22 +272,22 @@
       "savings": 48.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-09-02T17:53:40.391949+00:00",
+      "detected_at": "2026-09-03T00:14:12.495230+00:00",
       "amazon_url": "https://www.amazon.com/Graco-Extend2Fit-Convertible-Adjustable-Extension/dp/B0DHLQMWW7",
       "image_url": "https://m.media-amazon.com/images/I/71gKxwf8mcL.jpg"
     },
     {
-      "asin": "B0DP4LTRMG",
-      "title": "ECO-WORTHY Cubix100 48V 100Ah LiFePO4 Lithium UL9540 Server Rack Battery | UL9540A & UL1973 & CEC Listed, Support Bluetooth & WiFi,5120Wh Energy Storage System for Emergency,Home Backup Power,Off-Grid",
-      "current_price": 809.99,
-      "reference_price": 999.99,
-      "discount_percent": 19.0,
-      "savings": 190.0,
+      "asin": "B0DFK28LBB",
+      "title": "Sonos Arc Ultra Soundbar with Dolby Atmos - Black | 9.1.4 Surround Sound for TV and Music | Alexa | Works with Sonos Sub 4 & Era 300 | Sound Motion technology",
+      "current_price": 899.0,
+      "reference_price": 1099.0,
+      "discount_percent": 18.2,
+      "savings": 200.0,
       "tier": "Amazon Deal",
-      "score": 19,
-      "detected_at": "2026-09-02T17:53:40.392026+00:00",
-      "amazon_url": "https://www.amazon.com/ECO-WORTHY-LiFePO4-Capacity-Bluetooth-Off-Grid/dp/B0DP4LTRMG",
-      "image_url": "https://m.media-amazon.com/images/I/61pMvGymQ6L.jpg"
+      "score": 18,
+      "detected_at": "2026-09-03T00:14:12.495268+00:00",
+      "amazon_url": "https://www.amazon.com/Sonos-Ultra-Soundbar-Dolby-Control/dp/B0DFK28LBB",
+      "image_url": "https://m.media-amazon.com/images/I/61WbdzYBy8L.jpg"
     },
     {
       "asin": "B07VVK39F7",
@@ -285,7 +298,7 @@
       "savings": 15.0,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-09-02T17:53:40.391956+00:00",
+      "detected_at": "2026-09-03T00:14:12.495217+00:00",
       "amazon_url": "https://www.amazon.com/LEVOIT-Purifier-Home-Allergies-Pets/dp/B07VVK39F7",
       "image_url": "https://m.media-amazon.com/images/I/71t-9BTIg9L.jpg"
     }
