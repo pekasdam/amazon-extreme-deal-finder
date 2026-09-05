@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:35:43.137201+00:00",
+  "generated_at": "2026-09-05T00:03:47.763444+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 23,
   "deals": [
@@ -12,7 +12,7 @@
       "savings": 22.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 55,
-      "detected_at": "2026-09-04T17:35:43.137036+00:00",
+      "detected_at": "2026-09-05T00:03:47.763290+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Fire-TV-Stick-HD-Thin-and-Portable/dp/B0DJGDC3BD",
       "image_url": "https://m.media-amazon.com/images/I/610j-wmxRcL.jpg"
     },
@@ -25,7 +25,7 @@
       "savings": 201.99,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-09-04T17:35:43.137011+00:00",
+      "detected_at": "2026-09-05T00:03:47.763283+00:00",
       "amazon_url": "https://www.amazon.com/Sony-WH-1000XM5-Canceling-Headphones-Hands-Free/dp/B09XS7JWHH",
       "image_url": "https://m.media-amazon.com/images/I/61O3iMlnJIL.jpg"
     },
@@ -38,7 +38,7 @@
       "savings": 140.0,
       "tier": "Amazon Deal",
       "score": 47,
-      "detected_at": "2026-09-04T17:35:43.136994+00:00",
+      "detected_at": "2026-09-05T00:03:47.763211+00:00",
       "amazon_url": "https://www.amazon.com/INSIGNIA-Class-Smart-Remote-NS-50F502NA26/dp/B0F1DGM1TM",
       "image_url": "https://m.media-amazon.com/images/I/8107AeAPxhL.jpg"
     },
@@ -51,22 +51,22 @@
       "savings": 549.01,
       "tier": "Amazon Deal",
       "score": 46,
-      "detected_at": "2026-09-04T17:35:43.136873+00:00",
+      "detected_at": "2026-09-05T00:03:47.763225+00:00",
       "amazon_url": "https://www.amazon.com/Anker-SOLIX-Portable-Station-Backup/dp/B0GY4TQ2P8",
       "image_url": "https://m.media-amazon.com/images/I/71d9U6KPEVL.jpg"
     },
     {
-      "asin": "B0DHLQT3CG",
-      "title": "Blink Outdoor 4 \u2013 Wireless smart security camera, two-year battery life, 1080p HD day and infrared night live view, two-way talk. Sync Module Core included \u2013 3 camera system",
-      "current_price": 103.99,
-      "reference_price": 189.99,
-      "discount_percent": 45.27,
-      "savings": 86.0,
+      "asin": "B0DHLTCYWH",
+      "title": "Blink Outdoor 4 \u2013 Wireless smart security camera, two-year battery life, 1080p HD day and infrared night live view, two-way talk. Sync Module Core included \u2013 5 camera system",
+      "current_price": 164.99,
+      "reference_price": 299.99,
+      "discount_percent": 45.0,
+      "savings": 135.0,
       "tier": "Amazon Deal",
       "score": 45,
-      "detected_at": "2026-09-04T17:35:43.136884+00:00",
-      "amazon_url": "https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLQT3CG",
-      "image_url": "https://m.media-amazon.com/images/I/414-yxOaD8L.jpg"
+      "detected_at": "2026-09-05T00:03:47.763195+00:00",
+      "amazon_url": "https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLTCYWH",
+      "image_url": "https://m.media-amazon.com/images/I/31oSNXtjjyL.jpg"
     },
     {
       "asin": "B0F2LCBKVN",
@@ -77,22 +77,22 @@
       "savings": 160.0,
       "tier": "Amazon Deal",
       "score": 45,
-      "detected_at": "2026-09-04T17:35:43.136970+00:00",
+      "detected_at": "2026-09-05T00:03:47.763296+00:00",
       "amazon_url": "https://www.amazon.com/Bose-QuietComfort-Bluetooth-Headphones-Cancelling/dp/B0F2LCBKVN",
       "image_url": "https://m.media-amazon.com/images/I/51VyH2KY-eL.jpg"
     },
     {
-      "asin": "B07S652B12",
-      "title": "Shark Pet Cordless Stick Vacuum, Grey, IX141 | HyperVelocity Suction, XL Dust Cup, LED Headlights, Removeable Handheld, Crevice & Pet Tool, 40-Min Runtime, Lightweight",
-      "current_price": 169.0,
-      "reference_price": 299.99,
-      "discount_percent": 43.66,
-      "savings": 130.99,
+      "asin": "B0DHCJ571Z",
+      "title": "roborock Saros 10R Robot Vacuum and Mop, 22000Pa, Edge Cleaning | 3.14\" Slim Design Reaches Under Furniture, Zero-Tangle System, Self-Cleaning Dock With Hot-Water Mop Washing for Hands-Free",
+      "current_price": 899.99,
+      "reference_price": 1599.99,
+      "discount_percent": 43.75,
+      "savings": 700.0,
       "tier": "Amazon Deal",
       "score": 44,
-      "detected_at": "2026-09-04T17:35:43.137052+00:00",
-      "amazon_url": "https://www.amazon.com/Shark-Lightweight-Rechargeable-Removable-IX141/dp/B07S652B12",
-      "image_url": "https://m.media-amazon.com/images/I/61U1ACMvrHL.jpg"
+      "detected_at": "2026-09-05T00:03:47.763309+00:00",
+      "amazon_url": "https://www.amazon.com/roborock-Saros-10R-Zero-Tangling-Self-Emptying/dp/B0DHCJ571Z",
+      "image_url": "https://m.media-amazon.com/images/I/619xjRMbkSL.jpg"
     },
     {
       "asin": "B0F7Z4QZTT",
@@ -103,22 +103,22 @@
       "savings": 30.0,
       "tier": "Amazon Deal",
       "score": 43,
-      "detected_at": "2026-09-04T17:35:43.136961+00:00",
+      "detected_at": "2026-09-05T00:03:47.763202+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-newest-AI-powered-Search-million/dp/B0F7Z4QZTT",
       "image_url": "https://m.media-amazon.com/images/I/51WtNy0OxLL.jpg"
     },
     {
-      "asin": "B0G97GMDSW",
-      "title": "STANLEY IceFlow 2.0 Flip Straw Tumbler, 30 oz, Blue Sky | Easy Carry Handle | Twist On Lid and Flip Up Straw | Leak Resistant Water Bottle | Insulated Stainless Steel | BPA-Free",
+      "asin": "B0DR9PMK1W",
+      "title": "STANLEY IceFlow 2.0 Flip Straw Tumbler, 30 oz, Black 2.0 | Easy Carry Handle | Twist On Lid and Flip Up Straw | Leak Resistant Water Bottle | Insulated Stainless Steel | BPA-Free",
       "current_price": 21.0,
       "reference_price": 35.0,
       "discount_percent": 40.0,
       "savings": 14.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-09-04T17:35:43.136904+00:00",
-      "amazon_url": "https://www.amazon.com/STANLEY-IceFlow-Flip-Straw-Tumbler/dp/B0G97GMDSW",
-      "image_url": "https://m.media-amazon.com/images/I/51YirbCcrAL.jpg"
+      "detected_at": "2026-09-05T00:03:47.763322+00:00",
+      "amazon_url": "https://www.amazon.com/STANLEY-IceFlow-Straw-Tumbler-Black/dp/B0DR9PMK1W",
+      "image_url": "https://m.media-amazon.com/images/I/61bsoRCHpDL.jpg"
     },
     {
       "asin": "B0GGRSMXKN",
@@ -129,7 +129,7 @@
       "savings": 270.0,
       "tier": "Amazon Deal",
       "score": 39,
-      "detected_at": "2026-09-04T17:35:43.136944+00:00",
+      "detected_at": "2026-09-05T00:03:47.763232+00:00",
       "amazon_url": "https://www.amazon.com/roborock-Qrevo-Pro-Multifunctional-Self-Cleaning/dp/B0GGRSMXKN",
       "image_url": "https://m.media-amazon.com/images/I/61dUJLJCe5L.jpg"
     },
@@ -142,35 +142,9 @@
       "savings": 400.0,
       "tier": "Amazon Deal",
       "score": 36,
-      "detected_at": "2026-09-04T17:35:43.136986+00:00",
+      "detected_at": "2026-09-05T00:03:47.763303+00:00",
       "amazon_url": "https://www.amazon.com/Samsung-55-Inch-Processor-Picture-Quality/dp/B0DXN3QKS8",
       "image_url": "https://m.media-amazon.com/images/I/81nS2uICI9L.jpg"
-    },
-    {
-      "asin": "B0BFC7WQ6R",
-      "title": "Amazon Echo Spot (newest model), Great for nightstands, offices and kitchens, Smart alarm clock, Designed for Alexa+, Black",
-      "current_price": 69.99,
-      "reference_price": 109.99,
-      "discount_percent": 36.37,
-      "savings": 40.0,
-      "tier": "Amazon Deal",
-      "score": 36,
-      "detected_at": "2026-09-04T17:35:43.136978+00:00",
-      "amazon_url": "https://www.amazon.com/Amazon-Echo-Spot-2024-release-Smart-alarm-clock-with-vibrant-sound-Alexa-Black/dp/B0BFC7WQ6R",
-      "image_url": "https://m.media-amazon.com/images/I/61bA0fjrSXL.jpg"
-    },
-    {
-      "asin": "B0DYVMZ4TV",
-      "title": "Samsung 32-Inch Class HD H5000F Smart TV (2025 Model) HDR, Object Tracking Sound Lite, Knox Security, One UI Tizen",
-      "current_price": 97.96,
-      "reference_price": 147.99,
-      "discount_percent": 33.81,
-      "savings": 50.03,
-      "tier": "Amazon Deal",
-      "score": 34,
-      "detected_at": "2026-09-04T17:35:43.136922+00:00",
-      "amazon_url": "https://www.amazon.com/Samsung-32-Inch-H5000F-Tracking-Security/dp/B0DYVMZ4TV",
-      "image_url": "https://m.media-amazon.com/images/I/71LWAGz2uTL.jpg"
     },
     {
       "asin": "B09B8V1LZ3",
@@ -181,7 +155,7 @@
       "savings": 25.0,
       "tier": "Amazon Deal",
       "score": 31,
-      "detected_at": "2026-09-04T17:35:43.137027+00:00",
+      "detected_at": "2026-09-05T00:03:47.763341+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-vibrant-helpful-routines-Charcoal/dp/B09B8V1LZ3",
       "image_url": "https://m.media-amazon.com/images/I/71hNp8d9WvL.jpg"
     },
@@ -194,7 +168,7 @@
       "savings": 30.0,
       "tier": "Amazon Deal",
       "score": 30,
-      "detected_at": "2026-09-04T17:35:43.136858+00:00",
+      "detected_at": "2026-09-05T00:03:47.763183+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
       "image_url": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg"
     },
@@ -207,22 +181,22 @@
       "savings": 30.0,
       "tier": "Amazon Deal",
       "score": 30,
-      "detected_at": "2026-09-04T17:35:43.137044+00:00",
+      "detected_at": "2026-09-05T00:03:47.763329+00:00",
       "amazon_url": "https://www.amazon.com/All-new-Echo-Show-5/dp/B09B2SBHQK",
       "image_url": "https://m.media-amazon.com/images/I/61gwIm-iSnL.jpg"
     },
     {
-      "asin": "B0DC8ZMR1P",
-      "title": "Amazon Echo Show 8 (newest model), Vibrant HD 8.7\" display with spatial audio, Designed for Alexa+, Graphite",
-      "current_price": 149.99,
-      "reference_price": 199.99,
-      "discount_percent": 25.0,
-      "savings": 50.0,
+      "asin": "B0DC91H3JK",
+      "title": "Amazon Echo Show 11 (newest model), Vibrant Full-HD 11\" display with more viewing area and spatial audio, Designed for Alexa+, Graphite",
+      "current_price": 189.99,
+      "reference_price": 249.99,
+      "discount_percent": 24.0,
+      "savings": 60.0,
       "tier": "Amazon Deal",
-      "score": 25,
-      "detected_at": "2026-09-04T17:35:43.136930+00:00",
-      "amazon_url": "https://www.amazon.com/Amazon-Echo-Show-8-Vibrant-HD-8.7-display-Graphite-Amazon/dp/B0DC8ZMR1P",
-      "image_url": "https://m.media-amazon.com/images/I/51Sdqx46SFL.jpg"
+      "score": 24,
+      "detected_at": "2026-09-05T00:03:47.763218+00:00",
+      "amazon_url": "https://www.amazon.com/Amazon-Echo-Show-11-Vibrant-Full-HD-11-display-Graphite-Amazon/dp/B0DC91H3JK",
+      "image_url": "https://m.media-amazon.com/images/I/51Aqp1X3LzL.jpg"
     },
     {
       "asin": "B0D1C6HWFF",
@@ -233,9 +207,22 @@
       "savings": 70.0,
       "tier": "Amazon Deal",
       "score": 23,
-      "detected_at": "2026-09-04T17:35:43.136894+00:00",
+      "detected_at": "2026-09-05T00:03:47.763261+00:00",
       "amazon_url": "https://www.amazon.com/Dehumidifier-AEOCKY-Compressor-Intelligent-Humidistat/dp/B0D1C6HWFF",
       "image_url": "https://m.media-amazon.com/images/I/61Rb8OrhWML.jpg"
+    },
+    {
+      "asin": "B0CKYZC93L",
+      "title": "Zinus 12 Inch Queen Green Tea Memory Foam Mattress, Medium Firm Feel | Pressure-Relieving Comfort & Full-Body Support, Naturally Fresh, CertiPUR-US & OEKO-TEX Certified Safe Materials",
+      "current_price": 249.0,
+      "reference_price": 322.99,
+      "discount_percent": 22.91,
+      "savings": 73.99,
+      "tier": "Amazon Deal",
+      "score": 23,
+      "detected_at": "2026-09-05T00:03:47.763316+00:00",
+      "amazon_url": "https://www.amazon.com/Zinus-Mattress-Fiberglass-Pressure-Certified/dp/B0CKYZC93L",
+      "image_url": "https://m.media-amazon.com/images/I/81IC7kPsCNL.jpg"
     },
     {
       "asin": "B00CJZ91C2",
@@ -246,22 +233,22 @@
       "savings": 15.0,
       "tier": "Amazon Deal",
       "score": 22,
-      "detected_at": "2026-09-04T17:35:43.136913+00:00",
+      "detected_at": "2026-09-05T00:03:47.763250+00:00",
       "amazon_url": "https://www.amazon.com/FilterBuy-24x25x1-Pleated-Furnace-Filters/dp/B00CJZ91C2",
       "image_url": "https://m.media-amazon.com/images/I/819J5lTvveL.jpg"
     },
     {
-      "asin": "B0FT42WDSG",
-      "title": "adidas Men's Adizero Pacer Running",
-      "current_price": 63.98,
-      "reference_price": 80.0,
-      "discount_percent": 20.03,
-      "savings": 16.02,
+      "asin": "B0GN8YR51C",
+      "title": "Nanit Smart Baby Video Monitor System with Floor Stand & 8\" Display Screen | Crystal-clear video, Real-time notifications, Sleep insights",
+      "current_price": 319.2,
+      "reference_price": 399.0,
+      "discount_percent": 20.0,
+      "savings": 79.8,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-09-04T17:35:43.136822+00:00",
-      "amazon_url": "https://www.amazon.com/adidas-Duramo-Speed-Running-WhiteBlackCrystalWhite/dp/B0FT42WDSG",
-      "image_url": "https://m.media-amazon.com/images/I/61yz8EvwIrL.jpg"
+      "detected_at": "2026-09-05T00:03:47.763347+00:00",
+      "amazon_url": "https://www.amazon.com/Nanit-Monitor-System-Display-Screen/dp/B0GN8YR51C",
+      "image_url": "https://m.media-amazon.com/images/I/7130YOncunL.jpg"
     },
     {
       "asin": "B0DHLQMWW7",
@@ -272,9 +259,22 @@
       "savings": 48.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-09-04T17:35:43.136952+00:00",
+      "detected_at": "2026-09-05T00:03:47.763239+00:00",
       "amazon_url": "https://www.amazon.com/Graco-Extend2Fit-Convertible-Adjustable-Extension/dp/B0DHLQMWW7",
       "image_url": "https://m.media-amazon.com/images/I/71gKxwf8mcL.jpg"
+    },
+    {
+      "asin": "B0FTSFBP4S",
+      "title": "adidas Men's Adizero Pacer Running",
+      "current_price": 65.37,
+      "reference_price": 80.0,
+      "discount_percent": 18.29,
+      "savings": 14.63,
+      "tier": "Amazon Deal",
+      "score": 18,
+      "detected_at": "2026-09-05T00:03:47.763153+00:00",
+      "amazon_url": "https://www.amazon.com/adidas-Duramo-Speed-Running-Carbon/dp/B0FTSFBP4S",
+      "image_url": "https://m.media-amazon.com/images/I/612e7erwr3L.jpg"
     },
     {
       "asin": "B07VVK39F7",
@@ -285,7 +285,7 @@
       "savings": 15.0,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-09-04T17:35:43.137019+00:00",
+      "detected_at": "2026-09-05T00:03:47.763335+00:00",
       "amazon_url": "https://www.amazon.com/LEVOIT-Purifier-Home-Allergies-Pets/dp/B07VVK39F7",
       "image_url": "https://m.media-amazon.com/images/I/71t-9BTIg9L.jpg"
     },
@@ -298,7 +298,7 @@
       "savings": 2.85,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-09-04T17:35:43.137002+00:00",
+      "detected_at": "2026-09-05T00:03:47.763272+00:00",
       "amazon_url": "https://www.amazon.com/Biodance-Bio-Collagen-Tightening-Hydrating-Molecular/dp/B0B2RM68G2",
       "image_url": "https://m.media-amazon.com/images/I/51ubxqzNGIL.jpg"
     }
