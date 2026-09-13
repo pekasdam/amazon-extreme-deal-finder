@@ -72,8 +72,8 @@
   "B079H53D2B": {
     "title": "Physician's CHOICE Probiotics 60 Billion CFU - 10 Strains + Organic Prebiotics - Immune, Digestive & Gut Health - Supports Occasional Constipation, Diarrhea, Gas & Bloating - for Women & Men - 30ct",
     "first_seen": "2026-08-13T02:23:38.283828+00:00",
-    "last_seen": "2026-08-19T22:39:56.078310+00:00",
-    "times_seen": 13,
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 14,
     "latest_price": 21.35,
     "lowest_price": 21.35,
     "highest_discount": 28.76,
@@ -482,8 +482,8 @@
   "B0CYZLT7M2": {
     "title": "eufy Heated Wearable Breast Pump S1 Pro, Charging Case, Hands-Free | HeatFlow, 5-Day Battery, App DIY Rhythm, Powerful 300mmHg, 30% More Output, 46dB Quiet, BPA-Free",
     "first_seen": "2026-08-13T23:00:45.022702+00:00",
-    "last_seen": "2026-09-02T00:12:08.310953+00:00",
-    "times_seen": 3,
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 4,
     "latest_price": 259.99,
     "lowest_price": 259.99,
     "highest_discount": 25.72,
@@ -872,8 +872,8 @@
   "B0DJMP6T3N": {
     "title": "BISSELL Little Green Mini Portable Carpet Cleaner, 4075 | HydroRinse self-cleaning tool; 4-in. tough stain tool; upholstery & car detailing; Tea Green color",
     "first_seen": "2026-08-15T14:37:19.378988+00:00",
-    "last_seen": "2026-08-28T06:06:13.638611+00:00",
-    "times_seen": 30,
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 31,
     "latest_price": 88.99,
     "lowest_price": 88.99,
     "highest_discount": 11.0,
@@ -1032,11 +1032,11 @@
   "B0GVTPKJVT": {
     "title": "Amazon Fire HD 10 tablet, built for relaxation, 10.1\" vibrant Full HD screen, octa-core processor, 4 GB RAM, 32 GB, Black",
     "first_seen": "2026-08-16T14:37:05.094967+00:00",
-    "last_seen": "2026-08-31T00:36:12.918818+00:00",
-    "times_seen": 18,
-    "latest_price": 119.99,
-    "lowest_price": 119.99,
-    "highest_discount": 22.58,
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 19,
+    "latest_price": 76.99,
+    "lowest_price": 76.99,
+    "highest_discount": 50.33,
     "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT"
   },
   "B0843GMZLK": {
@@ -2462,8 +2462,8 @@
   "B0F7Z4QZTT": {
     "title": "Amazon Fire TV Stick 4K Plus (newest model) with AI-powered Fire TV Search, Wi-Fi 6, stream hundreds of thousands of movies and shows, free & live TV, find shows faster with Alexa+",
     "first_seen": "2026-08-25T15:03:47.515998+00:00",
-    "last_seen": "2026-09-05T23:53:02.559020+00:00",
-    "times_seen": 25,
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 26,
     "latest_price": 39.99,
     "lowest_price": 39.99,
     "highest_discount": 42.86,
@@ -3422,8 +3422,8 @@
   "B0GY4TQ2P8": {
     "title": "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 3,000W Peak, Home Backup | LiFePO4 Battery, Up to 35-Hour Fridge Backup, 1,500W Solar Generator for Home, UPS, Outdoor, and Emergency Use (3000W Peak)",
     "first_seen": "2026-08-31T20:02:41.764827+00:00",
-    "last_seen": "2026-09-05T23:53:02.559020+00:00",
-    "times_seen": 12,
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 13,
     "latest_price": 649.99,
     "lowest_price": 649.99,
     "highest_discount": 45.79,
@@ -4338,5 +4338,175 @@
     "lowest_price": 19.55,
     "highest_discount": 15.0,
     "amazon_url": "https://www.amazon.com/BIODANCE-Collagen-Peptide-Patches-Essentials/dp/B0GD6R7CFJ"
+  },
+  "B07YP5SNQ3": {
+    "title": "Hanes Men's Zip-up Hoodie, Ecosmart Fleece Full-zip Hoodie for Men, Hooded Sweatshirt",
+    "first_seen": "2026-09-13T11:48:46.287075+00:00",
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 1,
+    "latest_price": 10.96,
+    "lowest_price": 10.96,
+    "highest_discount": 60.86,
+    "amazon_url": "https://www.amazon.com/Hanes-EcoSmart-Fleece-Charcoal-Heather/dp/B07YP5SNQ3"
+  },
+  "B0C1GP88C4": {
+    "title": "Ultra Pain Relief Cooling Pillow for Neck Support, Adjustable Cervical Pillow Cozy Sleeping, Odorless Ergonomic Contour Memory Foam Pillows, Orthopedic Bed Pillow for Side Back Stomach Sleeper",
+    "first_seen": "2026-09-13T11:48:46.287075+00:00",
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 1,
+    "latest_price": 35.98,
+    "lowest_price": 35.98,
+    "highest_discount": 40.02,
+    "amazon_url": "https://www.amazon.com/Adjustable-Cervical-Sleeping-Ergonomic-Orthopedic/dp/B0C1GP88C4"
+  },
+  "B0GVG45VMD": {
+    "title": "Bedsure Fluffy Bubble Faux Fur Throw Blanket, 50\"x60\", Tie-dye Rainbow | Soft, Fuzzy, Plush, Thick, Warm, Comfort, Couch, Bed, Sofa, Chair, Fleece, Cozy Gifts, Women, Men, Fall, Winter, Coloring",
+    "first_seen": "2026-09-13T11:48:46.287075+00:00",
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 1,
+    "latest_price": 39.98,
+    "lowest_price": 39.98,
+    "highest_discount": 39.42,
+    "amazon_url": "https://www.amazon.com/Bedsure-Faux-Fur-Blanket-Tie-dye/dp/B0GVG45VMD"
+  },
+  "B0FL7P6Z4P": {
+    "title": "Arach&Cloz Women's Wool Blend Sleeveless All Season Business Casual Tank | Soft Breathable Wool Blend Stretchy lightweight Sleeveless Business Casual Work Outfit Spring Summer Fall Clothes Wear 2026",
+    "first_seen": "2026-09-13T11:48:46.287075+00:00",
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 1,
+    "latest_price": 16.99,
+    "lowest_price": 16.99,
+    "highest_discount": 26.1,
+    "amazon_url": "https://www.amazon.com/Arach-Cloz-Cashmere-Sleeveless-Business/dp/B0FL7P6Z4P"
+  },
+  "B0GFMTCWDP": {
+    "title": "Sidefeel Women's Wide Leg Jeans High Waisted Stretchy Denim Pants | Raw Hem, Zimbaplatinum, Side Seam, Full Length, Baggy Jeans, Boyfriend Fit, Trendy, Fashion Clothing",
+    "first_seen": "2026-09-13T11:48:46.287075+00:00",
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 1,
+    "latest_price": 39.99,
+    "lowest_price": 39.99,
+    "highest_discount": 21.57,
+    "amazon_url": "https://www.amazon.com/Sidefeel-Waisted-Stretchy-Clothing-Burgundy/dp/B0GFMTCWDP"
+  },
+  "B0C1NN6Y5H": {
+    "title": "BEDLORE Waterproof Mattress Protector, Full Size Mattress Pad | Deep Pockets Fit 6\"-15\" Mattresses, Soft Dirt-proof Double Bed Mattress Cover for Bedroom, College Dorm, Hotel (Gray)",
+    "first_seen": "2026-09-13T11:48:46.287075+00:00",
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 1,
+    "latest_price": 21.59,
+    "lowest_price": 21.59,
+    "highest_discount": 20.01,
+    "amazon_url": "https://www.amazon.com/BEDLORE-Waterproof-Mattress-Protector-Dirt-Proof/dp/B0C1NN6Y5H"
+  },
+  "B0C5J1GRDB": {
+    "title": "33,000ft Women's Rain Jacket Waterproof Lightweight Packable Raincoat | Breathable, Foldable Hood, Unlined, 0.55lb, Fully Seams Taped, 4 Pockets, for Golf, Hiking, Travel, Windbreaker",
+    "first_seen": "2026-09-13T11:48:46.287075+00:00",
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 1,
+    "latest_price": 32.28,
+    "lowest_price": 32.28,
+    "highest_discount": 17.21,
+    "amazon_url": "https://www.amazon.com/33-000ft-Lightweight-Breathable-Windbreaker/dp/B0C5J1GRDB"
+  },
+  "B0HD6KCLJR": {
+    "title": "Quimoo Fluted Vanity Desk with Mirror and Adjustable LED Lights & Power Outlet, Makeup Vanity Desk with 7 Drawers,4 Shelves and 5 Hooks, Vanity for Girls, Natural Oak",
+    "first_seen": "2026-09-13T11:48:46.287075+00:00",
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 1,
+    "latest_price": 179.97,
+    "lowest_price": 179.97,
+    "highest_discount": 15.1,
+    "amazon_url": "https://www.amazon.com/Quimoo-Vanity-Adjustable-Drawers-Shelves/dp/B0HD6KCLJR"
+  },
+  "B09BD8GZ8L": {
+    "title": "Nectar Hydration Packets - Electrolytes Powder Packets - Sugar Free & 0 Calorie - Organic Fruit Liquid Daily IV Electrolytes Powder for Dehydration Relief and Rehydration (Variety 30 Pack)",
+    "first_seen": "2026-09-13T11:48:46.287075+00:00",
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 1,
+    "latest_price": 25.4,
+    "lowest_price": 25.4,
+    "highest_discount": 15.05,
+    "amazon_url": "https://www.amazon.com/Nectar-Hydration-Powder-Packets-Electrolyte/dp/B09BD8GZ8L"
+  },
+  "B0GHRD59RZ": {
+    "title": "Google Pixel 10a - 30+ Hours Battery, Camera Coach, Gemini - Fog 128GB | Gemini Live, durable design, 7 years of Pixel Drops, 30+ hour battery, Camera Coach, Call Screen, Car Crash Detection",
+    "first_seen": "2026-09-13T11:48:46.287075+00:00",
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 1,
+    "latest_price": 424.0,
+    "lowest_price": 424.0,
+    "highest_discount": 15.03,
+    "amazon_url": "https://www.amazon.com/Google-Pixel-10a-Battery-Camera/dp/B0GHRD59RZ"
+  },
+  "B0GW5QTGSR": {
+    "title": "Rodent Repellent 48 Balls, Mouse Repellent Indoor & Outdoor, Mice Repellent with Peppermint Oil, Rat Repellent for House, Garage, RV, Rodent Deterrent for Attic, Basement & Car",
+    "first_seen": "2026-09-13T11:48:46.287075+00:00",
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 1,
+    "latest_price": 25.49,
+    "lowest_price": 25.49,
+    "highest_discount": 15.01,
+    "amazon_url": "https://www.amazon.com/Repellent-Outdoor-Peppermint-Deterrent-Basement/dp/B0GW5QTGSR"
+  },
+  "B0H126B3KV": {
+    "title": "Samsung Galaxy Z Fold8, 256GB Graphite | All-New Shape, Content-Native Ratio, Customized Processor, 4800 mAh Battery, 12 GB Memory, Dual 50 MP Camera, My FanCam",
+    "first_seen": "2026-09-13T11:48:46.287075+00:00",
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 1,
+    "latest_price": 1649.99,
+    "lowest_price": 1649.99,
+    "highest_discount": 13.16,
+    "amazon_url": "https://www.amazon.com/Samsung-Galaxy-Fold8-256GB-Graphite/dp/B0H126B3KV"
+  },
+  "B01GVJK3XW": {
+    "title": "Glucosamine Chondroitin MSM Joint Support Supplement for Women & Men 90 Ct | Shellfish-free Glucosamine Sulfate 1500mg, 65% Boswellia Extract, 4:1 Turmeric Extract & Quercetin - Joint Health & Mobility",
+    "first_seen": "2026-09-13T11:48:46.287075+00:00",
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 1,
+    "latest_price": 25.47,
+    "lowest_price": 25.47,
+    "highest_discount": 12.08,
+    "amazon_url": "https://www.amazon.com/Glucosamine-Chondroitin-Turmeric-Boswellia-Anti-Inflammatory/dp/B01GVJK3XW"
+  },
+  "B0FKZ417TC": {
+    "title": "RELEANY Washable 9'x12' Abstract Area Rug for Living Room Purple Multi | Carpet for Bedroom, Kitchen, Office, Hallway and Entryway, Printed Pattern, Non\u2011Slip, Soft, Stain\u2011Resistant, Easy to Clean",
+    "first_seen": "2026-09-13T11:48:46.287075+00:00",
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 1,
+    "latest_price": 136.79,
+    "lowest_price": 136.79,
+    "highest_discount": 10.0,
+    "amazon_url": "https://www.amazon.com/RELEANY-Washable-Non-Slip-Abstract-Entryway/dp/B0FKZ417TC"
+  },
+  "B0H3PJJTYJ": {
+    "title": "FXRHLP 10x12 Area Rug Living Room: Modern Washable Indoor Soft Carpet Taupe | For Bedroom Dining Room Farmhouse Nursery Hallway Office,Modern Abstract,Machine washable,Non-Slip,Stain Resistant,Indoor",
+    "first_seen": "2026-09-13T11:48:46.287075+00:00",
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 1,
+    "latest_price": 116.99,
+    "lowest_price": 116.99,
+    "highest_discount": 10.0,
+    "amazon_url": "https://www.amazon.com/FXRHLP-10x12-Area-Living-Room/dp/B0H3PJJTYJ"
+  },
+  "B0BRBDC16F": {
+    "title": "LANE LINEN Queen Sheet Set 100% Organic Cotton Cooling Soft 4pc - Chevron",
+    "first_seen": "2026-09-13T11:48:46.287075+00:00",
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 1,
+    "latest_price": 44.99,
+    "lowest_price": 44.99,
+    "highest_discount": 10.0,
+    "amazon_url": "https://www.amazon.com/LANE-LINEN-Bedsheets-Breathable-Mattress/dp/B0BRBDC16F"
+  },
+  "B07TNJRN9N": {
+    "title": "BioEmblem Magnesium Glycinate Complex, 300mg Per Serving, 90 Capsules | Triple Magnesium Citrate & Malate - NSF & Labdoor Certified - Muscle & Nerve Function - Vegan, Non-GMO Chelated Formula",
+    "first_seen": "2026-09-13T11:48:46.287075+00:00",
+    "last_seen": "2026-09-13T11:48:46.287075+00:00",
+    "times_seen": 1,
+    "latest_price": 25.19,
+    "lowest_price": 25.19,
+    "highest_discount": 10.0,
+    "amazon_url": "https://www.amazon.com/BioEmblem-Magnesium-Glycinate-Relaxation-Absorption/dp/B07TNJRN9N"
   }
 }
