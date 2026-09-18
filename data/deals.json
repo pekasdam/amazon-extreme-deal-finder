@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-09-17T18:11:46.137872+00:00",
+  "generated_at": "2026-09-18T00:15:35.547330+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 23,
   "deals": [
     {
-      "asin": "B0H8RNRMCD",
-      "title": "OTC Hearing Aids for Seniors with Noise Cancelling, 100 Hours Battery Life | For people with mild to moderate hearing loss, 5-level volume control and rechargeable, ergonomic comfort fit and easy to use",
-      "current_price": 79.99,
-      "reference_price": 396.99,
-      "discount_percent": 79.85,
-      "savings": 317.0,
-      "tier": "\ud83d\udcb0 70%+ VERY STRONG DEAL",
-      "score": 80,
-      "detected_at": "2026-09-17T18:11:46.137650+00:00",
-      "amazon_url": "https://www.amazon.com/Hearing-Seniors-Noise-Cancelling-Battery/dp/B0H8RNRMCD",
-      "image_url": "https://m.media-amazon.com/images/I/61DZdHxUFsL.jpg"
+      "asin": "B0C8PR4W22",
+      "title": "Beats Studio Pro Premium Wireless Over-Ear Headphones- Up to 40-Hour Battery Life, Active Noise Cancelling, Great for Travel & Commuting, USB-C Lossless Audio, Apple & Android Compatible -Black",
+      "current_price": 169.95,
+      "reference_price": 349.99,
+      "discount_percent": 51.44,
+      "savings": 180.04,
+      "tier": "\u2705 50%+ GOOD DEAL",
+      "score": 51,
+      "detected_at": "2026-09-18T00:15:35.547240+00:00",
+      "amazon_url": "https://www.amazon.com/Beats-Studio-Pro-Personalized-Compatibility/dp/B0C8PR4W22",
+      "image_url": "https://m.media-amazon.com/images/I/61u-OaDSfQL.jpg"
     },
     {
       "asin": "B0DJGDC3BD",
@@ -25,7 +25,7 @@
       "savings": 17.0,
       "tier": "Amazon Deal",
       "score": 49,
-      "detected_at": "2026-09-17T18:11:46.137756+00:00",
+      "detected_at": "2026-09-18T00:15:35.547185+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Fire-TV-Stick-HD-Thin-and-Portable/dp/B0DJGDC3BD",
       "image_url": "https://m.media-amazon.com/images/I/610j-wmxRcL.jpg"
     },
@@ -38,22 +38,35 @@
       "savings": 4.41,
       "tier": "Amazon Deal",
       "score": 44,
-      "detected_at": "2026-09-17T18:11:46.137683+00:00",
+      "detected_at": "2026-09-18T00:15:35.547164+00:00",
       "amazon_url": "https://www.amazon.com/SUPFINE-Pro-Max-Case-Anti-Fingerprint/dp/B0FH655984",
       "image_url": "https://m.media-amazon.com/images/I/71Vo32MVCWL.jpg"
     },
     {
-      "asin": "B0BXGFFSL1",
-      "title": "Logitech Brio 101 Full HD 1080p Webcam for Streaming and Meetings - Black | 1080p with auto-light correction, built-in mic, privacy shutter, USB-A, compatible with Teams, Google Meet, Zoom and more",
-      "current_price": 24.99,
-      "reference_price": 39.99,
-      "discount_percent": 37.51,
-      "savings": 15.0,
+      "asin": "B0C1GP88C4",
+      "title": "Ultra Pain Relief Cooling Pillow for Neck Support, Adjustable Cervical Pillow Cozy Sleeping, Odorless Ergonomic Contour Memory Foam Pillows, Orthopedic Bed Pillow for Side Back Stomach Sleeper",
+      "current_price": 35.98,
+      "reference_price": 59.99,
+      "discount_percent": 40.02,
+      "savings": 24.01,
+      "tier": "Amazon Deal",
+      "score": 40,
+      "detected_at": "2026-09-18T00:15:35.547246+00:00",
+      "amazon_url": "https://www.amazon.com/Adjustable-Cervical-Sleeping-Ergonomic-Orthopedic/dp/B0C1GP88C4",
+      "image_url": "https://m.media-amazon.com/images/I/714COr20AQL.jpg"
+    },
+    {
+      "asin": "B0H5P1CSF1",
+      "title": "TOCOL for iPhone 18 Pro Screen Protector, Easy Installation | Bubble-Free, 9H+ Tempered Glass, 8FT Military Grade Shatterproof, Anti-Scratch, Case Friendly HD Clear 6.3\" 2 Pack",
+      "current_price": 9.98,
+      "reference_price": 15.99,
+      "discount_percent": 37.59,
+      "savings": 6.01,
       "tier": "Amazon Deal",
       "score": 38,
-      "detected_at": "2026-09-17T18:11:46.137697+00:00",
-      "amazon_url": "https://www.amazon.com/Logitech-Webcam-Meetings-Streaming-Built/dp/B0BXGFFSL1",
-      "image_url": "https://m.media-amazon.com/images/I/71A0Pp767BL.jpg"
+      "detected_at": "2026-09-18T00:15:35.547251+00:00",
+      "amazon_url": "https://www.amazon.com/TOCOL-iPhone-18-Pro-Installation/dp/B0H5P1CSF1",
+      "image_url": "https://m.media-amazon.com/images/I/81-ezwKzqoL.jpg"
     },
     {
       "asin": "B0CZPLV566",
@@ -64,22 +77,9 @@
       "savings": 70.0,
       "tier": "Amazon Deal",
       "score": 35,
-      "detected_at": "2026-09-17T18:11:46.137734+00:00",
+      "detected_at": "2026-09-18T00:15:35.547229+00:00",
       "amazon_url": "https://www.amazon.com/Beats-Solo-Wireless-Headphones-Matte/dp/B0CZPLV566",
       "image_url": "https://m.media-amazon.com/images/I/515FE+S4yLL.jpg"
-    },
-    {
-      "asin": "B0CNTRVZPW",
-      "title": "Waterpik Cordless Pulse 3100 Portable Water Flosser, Rechargeable, White | 2 Settings, 1 Precision Tip & 1 Tongue Cleaner Tip for Fresh Breath, Travel, Shower Use, ADA Accepted, WF-20 Amazon Exclusive",
-      "current_price": 34.99,
-      "reference_price": 49.99,
-      "discount_percent": 30.01,
-      "savings": 15.0,
-      "tier": "Amazon Deal",
-      "score": 30,
-      "detected_at": "2026-09-17T18:11:46.137747+00:00",
-      "amazon_url": "https://www.amazon.com/Waterpik-Cordless-Rechargeable-Portable-Waterproof/dp/B0CNTRVZPW",
-      "image_url": "https://m.media-amazon.com/images/I/712lAbKMMnL.jpg"
     },
     {
       "asin": "B079H53D2B",
@@ -90,7 +90,7 @@
       "savings": 8.62,
       "tier": "Amazon Deal",
       "score": 29,
-      "detected_at": "2026-09-17T18:11:46.137622+00:00",
+      "detected_at": "2026-09-18T00:15:35.547153+00:00",
       "amazon_url": "https://www.amazon.com/Probiotics-Formulated-Probiotic-Supplement-Acidophilus/dp/B079H53D2B",
       "image_url": "https://m.media-amazon.com/images/I/81F83eGmXEL.jpg"
     },
@@ -103,22 +103,22 @@
       "savings": 112.51,
       "tier": "Amazon Deal",
       "score": 27,
-      "detected_at": "2026-09-17T18:11:46.137690+00:00",
+      "detected_at": "2026-09-18T00:15:35.547214+00:00",
       "amazon_url": "https://www.amazon.com/Dyson-Cordless-Vacuum-Silver-Nickel/dp/B0CT9552BL",
       "image_url": "https://m.media-amazon.com/images/I/6122QSTrLOL.jpg"
     },
     {
-      "asin": "B0HBWNSRTD",
-      "title": "Hisense 75\" Class E6SR Series Hi-QLED 4K UHD Smart Roku TV (75E6SR, 2026 Model) - Dolby Vision, Game Mode Plus, VRR, ALLM, DTS Virtual:X, Apple AirPlay, Compatible with Alexa and Google Assistant",
-      "current_price": 578.99,
-      "reference_price": 749.99,
-      "discount_percent": 22.8,
-      "savings": 171.0,
+      "asin": "B0D3D5LKG9",
+      "title": "BEDLORE Queen Mattress Topper, Thick Soft Pillow Top Bed Topper | Viscose Bamboo, Stretchable Pockets Fit 6\u201d-18\u201d, Breathable Mattress Topper for Back Pain Relief and Hot Sleepers(Dark Gray)",
+      "current_price": 37.98,
+      "reference_price": 47.99,
+      "discount_percent": 20.86,
+      "savings": 10.01,
       "tier": "Amazon Deal",
-      "score": 23,
-      "detected_at": "2026-09-17T18:11:46.137710+00:00",
-      "amazon_url": "https://www.amazon.com/Hisense-Class-Hi-QLED-Smart-75E6SR/dp/B0HBWNSRTD",
-      "image_url": "https://m.media-amazon.com/images/I/71FVrYew+cL.jpg"
+      "score": 21,
+      "detected_at": "2026-09-18T00:15:35.547235+00:00",
+      "amazon_url": "https://www.amazon.com/Mattress-Viscose-Derived-Stretchable-Pockets/dp/B0D3D5LKG9",
+      "image_url": "https://m.media-amazon.com/images/I/81fEHxFn38L.jpg"
     },
     {
       "asin": "B0DT2344N3",
@@ -129,22 +129,9 @@
       "savings": 50.04,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-09-17T18:11:46.137664+00:00",
+      "detected_at": "2026-09-18T00:15:35.547194+00:00",
       "amazon_url": "https://www.amazon.com/Beats-Powerbeats-Wireless-Bluetooth-Earbuds/dp/B0DT2344N3",
       "image_url": "https://m.media-amazon.com/images/I/51HOUQVBlsL.jpg"
-    },
-    {
-      "asin": "B0C1NNYJGB",
-      "title": "BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6\"-18\" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel (Gray)",
-      "current_price": 23.99,
-      "reference_price": 29.99,
-      "discount_percent": 20.01,
-      "savings": 6.0,
-      "tier": "Amazon Deal",
-      "score": 20,
-      "detected_at": "2026-09-17T18:11:46.137671+00:00",
-      "amazon_url": "https://www.amazon.com/BEDLORE-Waterproof-Protector-Breathable-Dirt-Proof/dp/B0C1NNYJGB",
-      "image_url": "https://m.media-amazon.com/images/I/81-lJnMf2tL.jpg"
     },
     {
       "asin": "B0F7Z4QZTT",
@@ -155,7 +142,7 @@
       "savings": 10.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-09-17T18:11:46.137657+00:00",
+      "detected_at": "2026-09-18T00:15:35.547144+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-newest-AI-powered-Search-million/dp/B0F7Z4QZTT",
       "image_url": "https://m.media-amazon.com/images/I/51WtNy0OxLL.jpg"
     },
@@ -168,22 +155,9 @@
       "savings": 8.0,
       "tier": "Amazon Deal",
       "score": 18,
-      "detected_at": "2026-09-17T18:11:46.137641+00:00",
+      "detected_at": "2026-09-18T00:15:35.547159+00:00",
       "amazon_url": "https://www.amazon.com/Viscose-Bamboo-Queen-Mattress-Topper/dp/B07D5DN269",
       "image_url": "https://m.media-amazon.com/images/I/81YYCJW3PTL.jpg"
-    },
-    {
-      "asin": "B0BP9SNVH9",
-      "title": "Amazon Fire TV Stick 4K Max (newest model), streaming device, with AI-powered Fire TV Search, supports Wi-Fi 6E, free & live TV without cable or satellite, find shows faster with Alexa+",
-      "current_price": 49.99,
-      "reference_price": 59.99,
-      "discount_percent": 16.67,
-      "savings": 10.0,
-      "tier": "Amazon Deal",
-      "score": 17,
-      "detected_at": "2026-09-17T18:11:46.137769+00:00",
-      "amazon_url": "https://www.amazon.com/all-new-amazon-fire-tv-stick-4k-max/dp/B0BP9SNVH9",
-      "image_url": "https://m.media-amazon.com/images/I/61WSW6X9+uL.jpg"
     },
     {
       "asin": "B0GHRHXVN1",
@@ -194,7 +168,7 @@
       "savings": 75.0,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-09-17T18:11:46.137740+00:00",
+      "detected_at": "2026-09-18T00:15:35.547170+00:00",
       "amazon_url": "https://www.amazon.com/Google-Pixel-10a-Battery-Obsidian/dp/B0GHRHXVN1",
       "image_url": "https://m.media-amazon.com/images/I/61-Uqovhk0L.jpg"
     },
@@ -207,22 +181,9 @@
       "savings": 15.01,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-09-17T18:11:46.137677+00:00",
+      "detected_at": "2026-09-18T00:15:35.547189+00:00",
       "amazon_url": "https://www.amazon.com/LEVOIT-Purifier-Home-Allergies-Pets/dp/B07VVK39F7",
       "image_url": "https://m.media-amazon.com/images/I/71t-9BTIg9L.jpg"
-    },
-    {
-      "asin": "B085TFF7M1",
-      "title": "Logitech C920x HD Pro PC Webcam Full 1080p/30fps Video - Black | 30fps Video, Clear Audio, Light Correction, Works with Teams, Meet, Zoom, Nintendo Switch 2, Mac, Tablet",
-      "current_price": 59.99,
-      "reference_price": 69.99,
-      "discount_percent": 14.29,
-      "savings": 10.0,
-      "tier": "Amazon Deal",
-      "score": 14,
-      "detected_at": "2026-09-17T18:11:46.137716+00:00",
-      "amazon_url": "https://www.amazon.com/Logitech-C920x-Pro-HD-Webcam/dp/B085TFF7M1",
-      "image_url": "https://m.media-amazon.com/images/I/71YN85pLGcL.jpg"
     },
     {
       "asin": "B002WKKEU2",
@@ -233,7 +194,7 @@
       "savings": 6.0,
       "tier": "Amazon Deal",
       "score": 13,
-      "detected_at": "2026-09-17T18:11:46.137722+00:00",
+      "detected_at": "2026-09-18T00:15:35.547199+00:00",
       "amazon_url": "https://www.amazon.com/Swim-Pool-Winterizing-Closing-Chemical/dp/B002WKKEU2",
       "image_url": "https://m.media-amazon.com/images/I/713NTbv875L.jpg"
     },
@@ -246,9 +207,22 @@
       "savings": 22.03,
       "tier": "Amazon Deal",
       "score": 12,
-      "detected_at": "2026-09-17T18:11:46.137728+00:00",
+      "detected_at": "2026-09-18T00:15:35.547224+00:00",
       "amazon_url": "https://www.amazon.com/LEVOIT-Smart-Purifier-Large-200S-P/dp/B0BGPF71Q6",
       "image_url": "https://m.media-amazon.com/images/I/710w2H0ip+L.jpg"
+    },
+    {
+      "asin": "B0C1NM42PN",
+      "title": "BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6\"-18\" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel (White)",
+      "current_price": 23.99,
+      "reference_price": 26.99,
+      "discount_percent": 11.12,
+      "savings": 3.0,
+      "tier": "Amazon Deal",
+      "score": 11,
+      "detected_at": "2026-09-18T00:15:35.547175+00:00",
+      "amazon_url": "https://www.amazon.com/BEDLORE-Waterproof-Protector-Noiseless-Breathable/dp/B0C1NM42PN",
+      "image_url": "https://m.media-amazon.com/images/I/71wei18fFGL.jpg"
     },
     {
       "asin": "B0DJMP6T3N",
@@ -259,7 +233,7 @@
       "savings": 11.0,
       "tier": "Amazon Deal",
       "score": 11,
-      "detected_at": "2026-09-17T18:11:46.137589+00:00",
+      "detected_at": "2026-09-18T00:15:35.547117+00:00",
       "amazon_url": "https://www.amazon.com/BISSELL-Upholstery-HydroRinse-Self-Cleaning-4075/dp/B0DJMP6T3N",
       "image_url": "https://m.media-amazon.com/images/I/71Zg+lIkXeL.jpg"
     },
@@ -272,22 +246,35 @@
       "savings": 2.77,
       "tier": "Amazon Deal",
       "score": 10,
-      "detected_at": "2026-09-17T18:11:46.137633+00:00",
+      "detected_at": "2026-09-18T00:15:35.547180+00:00",
       "amazon_url": "https://www.amazon.com/Cottonelle-CleaningRipples-Texture-Regular-Packaging/dp/B0CM4NXMV2",
       "image_url": "https://m.media-amazon.com/images/I/81OIONq8QgL.jpg"
     },
     {
-      "asin": "B0GLYWB6F2",
-      "title": "Miracase Silicone & Magnetic for iPhone 17e/16e Case, Black | Compatible with MagSafe, Soft Microfiber Lining, Premium Silicone Case Shockproof Drop Protection Phone Case for 17e/16e",
-      "current_price": 17.99,
-      "reference_price": 19.99,
+      "asin": "B0FDQ3PWCX",
+      "title": "FNTCASE for iPhone 18 Pro Max Case / 17 Pro Max Clear Case Fit for Magsafe | Screen Protector, Military Grade Drop Protection, Slim Magnetic Phone Cases, Shockproof Bumper, Transparent Cell Cover",
+      "current_price": 6.29,
+      "reference_price": 6.99,
       "discount_percent": 10.01,
-      "savings": 2.0,
+      "savings": 0.7,
       "tier": "Amazon Deal",
       "score": 10,
-      "detected_at": "2026-09-17T18:11:46.137703+00:00",
-      "amazon_url": "https://www.amazon.com/Miracase-Silicone-Magnetic-iPhone-Black/dp/B0GLYWB6F2",
-      "image_url": "https://m.media-amazon.com/images/I/61azDEFWiJL.jpg"
+      "detected_at": "2026-09-18T00:15:35.547205+00:00",
+      "amazon_url": "https://www.amazon.com/FNTCASE-iPhone-17-Pro-Max-Case/dp/B0FDQ3PWCX",
+      "image_url": "https://m.media-amazon.com/images/I/81kOllW+c5L.jpg"
+    },
+    {
+      "asin": "B0FDQBQSHN",
+      "title": "FNTCASE for iPhone 18 Pro Case / 17 Pro Case Clear with Screen Protector | Anti Yellowing, Compatible with Magsafe, Magnetic, Rugged Shockproof Protective, Transparent Cell Phone Cover",
+      "current_price": 6.29,
+      "reference_price": 6.99,
+      "discount_percent": 10.01,
+      "savings": 0.7,
+      "tier": "Amazon Deal",
+      "score": 10,
+      "detected_at": "2026-09-18T00:15:35.547209+00:00",
+      "amazon_url": "https://www.amazon.com/FNTCASE-iPhone-Pro-Case-Transparent/dp/B0FDQBQSHN",
+      "image_url": "https://m.media-amazon.com/images/I/81JmrCHJyQL.jpg"
     },
     {
       "asin": "B0D1C6HWFF",
@@ -298,9 +285,22 @@
       "savings": 25.0,
       "tier": "Amazon Deal",
       "score": 10,
-      "detected_at": "2026-09-17T18:11:46.137763+00:00",
+      "detected_at": "2026-09-18T00:15:35.547219+00:00",
       "amazon_url": "https://www.amazon.com/Dehumidifier-AEOCKY-Compressor-Intelligent-Humidistat/dp/B0D1C6HWFF",
       "image_url": "https://m.media-amazon.com/images/I/61Rb8OrhWML.jpg"
+    },
+    {
+      "asin": "B0H5WFXZYM",
+      "title": "TORRAS Q3 Air for iPhone 18 Pro Max Case, 360 Magnetic Stand-Shadow Black | AirPro Cushion, Fit for MagSafe, Heavy Duty Impact Protection, Camera Control Button, Tough Durable Phone Case, 6.9 inch",
+      "current_price": 59.39,
+      "reference_price": 65.99,
+      "discount_percent": 10.0,
+      "savings": 6.6,
+      "tier": "Amazon Deal",
+      "score": 10,
+      "detected_at": "2026-09-18T00:15:35.547256+00:00",
+      "amazon_url": "https://www.amazon.com/TORRAS-iPhone-Magnetic-Stand-Shadow-Black/dp/B0H5WFXZYM",
+      "image_url": "https://m.media-amazon.com/images/I/71R0yferMlL.jpg"
     }
   ]
 }
