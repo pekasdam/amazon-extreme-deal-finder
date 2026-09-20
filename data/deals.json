@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T17:16:40.867684+00:00",
+  "generated_at": "2026-09-20T00:08:24.725580+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 23,
   "deals": [
@@ -12,7 +12,7 @@
       "savings": 22.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 55,
-      "detected_at": "2026-09-19T17:16:40.867456+00:00",
+      "detected_at": "2026-09-20T00:08:24.725377+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Fire-TV-Stick-HD-Thin-and-Portable/dp/B0DJGDC3BD",
       "image_url": "https://m.media-amazon.com/images/I/610j-wmxRcL.jpg"
     },
@@ -25,22 +25,22 @@
       "savings": 299.01,
       "tier": "Amazon Deal",
       "score": 50,
-      "detected_at": "2026-09-19T17:16:40.867468+00:00",
+      "detected_at": "2026-09-20T00:08:24.725369+00:00",
       "amazon_url": "https://www.amazon.com/Shark-AV2511AE-Self-Empty-Capacity-Navigation/dp/B09T4YZGQR",
       "image_url": "https://m.media-amazon.com/images/I/71n99mtBmqL.jpg"
     },
     {
-      "asin": "B0DWXBCQVP",
-      "title": "roborock Q10 S5+ Robot Vacuum and Mop, 10,000Pa Suction | Upgraded from Q8 max+, 70-Day Self-Emptying, Obstacle Avoidance, Sonic Mopping, Dual Anti-Tangle Design, Auto Mop Lift, Black",
-      "current_price": 279.99,
-      "reference_price": 549.99,
-      "discount_percent": 49.09,
-      "savings": 270.0,
+      "asin": "B0FXRGJ4S9",
+      "title": "IFGET 92.63\" W Modern Arched Sideboard Buffet Cabinet with Storage, Natural | Fluted Arch Sideboard Cabinet w/Adjustable Shelves, Wooden Modular Kitchen Cabinet for Dining& Living Room, Entryway",
+      "current_price": 214.57,
+      "reference_price": 389.99,
+      "discount_percent": 44.98,
+      "savings": 175.42,
       "tier": "Amazon Deal",
-      "score": 49,
-      "detected_at": "2026-09-19T17:16:40.867531+00:00",
-      "amazon_url": "https://www.amazon.com/roborock-Q10-S5-Self-Emptying-Anti-Tangle/dp/B0DWXBCQVP",
-      "image_url": "https://m.media-amazon.com/images/I/61KBMtvTenL.jpg"
+      "score": 45,
+      "detected_at": "2026-09-20T00:08:24.725443+00:00",
+      "amazon_url": "https://www.amazon.com/IFGET-Cabinet-Sideboard-Adjustable-Entryway/dp/B0FXRGJ4S9",
+      "image_url": "https://m.media-amazon.com/images/I/71pV4dHzTcL.jpg"
     },
     {
       "asin": "B0FH655984",
@@ -51,7 +51,7 @@
       "savings": 4.41,
       "tier": "Amazon Deal",
       "score": 44,
-      "detected_at": "2026-09-19T17:16:40.867433+00:00",
+      "detected_at": "2026-09-20T00:08:24.725328+00:00",
       "amazon_url": "https://www.amazon.com/SUPFINE-Pro-Max-Case-Anti-Fingerprint/dp/B0FH655984",
       "image_url": "https://m.media-amazon.com/images/I/71Vo32MVCWL.jpg"
     },
@@ -64,35 +64,9 @@
       "savings": 30.0,
       "tier": "Amazon Deal",
       "score": 43,
-      "detected_at": "2026-09-19T17:16:40.867411+00:00",
+      "detected_at": "2026-09-20T00:08:24.725306+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-newest-AI-powered-Search-million/dp/B0F7Z4QZTT",
       "image_url": "https://m.media-amazon.com/images/I/51WtNy0OxLL.jpg"
-    },
-    {
-      "asin": "B0C1GP88C4",
-      "title": "Ultra Pain Relief Cooling Pillow for Neck Support, Adjustable Cervical Pillow Cozy Sleeping, Odorless Ergonomic Contour Memory Foam Pillows, Orthopedic Bed Pillow for Side Back Stomach Sleeper",
-      "current_price": 35.98,
-      "reference_price": 59.99,
-      "discount_percent": 40.02,
-      "savings": 24.01,
-      "tier": "Amazon Deal",
-      "score": 40,
-      "detected_at": "2026-09-19T17:16:40.867542+00:00",
-      "amazon_url": "https://www.amazon.com/Adjustable-Cervical-Sleeping-Ergonomic-Orthopedic/dp/B0C1GP88C4",
-      "image_url": "https://m.media-amazon.com/images/I/714COr20AQL.jpg"
-    },
-    {
-      "asin": "B0GXFHY7Y2",
-      "title": "roborock 2026 New Qrevo 2 Pro Robot Vacuum and Mop, 20,000Pa Suction | FlexiArm Edge Mopping, Zero-Tangle, High-Temperature Mop Self-Cleaning, Smart Obstacle Avoidance for Pet Hair & Carpet, White",
-      "current_price": 549.98,
-      "reference_price": 799.99,
-      "discount_percent": 31.25,
-      "savings": 250.01,
-      "tier": "Amazon Deal",
-      "score": 31,
-      "detected_at": "2026-09-19T17:16:40.867510+00:00",
-      "amazon_url": "https://www.amazon.com/roborock-Qrevo-Pro-Vacuum-Suction/dp/B0GXFHY7Y2",
-      "image_url": "https://m.media-amazon.com/images/I/51KNygIh2fL.jpg"
     },
     {
       "asin": "B079H53D2B",
@@ -103,7 +77,7 @@
       "savings": 8.62,
       "tier": "Amazon Deal",
       "score": 29,
-      "detected_at": "2026-09-19T17:16:40.867352+00:00",
+      "detected_at": "2026-09-20T00:08:24.725338+00:00",
       "amazon_url": "https://www.amazon.com/Probiotics-Formulated-Probiotic-Supplement-Acidophilus/dp/B079H53D2B",
       "image_url": "https://m.media-amazon.com/images/I/81F83eGmXEL.jpg"
     },
@@ -116,9 +90,22 @@
       "savings": 112.51,
       "tier": "Amazon Deal",
       "score": 27,
-      "detected_at": "2026-09-19T17:16:40.867389+00:00",
+      "detected_at": "2026-09-20T00:08:24.725392+00:00",
       "amazon_url": "https://www.amazon.com/Dyson-Cordless-Vacuum-Silver-Nickel/dp/B0CT9552BL",
       "image_url": "https://m.media-amazon.com/images/I/6122QSTrLOL.jpg"
+    },
+    {
+      "asin": "B0GJ5S4V78",
+      "title": "ECOVACS DEEBOT T90 PRO Omni Robot Vacuum and Mop, 30000Pa Blast Suction | TruEdge Instant Self-Cleaning OZMO Roller, PowerBoost Charging, Triple Lift Carpet Care, ZeroTangle for Pet Family,YIKO Agent",
+      "current_price": 598.99,
+      "reference_price": 799.99,
+      "discount_percent": 25.13,
+      "savings": 201.0,
+      "tier": "Amazon Deal",
+      "score": 25,
+      "detected_at": "2026-09-20T00:08:24.725414+00:00",
+      "amazon_url": "https://www.amazon.com/ECOVACS-T90-PRO-Self-Cleaning-ZeroTangle/dp/B0GJ5S4V78",
+      "image_url": "https://m.media-amazon.com/images/I/71VN90aqO4L.jpg"
     },
     {
       "asin": "B0DHLQMWW7",
@@ -129,7 +116,7 @@
       "savings": 60.0,
       "tier": "Amazon Deal",
       "score": 25,
-      "detected_at": "2026-09-19T17:16:40.867281+00:00",
+      "detected_at": "2026-09-20T00:08:24.725271+00:00",
       "amazon_url": "https://www.amazon.com/Graco-Extend2Fit-Convertible-Adjustable-Extension/dp/B0DHLQMWW7",
       "image_url": "https://m.media-amazon.com/images/I/71gKxwf8mcL.jpg"
     },
@@ -142,7 +129,7 @@
       "savings": 160.0,
       "tier": "Amazon Deal",
       "score": 21,
-      "detected_at": "2026-09-19T17:16:40.867321+00:00",
+      "detected_at": "2026-09-20T00:08:24.725319+00:00",
       "amazon_url": "https://www.amazon.com/Govee-Permanent-Lighting-Waterproof-Assistant/dp/B0DX1WPB9J",
       "image_url": "https://m.media-amazon.com/images/I/71zGM87UFOL.jpg"
     },
@@ -155,35 +142,22 @@
       "savings": 50.04,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-09-19T17:16:40.867489+00:00",
+      "detected_at": "2026-09-20T00:08:24.725466+00:00",
       "amazon_url": "https://www.amazon.com/Beats-Powerbeats-Wireless-Bluetooth-Earbuds/dp/B0DT2344N3",
       "image_url": "https://m.media-amazon.com/images/I/51HOUQVBlsL.jpg"
     },
     {
-      "asin": "B0C1NNYJGB",
-      "title": "BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6\"-18\" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel (Gray)",
-      "current_price": 23.99,
-      "reference_price": 29.99,
-      "discount_percent": 20.01,
-      "savings": 6.0,
-      "tier": "Amazon Deal",
-      "score": 20,
-      "detected_at": "2026-09-19T17:16:40.867422+00:00",
-      "amazon_url": "https://www.amazon.com/BEDLORE-Waterproof-Protector-Breathable-Dirt-Proof/dp/B0C1NNYJGB",
-      "image_url": "https://m.media-amazon.com/images/I/81X+MBrUg+L.jpg"
-    },
-    {
-      "asin": "B0DHLR4M9Z",
-      "title": "Graco Turn2Me 3-in-1 Rotating Convertible Car Seat, Cambridge | 180\u00b0 Rotation in Rear-Facing Mode; 3 Modes of Use: Rear & Forward-Facing and Highback Booster; Easy SnugLock Installation",
+      "asin": "B0DHLSZ13Q",
+      "title": "Graco Turn2Me 3-in-1 Rotating Convertible Car Seat, Manchester | 180\u00b0 Rotation in Rear-Facing Mode; 3 Modes of Use: Rear & Forward-Facing and Highback Booster; Easy SnugLock Installation",
       "current_price": 319.99,
       "reference_price": 399.99,
       "discount_percent": 20.0,
       "savings": 80.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-09-19T17:16:40.867365+00:00",
-      "amazon_url": "https://www.amazon.com/Graco-Convertible-Rear-Facing-Forward-Facing-Adjustable/dp/B0DHLR4M9Z",
-      "image_url": "https://m.media-amazon.com/images/I/715dyGpBD6L.jpg"
+      "detected_at": "2026-09-20T00:08:24.725346+00:00",
+      "amazon_url": "https://www.amazon.com/Convertible-Manchester-Featuring-Installation-Reinforced/dp/B0DHLSZ13Q",
+      "image_url": "https://m.media-amazon.com/images/I/719JrWqmTBL.jpg"
     },
     {
       "asin": "B0DM74249Y",
@@ -194,22 +168,9 @@
       "savings": 70.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-09-19T17:16:40.867400+00:00",
+      "detected_at": "2026-09-20T00:08:24.725459+00:00",
       "amazon_url": "https://www.amazon.com/Graco-EasyTurn-Convertible-Rotating-Toddler/dp/B0DM74249Y",
       "image_url": "https://m.media-amazon.com/images/I/81ftMvjRG1L.jpg"
-    },
-    {
-      "asin": "B0DQLRHG1N",
-      "title": "Graco Tranzitions 3-in-1 Harness Booster Car Seat, Proof | 3 Modes of Use: Harness, Highback & Backless Belt-Positioning Booster; Adjustable Headrest & Harness, Lightweight & Portable",
-      "current_price": 111.99,
-      "reference_price": 139.99,
-      "discount_percent": 20.0,
-      "savings": 28.0,
-      "tier": "Amazon Deal",
-      "score": 20,
-      "detected_at": "2026-09-19T17:16:40.867500+00:00",
-      "amazon_url": "https://www.amazon.com/Graco-Tranzitions-Harness-Highback-Backless/dp/B0DQLRHG1N",
-      "image_url": "https://m.media-amazon.com/images/I/71gAXzvKyWL.jpg"
     },
     {
       "asin": "B07D5DN269",
@@ -220,22 +181,22 @@
       "savings": 8.0,
       "tier": "Amazon Deal",
       "score": 18,
-      "detected_at": "2026-09-19T17:16:40.867377+00:00",
+      "detected_at": "2026-09-20T00:08:24.725361+00:00",
       "amazon_url": "https://www.amazon.com/Viscose-Bamboo-Queen-Mattress-Topper/dp/B07D5DN269",
       "image_url": "https://m.media-amazon.com/images/I/81YYCJW3PTL.jpg"
     },
     {
-      "asin": "B0GHRHXVN1",
-      "title": "Google Pixel 10a - 30+ Hours Battery, Camera Coach, Gemini - Obsidian 128GB | Gemini Live, durable design, 7 years of Pixel Drops, 30+ hour battery, Camera Coach, Call Screen, Car Crash Detection",
+      "asin": "B0GHRT7C7K",
+      "title": "Google Pixel 10a - 30+ Hours Battery, Camera Coach, Gemini - Lavender 128GB | Gemini Live, durable design, 7 years of Pixel Drops, 30+ hour battery, Camera Coach, Call Screen, Car Crash Detection",
       "current_price": 424.0,
       "reference_price": 499.0,
       "discount_percent": 15.03,
       "savings": 75.0,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-09-19T17:16:40.867567+00:00",
-      "amazon_url": "https://www.amazon.com/Google-Pixel-10a-Battery-Obsidian/dp/B0GHRHXVN1",
-      "image_url": "https://m.media-amazon.com/images/I/61-Uqovhk0L.jpg"
+      "detected_at": "2026-09-20T00:08:24.725422+00:00",
+      "amazon_url": "https://www.amazon.com/Google-Pixel-10a-Battery-Lavender/dp/B0GHRT7C7K",
+      "image_url": "https://m.media-amazon.com/images/I/61ObB6L4lEL.jpg"
     },
     {
       "asin": "B07VVK39F7",
@@ -246,35 +207,61 @@
       "savings": 15.01,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-09-19T17:16:40.867521+00:00",
+      "detected_at": "2026-09-20T00:08:24.725436+00:00",
       "amazon_url": "https://www.amazon.com/LEVOIT-Purifier-Home-Allergies-Pets/dp/B07VVK39F7",
       "image_url": "https://m.media-amazon.com/images/I/71t-9BTIg9L.jpg"
     },
     {
-      "asin": "B002WKKEU2",
-      "title": "In The Swim Pool Closing Kit - 15,000 Gallons | Winterizing Chemicals for Swimming Pools, Includes Chlorine-Free Shock-Oxidizer, Winterizer, Winter Algaecide, & Floater",
-      "current_price": 39.99,
-      "reference_price": 45.99,
-      "discount_percent": 13.05,
-      "savings": 6.0,
+      "asin": "B0G611MNC3",
+      "title": "Senville AURA Mini Split Air Conditioner, Heat Pump, White, 15000 BTU | Energy Star Certified, Works with Alexa, Ductless, Wall Mounted, AHRI Certified, 208-230V Inverter",
+      "current_price": 1274.99,
+      "reference_price": 1499.99,
+      "discount_percent": 15.0,
+      "savings": 225.0,
       "tier": "Amazon Deal",
-      "score": 13,
-      "detected_at": "2026-09-19T17:16:40.867479+00:00",
-      "amazon_url": "https://www.amazon.com/Swim-Pool-Winterizing-Closing-Chemical/dp/B002WKKEU2",
-      "image_url": "https://m.media-amazon.com/images/I/713NTbv875L.jpg"
+      "score": 15,
+      "detected_at": "2026-09-20T00:08:24.725429+00:00",
+      "amazon_url": "https://www.amazon.com/Senville-Conditioner-Inverter-Compatible-Energy/dp/B0G611MNC3",
+      "image_url": "https://m.media-amazon.com/images/I/71NU+Pk3I2L.jpg"
     },
     {
-      "asin": "B0HCYX8QBJ",
-      "title": "Miracase Silicone & Magnetic for iPhone 18 Pro Max Case, Burgundy | Compatible with MagSafe, Camera Control Cover, Premium Silicone Cover Shockproof Drop Protection Phone Case for 18 Pro Max",
+      "asin": "B0H126B3KV",
+      "title": "Samsung Galaxy Z Fold8 Unlocked Android Smartphone, 256GB Graphite | All-New Shape, Content-Native Ratio, Customized Processor, 4800 mAh Battery, 12 GB Memory, Dual 50 MP Camera, My FanCam",
+      "current_price": 1649.99,
+      "reference_price": 1899.99,
+      "discount_percent": 13.16,
+      "savings": 250.0,
+      "tier": "Amazon Deal",
+      "score": 13,
+      "detected_at": "2026-09-20T00:08:24.725451+00:00",
+      "amazon_url": "https://www.amazon.com/Samsung-Unlocked-Android-Smartphone-Graphite/dp/B0H126B3KV",
+      "image_url": "https://m.media-amazon.com/images/I/51PFW8uARvL.jpg"
+    },
+    {
+      "asin": "B0HCYXTJHR",
+      "title": "Miracase Magnetic for iPhone 18 Pro Case, Silicone, Burgundy | Compatible with MagSafe, Soft Microfiber Lining,Shockproof Drop Protection Phone Case for 18 Pro",
       "current_price": 21.98,
       "reference_price": 24.99,
       "discount_percent": 12.04,
       "savings": 3.01,
       "tier": "Amazon Deal",
       "score": 12,
-      "detected_at": "2026-09-19T17:16:40.867552+00:00",
-      "amazon_url": "https://www.amazon.com/Miracase-Silicone-Magnetic-iPhone-Burgundy/dp/B0HCYX8QBJ",
-      "image_url": "https://m.media-amazon.com/images/I/61xFRV4FvpL.jpg"
+      "detected_at": "2026-09-20T00:08:24.725399+00:00",
+      "amazon_url": "https://www.amazon.com/Miracase-Magnetic-iPhone-Silicone-Burgundy/dp/B0HCYXTJHR",
+      "image_url": "https://m.media-amazon.com/images/I/61PxlVyu8NL.jpg"
+    },
+    {
+      "asin": "B0C1NM42PN",
+      "title": "BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6\"-18\" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel (White)",
+      "current_price": 23.99,
+      "reference_price": 26.99,
+      "discount_percent": 11.12,
+      "savings": 3.0,
+      "tier": "Amazon Deal",
+      "score": 11,
+      "detected_at": "2026-09-20T00:08:24.725383+00:00",
+      "amazon_url": "https://www.amazon.com/BEDLORE-Waterproof-Protector-Noiseless-Breathable/dp/B0C1NM42PN",
+      "image_url": "https://m.media-amazon.com/images/I/71tUP9hEL+L.jpg"
     },
     {
       "asin": "B0DJMP6T3N",
@@ -285,22 +272,35 @@
       "savings": 11.0,
       "tier": "Amazon Deal",
       "score": 11,
-      "detected_at": "2026-09-19T17:16:40.867339+00:00",
+      "detected_at": "2026-09-20T00:08:24.725354+00:00",
       "amazon_url": "https://www.amazon.com/BISSELL-Upholstery-HydroRinse-Self-Cleaning-4075/dp/B0DJMP6T3N",
       "image_url": "https://m.media-amazon.com/images/I/71Zg+lIkXeL.jpg"
     },
     {
-      "asin": "B0D1C6HWFF",
-      "title": "AEOCKY 5500 Sq.Ft Energy Star Most Efficient 2025 Dehumidifier Max 80Pint/D | Dehumidifier with Drain Hose for Basement, Home, Bedroom, Bathroom, Intelligent Humidistat",
-      "current_price": 224.97,
-      "reference_price": 249.97,
-      "discount_percent": 10.0,
-      "savings": 25.0,
+      "asin": "B0FDQ3PWCX",
+      "title": "FNTCASE for iPhone 18 Pro Max Case / 17 Pro Max Clear Case Fit for Magsafe | Screen Protector, Military Grade Drop Protection, Slim Magnetic Phone Cases, Shockproof Bumper, Transparent Cell Cover",
+      "current_price": 6.29,
+      "reference_price": 6.99,
+      "discount_percent": 10.01,
+      "savings": 0.7,
       "tier": "Amazon Deal",
       "score": 10,
-      "detected_at": "2026-09-19T17:16:40.867444+00:00",
-      "amazon_url": "https://www.amazon.com/Dehumidifier-AEOCKY-Compressor-Intelligent-Humidistat/dp/B0D1C6HWFF",
-      "image_url": "https://m.media-amazon.com/images/I/61Rb8OrhWML.jpg"
+      "detected_at": "2026-09-20T00:08:24.725407+00:00",
+      "amazon_url": "https://www.amazon.com/FNTCASE-iPhone-17-Pro-Max-Case/dp/B0FDQ3PWCX",
+      "image_url": "https://m.media-amazon.com/images/I/81kOllW+c5L.jpg"
+    },
+    {
+      "asin": "B0H41FVJ7C",
+      "title": "Miracase for iPhone 16 Case 6.1'', Full-Body Bumper Phone case with Built-in Full Glass Screen &Camera Control,No Gap,Compatible with MagSafe,Drop Proof 16 Cover,Blue",
+      "current_price": 23.39,
+      "reference_price": 25.99,
+      "discount_percent": 10.0,
+      "savings": 2.6,
+      "tier": "Amazon Deal",
+      "score": 10,
+      "detected_at": "2026-09-20T00:08:24.725475+00:00",
+      "amazon_url": "https://www.amazon.com/Miracase-Full-Body-Control-Compatible-MagSafe/dp/B0H41FVJ7C",
+      "image_url": "https://m.media-amazon.com/images/I/7121pa3XXRL.jpg"
     }
   ]
 }
