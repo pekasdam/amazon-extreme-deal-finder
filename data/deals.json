@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T18:23:41.228901+00:00",
+  "generated_at": "2026-09-24T00:29:21.544746+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 23,
   "deals": [
@@ -12,7 +12,7 @@
       "savings": 230.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 66,
-      "detected_at": "2026-09-23T18:23:41.228737+00:00",
+      "detected_at": "2026-09-24T00:29:21.544481+00:00",
       "amazon_url": "https://www.amazon.com/Blink-Outdoor-2KPlus-5cam-Black/dp/B0F95XVBFS",
       "image_url": "https://m.media-amazon.com/images/I/41kPNlOQzIL.jpg"
     },
@@ -25,7 +25,7 @@
       "savings": 195.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 65,
-      "detected_at": "2026-09-23T18:23:41.228671+00:00",
+      "detected_at": "2026-09-24T00:29:21.544467+00:00",
       "amazon_url": "https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLTCYWH",
       "image_url": "https://m.media-amazon.com/images/I/31oSNXtjjyL.jpg"
     },
@@ -38,9 +38,22 @@
       "savings": 60.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-09-23T18:23:41.228680+00:00",
+      "detected_at": "2026-09-24T00:29:21.544435+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
       "image_url": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg"
+    },
+    {
+      "asin": "B0F3BJJ9DJ",
+      "title": "Blink Mini 2K+ (newest model) \u2013 Plug-in Home & Pet Indoor Security Camera with 2K video resolution, night vision, enhanced audio, motion detection \u2013 2 cameras (White)",
+      "current_price": 27.99,
+      "reference_price": 69.99,
+      "discount_percent": 60.01,
+      "savings": 42.0,
+      "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
+      "score": 60,
+      "detected_at": "2026-09-24T00:29:21.544647+00:00",
+      "amazon_url": "https://www.amazon.com/Blink-Mini-2KPlus-2cam-White/dp/B0F3BJJ9DJ",
+      "image_url": "https://m.media-amazon.com/images/I/41CxRFPVUjL.jpg"
     },
     {
       "asin": "B0G625WMBN",
@@ -51,7 +64,7 @@
       "savings": 39.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 56,
-      "detected_at": "2026-09-23T18:23:41.228764+00:00",
+      "detected_at": "2026-09-24T00:29:21.544598+00:00",
       "amazon_url": "https://www.amazon.com/Blink-Battery-Doorbell-newest-model/dp/B0G625WMBN",
       "image_url": "https://m.media-amazon.com/images/I/518wO593WLL.jpg"
     },
@@ -64,7 +77,7 @@
       "savings": 82.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 53,
-      "detected_at": "2026-09-23T18:23:41.228638+00:00",
+      "detected_at": "2026-09-24T00:29:21.544492+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT",
       "image_url": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg"
     },
@@ -77,7 +90,7 @@
       "savings": 50.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-09-23T18:23:41.228711+00:00",
+      "detected_at": "2026-09-24T00:29:21.544512+00:00",
       "amazon_url": "https://www.amazon.com/Ring-business-security-Wide-Angle-Enhanced/dp/B0FWDSZ6Q2",
       "image_url": "https://m.media-amazon.com/images/I/51s3QBJPsvL.jpg"
     },
@@ -90,9 +103,22 @@
       "savings": 40.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-09-23T18:23:41.228721+00:00",
+      "detected_at": "2026-09-24T00:29:21.544538+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Outdoor-Weather-Resistant-Camera-Two-Way/dp/B0C5QRZ47P",
       "image_url": "https://m.media-amazon.com/images/I/51jsmzS6DYL.jpg"
+    },
+    {
+      "asin": "B0FWFJ5Q2Z",
+      "title": "Ring Floodlight Cam 2K (newest model), Wired, Home or business security, Wide-Angle Retinal 2K Video, 6x Enhanced Zoom, Ultra-Bright Floodlights, White",
+      "current_price": 99.99,
+      "reference_price": 199.99,
+      "discount_percent": 50.0,
+      "savings": 100.0,
+      "tier": "\u2705 50%+ GOOD DEAL",
+      "score": 50,
+      "detected_at": "2026-09-24T00:29:21.544614+00:00",
+      "amazon_url": "https://www.amazon.com/Ring-Floodlight-Wide-Angle-Ultra-Bright-Floodlights/dp/B0FWFJ5Q2Z",
+      "image_url": "https://m.media-amazon.com/images/I/51PUKKDMcZL.jpg"
     },
     {
       "asin": "B08F6GPQQ7",
@@ -103,22 +129,9 @@
       "savings": 90.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-09-23T18:23:41.228694+00:00",
+      "detected_at": "2026-09-24T00:29:21.544521+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Floodlight-Cam-Wired-Plus/dp/B08F6GPQQ7",
       "image_url": "https://m.media-amazon.com/images/I/41jJhGQLvWL.jpg"
-    },
-    {
-      "asin": "B0D38GBHCS",
-      "title": "Amazon Fire HD 8 Kids Pro tablet, ages 6-12. Bright 8\" HD screen, includes ad-free content, parental controls, 13-hr battery, slim case for older kids, 64GB, Hello Teal, (2024 release)",
-      "current_price": 89.99,
-      "reference_price": 169.99,
-      "discount_percent": 47.06,
-      "savings": 80.0,
-      "tier": "Amazon Deal",
-      "score": 47,
-      "detected_at": "2026-09-23T18:23:41.228795+00:00",
-      "amazon_url": "https://www.amazon.com/Amazon-ad-free-content-parental-controls/dp/B0D38GBHCS",
-      "image_url": "https://m.media-amazon.com/images/I/61iYPiatV9L.jpg"
     },
     {
       "asin": "B09JZ5BG26",
@@ -129,22 +142,9 @@
       "savings": 70.0,
       "tier": "Amazon Deal",
       "score": 47,
-      "detected_at": "2026-09-23T18:23:41.228726+00:00",
+      "detected_at": "2026-09-24T00:29:21.544547+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Spotlight-Cam-Plus-Battery-White/dp/B09JZ5BG26",
       "image_url": "https://m.media-amazon.com/images/I/51AGnaahGML.jpg"
-    },
-    {
-      "asin": "B0GY4TQ2P8",
-      "title": "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W | 2,010Wh LiFePO4 Battery, 1,500W Output, Solar Generator for Home Backup, Outdoor and Emergency Use",
-      "current_price": 649.99,
-      "reference_price": 1199.0,
-      "discount_percent": 45.79,
-      "savings": 549.01,
-      "tier": "Amazon Deal",
-      "score": 46,
-      "detected_at": "2026-09-23T18:23:41.228706+00:00",
-      "amazon_url": "https://www.amazon.com/Anker-SOLIX-S2000-Portable-Station/dp/B0GY4TQ2P8",
-      "image_url": "https://m.media-amazon.com/images/I/71d9U6KPEVL.jpg"
     },
     {
       "asin": "B0F151GFYR",
@@ -155,7 +155,7 @@
       "savings": 100.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-09-23T18:23:41.228687+00:00",
+      "detected_at": "2026-09-24T00:29:21.544503+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Wired-Doorbell-Newest-Model/dp/B0F151GFYR",
       "image_url": "https://m.media-amazon.com/images/I/51cJpjaOeEL.jpg"
     },
@@ -168,7 +168,7 @@
       "savings": 40.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-09-23T18:23:41.228758+00:00",
+      "detected_at": "2026-09-24T00:29:21.544564+00:00",
       "amazon_url": "https://www.amazon.com/Waterpik-Aquarius-Professional-WP-660-Packaging/dp/B00HFQQ0VU",
       "image_url": "https://m.media-amazon.com/images/I/714Q49TDXlL.jpg"
     },
@@ -181,7 +181,7 @@
       "savings": 3.41,
       "tier": "Amazon Deal",
       "score": 34,
-      "detected_at": "2026-09-23T18:23:41.228785+00:00",
+      "detected_at": "2026-09-24T00:29:21.544581+00:00",
       "amazon_url": "https://www.amazon.com/SUPFINE-Pro-Case-Translucent-Anti-Fingerprint/dp/B0FH67STX8",
       "image_url": "https://m.media-amazon.com/images/I/719E-PGfC1L.jpg"
     },
@@ -194,9 +194,22 @@
       "savings": 250.01,
       "tier": "Amazon Deal",
       "score": 31,
-      "detected_at": "2026-09-23T18:23:41.228790+00:00",
+      "detected_at": "2026-09-24T00:29:21.544639+00:00",
       "amazon_url": "https://www.amazon.com/roborock-Qrevo-Pro-Vacuum-Suction/dp/B0GXF7ZQPY",
       "image_url": "https://m.media-amazon.com/images/I/61oLk13zjcL.jpg"
+    },
+    {
+      "asin": "B0CNTRVZPW",
+      "title": "Waterpik Cordless Pulse 3100 Portable Water Flosser, Rechargeable, White | 2 Settings, 1 Precision Tip & 1 Tongue Cleaner Tip for Fresh Breath, Travel, Shower Use, ADA Accepted, WF-20 Amazon Exclusive",
+      "current_price": 34.99,
+      "reference_price": 49.99,
+      "discount_percent": 30.01,
+      "savings": 15.0,
+      "tier": "Amazon Deal",
+      "score": 30,
+      "detected_at": "2026-09-24T00:29:21.544655+00:00",
+      "amazon_url": "https://www.amazon.com/Waterpik-Cordless-Rechargeable-Portable-Waterproof/dp/B0CNTRVZPW",
+      "image_url": "https://m.media-amazon.com/images/I/712lAbKMMnL.jpg"
     },
     {
       "asin": "B079H53D2B",
@@ -207,7 +220,7 @@
       "savings": 8.62,
       "tier": "Amazon Deal",
       "score": 29,
-      "detected_at": "2026-09-23T18:23:41.228700+00:00",
+      "detected_at": "2026-09-24T00:29:21.544530+00:00",
       "amazon_url": "https://www.amazon.com/Probiotics-Formulated-Probiotic-Supplement-Acidophilus/dp/B079H53D2B",
       "image_url": "https://m.media-amazon.com/images/I/81F83eGmXEL.jpg"
     },
@@ -220,7 +233,7 @@
       "savings": 80.0,
       "tier": "Amazon Deal",
       "score": 29,
-      "detected_at": "2026-09-23T18:23:41.228715+00:00",
+      "detected_at": "2026-09-24T00:29:21.544555+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Floodlight-Wired-Newest-Model/dp/B0F67KWWQH",
       "image_url": "https://m.media-amazon.com/images/I/51ZwrRjengL.jpg"
     },
@@ -233,22 +246,9 @@
       "savings": 60.0,
       "tier": "Amazon Deal",
       "score": 25,
-      "detected_at": "2026-09-23T18:23:41.228743+00:00",
+      "detected_at": "2026-09-24T00:29:21.544606+00:00",
       "amazon_url": "https://www.amazon.com/Graco-Extend2Fit-Convertible-Adjustable-Extension/dp/B0DHLQMWW7",
       "image_url": "https://m.media-amazon.com/images/I/71gKxwf8mcL.jpg"
-    },
-    {
-      "asin": "B0DT2344N3",
-      "title": "Beats Powerbeats Pro 2 - Wireless Noise Cancelling Workout Earbuds with Secure- Fit Earhooks, Up to 45-Hour Battery with Charging Case, Sweat & Water Resistant, Heart Rate Monitoring - Jet Black",
-      "current_price": 199.95,
-      "reference_price": 249.99,
-      "discount_percent": 20.02,
-      "savings": 50.04,
-      "tier": "Amazon Deal",
-      "score": 20,
-      "detected_at": "2026-09-23T18:23:41.228774+00:00",
-      "amazon_url": "https://www.amazon.com/Beats-Powerbeats-Wireless-Bluetooth-Earbuds/dp/B0DT2344N3",
-      "image_url": "https://m.media-amazon.com/images/I/51HOUQVBlsL.jpg"
     },
     {
       "asin": "B07D5DN269",
@@ -259,7 +259,7 @@
       "savings": 8.0,
       "tier": "Amazon Deal",
       "score": 18,
-      "detected_at": "2026-09-23T18:23:41.228747+00:00",
+      "detected_at": "2026-09-24T00:29:21.544590+00:00",
       "amazon_url": "https://www.amazon.com/Viscose-Bamboo-Queen-Mattress-Topper/dp/B07D5DN269",
       "image_url": "https://m.media-amazon.com/images/I/81YYCJW3PTL.jpg"
     },
@@ -272,9 +272,22 @@
       "savings": 75.0,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-09-23T18:23:41.228769+00:00",
+      "detected_at": "2026-09-24T00:29:21.544623+00:00",
       "amazon_url": "https://www.amazon.com/Google-Pixel-10a-Battery-Obsidian/dp/B0GHRHXVN1",
       "image_url": "https://m.media-amazon.com/images/I/61-Uqovhk0L.jpg"
+    },
+    {
+      "asin": "B0HCYX8QBJ",
+      "title": "Miracase Silicone & Magnetic for iPhone 18 Pro Max Case, Burgundy | Compatible with MagSafe, Camera Control Cover, Premium Silicone Cover Shockproof Drop Protection Phone Case for 18 Pro Max",
+      "current_price": 21.98,
+      "reference_price": 24.99,
+      "discount_percent": 12.04,
+      "savings": 3.01,
+      "tier": "Amazon Deal",
+      "score": 12,
+      "detected_at": "2026-09-24T00:29:21.544631+00:00",
+      "amazon_url": "https://www.amazon.com/Miracase-Silicone-Magnetic-iPhone-Burgundy/dp/B0HCYX8QBJ",
+      "image_url": "https://m.media-amazon.com/images/I/61PxlVyu8NL.jpg"
     },
     {
       "asin": "B0DJMP6T3N",
@@ -285,22 +298,9 @@
       "savings": 11.0,
       "tier": "Amazon Deal",
       "score": 11,
-      "detected_at": "2026-09-23T18:23:41.228732+00:00",
+      "detected_at": "2026-09-24T00:29:21.544573+00:00",
       "amazon_url": "https://www.amazon.com/BISSELL-Upholstery-HydroRinse-Self-Cleaning-4075/dp/B0DJMP6T3N",
       "image_url": "https://m.media-amazon.com/images/I/71Zg+lIkXeL.jpg"
-    },
-    {
-      "asin": "B0DS7CGYPC",
-      "title": "BOSGAME E3 Neo Mini PC, Intel N95 (up to 3.4GHz) 16GB DDR4 RAM 512GB SSD | Mini Desktop Computer Support 4K Triple Display/ WIFI 5/ BT5.0/ USB 3.2/ USB-C/ 2.5G LAN for Home Office",
-      "current_price": 255.6,
-      "reference_price": 284.0,
-      "discount_percent": 10.0,
-      "savings": 28.4,
-      "tier": "Amazon Deal",
-      "score": 10,
-      "detected_at": "2026-09-23T18:23:41.228753+00:00",
-      "amazon_url": "https://www.amazon.com/BOSGAME-E3-Desktop-Comuter-Support/dp/B0DS7CGYPC",
-      "image_url": "https://m.media-amazon.com/images/I/71Wx6w8ksrL.jpg"
     }
   ]
 }
