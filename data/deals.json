@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T18:34:52.060844+00:00",
+  "generated_at": "2026-09-26T00:37:08.511926+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 23,
   "deals": [
@@ -12,7 +12,7 @@
       "savings": 230.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 66,
-      "detected_at": "2026-09-25T18:34:52.060658+00:00",
+      "detected_at": "2026-09-26T00:37:08.511786+00:00",
       "amazon_url": "https://www.amazon.com/Blink-Outdoor-2KPlus-5cam-Black/dp/B0F95XVBFS",
       "image_url": "https://m.media-amazon.com/images/I/41kPNlOQzIL.jpg"
     },
@@ -25,7 +25,7 @@
       "savings": 195.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 65,
-      "detected_at": "2026-09-25T18:34:52.060556+00:00",
+      "detected_at": "2026-09-26T00:37:08.511635+00:00",
       "amazon_url": "https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLTCYWH",
       "image_url": "https://m.media-amazon.com/images/I/31oSNXtjjyL.jpg"
     },
@@ -38,7 +38,7 @@
       "savings": 24.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-09-25T18:34:52.060666+00:00",
+      "detected_at": "2026-09-26T00:37:08.511769+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Fire-TV-Stick-HD-Thin-and-Portable/dp/B0DJGDC3BD",
       "image_url": "https://m.media-amazon.com/images/I/610j-wmxRcL.jpg"
     },
@@ -51,9 +51,22 @@
       "savings": 60.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-09-25T18:34:52.060506+00:00",
+      "detected_at": "2026-09-26T00:37:08.511601+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
       "image_url": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg"
+    },
+    {
+      "asin": "B09T4YZGQR",
+      "title": "Shark AI Ultra Robot Vacuum, 60-Day Self-Emptying Base, Black, AV2511AE | Matrix Clean Navigation for Carpet, Hard Floors & Pet Hair, HEPA, Powerful Suction, Anti-Hair Wrap, LiDAR Mapping, Wi-Fi",
+      "current_price": 249.99,
+      "reference_price": 599.0,
+      "discount_percent": 58.27,
+      "savings": 349.01,
+      "tier": "\u2705 50%+ GOOD DEAL",
+      "score": 58,
+      "detected_at": "2026-09-26T00:37:08.511680+00:00",
+      "amazon_url": "https://www.amazon.com/Shark-AV2511AE-Self-Empty-Capacity-Navigation/dp/B09T4YZGQR",
+      "image_url": "https://m.media-amazon.com/images/I/71n99mtBmqL.jpg"
     },
     {
       "asin": "B0G625WMBN",
@@ -64,7 +77,7 @@
       "savings": 39.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 56,
-      "detected_at": "2026-09-25T18:34:52.060674+00:00",
+      "detected_at": "2026-09-26T00:37:08.511742+00:00",
       "amazon_url": "https://www.amazon.com/Blink-Battery-Doorbell-newest-model/dp/B0G625WMBN",
       "image_url": "https://m.media-amazon.com/images/I/518wO593WLL.jpg"
     },
@@ -77,7 +90,7 @@
       "savings": 82.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 53,
-      "detected_at": "2026-09-25T18:34:52.060542+00:00",
+      "detected_at": "2026-09-26T00:37:08.511649+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT",
       "image_url": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg"
     },
@@ -90,7 +103,7 @@
       "savings": 50.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-09-25T18:34:52.060586+00:00",
+      "detected_at": "2026-09-26T00:37:08.511698+00:00",
       "amazon_url": "https://www.amazon.com/Ring-business-security-Wide-Angle-Enhanced/dp/B0FWDSZ6Q2",
       "image_url": "https://m.media-amazon.com/images/I/51s3QBJPsvL.jpg"
     },
@@ -103,7 +116,7 @@
       "savings": 40.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-09-25T18:34:52.060715+00:00",
+      "detected_at": "2026-09-26T00:37:08.511820+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Outdoor-Weather-Resistant-Camera-Two-Way/dp/B0C5QRZ47P",
       "image_url": "https://m.media-amazon.com/images/I/51jsmzS6DYL.jpg"
     },
@@ -116,7 +129,7 @@
       "savings": 90.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-09-25T18:34:52.060650+00:00",
+      "detected_at": "2026-09-26T00:37:08.511795+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Floodlight-Cam-Wired-Plus/dp/B08F6GPQQ7",
       "image_url": "https://m.media-amazon.com/images/I/41jJhGQLvWL.jpg"
     },
@@ -129,22 +142,9 @@
       "savings": 32.0,
       "tier": "Amazon Deal",
       "score": 46,
-      "detected_at": "2026-09-25T18:34:52.060613+00:00",
+      "detected_at": "2026-09-26T00:37:08.511671+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-newest-AI-powered-Search-million/dp/B0F7Z4QZTT",
       "image_url": "https://m.media-amazon.com/images/I/51WtNy0OxLL.jpg"
-    },
-    {
-      "asin": "B09H8CWFNK",
-      "title": "Shark AV2501S AI Ultra Robot Vacuum, with Matrix Clean, Home Mapping, 30-Day Capacity HEPA Bagless Self Empty Base, Perfect for Pet Hair, Wifi, Dark Grey",
-      "current_price": 239.99,
-      "reference_price": 429.0,
-      "discount_percent": 44.06,
-      "savings": 189.01,
-      "tier": "Amazon Deal",
-      "score": 44,
-      "detected_at": "2026-09-25T18:34:52.060567+00:00",
-      "amazon_url": "https://www.amazon.com/Shark-AV2501S-Self-Empty-Navigation-UltraClean/dp/B09H8CWFNK",
-      "image_url": "https://m.media-amazon.com/images/I/71Us8ka++dL.jpg"
     },
     {
       "asin": "B0C8PR4W22",
@@ -155,35 +155,9 @@
       "savings": 130.04,
       "tier": "Amazon Deal",
       "score": 43,
-      "detected_at": "2026-09-25T18:34:52.060577+00:00",
+      "detected_at": "2026-09-26T00:37:08.511660+00:00",
       "amazon_url": "https://www.amazon.com/Beats-Studio-Pro-Personalized-Compatibility/dp/B0C8PR4W22",
       "image_url": "https://m.media-amazon.com/images/I/61u-OaDSfQL.jpg"
-    },
-    {
-      "asin": "B0GQWRBPK1",
-      "title": "Philips Sonicare 5950 Rechargeable Electric Toothbrush, 2 Brush Head, White | 1000% More Plaque Removal\u00b9, Pressure Sensor, 6 Brush Settings, 21-Day Battery, Includes Travel Case, HX7130/03",
-      "current_price": 64.96,
-      "reference_price": 109.99,
-      "discount_percent": 40.94,
-      "savings": 45.03,
-      "tier": "Amazon Deal",
-      "score": 41,
-      "detected_at": "2026-09-25T18:34:52.060691+00:00",
-      "amazon_url": "https://www.amazon.com/Philips-Sonicare-Rechargeable-Electric-Toothbrush/dp/B0GQWRBPK1",
-      "image_url": "https://m.media-amazon.com/images/I/71JrSUXlxLL.jpg"
-    },
-    {
-      "asin": "B0DFNTKTYN",
-      "title": "Amazon Ember 50\" 4-Series with Fire TV (newest model), 4K Ultra HD smart TV with Alexa Remote, HDR10+, fast processor, Dolby Audio, Ambient Experience, free and live TV, find shows faster with Alexa+",
-      "current_price": 239.99,
-      "reference_price": 399.99,
-      "discount_percent": 40.0,
-      "savings": 160.0,
-      "tier": "Amazon Deal",
-      "score": 40,
-      "detected_at": "2026-09-25T18:34:52.060707+00:00",
-      "amazon_url": "https://www.amazon.com/Fire-TV-4-Series-55-inch/dp/B0DFNTKTYN",
-      "image_url": "https://m.media-amazon.com/images/I/61BTOo8tvCL.jpg"
     },
     {
       "asin": "B0F151GFYR",
@@ -194,7 +168,7 @@
       "savings": 100.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-09-25T18:34:52.060641+00:00",
+      "detected_at": "2026-09-26T00:37:08.511716+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Wired-Doorbell-Newest-Model/dp/B0F151GFYR",
       "image_url": "https://m.media-amazon.com/images/I/51cJpjaOeEL.jpg"
     },
@@ -207,22 +181,48 @@
       "savings": 40.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-09-25T18:34:52.060623+00:00",
+      "detected_at": "2026-09-26T00:37:08.511812+00:00",
       "amazon_url": "https://www.amazon.com/Waterpik-Aquarius-Professional-WP-660-Packaging/dp/B00HFQQ0VU",
       "image_url": "https://m.media-amazon.com/images/I/714Q49TDXlL.jpg"
     },
     {
-      "asin": "B0CB6B2JWG",
-      "title": "Levoit Cordless Vacuum Cleaner, Anti-Tangle for Pet Hair, Up to 50 Minutes | Powerful Suction, Lightweight, Rechargeable, Versatile for Carpets & Hard Floors, 180\u00b0 Lay-Flat Design, LVAC-200",
-      "current_price": 129.99,
-      "reference_price": 199.99,
-      "discount_percent": 35.0,
-      "savings": 70.0,
+      "asin": "B0DFNFX2K7",
+      "title": "Amazon Ember 55\" 4-Series with Fire TV (newest model), 4K Ultra HD smart TV with Alexa Remote, HDR10+, fast processor, Dolby Audio, Ambient Experience, free and live TV, find shows faster with Alexa+",
+      "current_price": 279.99,
+      "reference_price": 459.99,
+      "discount_percent": 39.13,
+      "savings": 180.0,
       "tier": "Amazon Deal",
-      "score": 35,
-      "detected_at": "2026-09-25T18:34:52.060723+00:00",
-      "amazon_url": "https://www.amazon.com/Levoit-Cordless-Cleaner-Anti-Tangle-Minutes/dp/B0CB6B2JWG",
-      "image_url": "https://m.media-amazon.com/images/I/71iS-sWLrNL.jpg"
+      "score": 39,
+      "detected_at": "2026-09-26T00:37:08.511689+00:00",
+      "amazon_url": "https://www.amazon.com/Fire-TV-4-Series-50-inch/dp/B0DFNFX2K7",
+      "image_url": "https://m.media-amazon.com/images/I/61BTOo8tvCL.jpg"
+    },
+    {
+      "asin": "B0FVYBBF3G",
+      "title": "Niagara Sleep Solution King Ultra Soft Mattress Topper \u2014 Back Pain Relief | Rayon Derived from Bamboo, 20\" Deep Pocket, Breathable Pillow Top Mattress Pad, Perfect for Hot Sleepers, Dark Gray",
+      "current_price": 44.98,
+      "reference_price": 71.99,
+      "discount_percent": 37.52,
+      "savings": 27.01,
+      "tier": "Amazon Deal",
+      "score": 38,
+      "detected_at": "2026-09-26T00:37:08.511803+00:00",
+      "amazon_url": "https://www.amazon.com/Ultra-Soft-King-Mattress-Topper/dp/B0FVYBBF3G",
+      "image_url": "https://m.media-amazon.com/images/I/81AArX908mL.jpg"
+    },
+    {
+      "asin": "B0FH67STX8",
+      "title": "SUPFINE for iPhone 18 Pro Case/ 17 Pro Case Black | With Screen Protector, Translucent Matte, Compatible with MagSafe, Military Grade Drop Proof, Rugged Shockproof Protective",
+      "current_price": 6.58,
+      "reference_price": 9.99,
+      "discount_percent": 34.13,
+      "savings": 3.41,
+      "tier": "Amazon Deal",
+      "score": 34,
+      "detected_at": "2026-09-26T00:37:08.511760+00:00",
+      "amazon_url": "https://www.amazon.com/SUPFINE-Pro-Case-Translucent-Anti-Fingerprint/dp/B0FH67STX8",
+      "image_url": "https://m.media-amazon.com/images/I/719E-PGfC1L.jpg"
     },
     {
       "asin": "B005KMDV9A",
@@ -233,35 +233,48 @@
       "savings": 60.0,
       "tier": "Amazon Deal",
       "score": 30,
-      "detected_at": "2026-09-25T18:34:52.060632+00:00",
+      "detected_at": "2026-09-26T00:37:08.511778+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Navigator-Lift-Away-Professional-NV356E/dp/B005KMDV9A",
       "image_url": "https://m.media-amazon.com/images/I/61pCAvxZGVL.jpg"
     },
     {
-      "asin": "B0DQLR6W9G",
-      "title": "Graco Extend2Fit 3-in-1 Convertible Car Seat, Cullen | 3 Modes of Use: Extended Rear & Forward-Facing Harness & Highback Booster; Adjustable Extension Panel, Grows with Your Child",
-      "current_price": 202.49,
-      "reference_price": 269.99,
+      "asin": "B0DHLQMWW7",
+      "title": "Graco Extend2Fit 2-in-1 Convertible Car Seat, Gotham | 2 Modes of Use: Extended Rear (up to 50lbs.) & Forward-Facing Harness; Adjustable Extension Panel, Grows with Your Child",
+      "current_price": 179.99,
+      "reference_price": 239.99,
       "discount_percent": 25.0,
-      "savings": 67.5,
+      "savings": 60.0,
       "tier": "Amazon Deal",
       "score": 25,
-      "detected_at": "2026-09-25T18:34:52.060596+00:00",
-      "amazon_url": "https://www.amazon.com/Graco-Extend2Fit-Convertible-Adjustable-Extension/dp/B0DQLR6W9G",
-      "image_url": "https://m.media-amazon.com/images/I/81kaIPWTKIL.jpg"
+      "detected_at": "2026-09-26T00:37:08.511829+00:00",
+      "amazon_url": "https://www.amazon.com/Graco-Extend2Fit-Convertible-Adjustable-Extension/dp/B0DHLQMWW7",
+      "image_url": "https://m.media-amazon.com/images/I/71gKxwf8mcL.jpg"
     },
     {
-      "asin": "B07VVK39F7",
-      "title": "Levoit Air Purifier for Home Pets Hair Allergens in Bedroom Quiet Purifiers | Quiet HEPA Sleep Mode, Remove 99.97% Dust Pollen Smoke Pet Odor, AHAM VERIFIDE, Core300-P, Up to 1073 ft\u00b2, White",
-      "current_price": 80.99,
-      "reference_price": 99.99,
-      "discount_percent": 19.0,
-      "savings": 19.0,
+      "asin": "B0CG5QSMNP",
+      "title": "G4Free Yoga Pants for Women Wide Leg Pants with Pockets High Waisted | Moisture Wicking, Soft Comfortable Feel, 4-Way Stretch, Faux Fly, Faux Back Pockets, Yoga, Work & Casual Wear",
+      "current_price": 29.57,
+      "reference_price": 36.99,
+      "discount_percent": 20.06,
+      "savings": 7.42,
       "tier": "Amazon Deal",
-      "score": 19,
-      "detected_at": "2026-09-25T18:34:52.060731+00:00",
-      "amazon_url": "https://www.amazon.com/LEVOIT-Purifier-Home-Allergies-Pets/dp/B07VVK39F7",
-      "image_url": "https://m.media-amazon.com/images/I/71t-9BTIg9L.jpg"
+      "score": 20,
+      "detected_at": "2026-09-26T00:37:08.511707+00:00",
+      "amazon_url": "https://www.amazon.com/G4Free-Pockets-Straight-Sweatpants-Business/dp/B0CG5QSMNP",
+      "image_url": "https://m.media-amazon.com/images/I/51FbAdOJGaL.jpg"
+    },
+    {
+      "asin": "B0GHRHXVN1",
+      "title": "Google Pixel 10a - 30+ Hours Battery, Camera Coach, Gemini - Obsidian 128GB | Gemini Live, durable design, 7 years of Pixel Drops, 30+ hour battery, Camera Coach, Call Screen, Car Crash Detection",
+      "current_price": 424.0,
+      "reference_price": 499.0,
+      "discount_percent": 15.03,
+      "savings": 75.0,
+      "tier": "Amazon Deal",
+      "score": 15,
+      "detected_at": "2026-09-26T00:37:08.511751+00:00",
+      "amazon_url": "https://www.amazon.com/Google-Pixel-10a-Battery-Obsidian/dp/B0GHRHXVN1",
+      "image_url": "https://m.media-amazon.com/images/I/61-Uqovhk0L.jpg"
     },
     {
       "asin": "B0DYVJQCTV",
@@ -272,7 +285,7 @@
       "savings": 51.0,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-09-25T18:34:52.060683+00:00",
+      "detected_at": "2026-09-26T00:37:08.511725+00:00",
       "amazon_url": "https://www.amazon.com/Novilla-Mattress-Suppotive-Pressure-Relieving/dp/B0DYVJQCTV",
       "image_url": "https://m.media-amazon.com/images/I/71c-wKMYoNL.jpg"
     },
@@ -285,22 +298,9 @@
       "savings": 11.0,
       "tier": "Amazon Deal",
       "score": 11,
-      "detected_at": "2026-09-25T18:34:52.060604+00:00",
+      "detected_at": "2026-09-26T00:37:08.511734+00:00",
       "amazon_url": "https://www.amazon.com/BISSELL-Upholstery-HydroRinse-Self-Cleaning-4075/dp/B0DJMP6T3N",
       "image_url": "https://m.media-amazon.com/images/I/71Zg+lIkXeL.jpg"
-    },
-    {
-      "asin": "B0FVYBPSWY",
-      "title": "Niagara Sleep Solution Queen Ultra Soft Mattress Topper \u2014 Back Pain Relief | Rayon Derived from Bamboo, 20\" Deep Pocket, Breathable Pillow Top Mattress Pad, Perfect for Hot Sleepers, Dark Gray",
-      "current_price": 35.99,
-      "reference_price": 39.99,
-      "discount_percent": 10.0,
-      "savings": 4.0,
-      "tier": "Amazon Deal",
-      "score": 10,
-      "detected_at": "2026-09-25T18:34:52.060699+00:00",
-      "amazon_url": "https://www.amazon.com/Ultra-Soft-Queen-Mattress-Topper/dp/B0FVYBPSWY",
-      "image_url": "https://m.media-amazon.com/images/I/81AArX908mL.jpg"
     }
   ]
 }
