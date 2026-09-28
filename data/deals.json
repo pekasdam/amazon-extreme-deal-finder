@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-09-28T13:50:11.309064+00:00",
+  "generated_at": "2026-09-28T20:32:41.822423+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 23,
   "deals": [
-    {
-      "asin": "B0F95XVBFS",
-      "title": "Blink Outdoor 2K+ (newest model) \u2014 Wireless smart security camera, 2K video resolution, enhanced audio, two-year battery. Sync Module Core included \u2014 5 camera system (Black)",
-      "current_price": 119.99,
-      "reference_price": 349.99,
-      "discount_percent": 65.72,
-      "savings": 230.0,
-      "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
-      "score": 66,
-      "detected_at": "2026-09-28T13:50:11.308960+00:00",
-      "amazon_url": "https://www.amazon.com/Blink-Outdoor-2KPlus-5cam-Black/dp/B0F95XVBFS",
-      "image_url": "https://m.media-amazon.com/images/I/41kPNlOQzIL.jpg"
-    },
     {
       "asin": "B0DHLQT3CG",
       "title": "Blink Outdoor 4 \u2013 Wireless smart security camera, two-year battery life, 1080p HD day and infrared night live view, two-way talk. Sync Module Core included \u2013 3 camera system",
@@ -25,7 +12,7 @@
       "savings": 124.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 65,
-      "detected_at": "2026-09-28T13:50:11.308902+00:00",
+      "detected_at": "2026-09-28T20:32:41.822117+00:00",
       "amazon_url": "https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLQT3CG",
       "image_url": "https://m.media-amazon.com/images/I/414-yxOaD8L.jpg"
     },
@@ -38,7 +25,7 @@
       "savings": 60.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-09-28T13:50:11.308871+00:00",
+      "detected_at": "2026-09-28T20:32:41.822043+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
       "image_url": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg"
     },
@@ -51,7 +38,7 @@
       "savings": 349.01,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 58,
-      "detected_at": "2026-09-28T13:50:11.308939+00:00",
+      "detected_at": "2026-09-28T20:32:41.822253+00:00",
       "amazon_url": "https://www.amazon.com/Shark-AV2511AE-Self-Empty-Capacity-Navigation/dp/B09T4YZGQR",
       "image_url": "https://m.media-amazon.com/images/I/71n99mtBmqL.jpg"
     },
@@ -64,7 +51,7 @@
       "savings": 270.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 57,
-      "detected_at": "2026-09-28T13:50:11.308897+00:00",
+      "detected_at": "2026-09-28T20:32:41.822090+00:00",
       "amazon_url": "https://www.amazon.com/iRobot-AutoEmpty-Self-Empties-Power-Lifting-Navigation/dp/B0H34W2MS8",
       "image_url": "https://m.media-amazon.com/images/I/71xIngBv5oL.jpg"
     },
@@ -77,7 +64,7 @@
       "savings": 82.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 53,
-      "detected_at": "2026-09-28T13:50:11.308907+00:00",
+      "detected_at": "2026-09-28T20:32:41.822131+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT",
       "image_url": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg"
     },
@@ -90,22 +77,35 @@
       "savings": 50.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-09-28T13:50:11.308928+00:00",
+      "detected_at": "2026-09-28T20:32:41.822144+00:00",
       "amazon_url": "https://www.amazon.com/Ring-business-security-Wide-Angle-Enhanced/dp/B0FWDSZ6Q2",
       "image_url": "https://m.media-amazon.com/images/I/51s3QBJPsvL.jpg"
     },
     {
-      "asin": "B09B93ZDG4",
-      "title": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Deep Sea Blue",
+      "asin": "B09B94RL1R",
+      "title": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Glacier White",
       "current_price": 39.99,
       "reference_price": 79.99,
       "discount_percent": 50.01,
       "savings": 40.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-09-28T13:50:11.308825+00:00",
-      "amazon_url": "https://www.amazon.com/Amazon-Vibrant-sounding-speaker-bedrooms/dp/B09B93ZDG4",
-      "image_url": "https://m.media-amazon.com/images/I/615mmVM4qQL.jpg"
+      "detected_at": "2026-09-28T20:32:41.821954+00:00",
+      "amazon_url": "https://www.amazon.com/Amazon-release-vibrant-helpful-routines/dp/B09B94RL1R",
+      "image_url": "https://m.media-amazon.com/images/I/71S9u9cakLL.jpg"
+    },
+    {
+      "asin": "B07S652B12",
+      "title": "Shark Pet Cordless Stick Vacuum, 40-Min Runtime, Lightweight, Grey, IX141 | Powerful Suction, XL Dust Cup, LED Headlights, Removeable Handheld Vacuum for Carpet & Hard Floors, Crevice & Pet Tool\u200b",
+      "current_price": 149.99,
+      "reference_price": 299.99,
+      "discount_percent": 50.0,
+      "savings": 150.0,
+      "tier": "\u2705 50%+ GOOD DEAL",
+      "score": 50,
+      "detected_at": "2026-09-28T20:32:41.822279+00:00",
+      "amazon_url": "https://www.amazon.com/Shark-Lightweight-Rechargeable-Removable-IX141/dp/B07S652B12",
+      "image_url": "https://m.media-amazon.com/images/I/71ogkstXJ3L.jpg"
     },
     {
       "asin": "B0BFC7WQ6R",
@@ -116,7 +116,7 @@
       "savings": 55.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-09-28T13:50:11.308892+00:00",
+      "detected_at": "2026-09-28T20:32:41.822306+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Echo-Spot-2024-release-Smart-alarm-clock-with-vibrant-sound-Alexa-Black/dp/B0BFC7WQ6R",
       "image_url": "https://m.media-amazon.com/images/I/61bA0fjrSXL.jpg"
     },
@@ -129,35 +129,9 @@
       "savings": 140.0,
       "tier": "Amazon Deal",
       "score": 47,
-      "detected_at": "2026-09-28T13:50:11.308949+00:00",
+      "detected_at": "2026-09-28T20:32:41.822199+00:00",
       "amazon_url": "https://www.amazon.com/INSIGNIA-50-inch-4K-UHD-Fire-TV/dp/B0F19KLHG3",
       "image_url": "https://m.media-amazon.com/images/I/81jLRWNrTXL.jpg"
-    },
-    {
-      "asin": "B09JZ5BG26",
-      "title": "Ring Spotlight Cam Plus, Battery, Home or Business Security with HD video, Two-Way Talk, Color Night Vision, and Security Siren, White",
-      "current_price": 79.99,
-      "reference_price": 149.99,
-      "discount_percent": 46.67,
-      "savings": 70.0,
-      "tier": "Amazon Deal",
-      "score": 47,
-      "detected_at": "2026-09-28T13:50:11.308954+00:00",
-      "amazon_url": "https://www.amazon.com/Ring-Spotlight-Cam-Plus-Battery-White/dp/B09JZ5BG26",
-      "image_url": "https://m.media-amazon.com/images/I/51AGnaahGML.jpg"
-    },
-    {
-      "asin": "B0CRGJC5ZD",
-      "title": "Samsung 32\" Odyssey (G55C) Series QHD 1000R Curved Gaming Monitor, | 165Hz, 1ms(MPRT), HDR10, AMD Radeon FreeSync, Eye Care, Glare Free, Sharp Resolution (LS32CG550ENXZA)",
-      "current_price": 189.99,
-      "reference_price": 329.99,
-      "discount_percent": 42.43,
-      "savings": 140.0,
-      "tier": "Amazon Deal",
-      "score": 42,
-      "detected_at": "2026-09-28T13:50:11.308887+00:00",
-      "amazon_url": "https://www.amazon.com/Samsung-32-Inch-Odyssey-FreeSync-LS32CG550ENXZA/dp/B0CRGJC5ZD",
-      "image_url": "https://m.media-amazon.com/images/I/81cYQ1dO5xL.jpg"
     },
     {
       "asin": "B0GQWSKBLD",
@@ -168,7 +142,7 @@
       "savings": 45.03,
       "tier": "Amazon Deal",
       "score": 41,
-      "detected_at": "2026-09-28T13:50:11.308882+00:00",
+      "detected_at": "2026-09-28T20:32:41.822185+00:00",
       "amazon_url": "https://www.amazon.com/Philips-Sonicare-Rechargeable-Electric-Toothbrush/dp/B0GQWSKBLD",
       "image_url": "https://m.media-amazon.com/images/I/71nXbS3smzL.jpg"
     },
@@ -181,7 +155,7 @@
       "savings": 100.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-09-28T13:50:11.308856+00:00",
+      "detected_at": "2026-09-28T20:32:41.822005+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Echo-Show-11-Vibrant-Full-HD-11-display-Graphite-Amazon/dp/B0DC91H3JK",
       "image_url": "https://m.media-amazon.com/images/I/51Aqp1X3LzL.jpg"
     },
@@ -194,22 +168,35 @@
       "savings": 100.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-09-28T13:50:11.308971+00:00",
+      "detected_at": "2026-09-28T20:32:41.822292+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Wired-Doorbell-Newest-Model/dp/B0F151GFYR",
       "image_url": "https://m.media-amazon.com/images/I/51cJpjaOeEL.jpg"
     },
     {
-      "asin": "B09B2QTGFY",
-      "title": "Amazon Echo Show 5 (newest model), Smart display, Designed for Alexa+, 2x the bass and clearer sound, Glacier White",
+      "asin": "B09B2SBHQK",
+      "title": "Amazon Echo Show 5 (newest model), Smart display, Designed for Alexa+, 2x the bass and clearer sound, Charcoal",
       "current_price": 59.99,
       "reference_price": 99.99,
       "discount_percent": 40.0,
       "savings": 40.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-09-28T13:50:11.308865+00:00",
-      "amazon_url": "https://www.amazon.com/All-new-release-display-clearer-Glacier/dp/B09B2QTGFY",
-      "image_url": "https://m.media-amazon.com/images/I/61DPOznwayL.jpg"
+      "detected_at": "2026-09-28T20:32:41.822059+00:00",
+      "amazon_url": "https://www.amazon.com/All-new-Echo-Show-5/dp/B09B2SBHQK",
+      "image_url": "https://m.media-amazon.com/images/I/61gwIm-iSnL.jpg"
+    },
+    {
+      "asin": "B00HFQQ0VU",
+      "title": "Waterpik Aquarius Countertop Water Flosser with 10 Settings, 7 Tips, White | For Daily Home Gum Health, Dental Braces, Implants, Teeth Cleaning, Multiple Users, ADA Accepted WP-660 Packaging May Vary",
+      "current_price": 59.99,
+      "reference_price": 99.99,
+      "discount_percent": 40.0,
+      "savings": 40.0,
+      "tier": "Amazon Deal",
+      "score": 40,
+      "detected_at": "2026-09-28T20:32:41.822266+00:00",
+      "amazon_url": "https://www.amazon.com/Waterpik-Aquarius-Professional-WP-660-Packaging/dp/B00HFQQ0VU",
+      "image_url": "https://m.media-amazon.com/images/I/714Q49TDXlL.jpg"
     },
     {
       "asin": "B0DFNFX2K7",
@@ -220,35 +207,35 @@
       "savings": 180.0,
       "tier": "Amazon Deal",
       "score": 39,
-      "detected_at": "2026-09-28T13:50:11.308965+00:00",
+      "detected_at": "2026-09-28T20:32:41.822239+00:00",
       "amazon_url": "https://www.amazon.com/Fire-TV-4-Series-50-inch/dp/B0DFNFX2K7",
       "image_url": "https://m.media-amazon.com/images/I/61BTOo8tvCL.jpg"
     },
     {
-      "asin": "B0DJG1731C",
-      "title": "WINIX 5510 Air Purifier (New Generation of 5500-2 with App Support) for Home Large Room Up to 1881 Ft\u00b2 in 1 Hr, True HEPA, High Deodorization Carbon Filter and Auto Mode, Captures Pet Allergies, Smoke",
-      "current_price": 128.24,
-      "reference_price": 179.99,
-      "discount_percent": 28.75,
-      "savings": 51.75,
+      "asin": "B0CDWWS127",
+      "title": "Amazon Echo Show 21 (newest model), Full HD 21\" kitchen hub for home organization, with built-in Fire TV, Designed for Alexa+",
+      "current_price": 349.99,
+      "reference_price": 499.99,
+      "discount_percent": 30.0,
+      "savings": 150.0,
       "tier": "Amazon Deal",
-      "score": 29,
-      "detected_at": "2026-09-28T13:50:11.308933+00:00",
-      "amazon_url": "https://www.amazon.com/5510-Purifier-Generation-Deodorization-Allergies/dp/B0DJG1731C",
-      "image_url": "https://m.media-amazon.com/images/I/71a4tm4xYoL.jpg"
+      "score": 30,
+      "detected_at": "2026-09-28T20:32:41.822172+00:00",
+      "amazon_url": "https://www.amazon.com/Echo-Show-21-Smart-Display/dp/B0CDWWS127",
+      "image_url": "https://m.media-amazon.com/images/I/61tzmVXXOWL.jpg"
     },
     {
-      "asin": "B0C5DPSW5Y",
-      "title": "Amazon Echo Show 15 (newest model), Full HD 15.6\" kitchen hub for home organization, with built-in Fire TV, Designed for Alexa+",
-      "current_price": 249.99,
-      "reference_price": 349.99,
-      "discount_percent": 28.57,
-      "savings": 100.0,
+      "asin": "B004Q4DRJW",
+      "title": "Shark Navigator Lift-Away Upright Vacuum, HEPA, Pet Hair, Lavender, NV352 | Carpet and Hard Floor Cleaning, Swivel Steering, Brushroll Shutoff, 1.04L Dust Cup, Wide Upholstery and 12-in Crevice Tools",
+      "current_price": 129.99,
+      "reference_price": 179.99,
+      "discount_percent": 27.78,
+      "savings": 50.0,
       "tier": "Amazon Deal",
-      "score": 29,
-      "detected_at": "2026-09-28T13:50:11.308923+00:00",
-      "amazon_url": "https://www.amazon.com/Echo-Show-15-Smart-Display/dp/B0C5DPSW5Y",
-      "image_url": "https://m.media-amazon.com/images/I/61xQl81iYQL.jpg"
+      "score": 28,
+      "detected_at": "2026-09-28T20:32:41.822212+00:00",
+      "amazon_url": "https://www.amazon.com/Shark-Navigator-Lift-Away-Anti-Allergy-NV352/dp/B004Q4DRJW",
+      "image_url": "https://m.media-amazon.com/images/I/61FHRTjiT3L.jpg"
     },
     {
       "asin": "B00CH9QWOU",
@@ -259,9 +246,22 @@
       "savings": 190.04,
       "tier": "Amazon Deal",
       "score": 28,
-      "detected_at": "2026-09-28T13:50:11.308877+00:00",
+      "detected_at": "2026-09-28T20:32:41.822027+00:00",
       "amazon_url": "https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU",
       "image_url": "https://m.media-amazon.com/images/I/71BvCt6eAFL.jpg"
+    },
+    {
+      "asin": "B0C6R9P664",
+      "title": "Amazon eero Pro 7 tri-band mesh Wi-Fi 7 router (newest model) - Supports internet plans up to 5 Gbps, Coverage up to 6,000 sq. ft., 3-pack",
+      "current_price": 599.99,
+      "reference_price": 799.99,
+      "discount_percent": 25.0,
+      "savings": 200.0,
+      "tier": "Amazon Deal",
+      "score": 25,
+      "detected_at": "2026-09-28T20:32:41.822104+00:00",
+      "amazon_url": "https://www.amazon.com/Introducing-Amazon-eero-tri-band-router/dp/B0C6R9P664",
+      "image_url": "https://m.media-amazon.com/images/I/41ThWw7JAWL.jpg"
     },
     {
       "asin": "B0DHLQMWW7",
@@ -272,22 +272,22 @@
       "savings": 60.0,
       "tier": "Amazon Deal",
       "score": 25,
-      "detected_at": "2026-09-28T13:50:11.308918+00:00",
+      "detected_at": "2026-09-28T20:32:41.822226+00:00",
       "amazon_url": "https://www.amazon.com/Graco-Extend2Fit-Convertible-Adjustable-Extension/dp/B0DHLQMWW7",
       "image_url": "https://m.media-amazon.com/images/I/71gKxwf8mcL.jpg"
     },
     {
-      "asin": "B01N5UPTZS",
-      "title": "Breville BOV900BSS Smart Oven Air Fryer Pro, Brushed Stainless Steel | Roast, bake, dehydrate and more with countertop oven's 13 functions | Convection setting reduces cook time by up to 30%",
-      "current_price": 319.95,
-      "reference_price": 399.95,
-      "discount_percent": 20.0,
-      "savings": 80.0,
+      "asin": "B0CKYZC93L",
+      "title": "Zinus 12 Inch Queen Green Tea Memory Foam Mattress, Medium Firm Feel | Pressure-Relieving Comfort & Full-Body Support, Naturally Fresh, CertiPUR-US & OEKO-TEX Certified Safe Materials",
+      "current_price": 236.0,
+      "reference_price": 299.99,
+      "discount_percent": 21.33,
+      "savings": 63.99,
       "tier": "Amazon Deal",
-      "score": 20,
-      "detected_at": "2026-09-28T13:50:11.308944+00:00",
-      "amazon_url": "https://www.amazon.com/Breville-BOV900BSS-Convection-Brushed-Stainless/dp/B01N5UPTZS",
-      "image_url": "https://m.media-amazon.com/images/I/718ih5tMKnL.jpg"
+      "score": 21,
+      "detected_at": "2026-09-28T20:32:41.822075+00:00",
+      "amazon_url": "https://www.amazon.com/Zinus-Mattress-Fiberglass-Pressure-Certified/dp/B0CKYZC93L",
+      "image_url": "https://m.media-amazon.com/images/I/81IC7kPsCNL.jpg"
     },
     {
       "asin": "B0DJMP6T3N",
@@ -298,7 +298,7 @@
       "savings": 20.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-09-28T13:50:11.308913+00:00",
+      "detected_at": "2026-09-28T20:32:41.822158+00:00",
       "amazon_url": "https://www.amazon.com/BISSELL-Upholstery-HydroRinse-Self-Cleaning-4075/dp/B0DJMP6T3N",
       "image_url": "https://m.media-amazon.com/images/I/71Zg+lIkXeL.jpg"
     }
