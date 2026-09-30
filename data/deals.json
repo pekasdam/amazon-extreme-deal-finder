@@ -1,46 +1,20 @@
 {
-  "generated_at": "2026-09-30T01:17:28.737136+00:00",
+  "generated_at": "2026-09-30T12:31:27.137244+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 23,
   "deals": [
     {
-      "asin": "B0F95XVBFS",
-      "title": "Blink Outdoor 2K+ (newest model) \u2014 Wireless smart security camera, 2K video resolution, enhanced audio, two-year battery. Sync Module Core included \u2014 5 camera system (Black)",
-      "current_price": 119.99,
-      "reference_price": 349.99,
-      "discount_percent": 65.72,
-      "savings": 230.0,
-      "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
-      "score": 66,
-      "detected_at": "2026-09-30T01:17:28.737036+00:00",
-      "amazon_url": "https://www.amazon.com/Blink-Outdoor-2KPlus-5cam-Black/dp/B0F95XVBFS",
-      "image_url": "https://m.media-amazon.com/images/I/41kPNlOQzIL.jpg"
-    },
-    {
-      "asin": "B0DHLTCYWH",
-      "title": "Blink Outdoor 4 \u2013 Wireless smart security camera, two-year battery life, 1080p HD day and infrared night live view, two-way talk. Sync Module Core included \u2013 5 camera system",
-      "current_price": 104.99,
-      "reference_price": 299.99,
-      "discount_percent": 65.0,
-      "savings": 195.0,
+      "asin": "B0DHLQT3CG",
+      "title": "Blink Outdoor 4 \u2013 Wireless smart security camera, two-year battery life, 1080p HD day and infrared night live view, two-way talk. Sync Module Core included \u2013 3 camera system",
+      "current_price": 65.99,
+      "reference_price": 189.99,
+      "discount_percent": 65.27,
+      "savings": 124.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 65,
-      "detected_at": "2026-09-30T01:17:28.736955+00:00",
-      "amazon_url": "https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLTCYWH",
-      "image_url": "https://m.media-amazon.com/images/I/31oSNXtjjyL.jpg"
-    },
-    {
-      "asin": "B0DJGDC3BD",
-      "title": "Amazon Fire TV Stick HD (newest model), free & live TV, Alexa Voice Remote, powered by the TV, effortless setup, find shows faster with Alexa+",
-      "current_price": 15.99,
-      "reference_price": 39.99,
-      "discount_percent": 60.02,
-      "savings": 24.0,
-      "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
-      "score": 60,
-      "detected_at": "2026-09-30T01:17:28.737025+00:00",
-      "amazon_url": "https://www.amazon.com/Amazon-Fire-TV-Stick-HD-Thin-and-Portable/dp/B0DJGDC3BD",
-      "image_url": "https://m.media-amazon.com/images/I/610j-wmxRcL.jpg"
+      "detected_at": "2026-09-30T12:31:27.137003+00:00",
+      "amazon_url": "https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLQT3CG",
+      "image_url": "https://m.media-amazon.com/images/I/414-yxOaD8L.jpg"
     },
     {
       "asin": "B0FHJ7TKZM",
@@ -51,22 +25,9 @@
       "savings": 60.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-09-30T01:17:28.736924+00:00",
+      "detected_at": "2026-09-30T12:31:27.136903+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
       "image_url": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg"
-    },
-    {
-      "asin": "B09T4YZGQR",
-      "title": "Shark AI Ultra Robot Vacuum, 60-Day Self-Emptying Base, Black, AV2511AE | Matrix Clean Navigation for Carpet, Hard Floors & Pet Hair, HEPA, Powerful Suction, Anti-Hair Wrap, LiDAR Mapping, Wi-Fi",
-      "current_price": 249.99,
-      "reference_price": 599.0,
-      "discount_percent": 58.27,
-      "savings": 349.01,
-      "tier": "\u2705 50%+ GOOD DEAL",
-      "score": 58,
-      "detected_at": "2026-09-30T01:17:28.737031+00:00",
-      "amazon_url": "https://www.amazon.com/Shark-AV2511AE-Self-Empty-Capacity-Navigation/dp/B09T4YZGQR",
-      "image_url": "https://m.media-amazon.com/images/I/71n99mtBmqL.jpg"
     },
     {
       "asin": "B0H34W2MS8",
@@ -77,7 +38,7 @@
       "savings": 270.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 57,
-      "detected_at": "2026-09-30T01:17:28.736949+00:00",
+      "detected_at": "2026-09-30T12:31:27.136942+00:00",
       "amazon_url": "https://www.amazon.com/iRobot-AutoEmpty-Self-Empties-Power-Lifting-Navigation/dp/B0H34W2MS8",
       "image_url": "https://m.media-amazon.com/images/I/71xIngBv5oL.jpg"
     },
@@ -90,7 +51,7 @@
       "savings": 82.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 53,
-      "detected_at": "2026-09-30T01:17:28.736966+00:00",
+      "detected_at": "2026-09-30T12:31:27.137045+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT",
       "image_url": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg"
     },
@@ -103,7 +64,7 @@
       "savings": 50.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-09-30T01:17:28.736988+00:00",
+      "detected_at": "2026-09-30T12:31:27.137078+00:00",
       "amazon_url": "https://www.amazon.com/Ring-business-security-Wide-Angle-Enhanced/dp/B0FWDSZ6Q2",
       "image_url": "https://m.media-amazon.com/images/I/51s3QBJPsvL.jpg"
     },
@@ -116,9 +77,22 @@
       "savings": 40.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-09-30T01:17:28.736881+00:00",
+      "detected_at": "2026-09-30T12:31:27.136968+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Vibrant-sounding-speaker-bedrooms/dp/B09B93ZDG4",
       "image_url": "https://m.media-amazon.com/images/I/615mmVM4qQL.jpg"
+    },
+    {
+      "asin": "B0C5QRZ47P",
+      "title": "Ring Outdoor Cam (Stick Up Cam), Weather-Resistant Home or Business HD Security Camera, Live View, Color Night Vision, Two-Way Talk, Motion Alerts, Works with Alexa, White",
+      "current_price": 39.99,
+      "reference_price": 79.99,
+      "discount_percent": 50.01,
+      "savings": 40.0,
+      "tier": "\u2705 50%+ GOOD DEAL",
+      "score": 50,
+      "detected_at": "2026-09-30T12:31:27.137101+00:00",
+      "amazon_url": "https://www.amazon.com/Ring-Outdoor-Weather-Resistant-Camera-Two-Way/dp/B0C5QRZ47P",
+      "image_url": "https://m.media-amazon.com/images/I/51jsmzS6DYL.jpg"
     },
     {
       "asin": "B07S652B12",
@@ -129,7 +103,7 @@
       "savings": 150.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-09-30T01:17:28.736993+00:00",
+      "detected_at": "2026-09-30T12:31:27.137054+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Lightweight-Rechargeable-Removable-IX141/dp/B07S652B12",
       "image_url": "https://m.media-amazon.com/images/I/71ogkstXJ3L.jpg"
     },
@@ -142,48 +116,22 @@
       "savings": 55.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-09-30T01:17:28.736971+00:00",
+      "detected_at": "2026-09-30T12:31:27.137029+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Echo-Spot-2024-release-Smart-alarm-clock-with-vibrant-sound-Alexa-Black/dp/B0BFC7WQ6R",
       "image_url": "https://m.media-amazon.com/images/I/61bA0fjrSXL.jpg"
     },
     {
-      "asin": "B0F19KLHG3",
-      "title": "INSIGNIA 50\" Class F50 Series LED 4K UHD Smart Fire TV, Voice Remote with Alexa, Stream Live TV Without Cable",
-      "current_price": 159.99,
-      "reference_price": 299.99,
-      "discount_percent": 46.67,
-      "savings": 140.0,
-      "tier": "Amazon Deal",
-      "score": 47,
-      "detected_at": "2026-09-30T01:17:28.736999+00:00",
-      "amazon_url": "https://www.amazon.com/INSIGNIA-50-inch-4K-UHD-Fire-TV/dp/B0F19KLHG3",
-      "image_url": "https://m.media-amazon.com/images/I/81jLRWNrTXL.jpg"
-    },
-    {
-      "asin": "B0F7Z4QZTT",
-      "title": "Amazon Fire TV Stick 4K Plus with AI-powered Fire TV Search, Wi-Fi 6, stream hundreds of thousands of movies and shows, free & live TV, find shows faster with Alexa+",
-      "current_price": 37.99,
-      "reference_price": 69.99,
-      "discount_percent": 45.72,
-      "savings": 32.0,
-      "tier": "Amazon Deal",
-      "score": 46,
-      "detected_at": "2026-09-30T01:17:28.736982+00:00",
-      "amazon_url": "https://www.amazon.com/Amazon-newest-AI-powered-Search-million/dp/B0F7Z4QZTT",
-      "image_url": "https://m.media-amazon.com/images/I/51WtNy0OxLL.jpg"
-    },
-    {
-      "asin": "B0GQWRBPK1",
-      "title": "Philips Sonicare 5950 Rechargeable Electric Toothbrush, 2 Brush Head, White | 1000% More Plaque Removal\u00b9, Pressure Sensor, 6 Brush Settings, 21-Day Battery, Includes Travel Case, HX7130/03",
+      "asin": "B0GQWPSTH8",
+      "title": "Philips Sonicare 5950 Rechargeable Electric Toothbrush, 2 Brush Heads, Navy | 1000% More Plaque Removal\u00b9, Pressure Sensor, 6 Brush Settings, 21-Day Battery, Includes Travel Case, HX7133/03",
       "current_price": 64.96,
       "reference_price": 109.99,
       "discount_percent": 40.94,
       "savings": 45.03,
       "tier": "Amazon Deal",
       "score": 41,
-      "detected_at": "2026-09-30T01:17:28.737009+00:00",
-      "amazon_url": "https://www.amazon.com/Philips-Sonicare-Rechargeable-Electric-Toothbrush/dp/B0GQWRBPK1",
-      "image_url": "https://m.media-amazon.com/images/I/71JrSUXlxLL.jpg"
+      "detected_at": "2026-09-30T12:31:27.136995+00:00",
+      "amazon_url": "https://www.amazon.com/Philips-Sonicare-Rechargeable-Electric-Toothbrush/dp/B0GQWPSTH8",
+      "image_url": "https://m.media-amazon.com/images/I/71I+dQPBolL.jpg"
     },
     {
       "asin": "B0DC91H3JK",
@@ -194,35 +142,22 @@
       "savings": 100.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-09-30T01:17:28.736914+00:00",
+      "detected_at": "2026-09-30T12:31:27.136978+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Echo-Show-11-Vibrant-Full-HD-11-display-Graphite-Amazon/dp/B0DC91H3JK",
       "image_url": "https://m.media-amazon.com/images/I/51Aqp1X3LzL.jpg"
     },
     {
-      "asin": "B0F151GFYR",
-      "title": "Ring Wired Doorbell 4K Pro (Newest Model), Retinal 4K with wide-angle video, 10x Enhanced Zoom, and Night Vision, Deep Silver",
-      "current_price": 149.99,
-      "reference_price": 249.99,
-      "discount_percent": 40.0,
-      "savings": 100.0,
-      "tier": "Amazon Deal",
-      "score": 40,
-      "detected_at": "2026-09-30T01:17:28.737015+00:00",
-      "amazon_url": "https://www.amazon.com/Ring-Wired-Doorbell-Newest-Model/dp/B0F151GFYR",
-      "image_url": "https://m.media-amazon.com/images/I/51cJpjaOeEL.jpg"
-    },
-    {
-      "asin": "B09B2QTGFY",
-      "title": "Amazon Echo Show 5 (newest model), Smart display, Designed for Alexa+, 2x the bass and clearer sound, Glacier White",
+      "asin": "B09B2SBHQK",
+      "title": "Amazon Echo Show 5 (newest model), Smart display, Designed for Alexa+, 2x the bass and clearer sound, Charcoal",
       "current_price": 59.99,
       "reference_price": 99.99,
       "discount_percent": 40.0,
       "savings": 40.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-09-30T01:17:28.736937+00:00",
-      "amazon_url": "https://www.amazon.com/All-new-release-display-clearer-Glacier/dp/B09B2QTGFY",
-      "image_url": "https://m.media-amazon.com/images/I/61DPOznwayL.jpg"
+      "detected_at": "2026-09-30T12:31:27.136987+00:00",
+      "amazon_url": "https://www.amazon.com/All-new-Echo-Show-5/dp/B09B2SBHQK",
+      "image_url": "https://m.media-amazon.com/images/I/61gwIm-iSnL.jpg"
     },
     {
       "asin": "B00HFQQ0VU",
@@ -233,7 +168,7 @@
       "savings": 40.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-09-30T01:17:28.737004+00:00",
+      "detected_at": "2026-09-30T12:31:27.137093+00:00",
       "amazon_url": "https://www.amazon.com/Waterpik-Aquarius-Professional-WP-660-Packaging/dp/B00HFQQ0VU",
       "image_url": "https://m.media-amazon.com/images/I/714Q49TDXlL.jpg"
     },
@@ -246,7 +181,7 @@
       "savings": 180.0,
       "tier": "Amazon Deal",
       "score": 39,
-      "detected_at": "2026-09-30T01:17:28.737020+00:00",
+      "detected_at": "2026-09-30T12:31:27.137086+00:00",
       "amazon_url": "https://www.amazon.com/Fire-TV-4-Series-50-inch/dp/B0DFNFX2K7",
       "image_url": "https://m.media-amazon.com/images/I/61BTOo8tvCL.jpg"
     },
@@ -259,9 +194,22 @@
       "savings": 51.99,
       "tier": "Amazon Deal",
       "score": 37,
-      "detected_at": "2026-09-30T01:17:28.736943+00:00",
+      "detected_at": "2026-09-30T12:31:27.137037+00:00",
       "amazon_url": "https://www.amazon.com/Zinus-Mattress-Fiberglass-Pressure-Certified/dp/B0CKYZPPMJ",
       "image_url": "https://m.media-amazon.com/images/I/81-u3-kDlpL.jpg"
+    },
+    {
+      "asin": "B0DJG1731C",
+      "title": "WINIX 5510 Air Purifier (New Generation of 5500-2 with App Support) for Home Large Room Up to 1881 Ft\u00b2 in 1 Hr, True HEPA, High Deodorization Carbon Filter and Auto Mode, Captures Pet Allergies, Smoke",
+      "current_price": 128.24,
+      "reference_price": 179.99,
+      "discount_percent": 28.75,
+      "savings": 51.75,
+      "tier": "Amazon Deal",
+      "score": 29,
+      "detected_at": "2026-09-30T12:31:27.137113+00:00",
+      "amazon_url": "https://www.amazon.com/5510-Purifier-Generation-Deodorization-Allergies/dp/B0DJG1731C",
+      "image_url": "https://m.media-amazon.com/images/I/71a4tm4xYoL.jpg"
     },
     {
       "asin": "B00CH9QWOU",
@@ -272,9 +220,35 @@
       "savings": 190.04,
       "tier": "Amazon Deal",
       "score": 28,
-      "detected_at": "2026-09-30T01:17:28.736931+00:00",
+      "detected_at": "2026-09-30T12:31:27.137120+00:00",
       "amazon_url": "https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU",
       "image_url": "https://m.media-amazon.com/images/I/71BvCt6eAFL.jpg"
+    },
+    {
+      "asin": "B0HCNG5D8F",
+      "title": "Trendy Queen Chunky Knit Cardigan Sweaters for Women 2026 Fall Outfits | Button Up Coat, Winter Sweater Jackets, Cotton Acrylic Blend Fashion Clothing, Cute Clothes",
+      "current_price": 29.98,
+      "reference_price": 39.99,
+      "discount_percent": 25.03,
+      "savings": 10.01,
+      "tier": "Amazon Deal",
+      "score": 25,
+      "detected_at": "2026-09-30T12:31:27.137128+00:00",
+      "amazon_url": "https://www.amazon.com/Trendy-Queen-Cardigan-Sweaters-Outfits/dp/B0HCNG5D8F",
+      "image_url": "https://m.media-amazon.com/images/I/81+AI2NPckL.jpg"
+    },
+    {
+      "asin": "B0DHLQMWW7",
+      "title": "Graco Extend2Fit 2-in-1 Convertible Car Seat, Gotham | 2 Modes of Use: Extended Rear (up to 50lbs.) & Forward-Facing Harness; Adjustable Extension Panel, Grows with Your Child",
+      "current_price": 179.99,
+      "reference_price": 239.99,
+      "discount_percent": 25.0,
+      "savings": 60.0,
+      "tier": "Amazon Deal",
+      "score": 25,
+      "detected_at": "2026-09-30T12:31:27.137069+00:00",
+      "amazon_url": "https://www.amazon.com/Graco-Extend2Fit-Convertible-Adjustable-Extension/dp/B0DHLQMWW7",
+      "image_url": "https://m.media-amazon.com/images/I/71gKxwf8mcL.jpg"
     },
     {
       "asin": "B0DJMP6T3N",
@@ -285,7 +259,7 @@
       "savings": 20.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-09-30T01:17:28.736977+00:00",
+      "detected_at": "2026-09-30T12:31:27.137021+00:00",
       "amazon_url": "https://www.amazon.com/BISSELL-Upholstery-HydroRinse-Self-Cleaning-4075/dp/B0DJMP6T3N",
       "image_url": "https://m.media-amazon.com/images/I/71Zg+lIkXeL.jpg"
     },
@@ -298,9 +272,35 @@
       "savings": 3.8,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-09-30T01:17:28.736960+00:00",
+      "detected_at": "2026-09-30T12:31:27.136957+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Basics-2-Ply-Toilet-Paper/dp/B095CN96JS",
       "image_url": "https://m.media-amazon.com/images/I/71OrNzZA+JL.jpg"
+    },
+    {
+      "asin": "B07NXRRM1J",
+      "title": "Amazon Brand - Happy Belly Medium Roast Coffee Pods, House Blend, Compatible with Keurig 2.0 K-Cup Brewers, 100 Count",
+      "current_price": 28.24,
+      "reference_price": 33.23,
+      "discount_percent": 15.02,
+      "savings": 4.99,
+      "tier": "Amazon Deal",
+      "score": 15,
+      "detected_at": "2026-09-30T12:31:27.137013+00:00",
+      "amazon_url": "https://www.amazon.com/Amazon-Brand-Medium-Compatible-Brewers/dp/B07NXRRM1J",
+      "image_url": "https://m.media-amazon.com/images/I/71XqE4fOIsL.jpg"
+    },
+    {
+      "asin": "B0CB1FW5FC",
+      "title": "INIU 10000mAh 45W Fast Charging Portable Charger, Smaller Travel Power Bank | Flight-Safe, Detachable USB C Cable, Travel Essential, External Battery Phone Pack for iPhone 18 17 Samsung iPad etc",
+      "current_price": 21.59,
+      "reference_price": 23.99,
+      "discount_percent": 10.0,
+      "savings": 2.4,
+      "tier": "Amazon Deal",
+      "score": 10,
+      "detected_at": "2026-09-30T12:31:27.137061+00:00",
+      "amazon_url": "https://www.amazon.com/INIU-Portable-High-Speed-Flashlight-Compatible/dp/B0CB1FW5FC",
+      "image_url": "https://m.media-amazon.com/images/I/71gH0eRJcFL.jpg"
     }
   ]
 }
