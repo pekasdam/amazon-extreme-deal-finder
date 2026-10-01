@@ -1,33 +1,20 @@
 {
-  "generated_at": "2026-10-01T13:09:16.603486+00:00",
+  "generated_at": "2026-10-01T19:30:59.858211+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 23,
   "deals": [
     {
-      "asin": "B0F95XVBFS",
-      "title": "Blink Outdoor 2K+ (newest model) \u2014 Wireless smart security camera, 2K video resolution, enhanced audio, two-year battery. Sync Module Core included \u2014 5 camera system (Black)",
-      "current_price": 119.99,
-      "reference_price": 349.99,
-      "discount_percent": 65.72,
-      "savings": 230.0,
-      "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
-      "score": 66,
-      "detected_at": "2026-10-01T13:09:16.603202+00:00",
-      "amazon_url": "https://www.amazon.com/Blink-Outdoor-2KPlus-5cam-Black/dp/B0F95XVBFS",
-      "image_url": "https://m.media-amazon.com/images/I/41kPNlOQzIL.jpg"
-    },
-    {
-      "asin": "B0DHLTCYWH",
-      "title": "Blink Outdoor 4 \u2013 Wireless smart security camera, two-year battery life, 1080p HD day and infrared night live view, two-way talk. Sync Module Core included \u2013 5 camera system",
-      "current_price": 104.99,
-      "reference_price": 299.99,
-      "discount_percent": 65.0,
-      "savings": 195.0,
+      "asin": "B0DHLQT3CG",
+      "title": "Blink Outdoor 4 \u2013 Wireless smart security camera, two-year battery life, 1080p HD day and infrared night live view, two-way talk. Sync Module Core included \u2013 3 camera system",
+      "current_price": 65.99,
+      "reference_price": 189.99,
+      "discount_percent": 65.27,
+      "savings": 124.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 65,
-      "detected_at": "2026-10-01T13:09:16.603272+00:00",
-      "amazon_url": "https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLTCYWH",
-      "image_url": "https://m.media-amazon.com/images/I/31oSNXtjjyL.jpg"
+      "detected_at": "2026-10-01T19:30:59.858107+00:00",
+      "amazon_url": "https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLQT3CG",
+      "image_url": "https://m.media-amazon.com/images/I/414-yxOaD8L.jpg"
     },
     {
       "asin": "B0FHJ7TKZM",
@@ -38,22 +25,22 @@
       "savings": 60.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-10-01T13:09:16.603098+00:00",
+      "detected_at": "2026-10-01T19:30:59.857971+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
       "image_url": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg"
     },
     {
-      "asin": "B0H34W2MS8",
-      "title": "iRobot Roomba 115X Combo Robot Vacuum & Mop with AutoEmpty Dock, 15,000Pa, Self-Empties for 90 Days, Intense Power-Lifting Suction, LiDAR Navigation, Multiple Cleaning Modes, Avoids Mopping Carpet",
-      "current_price": 199.99,
-      "reference_price": 469.99,
-      "discount_percent": 57.45,
-      "savings": 270.0,
+      "asin": "B0H34PBVQB",
+      "title": "iRobot Roomba 115X Combo Robot Vacuum & Mop, 15,000 Pa, Easy to use, Intense Power-Lifting Suction, LiDAR Navigation, Multiple Cleaning Modes, Avoids Mopping Carpets, Self-Charging",
+      "current_price": 139.99,
+      "reference_price": 319.99,
+      "discount_percent": 56.25,
+      "savings": 180.0,
       "tier": "\u2705 50%+ GOOD DEAL",
-      "score": 57,
-      "detected_at": "2026-10-01T13:09:16.603167+00:00",
-      "amazon_url": "https://www.amazon.com/iRobot-AutoEmpty-Self-Empties-Power-Lifting-Navigation/dp/B0H34W2MS8",
-      "image_url": "https://m.media-amazon.com/images/I/71m-IwdVvsL.jpg"
+      "score": 56,
+      "detected_at": "2026-10-01T19:30:59.857992+00:00",
+      "amazon_url": "https://www.amazon.com/iRobot-Power-Lifting-Navigation-Multiple-Self-Charging/dp/B0H34PBVQB",
+      "image_url": "https://m.media-amazon.com/images/I/713aOvtWV7L.jpg"
     },
     {
       "asin": "B0GVTPKJVT",
@@ -64,7 +51,7 @@
       "savings": 82.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 53,
-      "detected_at": "2026-10-01T13:09:16.603226+00:00",
+      "detected_at": "2026-10-01T19:30:59.858022+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT",
       "image_url": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg"
     },
@@ -77,9 +64,22 @@
       "savings": 50.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-10-01T13:09:16.603325+00:00",
+      "detected_at": "2026-10-01T19:30:59.858035+00:00",
       "amazon_url": "https://www.amazon.com/Ring-business-security-Wide-Angle-Enhanced/dp/B0FWDSZ6Q2",
       "image_url": "https://m.media-amazon.com/images/I/51s3QBJPsvL.jpg"
+    },
+    {
+      "asin": "B0DXM9Y8J1",
+      "title": "Ring Indoor Cam Plus (newest model), Home or business security, Retinal 2K for crisp, true-to-life video quality, 4x Enhanced Zoom, Low-Light Sight, White",
+      "current_price": 29.99,
+      "reference_price": 59.99,
+      "discount_percent": 50.01,
+      "savings": 30.0,
+      "tier": "\u2705 50%+ GOOD DEAL",
+      "score": 50,
+      "detected_at": "2026-10-01T19:30:59.858016+00:00",
+      "amazon_url": "https://www.amazon.com/Ring-Indoor-Cam-Plus-Plugin-White/dp/B0DXM9Y8J1",
+      "image_url": "https://m.media-amazon.com/images/I/51WG7mi3h-L.jpg"
     },
     {
       "asin": "B07S652B12",
@@ -90,7 +90,7 @@
       "savings": 150.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-10-01T13:09:16.603293+00:00",
+      "detected_at": "2026-10-01T19:30:59.858088+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Lightweight-Rechargeable-Removable-IX141/dp/B07S652B12",
       "image_url": "https://m.media-amazon.com/images/I/71ogkstXJ3L.jpg"
     },
@@ -103,9 +103,22 @@
       "savings": 90.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-10-01T13:09:16.603371+00:00",
+      "detected_at": "2026-10-01T19:30:59.858113+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Floodlight-Cam-Wired-Plus/dp/B08F6GPQQ7",
       "image_url": "https://m.media-amazon.com/images/I/41jJhGQLvWL.jpg"
+    },
+    {
+      "asin": "B01M16WBW1",
+      "title": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - White | Hotel Luxury Bed Sheets for Women & Men, Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets, Oeko-Tex Bed Sheet Set",
+      "current_price": 21.22,
+      "reference_price": 39.99,
+      "discount_percent": 46.94,
+      "savings": 18.77,
+      "tier": "Amazon Deal",
+      "score": 47,
+      "detected_at": "2026-10-01T19:30:59.858056+00:00",
+      "amazon_url": "https://www.amazon.com/Queen-Size-Piece-Sheet-Set/dp/B01M16WBW1",
+      "image_url": "https://m.media-amazon.com/images/I/71zGC0oAIXL.jpg"
     },
     {
       "asin": "B0GQWSKBLD",
@@ -116,9 +129,22 @@
       "savings": 45.03,
       "tier": "Amazon Deal",
       "score": 41,
-      "detected_at": "2026-10-01T13:09:16.603214+00:00",
+      "detected_at": "2026-10-01T19:30:59.858082+00:00",
       "amazon_url": "https://www.amazon.com/Philips-Sonicare-Rechargeable-Electric-Toothbrush/dp/B0GQWSKBLD",
       "image_url": "https://m.media-amazon.com/images/I/71nXbS3smzL.jpg"
+    },
+    {
+      "asin": "B0DFNTKTYN",
+      "title": "Amazon Ember 50\" 4-Series with Fire TV (newest model), 4K Ultra HD smart TV with Alexa Remote, HDR10+, fast processor, Dolby Audio, Ambient Experience, free and live TV, find shows faster with Alexa+",
+      "current_price": 239.99,
+      "reference_price": 399.99,
+      "discount_percent": 40.0,
+      "savings": 160.0,
+      "tier": "Amazon Deal",
+      "score": 40,
+      "detected_at": "2026-10-01T19:30:59.858076+00:00",
+      "amazon_url": "https://www.amazon.com/Fire-TV-4-Series-55-inch/dp/B0DFNTKTYN",
+      "image_url": "https://m.media-amazon.com/images/I/61BTOo8tvCL.jpg"
     },
     {
       "asin": "B0F151GFYR",
@@ -129,35 +155,35 @@
       "savings": 100.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-10-01T13:09:16.603335+00:00",
+      "detected_at": "2026-10-01T19:30:59.858094+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Wired-Doorbell-Newest-Model/dp/B0F151GFYR",
       "image_url": "https://m.media-amazon.com/images/I/51cJpjaOeEL.jpg"
     },
     {
-      "asin": "B0B5HRWH1S",
-      "title": "Oral-B iO Series 3 Limited Deep Clean Rechargeable Electric Toothbrush for Adults, Black, 3 Modes, Smart Pressure Sensor, Plaque Removal and Gum Care, 2 Replacement Brush Heads, Travel Case",
-      "current_price": 69.99,
-      "reference_price": 109.99,
-      "discount_percent": 36.37,
+      "asin": "B00HFQQ0VU",
+      "title": "Waterpik Aquarius Countertop Water Flosser with 10 Settings, 7 Tips, White | For Daily Home Gum Health, Dental Braces, Implants, Teeth Cleaning, Multiple Users, ADA Accepted WP-660 Packaging May Vary",
+      "current_price": 59.99,
+      "reference_price": 99.99,
+      "discount_percent": 40.0,
       "savings": 40.0,
       "tier": "Amazon Deal",
-      "score": 36,
-      "detected_at": "2026-10-01T13:09:16.603360+00:00",
-      "amazon_url": "https://www.amazon.com/Oral-B-iO-Electric-Toothbrush-Rechargeable/dp/B0B5HRWH1S",
-      "image_url": "https://m.media-amazon.com/images/I/716aBZ5fzEL.jpg"
+      "score": 40,
+      "detected_at": "2026-10-01T19:30:59.858120+00:00",
+      "amazon_url": "https://www.amazon.com/Waterpik-Aquarius-Professional-WP-660-Packaging/dp/B00HFQQ0VU",
+      "image_url": "https://m.media-amazon.com/images/I/714Q49TDXlL.jpg"
     },
     {
-      "asin": "B01728NLRG",
-      "title": "COWAY Air Purifier for Home Up to 1,748ft\u00b2, HEPA Filter for Smoke, Allergies, Pet Dander, Odor, Air Quality Monitor, Auto&Eco Mode, Timer, Filter Indicator, 3yr Warranty, Mighty AP-1512HH(W), White",
+      "asin": "B00BTKAPUU",
+      "title": "COWAY Air Purifier for Home Up to 1,748ft\u00b2, HEPA Filter for Smoke, Allergies, Pet Dander, Odor, Air Quality Monitor, Auto&Eco Mode, Timer, Filter Indicator, 3yr Warranty, Mighty AP-1512HH, Black",
       "current_price": 154.99,
       "reference_price": 229.99,
       "discount_percent": 32.61,
       "savings": 75.0,
       "tier": "Amazon Deal",
       "score": 33,
-      "detected_at": "2026-10-01T13:09:16.603135+00:00",
-      "amazon_url": "https://www.amazon.com/Coway-AP-1512HH-Mighty-Purifier-White/dp/B01728NLRG",
-      "image_url": "https://m.media-amazon.com/images/I/61Cgh4ol4oL.jpg"
+      "detected_at": "2026-10-01T19:30:59.858009+00:00",
+      "amazon_url": "https://www.amazon.com/Coway-AP-1512HH-Mighty-Purifier-True/dp/B00BTKAPUU",
+      "image_url": "https://m.media-amazon.com/images/I/61qa9EgWVzL.jpg"
     },
     {
       "asin": "B0GT2D9ZCR",
@@ -168,7 +194,7 @@
       "savings": 150.0,
       "tier": "Amazon Deal",
       "score": 31,
-      "detected_at": "2026-10-01T13:09:16.603283+00:00",
+      "detected_at": "2026-10-01T19:30:59.857982+00:00",
       "amazon_url": "https://www.amazon.com/Dyson-Cyclone-Origin-Cordless-Vacuum/dp/B0GT2D9ZCR",
       "image_url": "https://m.media-amazon.com/images/I/51j8ESQ0a5L.jpg"
     },
@@ -181,7 +207,7 @@
       "savings": 120.0,
       "tier": "Amazon Deal",
       "score": 31,
-      "detected_at": "2026-10-01T13:09:16.603304+00:00",
+      "detected_at": "2026-10-01T19:30:59.857942+00:00",
       "amazon_url": "https://www.amazon.com/Dyson-626423-01-V8TM-Cordless-Vacuum/dp/B0GT2DG9SK",
       "image_url": "https://m.media-amazon.com/images/I/51byt8oD+LL.jpg"
     },
@@ -194,7 +220,7 @@
       "savings": 50.0,
       "tier": "Amazon Deal",
       "score": 28,
-      "detected_at": "2026-10-01T13:09:16.603314+00:00",
+      "detected_at": "2026-10-01T19:30:59.858069+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Navigator-Lift-Away-Anti-Allergy-NV352/dp/B004Q4DRJW",
       "image_url": "https://m.media-amazon.com/images/I/61FHRTjiT3L.jpg"
     },
@@ -207,7 +233,7 @@
       "savings": 190.04,
       "tier": "Amazon Deal",
       "score": 28,
-      "detected_at": "2026-10-01T13:09:16.603238+00:00",
+      "detected_at": "2026-10-01T19:30:59.858100+00:00",
       "amazon_url": "https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU",
       "image_url": "https://m.media-amazon.com/images/I/71BvCt6eAFL.jpg"
     },
@@ -220,7 +246,7 @@
       "savings": 91.99,
       "tier": "Amazon Deal",
       "score": 26,
-      "detected_at": "2026-10-01T13:09:16.603382+00:00",
+      "detected_at": "2026-10-01T19:30:59.858042+00:00",
       "amazon_url": "https://www.amazon.com/Zinus-Mattress-Fiberglass-Pressure-Certified/dp/B0CKZ1CK1H",
       "image_url": "https://m.media-amazon.com/images/I/81IC7kPsCNL.jpg"
     },
@@ -233,7 +259,7 @@
       "savings": 11.0,
       "tier": "Amazon Deal",
       "score": 24,
-      "detected_at": "2026-10-01T13:09:16.603180+00:00",
+      "detected_at": "2026-10-01T19:30:59.858001+00:00",
       "amazon_url": "https://www.amazon.com/Crest-Professional-Whitestrips-Whitening-Treatments/dp/B00AHAWWO0",
       "image_url": "https://m.media-amazon.com/images/I/71JH8MLN5vL.jpg"
     },
@@ -246,22 +272,9 @@
       "savings": 20.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-10-01T13:09:16.603261+00:00",
+      "detected_at": "2026-10-01T19:30:59.858063+00:00",
       "amazon_url": "https://www.amazon.com/BISSELL-Upholstery-HydroRinse-Self-Cleaning-4075/dp/B0DJMP6T3N",
       "image_url": "https://m.media-amazon.com/images/I/71Zg+lIkXeL.jpg"
-    },
-    {
-      "asin": "B0DG6M24RR",
-      "title": "BISSELL TurboClean Upright Carpet Cleaner, OXY Formula, 3952 | Pro Max Clean & Protect formula; Oxy Urine Eliminator included; powerful upright carpet cleaning",
-      "current_price": 99.99,
-      "reference_price": 123.99,
-      "discount_percent": 19.36,
-      "savings": 24.0,
-      "tier": "Amazon Deal",
-      "score": 19,
-      "detected_at": "2026-10-01T13:09:16.603346+00:00",
-      "amazon_url": "https://www.amazon.com/BISSELL-TurboClean-Upright-Cleaner-3952/dp/B0DG6M24RR",
-      "image_url": "https://m.media-amazon.com/images/I/71scLcceUvL.jpg"
     },
     {
       "asin": "B095CN96JS",
@@ -272,33 +285,20 @@
       "savings": 3.8,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-10-01T13:09:16.603154+00:00",
+      "detected_at": "2026-10-01T19:30:59.858028+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Basics-2-Ply-Toilet-Paper/dp/B095CN96JS",
       "image_url": "https://m.media-amazon.com/images/I/71OrNzZA+JL.jpg"
     },
     {
-      "asin": "B07NXRRM1J",
-      "title": "Amazon Brand - Happy Belly Medium Roast Coffee Pods, House Blend, Compatible with Keurig 2.0 K-Cup Brewers, 100 Count",
-      "current_price": 28.24,
-      "reference_price": 33.23,
-      "discount_percent": 15.02,
-      "savings": 4.99,
-      "tier": "Amazon Deal",
-      "score": 15,
-      "detected_at": "2026-10-01T13:09:16.603192+00:00",
-      "amazon_url": "https://www.amazon.com/Amazon-Brand-Medium-Compatible-Brewers/dp/B07NXRRM1J",
-      "image_url": "https://m.media-amazon.com/images/I/71XqE4fOIsL.jpg"
-    },
-    {
       "asin": "B0CHLRYPK1",
       "title": "EGO Power+ 24\" Electric Snow Blower, Cordless Self-Propelled 2-Stage XP, Includes (2) 56 V 10.0Ah Batteries and Dual Port Charger - SNT2416",
-      "current_price": 1799.99,
+      "current_price": 1799.0,
       "reference_price": 1979.99,
-      "discount_percent": 9.09,
-      "savings": 180.0,
+      "discount_percent": 9.14,
+      "savings": 180.99,
       "tier": "Amazon Deal",
       "score": 9,
-      "detected_at": "2026-10-01T13:09:16.603249+00:00",
+      "detected_at": "2026-10-01T19:30:59.858049+00:00",
       "amazon_url": "https://www.amazon.com/EGO-SNT2416-Self-Propelled-Batteries-Included/dp/B0CHLRYPK1",
       "image_url": "https://m.media-amazon.com/images/I/71BzY8NzgFL.jpg"
     }
