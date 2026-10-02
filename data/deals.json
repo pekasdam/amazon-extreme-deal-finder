@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T01:41:15.641804+00:00",
+  "generated_at": "2026-10-02T12:30:34.774568+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 23,
   "deals": [
@@ -12,7 +12,7 @@
       "savings": 195.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 65,
-      "detected_at": "2026-10-02T01:41:15.641660+00:00",
+      "detected_at": "2026-10-02T12:30:34.774431+00:00",
       "amazon_url": "https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLTCYWH",
       "image_url": "https://m.media-amazon.com/images/I/31oSNXtjjyL.jpg"
     },
@@ -25,22 +25,22 @@
       "savings": 60.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-10-02T01:41:15.641589+00:00",
+      "detected_at": "2026-10-02T12:30:34.774329+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
       "image_url": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg"
     },
     {
-      "asin": "B0H34PBVQB",
-      "title": "iRobot Roomba 115X Combo Robot Vacuum & Mop, 15,000 Pa, Easy to use, Intense Power-Lifting Suction, LiDAR Navigation, Multiple Cleaning Modes, Avoids Mopping Carpets, Self-Charging",
-      "current_price": 139.99,
-      "reference_price": 319.99,
-      "discount_percent": 56.25,
-      "savings": 180.0,
+      "asin": "B0H34W2MS8",
+      "title": "iRobot Roomba 115X Combo Robot Vacuum & Mop with AutoEmpty Dock, 15,000Pa, Self-Empties for 90 Days, Intense Power-Lifting Suction, LiDAR Navigation, Multiple Cleaning Modes, Avoids Mopping Carpet",
+      "current_price": 199.99,
+      "reference_price": 469.99,
+      "discount_percent": 57.45,
+      "savings": 270.0,
       "tier": "\u2705 50%+ GOOD DEAL",
-      "score": 56,
-      "detected_at": "2026-10-02T01:41:15.641605+00:00",
-      "amazon_url": "https://www.amazon.com/iRobot-Power-Lifting-Navigation-Multiple-Self-Charging/dp/B0H34PBVQB",
-      "image_url": "https://m.media-amazon.com/images/I/713aOvtWV7L.jpg"
+      "score": 57,
+      "detected_at": "2026-10-02T12:30:34.774349+00:00",
+      "amazon_url": "https://www.amazon.com/iRobot-AutoEmpty-Self-Empties-Power-Lifting-Navigation/dp/B0H34W2MS8",
+      "image_url": "https://m.media-amazon.com/images/I/71m-IwdVvsL.jpg"
     },
     {
       "asin": "B0GVTPKJVT",
@@ -51,7 +51,7 @@
       "savings": 82.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 53,
-      "detected_at": "2026-10-02T01:41:15.641626+00:00",
+      "detected_at": "2026-10-02T12:30:34.774391+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT",
       "image_url": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg"
     },
@@ -64,7 +64,7 @@
       "savings": 50.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-10-02T01:41:15.641651+00:00",
+      "detected_at": "2026-10-02T12:30:34.774449+00:00",
       "amazon_url": "https://www.amazon.com/Ring-business-security-Wide-Angle-Enhanced/dp/B0FWDSZ6Q2",
       "image_url": "https://m.media-amazon.com/images/I/51s3QBJPsvL.jpg"
     },
@@ -77,22 +77,22 @@
       "savings": 40.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-10-02T01:41:15.641562+00:00",
+      "detected_at": "2026-10-02T12:30:34.774341+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-vibrant-helpful-routines-Charcoal/dp/B09B8V1LZ3",
       "image_url": "https://m.media-amazon.com/images/I/71hNp8d9WvL.jpg"
     },
     {
-      "asin": "B08F6GPQQ7",
-      "title": "Ring Floodlight Cam Wired Plus, Outdoor Home or Business Security with Motion-Activated 1080p HD Video and Floodlights, White",
-      "current_price": 89.99,
-      "reference_price": 179.99,
+      "asin": "B07S652B12",
+      "title": "Shark Pet Cordless Stick Vacuum, 40-Min Runtime, Lightweight, Grey, IX141 | Powerful Suction, XL Dust Cup, LED Headlights, Removeable Handheld Vacuum for Carpet & Hard Floors, Crevice & Pet Tool\u200b",
+      "current_price": 149.99,
+      "reference_price": 299.99,
       "discount_percent": 50.0,
-      "savings": 90.0,
+      "savings": 150.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-10-02T01:41:15.641683+00:00",
-      "amazon_url": "https://www.amazon.com/Ring-Floodlight-Cam-Wired-Plus/dp/B08F6GPQQ7",
-      "image_url": "https://m.media-amazon.com/images/I/41jJhGQLvWL.jpg"
+      "detected_at": "2026-10-02T12:30:34.774443+00:00",
+      "amazon_url": "https://www.amazon.com/Shark-Lightweight-Rechargeable-Removable-IX141/dp/B07S652B12",
+      "image_url": "https://m.media-amazon.com/images/I/71ogkstXJ3L.jpg"
     },
     {
       "asin": "B0BFC7WQ6R",
@@ -103,35 +103,9 @@
       "savings": 55.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-10-02T01:41:15.641622+00:00",
+      "detected_at": "2026-10-02T12:30:34.774385+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Echo-Spot-2024-release-Smart-alarm-clock-with-vibrant-sound-Alexa-Black/dp/B0BFC7WQ6R",
       "image_url": "https://m.media-amazon.com/images/I/61bA0fjrSXL.jpg"
-    },
-    {
-      "asin": "B01M16WBW1",
-      "title": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - White | Hotel Luxury Bed Sheets for Women & Men, Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets, Oeko-Tex Bed Sheet Set",
-      "current_price": 21.22,
-      "reference_price": 39.99,
-      "discount_percent": 46.94,
-      "savings": 18.77,
-      "tier": "Amazon Deal",
-      "score": 47,
-      "detected_at": "2026-10-02T01:41:15.641617+00:00",
-      "amazon_url": "https://www.amazon.com/Queen-Size-Piece-Sheet-Set/dp/B01M16WBW1",
-      "image_url": "https://m.media-amazon.com/images/I/71zGC0oAIXL.jpg"
-    },
-    {
-      "asin": "B0F19KLHG3",
-      "title": "INSIGNIA 50\" Class F50 Series LED 4K UHD Smart Fire TV, Voice Remote with Alexa, Stream Live TV Without Cable",
-      "current_price": 159.99,
-      "reference_price": 299.99,
-      "discount_percent": 46.67,
-      "savings": 140.0,
-      "tier": "Amazon Deal",
-      "score": 47,
-      "detected_at": "2026-10-02T01:41:15.641720+00:00",
-      "amazon_url": "https://www.amazon.com/INSIGNIA-50-inch-4K-UHD-Fire-TV/dp/B0F19KLHG3",
-      "image_url": "https://m.media-amazon.com/images/I/81jLRWNrTXL.jpg"
     },
     {
       "asin": "B0GQWSKBLD",
@@ -142,9 +116,22 @@
       "savings": 45.03,
       "tier": "Amazon Deal",
       "score": 41,
-      "detected_at": "2026-10-02T01:41:15.641715+00:00",
+      "detected_at": "2026-10-02T12:30:34.774398+00:00",
       "amazon_url": "https://www.amazon.com/Philips-Sonicare-Rechargeable-Electric-Toothbrush/dp/B0GQWSKBLD",
       "image_url": "https://m.media-amazon.com/images/I/71nXbS3smzL.jpg"
+    },
+    {
+      "asin": "B0DFNTKTYN",
+      "title": "Amazon Ember 50\" 4-Series with Fire TV (newest model), 4K Ultra HD smart TV with Alexa Remote, HDR10+, fast processor, Dolby Audio, Ambient Experience, free and live TV, find shows faster with Alexa+",
+      "current_price": 239.99,
+      "reference_price": 399.99,
+      "discount_percent": 40.0,
+      "savings": 160.0,
+      "tier": "Amazon Deal",
+      "score": 40,
+      "detected_at": "2026-10-02T12:30:34.774437+00:00",
+      "amazon_url": "https://www.amazon.com/Fire-TV-4-Series-55-inch/dp/B0DFNTKTYN",
+      "image_url": "https://m.media-amazon.com/images/I/61BTOo8tvCL.jpg"
     },
     {
       "asin": "B0DC91H3JK",
@@ -155,7 +142,7 @@
       "savings": 100.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-10-02T01:41:15.641599+00:00",
+      "detected_at": "2026-10-02T12:30:34.774372+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Echo-Show-11-Vibrant-Full-HD-11-display-Graphite-Amazon/dp/B0DC91H3JK",
       "image_url": "https://m.media-amazon.com/images/I/51Aqp1X3LzL.jpg"
     },
@@ -168,35 +155,9 @@
       "savings": 40.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-10-02T01:41:15.641655+00:00",
+      "detected_at": "2026-10-02T12:30:34.774404+00:00",
       "amazon_url": "https://www.amazon.com/All-new-Echo-Show-5/dp/B09B2SBHQK",
       "image_url": "https://m.media-amazon.com/images/I/61gwIm-iSnL.jpg"
-    },
-    {
-      "asin": "B00HFQQ0VU",
-      "title": "Waterpik Aquarius Countertop Water Flosser with 10 Settings, 7 Tips, White | For Daily Home Gum Health, Dental Braces, Implants, Teeth Cleaning, Multiple Users, ADA Accepted WP-660 Packaging May Vary",
-      "current_price": 59.99,
-      "reference_price": 99.99,
-      "discount_percent": 40.0,
-      "savings": 40.0,
-      "tier": "Amazon Deal",
-      "score": 40,
-      "detected_at": "2026-10-02T01:41:15.641679+00:00",
-      "amazon_url": "https://www.amazon.com/Waterpik-Aquarius-Professional-WP-660-Packaging/dp/B00HFQQ0VU",
-      "image_url": "https://m.media-amazon.com/images/I/714Q49TDXlL.jpg"
-    },
-    {
-      "asin": "B0DFNFX2K7",
-      "title": "Amazon Ember 55\" 4-Series with Fire TV (newest model), 4K Ultra HD smart TV with Alexa Remote, HDR10+, fast processor, Dolby Audio, Ambient Experience, free and live TV, find shows faster with Alexa+",
-      "current_price": 279.99,
-      "reference_price": 459.99,
-      "discount_percent": 39.13,
-      "savings": 180.0,
-      "tier": "Amazon Deal",
-      "score": 39,
-      "detected_at": "2026-10-02T01:41:15.641710+00:00",
-      "amazon_url": "https://www.amazon.com/Fire-TV-4-Series-50-inch/dp/B0DFNFX2K7",
-      "image_url": "https://m.media-amazon.com/images/I/61BTOo8tvCL.jpg"
     },
     {
       "asin": "B01728NLRG",
@@ -207,9 +168,22 @@
       "savings": 75.0,
       "tier": "Amazon Deal",
       "score": 33,
-      "detected_at": "2026-10-02T01:41:15.641631+00:00",
+      "detected_at": "2026-10-02T12:30:34.774456+00:00",
       "amazon_url": "https://www.amazon.com/Coway-AP-1512HH-Mighty-Purifier-White/dp/B01728NLRG",
       "image_url": "https://m.media-amazon.com/images/I/61Cgh4ol4oL.jpg"
+    },
+    {
+      "asin": "B0GT2D9ZCR",
+      "title": "Dyson Cyclone V10 Origin Cordless Vacuum",
+      "current_price": 329.99,
+      "reference_price": 479.99,
+      "discount_percent": 31.25,
+      "savings": 150.0,
+      "tier": "Amazon Deal",
+      "score": 31,
+      "detected_at": "2026-10-02T12:30:34.774475+00:00",
+      "amazon_url": "https://www.amazon.com/Dyson-Cyclone-Origin-Cordless-Vacuum/dp/B0GT2D9ZCR",
+      "image_url": "https://m.media-amazon.com/images/I/51j8ESQ0a5L.jpg"
     },
     {
       "asin": "B0GT2DG9SK",
@@ -220,22 +194,22 @@
       "savings": 120.0,
       "tier": "Amazon Deal",
       "score": 31,
-      "detected_at": "2026-10-02T01:41:15.641641+00:00",
+      "detected_at": "2026-10-02T12:30:34.774468+00:00",
       "amazon_url": "https://www.amazon.com/Dyson-626423-01-V8TM-Cordless-Vacuum/dp/B0GT2DG9SK",
       "image_url": "https://m.media-amazon.com/images/I/51byt8oD+LL.jpg"
     },
     {
-      "asin": "B0GTC14BFW",
-      "title": "Dyson V15 Detect\u2122 Origin Cordless Vacuum",
-      "current_price": 589.99,
-      "reference_price": 839.99,
-      "discount_percent": 29.76,
-      "savings": 250.0,
+      "asin": "B0CBNM82TQ",
+      "title": "Wrangler Astral Hardside Luggage, Hydro, 20-Inch Carry-On",
+      "current_price": 33.59,
+      "reference_price": 48.0,
+      "discount_percent": 30.02,
+      "savings": 14.41,
       "tier": "Amazon Deal",
       "score": 30,
-      "detected_at": "2026-10-02T01:41:15.641665+00:00",
-      "amazon_url": "https://www.amazon.com/Dyson-DetectTM-Origin-Cordless-Vacuum/dp/B0GTC14BFW",
-      "image_url": "https://m.media-amazon.com/images/I/61k9OPHOj-L.jpg"
+      "detected_at": "2026-10-02T12:30:34.774298+00:00",
+      "amazon_url": "https://www.amazon.com/Wrangler-Astral-Hardside-Luggage-20-Inch/dp/B0CBNM82TQ",
+      "image_url": "https://m.media-amazon.com/images/I/81SFT8pFOqL.jpg"
     },
     {
       "asin": "B004Q4DRJW",
@@ -246,7 +220,7 @@
       "savings": 50.0,
       "tier": "Amazon Deal",
       "score": 28,
-      "detected_at": "2026-10-02T01:41:15.641674+00:00",
+      "detected_at": "2026-10-02T12:30:34.774462+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Navigator-Lift-Away-Anti-Allergy-NV352/dp/B004Q4DRJW",
       "image_url": "https://m.media-amazon.com/images/I/61FHRTjiT3L.jpg"
     },
@@ -259,7 +233,7 @@
       "savings": 190.04,
       "tier": "Amazon Deal",
       "score": 28,
-      "detected_at": "2026-10-02T01:41:15.641611+00:00",
+      "detected_at": "2026-10-02T12:30:34.774411+00:00",
       "amazon_url": "https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU",
       "image_url": "https://m.media-amazon.com/images/I/71BvCt6eAFL.jpg"
     },
@@ -272,7 +246,7 @@
       "savings": 91.99,
       "tier": "Amazon Deal",
       "score": 26,
-      "detected_at": "2026-10-02T01:41:15.641646+00:00",
+      "detected_at": "2026-10-02T12:30:34.774417+00:00",
       "amazon_url": "https://www.amazon.com/Zinus-Mattress-Fiberglass-Pressure-Certified/dp/B0CKZ1CK1H",
       "image_url": "https://m.media-amazon.com/images/I/81IC7kPsCNL.jpg"
     },
@@ -285,9 +259,22 @@
       "savings": 11.0,
       "tier": "Amazon Deal",
       "score": 24,
-      "detected_at": "2026-10-02T01:41:15.641636+00:00",
+      "detected_at": "2026-10-02T12:30:34.774424+00:00",
       "amazon_url": "https://www.amazon.com/Crest-Professional-Whitestrips-Whitening-Treatments/dp/B00AHAWWO0",
       "image_url": "https://m.media-amazon.com/images/I/71JH8MLN5vL.jpg"
+    },
+    {
+      "asin": "B0DJMP6T3N",
+      "title": "BISSELL Little Green Mini Portable Carpet Cleaner, 4075 | HydroRinse self-cleaning tool; 4-in. tough stain tool; upholstery & car detailing; Tea Green color",
+      "current_price": 79.99,
+      "reference_price": 99.99,
+      "discount_percent": 20.0,
+      "savings": 20.0,
+      "tier": "Amazon Deal",
+      "score": 20,
+      "detected_at": "2026-10-02T12:30:34.774378+00:00",
+      "amazon_url": "https://www.amazon.com/BISSELL-Upholstery-HydroRinse-Self-Cleaning-4075/dp/B0DJMP6T3N",
+      "image_url": "https://m.media-amazon.com/images/I/71Zg+lIkXeL.jpg"
     },
     {
       "asin": "B095CN96JS",
@@ -298,9 +285,22 @@
       "savings": 3.8,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-10-02T01:41:15.641669+00:00",
+      "detected_at": "2026-10-02T12:30:34.774357+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Basics-2-Ply-Toilet-Paper/dp/B095CN96JS",
       "image_url": "https://m.media-amazon.com/images/I/71OrNzZA+JL.jpg"
+    },
+    {
+      "asin": "B07NQFC1G9",
+      "title": "Amazon Brand - Happy Belly Dark Roast Coffee Pods, French Roast, Compatible with Keurig 2.0 K-Cup Brewers, 100 Count",
+      "current_price": 28.24,
+      "reference_price": 33.23,
+      "discount_percent": 15.02,
+      "savings": 4.99,
+      "tier": "Amazon Deal",
+      "score": 15,
+      "detected_at": "2026-10-02T12:30:34.774365+00:00",
+      "amazon_url": "https://www.amazon.com/Amazon-Brand-Coffee-Compatible-Brewers/dp/B07NQFC1G9",
+      "image_url": "https://m.media-amazon.com/images/I/71VDOQwsX1L.jpg"
     }
   ]
 }
