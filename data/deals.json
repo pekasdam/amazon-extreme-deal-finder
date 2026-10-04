@@ -1,20 +1,46 @@
 {
-  "generated_at": "2026-10-03T17:56:41.417917+00:00",
+  "generated_at": "2026-10-04T00:36:12.587605+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 23,
   "deals": [
     {
-      "asin": "B0F3BC8661",
-      "title": "Blink Mini 2K+ (newest model) \u2013 Plug-in Home & Pet Indoor Security Camera with 2K video resolution, night vision, enhanced audio, motion detection \u2013 1 camera (White)",
+      "asin": "B0DHLTCYWH",
+      "title": "Blink Outdoor 4 \u2013 Wireless smart security camera, two-year battery life, 1080p HD day and infrared night live view, two-way talk. Sync Module Core included \u2013 5 camera system",
+      "current_price": 104.99,
+      "reference_price": 299.99,
+      "discount_percent": 65.0,
+      "savings": 195.0,
+      "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
+      "score": 65,
+      "detected_at": "2026-10-04T00:36:12.587371+00:00",
+      "amazon_url": "https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLTCYWH",
+      "image_url": "https://m.media-amazon.com/images/I/31oSNXtjjyL.jpg"
+    },
+    {
+      "asin": "B0C6W3D4RM",
+      "title": "Amazon Fire TV Stick 4K Select, start streaming in 4K, AI-powered search, and free & live TV, find shows faster with Alexa+",
+      "current_price": 17.99,
+      "reference_price": 49.99,
+      "discount_percent": 64.01,
+      "savings": 32.0,
+      "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
+      "score": 64,
+      "detected_at": "2026-10-04T00:36:12.587362+00:00",
+      "amazon_url": "https://www.amazon.com/amazon-fire-tv-stick-4K-select/dp/B0C6W3D4RM",
+      "image_url": "https://m.media-amazon.com/images/I/61r3G3vAhBL.jpg"
+    },
+    {
+      "asin": "B0DJGDC3BD",
+      "title": "Amazon Fire TV Stick HD (newest model), free & live TV, Alexa Voice Remote, powered by the TV, effortless setup, find shows faster with Alexa+",
       "current_price": 15.99,
       "reference_price": 39.99,
       "discount_percent": 60.02,
       "savings": 24.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-10-03T17:56:41.417687+00:00",
-      "amazon_url": "https://www.amazon.com/Blink-Mini-2KPlus-1cam-White/dp/B0F3BC8661",
-      "image_url": "https://m.media-amazon.com/images/I/51mX9kaZOoL.jpg"
+      "detected_at": "2026-10-04T00:36:12.587434+00:00",
+      "amazon_url": "https://www.amazon.com/Amazon-Fire-TV-Stick-HD-Thin-and-Portable/dp/B0DJGDC3BD",
+      "image_url": "https://m.media-amazon.com/images/I/610j-wmxRcL.jpg"
     },
     {
       "asin": "B0FHJ7TKZM",
@@ -25,7 +51,7 @@
       "savings": 60.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-10-03T17:56:41.417620+00:00",
+      "detected_at": "2026-10-04T00:36:12.587307+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
       "image_url": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg"
     },
@@ -38,22 +64,22 @@
       "savings": 349.01,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 58,
-      "detected_at": "2026-10-03T17:56:41.417733+00:00",
+      "detected_at": "2026-10-04T00:36:12.587389+00:00",
       "amazon_url": "https://www.amazon.com/Shark-AV2511AE-Self-Empty-Capacity-Navigation/dp/B09T4YZGQR",
       "image_url": "https://m.media-amazon.com/images/I/71n99mtBmqL.jpg"
     },
     {
-      "asin": "B0H34W2MS8",
-      "title": "iRobot Roomba 115X Combo Robot Vacuum & Mop with AutoEmpty Dock, 15,000Pa, Self-Empties for 90 Days, Intense Power-Lifting Suction, LiDAR Navigation, Multiple Cleaning Modes, Avoids Mopping Carpet",
-      "current_price": 199.99,
-      "reference_price": 469.99,
-      "discount_percent": 57.45,
-      "savings": 270.0,
+      "asin": "B0H34PBVQB",
+      "title": "iRobot Roomba 115X Combo Robot Vacuum & Mop, 15,000 Pa, Easy to use, Intense Power-Lifting Suction, LiDAR Navigation, Multiple Cleaning Modes, Avoids Mopping Carpets, Self-Charging",
+      "current_price": 139.99,
+      "reference_price": 319.99,
+      "discount_percent": 56.25,
+      "savings": 180.0,
       "tier": "\u2705 50%+ GOOD DEAL",
-      "score": 57,
-      "detected_at": "2026-10-03T17:56:41.417579+00:00",
-      "amazon_url": "https://www.amazon.com/iRobot-AutoEmpty-Self-Empties-Power-Lifting-Navigation/dp/B0H34W2MS8",
-      "image_url": "https://m.media-amazon.com/images/I/71m-IwdVvsL.jpg"
+      "score": 56,
+      "detected_at": "2026-10-04T00:36:12.587322+00:00",
+      "amazon_url": "https://www.amazon.com/iRobot-Power-Lifting-Navigation-Multiple-Self-Charging/dp/B0H34PBVQB",
+      "image_url": "https://m.media-amazon.com/images/I/713aOvtWV7L.jpg"
     },
     {
       "asin": "B0GVTPKJVT",
@@ -64,22 +90,9 @@
       "savings": 82.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 53,
-      "detected_at": "2026-10-03T17:56:41.417714+00:00",
+      "detected_at": "2026-10-04T00:36:12.587344+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT",
       "image_url": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg"
-    },
-    {
-      "asin": "B0GT6BYB85",
-      "title": "iRobot Roomba 415X Robot Vacuum & Mop Combo, 20,000Pa, 90 Days Self-Emptying, Multifunction Dock Self-Cleaning & Hot Dry, Smart Obstacle Avoidance, Lifting Spinning Mops, Ideal for Pet Hair",
-      "current_price": 398.99,
-      "reference_price": 799.99,
-      "discount_percent": 50.13,
-      "savings": 401.0,
-      "tier": "\u2705 50%+ GOOD DEAL",
-      "score": 50,
-      "detected_at": "2026-10-03T17:56:41.417817+00:00",
-      "amazon_url": "https://www.amazon.com/iRobot-Self-Emptying-Multifunction-Self-Cleaning-Avoidance/dp/B0GT6BYB85",
-      "image_url": "https://m.media-amazon.com/images/I/71WVB97Iz6L.jpg"
     },
     {
       "asin": "B0FWDSZ6Q2",
@@ -90,7 +103,7 @@
       "savings": 50.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-10-03T17:56:41.417767+00:00",
+      "detected_at": "2026-10-04T00:36:12.587425+00:00",
       "amazon_url": "https://www.amazon.com/Ring-business-security-Wide-Angle-Enhanced/dp/B0FWDSZ6Q2",
       "image_url": "https://m.media-amazon.com/images/I/51s3QBJPsvL.jpg"
     },
@@ -103,7 +116,7 @@
       "savings": 40.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-10-03T17:56:41.417656+00:00",
+      "detected_at": "2026-10-04T00:36:12.587273+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-vibrant-helpful-routines-Charcoal/dp/B09B8V1LZ3",
       "image_url": "https://m.media-amazon.com/images/I/71hNp8d9WvL.jpg"
     },
@@ -116,35 +129,35 @@
       "savings": 150.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-10-03T17:56:41.417723+00:00",
+      "detected_at": "2026-10-04T00:36:12.587398+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Lightweight-Rechargeable-Removable-IX141/dp/B07S652B12",
       "image_url": "https://m.media-amazon.com/images/I/71ogkstXJ3L.jpg"
     },
     {
-      "asin": "B0C7YJ7WML",
-      "title": "Shark SpeedStyle Hair Dryer, 3 Styling Tools, Fine to Medium Hair, HD331 | QuickSmooth Brush & Turbo Concentrator, RapidGloss Finisher for Shine, Wet-to-Dry Ultra-Fast, Less Frizz",
-      "current_price": 129.0,
-      "reference_price": 229.99,
-      "discount_percent": 43.91,
-      "savings": 100.99,
+      "asin": "B0F19KLHG3",
+      "title": "INSIGNIA 50\" Class F50 Series LED 4K UHD Smart Fire TV, Voice Remote with Alexa, Stream Live TV Without Cable",
+      "current_price": 159.99,
+      "reference_price": 299.99,
+      "discount_percent": 46.67,
+      "savings": 140.0,
       "tier": "Amazon Deal",
-      "score": 44,
-      "detected_at": "2026-10-03T17:56:41.417800+00:00",
-      "amazon_url": "https://www.amazon.com/Shark-HD331-SpeedStyle-High-Velocity-Lightweight/dp/B0C7YJ7WML",
-      "image_url": "https://m.media-amazon.com/images/I/714LmK6QFrL.jpg"
+      "score": 47,
+      "detected_at": "2026-10-04T00:36:12.587458+00:00",
+      "amazon_url": "https://www.amazon.com/INSIGNIA-50-inch-4K-UHD-Fire-TV/dp/B0F19KLHG3",
+      "image_url": "https://m.media-amazon.com/images/I/81jLRWNrTXL.jpg"
     },
     {
-      "asin": "B0GQWRBPK1",
-      "title": "Philips Sonicare 5950 Rechargeable Electric Toothbrush, 2 Brush Head, White | 1000% More Plaque Removal\u00b9, Pressure Sensor, 6 Brush Settings, 21-Day Battery, Includes Travel Case, HX7130/03",
-      "current_price": 64.96,
-      "reference_price": 109.99,
-      "discount_percent": 40.94,
-      "savings": 45.03,
+      "asin": "B0D3D4WHSF",
+      "title": "BEDLORE King Mattress Topper, Thick Soft Pillow Top Bed Topper | Viscose Bamboo, Stretchable Pockets Fit 6\"-18\", Breathable Mattress Topper for Back Pain Relief and Hot Sleepers(Dark Gray)",
+      "current_price": 46.98,
+      "reference_price": 78.99,
+      "discount_percent": 40.52,
+      "savings": 32.01,
       "tier": "Amazon Deal",
       "score": 41,
-      "detected_at": "2026-10-03T17:56:41.417759+00:00",
-      "amazon_url": "https://www.amazon.com/Philips-Sonicare-Rechargeable-Electric-Toothbrush/dp/B0GQWRBPK1",
-      "image_url": "https://m.media-amazon.com/images/I/71JrSUXlxLL.jpg"
+      "detected_at": "2026-10-04T00:36:12.587442+00:00",
+      "amazon_url": "https://www.amazon.com/Mattress-Viscose-Derived-Stretchable-Breathable/dp/B0D3D4WHSF",
+      "image_url": "https://m.media-amazon.com/images/I/81fEHxFn38L.jpg"
     },
     {
       "asin": "B0DC91H3JK",
@@ -155,7 +168,7 @@
       "savings": 100.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-10-03T17:56:41.417641+00:00",
+      "detected_at": "2026-10-04T00:36:12.587333+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Echo-Show-11-Vibrant-Full-HD-11-display-Graphite-Amazon/dp/B0DC91H3JK",
       "image_url": "https://m.media-amazon.com/images/I/51Aqp1X3LzL.jpg"
     },
@@ -168,9 +181,22 @@
       "savings": 40.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-10-03T17:56:41.417750+00:00",
+      "detected_at": "2026-10-04T00:36:12.587450+00:00",
       "amazon_url": "https://www.amazon.com/All-new-Echo-Show-5/dp/B09B2SBHQK",
       "image_url": "https://m.media-amazon.com/images/I/61gwIm-iSnL.jpg"
+    },
+    {
+      "asin": "B0DFNFX2K7",
+      "title": "Amazon Ember 55\" 4-Series with Fire TV (newest model), 4K Ultra HD smart TV with Alexa Remote, HDR10+, fast processor, Dolby Audio, Ambient Experience, free and live TV, find shows faster with Alexa+",
+      "current_price": 279.99,
+      "reference_price": 459.99,
+      "discount_percent": 39.13,
+      "savings": 180.0,
+      "tier": "Amazon Deal",
+      "score": 39,
+      "detected_at": "2026-10-04T00:36:12.587380+00:00",
+      "amazon_url": "https://www.amazon.com/Fire-TV-4-Series-50-inch/dp/B0DFNFX2K7",
+      "image_url": "https://m.media-amazon.com/images/I/61BTOo8tvCL.jpg"
     },
     {
       "asin": "B0GT2D9ZCR",
@@ -181,7 +207,7 @@
       "savings": 150.0,
       "tier": "Amazon Deal",
       "score": 31,
-      "detected_at": "2026-10-03T17:56:41.417678+00:00",
+      "detected_at": "2026-10-04T00:36:12.587407+00:00",
       "amazon_url": "https://www.amazon.com/Dyson-Cyclone-Origin-Cordless-Vacuum/dp/B0GT2D9ZCR",
       "image_url": "https://m.media-amazon.com/images/I/51j8ESQ0a5L.jpg"
     },
@@ -194,7 +220,7 @@
       "savings": 120.0,
       "tier": "Amazon Deal",
       "score": 31,
-      "detected_at": "2026-10-03T17:56:41.417668+00:00",
+      "detected_at": "2026-10-04T00:36:12.587474+00:00",
       "amazon_url": "https://www.amazon.com/Dyson-626423-01-V8TM-Cordless-Vacuum/dp/B0GT2DG9SK",
       "image_url": "https://m.media-amazon.com/images/I/51byt8oD+LL.jpg"
     },
@@ -207,22 +233,9 @@
       "savings": 250.0,
       "tier": "Amazon Deal",
       "score": 30,
-      "detected_at": "2026-10-03T17:56:41.417705+00:00",
+      "detected_at": "2026-10-04T00:36:12.587466+00:00",
       "amazon_url": "https://www.amazon.com/Dyson-DetectTM-Origin-Cordless-Vacuum/dp/B0GTC14BFW",
       "image_url": "https://m.media-amazon.com/images/I/61k9OPHOj-L.jpg"
-    },
-    {
-      "asin": "B004Q4DRJW",
-      "title": "Shark Navigator Lift-Away Upright Vacuum Cleaner, HEPA, Lavender, NV352 | Carpet, Area Rug & Hard Floor Cleaning, XL Dust Cup, Lightweight with Swivel Steering, Crevice Tool & Wide Upholstery Tool\u200b",
-      "current_price": 129.99,
-      "reference_price": 179.99,
-      "discount_percent": 27.78,
-      "savings": 50.0,
-      "tier": "Amazon Deal",
-      "score": 28,
-      "detected_at": "2026-10-03T17:56:41.417775+00:00",
-      "amazon_url": "https://www.amazon.com/Shark-Navigator-Lift-Away-Anti-Allergy-NV352/dp/B004Q4DRJW",
-      "image_url": "https://m.media-amazon.com/images/I/61FHRTjiT3L.jpg"
     },
     {
       "asin": "B00CH9QWOU",
@@ -233,7 +246,7 @@
       "savings": 190.04,
       "tier": "Amazon Deal",
       "score": 28,
-      "detected_at": "2026-10-03T17:56:41.417696+00:00",
+      "detected_at": "2026-10-04T00:36:12.587353+00:00",
       "amazon_url": "https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU",
       "image_url": "https://m.media-amazon.com/images/I/71BvCt6eAFL.jpg"
     },
@@ -246,7 +259,7 @@
       "savings": 11.0,
       "tier": "Amazon Deal",
       "score": 24,
-      "detected_at": "2026-10-03T17:56:41.417809+00:00",
+      "detected_at": "2026-10-04T00:36:12.587495+00:00",
       "amazon_url": "https://www.amazon.com/Crest-Professional-Whitestrips-Whitening-Treatments/dp/B00AHAWWO0",
       "image_url": "https://m.media-amazon.com/images/I/71JH8MLN5vL.jpg"
     },
@@ -259,22 +272,9 @@
       "savings": 150.04,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-10-03T17:56:41.417792+00:00",
+      "detected_at": "2026-10-04T00:36:12.587416+00:00",
       "amazon_url": "https://www.amazon.com/Ninja-Luxe-Espresso-Machine-Coffee/dp/B0F5JFTR1Q",
       "image_url": "https://m.media-amazon.com/images/I/71fx04bg6lL.jpg"
-    },
-    {
-      "asin": "B01N5UPTZS",
-      "title": "Breville BOV900BSS Smart Oven Air Fryer Pro, Brushed Stainless Steel | Roast, bake, dehydrate and more with countertop oven's 13 functions | Convection setting reduces cook time by up to 30%",
-      "current_price": 319.95,
-      "reference_price": 399.95,
-      "discount_percent": 20.0,
-      "savings": 80.0,
-      "tier": "Amazon Deal",
-      "score": 20,
-      "detected_at": "2026-10-03T17:56:41.417826+00:00",
-      "amazon_url": "https://www.amazon.com/Breville-BOV900BSS-Convection-Brushed-Stainless/dp/B01N5UPTZS",
-      "image_url": "https://m.media-amazon.com/images/I/718ih5tMKnL.jpg"
     },
     {
       "asin": "B0DJMP6T3N",
@@ -285,7 +285,7 @@
       "savings": 20.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-10-03T17:56:41.417742+00:00",
+      "detected_at": "2026-10-04T00:36:12.587503+00:00",
       "amazon_url": "https://www.amazon.com/BISSELL-Upholstery-HydroRinse-Self-Cleaning-4075/dp/B0DJMP6T3N",
       "image_url": "https://m.media-amazon.com/images/I/71Zg+lIkXeL.jpg"
     },
@@ -298,7 +298,7 @@
       "savings": 3.8,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-10-03T17:56:41.417783+00:00",
+      "detected_at": "2026-10-04T00:36:12.587483+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Basics-2-Ply-Toilet-Paper/dp/B095CN96JS",
       "image_url": "https://m.media-amazon.com/images/I/71OrNzZA+JL.jpg"
     }
