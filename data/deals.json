@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-04T18:09:14.327559+00:00",
+  "generated_at": "2026-10-05T00:54:32.759928+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 23,
   "deals": [
+    {
+      "asin": "B0DHLTCYWH",
+      "title": "Blink Outdoor 4 \u2013 Wireless smart security camera, two-year battery life, 1080p HD day and infrared night live view, two-way talk. Sync Module Core included \u2013 5 camera system",
+      "current_price": 104.99,
+      "reference_price": 299.99,
+      "discount_percent": 65.0,
+      "savings": 195.0,
+      "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
+      "score": 65,
+      "detected_at": "2026-10-05T00:54:32.759588+00:00",
+      "amazon_url": "https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLTCYWH",
+      "image_url": "https://m.media-amazon.com/images/I/31oSNXtjjyL.jpg"
+    },
     {
       "asin": "B0DJGDC3BD",
       "title": "Amazon Fire TV Stick HD (newest model), free & live TV, Alexa Voice Remote, powered by the TV, effortless setup, find shows faster with Alexa+",
@@ -12,7 +25,7 @@
       "savings": 24.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-10-04T18:09:14.327352+00:00",
+      "detected_at": "2026-10-05T00:54:32.759730+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Fire-TV-Stick-HD-Thin-and-Portable/dp/B0DJGDC3BD",
       "image_url": "https://m.media-amazon.com/images/I/610j-wmxRcL.jpg"
     },
@@ -25,35 +38,22 @@
       "savings": 60.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-10-04T18:09:14.327374+00:00",
+      "detected_at": "2026-10-05T00:54:32.759610+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
       "image_url": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg"
     },
     {
-      "asin": "B09T4YZGQR",
-      "title": "Shark AI Ultra Robot Vacuum, 60-Day Self-Emptying Base, Black, AV2511AE | Matrix Clean Navigation for Carpet, Hard Floors & Pet Hair, HEPA, Powerful Suction, Anti-Hair Wrap, LiDAR Mapping, Wi-Fi",
-      "current_price": 249.99,
-      "reference_price": 599.0,
-      "discount_percent": 58.27,
-      "savings": 349.01,
+      "asin": "B0H34PBVQB",
+      "title": "iRobot Roomba 115X Combo Robot Vacuum & Mop, 15,000 Pa, Easy to use, Intense Power-Lifting Suction, LiDAR Navigation, Multiple Cleaning Modes, Avoids Mopping Carpets, Self-Charging",
+      "current_price": 139.99,
+      "reference_price": 319.99,
+      "discount_percent": 56.25,
+      "savings": 180.0,
       "tier": "\u2705 50%+ GOOD DEAL",
-      "score": 58,
-      "detected_at": "2026-10-04T18:09:14.327416+00:00",
-      "amazon_url": "https://www.amazon.com/Shark-AV2511AE-Self-Empty-Capacity-Navigation/dp/B09T4YZGQR",
-      "image_url": "https://m.media-amazon.com/images/I/71n99mtBmqL.jpg"
-    },
-    {
-      "asin": "B0H34W2MS8",
-      "title": "iRobot Roomba 115X Combo Robot Vacuum & Mop with AutoEmpty Dock, 15,000Pa, Self-Empties for 90 Days, Intense Power-Lifting Suction, LiDAR Navigation, Multiple Cleaning Modes, Avoids Mopping Carpet",
-      "current_price": 199.99,
-      "reference_price": 469.99,
-      "discount_percent": 57.45,
-      "savings": 270.0,
-      "tier": "\u2705 50%+ GOOD DEAL",
-      "score": 57,
-      "detected_at": "2026-10-04T18:09:14.327363+00:00",
-      "amazon_url": "https://www.amazon.com/iRobot-AutoEmpty-Self-Empties-Power-Lifting-Navigation/dp/B0H34W2MS8",
-      "image_url": "https://m.media-amazon.com/images/I/71m-IwdVvsL.jpg"
+      "score": 56,
+      "detected_at": "2026-10-05T00:54:32.759621+00:00",
+      "amazon_url": "https://www.amazon.com/iRobot-Power-Lifting-Navigation-Multiple-Self-Charging/dp/B0H34PBVQB",
+      "image_url": "https://m.media-amazon.com/images/I/713aOvtWV7L.jpg"
     },
     {
       "asin": "B0GVTPKJVT",
@@ -64,7 +64,7 @@
       "savings": 82.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 53,
-      "detected_at": "2026-10-04T18:09:14.327411+00:00",
+      "detected_at": "2026-10-05T00:54:32.759687+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT",
       "image_url": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg"
     },
@@ -77,35 +77,35 @@
       "savings": 150.04,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-10-04T18:09:14.327358+00:00",
+      "detected_at": "2026-10-05T00:54:32.759599+00:00",
       "amazon_url": "https://www.amazon.com/Beats-Studio-Pro-Personalized-Compatibility/dp/B0C8PR4W22",
       "image_url": "https://m.media-amazon.com/images/I/61u-OaDSfQL.jpg"
     },
     {
-      "asin": "B0CZPLV566",
-      "title": "Beats Solo 4 - Wireless On-Ear Bluetooth Headphones, Up to 50-Hour Battery Life, Ultra-Lightweight Comfort, Powerful and Balanced Sound, Apple & Android Compatible - Matte Black",
+      "asin": "B0CZPGX972",
+      "title": "Beats Solo 4 - Wireless On-Ear Bluetooth Headphones, Up to 50-Hour Battery Life, Ultra-Lightweight Comfort, Powerful and Balanced Sound, Apple & Android Compatible - Cloud Pink",
       "current_price": 99.95,
       "reference_price": 199.95,
       "discount_percent": 50.01,
       "savings": 100.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-10-04T18:09:14.327368+00:00",
-      "amazon_url": "https://www.amazon.com/Beats-Solo-Wireless-Headphones-Matte/dp/B0CZPLV566",
-      "image_url": "https://m.media-amazon.com/images/I/515FE+S4yLL.jpg"
+      "detected_at": "2026-10-05T00:54:32.759632+00:00",
+      "amazon_url": "https://www.amazon.com/Beats-Solo-Ear-Headphones-Compatible/dp/B0CZPGX972",
+      "image_url": "https://m.media-amazon.com/images/I/51JNqP2C4rL.jpg"
     },
     {
-      "asin": "B09B93ZDG4",
-      "title": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Deep Sea Blue",
+      "asin": "B09B94RL1R",
+      "title": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Glacier White",
       "current_price": 39.99,
       "reference_price": 79.99,
       "discount_percent": 50.01,
       "savings": 40.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-10-04T18:09:14.327347+00:00",
-      "amazon_url": "https://www.amazon.com/Amazon-Vibrant-sounding-speaker-bedrooms/dp/B09B93ZDG4",
-      "image_url": "https://m.media-amazon.com/images/I/615mmVM4qQL.jpg"
+      "detected_at": "2026-10-05T00:54:32.759550+00:00",
+      "amazon_url": "https://www.amazon.com/Amazon-release-vibrant-helpful-routines/dp/B09B94RL1R",
+      "image_url": "https://m.media-amazon.com/images/I/71S9u9cakLL.jpg"
     },
     {
       "asin": "B07S652B12",
@@ -116,9 +116,22 @@
       "savings": 150.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-10-04T18:09:14.327395+00:00",
+      "detected_at": "2026-10-05T00:54:32.759676+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Lightweight-Rechargeable-Removable-IX141/dp/B07S652B12",
       "image_url": "https://m.media-amazon.com/images/I/71ogkstXJ3L.jpg"
+    },
+    {
+      "asin": "B0BFC7WQ6R",
+      "title": "Amazon Echo Spot (newest model), Great for nightstands, offices and kitchens, Smart alarm clock, Designed for Alexa+, Black",
+      "current_price": 54.99,
+      "reference_price": 109.99,
+      "discount_percent": 50.0,
+      "savings": 55.0,
+      "tier": "\u2705 50%+ GOOD DEAL",
+      "score": 50,
+      "detected_at": "2026-10-05T00:54:32.759719+00:00",
+      "amazon_url": "https://www.amazon.com/Amazon-Echo-Spot-2024-release-Smart-alarm-clock-with-vibrant-sound-Alexa-Black/dp/B0BFC7WQ6R",
+      "image_url": "https://m.media-amazon.com/images/I/61bA0fjrSXL.jpg"
     },
     {
       "asin": "B0DC91H3JK",
@@ -129,7 +142,7 @@
       "savings": 100.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-10-04T18:09:14.327389+00:00",
+      "detected_at": "2026-10-05T00:54:32.759643+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Echo-Show-11-Vibrant-Full-HD-11-display-Graphite-Amazon/dp/B0DC91H3JK",
       "image_url": "https://m.media-amazon.com/images/I/51Aqp1X3LzL.jpg"
     },
@@ -142,9 +155,22 @@
       "savings": 40.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-10-04T18:09:14.327400+00:00",
+      "detected_at": "2026-10-05T00:54:32.759799+00:00",
       "amazon_url": "https://www.amazon.com/All-new-Echo-Show-5/dp/B09B2SBHQK",
       "image_url": "https://m.media-amazon.com/images/I/61gwIm-iSnL.jpg"
+    },
+    {
+      "asin": "B0GGRSMXKN",
+      "title": "roborock 2026 New Qrevo S Pro Robot Vacuum and Mop, 18,500Pa Suction | Multifunctional Dock with 167\u2109 Mop Self-Cleaning, Smart Obstacle Avoidance, Anti-Tangle Brush, Liftable Spinning Mop, Black",
+      "current_price": 429.99,
+      "reference_price": 699.99,
+      "discount_percent": 38.57,
+      "savings": 270.0,
+      "tier": "Amazon Deal",
+      "score": 39,
+      "detected_at": "2026-10-05T00:54:32.759751+00:00",
+      "amazon_url": "https://www.amazon.com/roborock-Qrevo-Pro-Multifunctional-Self-Cleaning/dp/B0GGRSMXKN",
+      "image_url": "https://m.media-amazon.com/images/I/615KW-IyiHL.jpg"
     },
     {
       "asin": "B0C8RR4WN3",
@@ -155,22 +181,9 @@
       "savings": 80.0,
       "tier": "Amazon Deal",
       "score": 32,
-      "detected_at": "2026-10-04T18:09:14.327341+00:00",
+      "detected_at": "2026-10-05T00:54:32.759577+00:00",
       "amazon_url": "https://www.amazon.com/All-new-Amazon-Kindle-Paperwhite-Signature/dp/B0C8RR4WN3",
       "image_url": "https://m.media-amazon.com/images/I/61sCPMkILGL.jpg"
-    },
-    {
-      "asin": "B0GT2D9ZCR",
-      "title": "Dyson Cyclone V10 Origin Cordless Vacuum",
-      "current_price": 329.99,
-      "reference_price": 479.99,
-      "discount_percent": 31.25,
-      "savings": 150.0,
-      "tier": "Amazon Deal",
-      "score": 31,
-      "detected_at": "2026-10-04T18:09:14.327456+00:00",
-      "amazon_url": "https://www.amazon.com/Dyson-Cyclone-Origin-Cordless-Vacuum/dp/B0GT2D9ZCR",
-      "image_url": "https://m.media-amazon.com/images/I/51j8ESQ0a5L.jpg"
     },
     {
       "asin": "B0CNV9F72P",
@@ -181,22 +194,9 @@
       "savings": 46.0,
       "tier": "Amazon Deal",
       "score": 31,
-      "detected_at": "2026-10-04T18:09:14.327379+00:00",
+      "detected_at": "2026-10-05T00:54:32.759665+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-Kindle/dp/B0CNV9F72P",
       "image_url": "https://m.media-amazon.com/images/I/51V8MeGEKGL.jpg"
-    },
-    {
-      "asin": "B0GTC14BFW",
-      "title": "Dyson V15 Detect\u2122 Origin Cordless Vacuum",
-      "current_price": 589.99,
-      "reference_price": 839.99,
-      "discount_percent": 29.76,
-      "savings": 250.0,
-      "tier": "Amazon Deal",
-      "score": 30,
-      "detected_at": "2026-10-04T18:09:14.327425+00:00",
-      "amazon_url": "https://www.amazon.com/Dyson-DetectTM-Origin-Cordless-Vacuum/dp/B0GTC14BFW",
-      "image_url": "https://m.media-amazon.com/images/I/61k9OPHOj-L.jpg"
     },
     {
       "asin": "B0FQFB8FMG",
@@ -207,7 +207,7 @@
       "savings": 70.0,
       "tier": "Amazon Deal",
       "score": 28,
-      "detected_at": "2026-10-04T18:09:14.327318+00:00",
+      "detected_at": "2026-10-05T00:54:32.759517+00:00",
       "amazon_url": "https://www.amazon.com/Apple-Cancellation-Translation-Headphones-High-Fidelity/dp/B0FQFB8FMG",
       "image_url": "https://m.media-amazon.com/images/I/61solmQSSlL.jpg"
     },
@@ -220,22 +220,9 @@
       "savings": 70.0,
       "tier": "Amazon Deal",
       "score": 28,
-      "detected_at": "2026-10-04T18:09:14.327405+00:00",
+      "detected_at": "2026-10-05T00:54:32.759708+00:00",
       "amazon_url": "https://www.amazon.com/Beats-Powerbeats-Wireless-Bluetooth-Earbuds/dp/B0DT2H17F6",
       "image_url": "https://m.media-amazon.com/images/I/51gfNsXzcWL.jpg"
-    },
-    {
-      "asin": "B004Q4DRJW",
-      "title": "Shark Navigator Lift-Away Upright Vacuum Cleaner, HEPA, Lavender, NV352 | Carpet, Area Rug & Hard Floor Cleaning, XL Dust Cup, Lightweight with Swivel Steering, Crevice Tool & Wide Upholstery Tool\u200b",
-      "current_price": 129.99,
-      "reference_price": 179.99,
-      "discount_percent": 27.78,
-      "savings": 50.0,
-      "tier": "Amazon Deal",
-      "score": 28,
-      "detected_at": "2026-10-04T18:09:14.327384+00:00",
-      "amazon_url": "https://www.amazon.com/Shark-Navigator-Lift-Away-Anti-Allergy-NV352/dp/B004Q4DRJW",
-      "image_url": "https://m.media-amazon.com/images/I/61FHRTjiT3L.jpg"
     },
     {
       "asin": "B00CH9QWOU",
@@ -246,9 +233,22 @@
       "savings": 190.04,
       "tier": "Amazon Deal",
       "score": 28,
-      "detected_at": "2026-10-04T18:09:14.327420+00:00",
+      "detected_at": "2026-10-05T00:54:32.759697+00:00",
       "amazon_url": "https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU",
       "image_url": "https://m.media-amazon.com/images/I/71BvCt6eAFL.jpg"
+    },
+    {
+      "asin": "B09NCGQSY9",
+      "title": "Owlet Dream Sock Smart Baby Monitor, Better Sleep for Baby & You | FDA-Cleared Monitor, Tracks Pulse Rate & Oxygen With Real-Time Alerts, Predicts Sleep Patterns, New Parent Essential",
+      "current_price": 219.99,
+      "reference_price": 299.99,
+      "discount_percent": 26.67,
+      "savings": 80.0,
+      "tier": "Amazon Deal",
+      "score": 27,
+      "detected_at": "2026-10-05T00:54:32.759740+00:00",
+      "amazon_url": "https://www.amazon.com/Owlet-Dream-Sock-Indicators-Movement/dp/B09NCGQSY9",
+      "image_url": "https://m.media-amazon.com/images/I/71LNU-Y4h2L.jpg"
     },
     {
       "asin": "B0HJ9ZNRKT",
@@ -259,21 +259,21 @@
       "savings": 50.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-10-04T18:09:14.327334+00:00",
+      "detected_at": "2026-10-05T00:54:32.759564+00:00",
       "amazon_url": "https://www.amazon.com/Apple-Watch-GPS-40mm-Smartwatch/dp/B0HJ9ZNRKT",
       "image_url": "https://m.media-amazon.com/images/I/61hDZx1bOoL.jpg"
     },
     {
-      "asin": "B0DK3W6TV6",
-      "title": "Apple iPad mini (A17 Pro): Apple Intelligence, 8.3-inch Liquid Retina Display, 128GB, Wi-Fi 6E, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life \u2014 Space Gray",
-      "current_price": 499.0,
-      "reference_price": 599.0,
-      "discount_percent": 16.69,
+      "asin": "B0DK3XM94S",
+      "title": "Apple iPad mini (A17 Pro): Apple Intelligence, 8.3-inch Liquid Retina Display, 256GB, Wi-Fi 6E, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life \u2014 Space Gray",
+      "current_price": 599.0,
+      "reference_price": 699.0,
+      "discount_percent": 14.31,
       "savings": 100.0,
       "tier": "Amazon Deal",
-      "score": 17,
-      "detected_at": "2026-10-04T18:09:14.327430+00:00",
-      "amazon_url": "https://www.amazon.com/Apple-iPad-Mini-A17-Pro/dp/B0DK3W6TV6",
+      "score": 14,
+      "detected_at": "2026-10-05T00:54:32.759654+00:00",
+      "amazon_url": "https://www.amazon.com/Apple-iPad-Mini-A17-Pro/dp/B0DK3XM94S",
       "image_url": "https://m.media-amazon.com/images/I/61Tix2-t7iL.jpg"
     },
     {
@@ -285,22 +285,22 @@
       "savings": 200.0,
       "tier": "Amazon Deal",
       "score": 13,
-      "detected_at": "2026-10-04T18:09:14.327327+00:00",
+      "detected_at": "2026-10-05T00:54:32.759535+00:00",
       "amazon_url": "https://www.amazon.com/Apple-2026-MacBook-15-inch-Laptop/dp/B0GR1N82GJ",
       "image_url": "https://m.media-amazon.com/images/I/71KDwOe39jL.jpg"
     },
     {
-      "asin": "B0GR1DS9NX",
-      "title": "Apple 2026 MacBook Air 13-inch Laptop with M5 chip: Built for AI, 13.6-inch Liquid Retina Display, 16GB Unified Memory, 1TB SSD, 12MP Center Stage Camera, Touch ID, Wi-Fi 7; Silver",
-      "current_price": 1399.0,
-      "reference_price": 1599.0,
-      "discount_percent": 12.51,
+      "asin": "B0GR1BY1SZ",
+      "title": "Apple 2026 MacBook Air 13-inch Laptop with M5 chip: Built for AI, 13.6-inch Liquid Retina Display, 24GB Unified Memory, 1TB SSD, 12MP Center Stage Camera, Touch ID, Wi-Fi 7; Midnight",
+      "current_price": 1599.0,
+      "reference_price": 1799.0,
+      "discount_percent": 11.12,
       "savings": 200.0,
       "tier": "Amazon Deal",
-      "score": 13,
-      "detected_at": "2026-10-04T18:09:14.327287+00:00",
-      "amazon_url": "https://www.amazon.com/Apple-2026-MacBook-13-inch-Laptop/dp/B0GR1DS9NX",
-      "image_url": "https://m.media-amazon.com/images/I/71txEBdkjxL.jpg"
+      "score": 11,
+      "detected_at": "2026-10-05T00:54:32.759477+00:00",
+      "amazon_url": "https://www.amazon.com/Apple-2026-MacBook-13-inch-Laptop/dp/B0GR1BY1SZ",
+      "image_url": "https://m.media-amazon.com/images/I/71pkfQGcMKL.jpg"
     }
   ]
 }
