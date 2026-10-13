@@ -92,9 +92,9 @@
   "B00JH98GR4": {
     "title": "Shark Navigator Lift-Away Vacuum, HEPA, Carpet and Pet Hair, Blue, NV360 | Lift-Away Pod, Carpet and Hard Floor Cleaning, Swivel Steering, Brushroll Shutoff, 0.9-Qt Dust Cup, Upholstery/Crevice Tools",
     "first_seen": "2026-08-13T02:23:38.283828+00:00",
-    "last_seen": "2026-08-15T14:37:19.378988+00:00",
-    "times_seen": 7,
-    "latest_price": 149.0,
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 8,
+    "latest_price": 149.99,
     "lowest_price": 149.0,
     "highest_discount": 25.5,
     "amazon_url": "https://www.amazon.com/Shark-Navigator-Professional-Anti-Allergy-NV360/dp/B00JH98GR4"
@@ -692,8 +692,8 @@
   "B01C5QS1T8": {
     "title": "iHealth Track Smart Upper Arm Blood Pressure Monitor with Wide-Range Cuff | Bluetooth BP monitor for standard to large adult arms, compatible with iOS and Android",
     "first_seen": "2026-08-14T22:39:08.795829+00:00",
-    "last_seen": "2026-08-27T17:37:07.723903+00:00",
-    "times_seen": 2,
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 3,
     "latest_price": 27.98,
     "lowest_price": 27.98,
     "highest_discount": 44.02,
@@ -1002,8 +1002,8 @@
   "B0C1NM42PN": {
     "title": "BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6\"-18\" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel (White)",
     "first_seen": "2026-08-16T06:57:45.994000+00:00",
-    "last_seen": "2026-09-21T00:15:02.302276+00:00",
-    "times_seen": 14,
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 15,
     "latest_price": 23.99,
     "lowest_price": 23.99,
     "highest_discount": 20.01,
@@ -1640,10 +1640,10 @@
     "amazon_url": "https://www.amazon.com/Shark-Navigator-ZU503AMZ-Lift-Away-Self-Cleaning/dp/B08TT4YHG1"
   },
   "B0C33CHG99": {
-    "title": "Cosori TurboBlaze Air Fryer, 9-in-1, 6 Qt, PFAS-Free Ceramic Coating | 90\u00b0\u2013450\u00b0F, 5 Level Fan Speeds, 9 in 1 Air Fry, Roast, Bake, Broil, Dry, Frozen, Proof, Reheat, Keep Warm, Safety lock, 1725W",
+    "title": "Cosori TurboBlaze Air Fryer, 9-in-1, 6 Qt, PFAS-Free Ceramic Coating | 90\u00b0-450\u00b0F, 5 Fan Speeds, Air Fry, Roast, Broil, Frozen, Bake, Dry, Proof, 95% Less Oil, Safety Lock, Dishwasher-Safe, 1725W",
     "first_seen": "2026-08-20T22:44:00.278650+00:00",
-    "last_seen": "2026-09-25T11:48:24.128962+00:00",
-    "times_seen": 7,
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 8,
     "latest_price": 89.99,
     "lowest_price": 89.99,
     "highest_discount": 25.0,
@@ -1752,8 +1752,8 @@
   "B0DC156Y5X": {
     "title": "JIYU Toner Pads - Korean Skincare for Dark Spots, Wrinkles & Dull Skin - Hydrating Facial Treatment with Snail Mucin, Niacinamide, Peptides & Centella - 100 Count",
     "first_seen": "2026-08-21T14:52:41.760839+00:00",
-    "last_seen": "2026-08-30T11:53:17.190406+00:00",
-    "times_seen": 2,
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 3,
     "latest_price": 43.99,
     "lowest_price": 43.99,
     "highest_discount": 26.62,
@@ -2232,9 +2232,9 @@
   "B00EINBSEW": {
     "title": "Coop Home Goods Original Adjustable Pillow, Queen Size Bed Pillow for Sleeping, Cross Cut Memory Foam Pillow - Medium Firm Back, Stomach and Side Sleeper Pillow, CertiPUR-US/GREENGUARD Gold",
     "first_seen": "2026-08-24T14:58:54.361776+00:00",
-    "last_seen": "2026-09-01T11:37:05.923813+00:00",
-    "times_seen": 2,
-    "latest_price": 71.2,
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 3,
+    "latest_price": 75.65,
     "lowest_price": 71.2,
     "highest_discount": 20.0,
     "amazon_url": "https://www.amazon.com/Coop-Home-Goods-Memory-Foam-Pillow-For-Side-Back-Stomach-Sleeper/dp/B00EINBSEW"
@@ -3232,8 +3232,8 @@
   "B0GZSST8ZT": {
     "title": "Shark Cordless Pet, Cordless Lightweight Stick Vacuum Cleaner, IY143H | Self Cleaning Brushroll, 40-Min Runtime, Removable Handheld, XL Dust Cup, Moonlight Blue (2026 Release)",
     "first_seen": "2026-08-30T18:04:14.478348+00:00",
-    "last_seen": "2026-08-30T18:04:14.478348+00:00",
-    "times_seen": 1,
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 2,
     "latest_price": 179.99,
     "lowest_price": 179.99,
     "highest_discount": 40.0,
@@ -3422,10 +3422,10 @@
   "B0GY4TQ2P8": {
     "title": "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W | 2,010Wh LiFePO4 Battery, 1,500W Output, Solar Generator for Home Backup, Outdoor and Emergency Use",
     "first_seen": "2026-08-31T20:02:41.764827+00:00",
-    "last_seen": "2026-09-23T18:23:41.230714+00:00",
-    "times_seen": 16,
-    "latest_price": 649.99,
-    "lowest_price": 649.99,
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 17,
+    "latest_price": 649.98,
+    "lowest_price": 649.98,
     "highest_discount": 45.79,
     "amazon_url": "https://www.amazon.com/Anker-SOLIX-S2000-Portable-Station/dp/B0GY4TQ2P8"
   },
@@ -4630,10 +4630,10 @@
     "amazon_url": "https://www.amazon.com/Miracase-Compatible-Integrated-Shockproof-Protection/dp/B0FM2NP46M"
   },
   "B0FH655984": {
-    "title": "SUPFINE Magnetic for iPhone 18 Pro Max Case/17 Pro Max Case-Black | With Screen Protector, Translucent Matte, Compatible with MagSafe, Military Grade Drop Proof, Rugged Shockproof Protective",
+    "title": "SUPFINE Magnetic for iPhone 18 Pro Max Case/17 Pro Max Case Black | With Screen Protector, Translucent Matte, Compatible with MagSafe, Military Grade Drop Proof, Rugged Shockproof Protective",
     "first_seen": "2026-09-14T12:42:17.918860+00:00",
-    "last_seen": "2026-10-03T01:11:16.254007+00:00",
-    "times_seen": 20,
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 21,
     "latest_price": 5.58,
     "lowest_price": 5.58,
     "highest_discount": 44.14,
@@ -5592,18 +5592,18 @@
   "B0DWXBCQVP": {
     "title": "roborock Q10 S5+ Robot Vacuum and Mop, 10,000Pa Suction | Upgraded from Q8 max+, 70-Day Self-Emptying, Obstacle Avoidance, Sonic Mopping, Dual Anti-Tangle Design, Auto Mop Lift, Black",
     "first_seen": "2026-09-19T17:16:40.870385+00:00",
-    "last_seen": "2026-09-21T00:15:02.302276+00:00",
-    "times_seen": 3,
-    "latest_price": 279.99,
-    "lowest_price": 279.99,
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 4,
+    "latest_price": 279.98,
+    "lowest_price": 279.98,
     "highest_discount": 49.09,
     "amazon_url": "https://www.amazon.com/roborock-Q10-S5-Self-Emptying-Anti-Tangle/dp/B0DWXBCQVP"
   },
   "B0FXRGJ4S9": {
     "title": "IFGET 92.63\" W Modern Arched Sideboard Buffet Cabinet with Storage, Natural | Fluted Arch Sideboard Cabinet w/Adjustable Shelves, Wooden Modular Kitchen Cabinet for Dining& Living Room, Entryway",
     "first_seen": "2026-09-20T00:08:24.727922+00:00",
-    "last_seen": "2026-09-20T00:08:24.727922+00:00",
-    "times_seen": 1,
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 2,
     "latest_price": 214.57,
     "lowest_price": 214.57,
     "highest_discount": 44.98,
@@ -6572,8 +6572,8 @@
   "B00CH9QWOU": {
     "title": "Breville BES870XL Barista Express Espresso Machine, Brushed Stainless Steel | Craft caf\u00e9-quality espresso shots, lattes and cappuccinos at home with this manual coffee maker with built-in grinder",
     "first_seen": "2026-09-27T11:59:22.625763+00:00",
-    "last_seen": "2026-10-06T02:17:29.420490+00:00",
-    "times_seen": 25,
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 26,
     "latest_price": 499.95,
     "lowest_price": 499.95,
     "highest_discount": 27.54,
@@ -6612,8 +6612,8 @@
   "B01N5UPTZS": {
     "title": "Breville BOV900BSS Smart Oven Air Fryer Pro, Brushed Stainless Steel | Roast, bake, dehydrate and more with countertop oven's 13 functions | Convection setting reduces cook time by up to 30%",
     "first_seen": "2026-09-27T11:59:22.625763+00:00",
-    "last_seen": "2026-10-03T17:56:41.420885+00:00",
-    "times_seen": 4,
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 5,
     "latest_price": 319.95,
     "lowest_price": 319.95,
     "highest_discount": 20.0,
@@ -7122,8 +7122,8 @@
   "B0D8LXRHQ8": {
     "title": "Keurig K-Duo Hot & Iced Single Serve & Carafe Coffee Maker, MultiStream Technology, 72oz Reservoir (Gen 2)",
     "first_seen": "2026-10-04T12:18:39.936227+00:00",
-    "last_seen": "2026-10-04T12:18:39.936227+00:00",
-    "times_seen": 1,
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 2,
     "latest_price": 129.99,
     "lowest_price": 129.99,
     "highest_discount": 40.91,
@@ -7638,5 +7638,95 @@
     "lowest_price": 249.0,
     "highest_discount": 16.72,
     "amazon_url": "https://www.amazon.com/Apple-Watch-Cellular-40mm-Smartwatch/dp/B0HJB9KGRB"
+  },
+  "B0F597M88C": {
+    "title": "PRETTYGARDEN Womens Bell Long Sleeve Ribbed Knit Tops | Trendy Boat Neck Y2K Cropped Going Out Tops, Ruched Slim Fit Cute Garment Friendly Shirts, Fall Outfits, Fashion Clothing",
+    "first_seen": "2026-10-13T03:02:45.691158+00:00",
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 1,
+    "latest_price": 9.85,
+    "lowest_price": 9.85,
+    "highest_discount": 50.73,
+    "amazon_url": "https://www.amazon.com/PRETTYGARDEN-Womens-Sleeve-Shirts-Clothes/dp/B0F597M88C"
+  },
+  "B0BZR6YBHK": {
+    "title": "Bedsure Heated Blanket Throw Blanket with Preheat Function - Fast Heating Electric Blanket, Soft Flannel Throw with 6 Time Settings(Up to 10H), 6 Heating Settings, Gifts for Grandma (50\"x60\", Grey)",
+    "first_seen": "2026-10-13T03:02:45.691158+00:00",
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 1,
+    "latest_price": 36.97,
+    "lowest_price": 36.97,
+    "highest_discount": 46.41,
+    "amazon_url": "https://www.amazon.com/Bedsure-Heated-Blanket-Electric-Throw/dp/B0BZR6YBHK"
+  },
+  "B0HBWGLN1F": {
+    "title": "Hisense 55\" Class E6SR Series Hi-QLED 4K UHD Smart Roku TV (55E6SR, 2026 Model) - Dolby Vision, Game Mode Plus, VRR, ALLM, DTS Virtual:X, Apple AirPlay, Compatible with Alexa and Google Assistant",
+    "first_seen": "2026-10-13T03:02:45.691158+00:00",
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 1,
+    "latest_price": 277.99,
+    "lowest_price": 277.99,
+    "highest_discount": 38.22,
+    "amazon_url": "https://www.amazon.com/Hisense-Class-Hi-QLED-Smart-55E6SR/dp/B0HBWGLN1F"
+  },
+  "B0BZR8983B": {
+    "title": "Bedsure Heated Blanket Throw, Soft Electric Blanket with Preheat, Taupe | 6 Heat/6 Timer Settings, 8H Auto Shut-Off, ETL/FCC, Flannel Sherpa, Machine Washable, Gifts for Grandma Grandpa, 50x60in",
+    "first_seen": "2026-10-13T03:02:45.691158+00:00",
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 1,
+    "latest_price": 43.98,
+    "lowest_price": 43.98,
+    "highest_discount": 36.25,
+    "amazon_url": "https://www.amazon.com/Bedsure-Heated-Blanket-Electric-Throw/dp/B0BZR8983B"
+  },
+  "B0DL9Q7BWN": {
+    "title": "Rothy's The Casual Clog, Women's Slip-On Mule Shoe | Platform Shoe with Cushioned Comfort Insole, Sustainable & Machine-Washable, All-Day Wear, Made with Recycled Plastic Bottles",
+    "first_seen": "2026-10-13T03:02:45.691158+00:00",
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 1,
+    "latest_price": 119.0,
+    "lowest_price": 119.0,
+    "highest_discount": 25.62,
+    "amazon_url": "https://www.amazon.com/Rothys-Classic-Recycled-Plastic-Washable/dp/B0DL9Q7BWN"
+  },
+  "B07RY59C3W": {
+    "title": "LANE LINEN Queen Sheets 100% Organic Cotton 4pc Percale Cooling - White | Queen Sheet Set, GOTS Certified Organic Cotton Percale - Crisp, Cool & Breathable, For Hot Sleepers, All-Season Comfort",
+    "first_seen": "2026-10-13T03:02:45.691158+00:00",
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 1,
+    "latest_price": 35.99,
+    "lowest_price": 35.99,
+    "highest_discount": 20.0,
+    "amazon_url": "https://www.amazon.com/LANE-LINEN-Friendly-Elasticized-Naturally/dp/B07RY59C3W"
+  },
+  "B0F7RR3YC6": {
+    "title": "YGSKK Mini Projector with Wifi and Bluetooth, Built-in Apps,Movie Projector | Electric Focus Portable Projector, 1080P Video Projector for Bedroom, Supports Smartphone/TV Stick/iPad/PS5/Laptop/HDMI/USB",
+    "first_seen": "2026-10-13T03:02:45.691158+00:00",
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 1,
+    "latest_price": 73.97,
+    "lowest_price": 73.97,
+    "highest_discount": 11.93,
+    "amazon_url": "https://www.amazon.com/Electric-Keystone%E3%80%91Mini-Projector-Bluetooth-Smartphones/dp/B0F7RR3YC6"
+  },
+  "B01MSP50CY": {
+    "title": "Filterbuy 16x25x1 Air Filter MERV 8 Dust & Allergy Defense (4-Pack) | Electrostatic Pleated HVAC AC Furnace Filters Replacement, Made in USA (Actual Size: 15.50 x 24.50 x 0.75)",
+    "first_seen": "2026-10-13T03:02:45.691158+00:00",
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 1,
+    "latest_price": 31.46,
+    "lowest_price": 31.46,
+    "highest_discount": 10.01,
+    "amazon_url": "https://www.amazon.com/FilterBuy-16x25x1-Pleated-Furnace-produced/dp/B01MSP50CY"
+  },
+  "B07H71SBC4": {
+    "title": "PlushDeluxe Bamboo Waterproof Mattress Protector, King Size, Ultra Soft | Breathable, Noiseless, Hypoallergenic, Washable, 76x80\" Up to 18\" Deep, Viscose Derived from Bamboo Mattress Cover, White",
+    "first_seen": "2026-10-13T03:02:45.691158+00:00",
+    "last_seen": "2026-10-13T03:02:45.691158+00:00",
+    "times_seen": 1,
+    "latest_price": 35.99,
+    "lowest_price": 35.99,
+    "highest_discount": 10.0,
+    "amazon_url": "https://www.amazon.com/PlushDeluxe-Premium-Bamboo-Mattress-Protector/dp/B07H71SBC4"
   }
 }
