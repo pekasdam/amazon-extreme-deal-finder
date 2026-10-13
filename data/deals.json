@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-10-13T14:08:03.952346+00:00",
+  "generated_at": "2026-10-13T20:14:42.940538+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 23,
   "deals": [
+    {
+      "asin": "B01M16WBW1",
+      "title": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - White | Hotel Luxury Bed Sheets for Women & Men, Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets, Oeko-Tex Bed Sheet Set",
+      "current_price": 21.22,
+      "reference_price": 39.99,
+      "discount_percent": 46.94,
+      "savings": 18.77,
+      "tier": "Amazon Deal",
+      "score": 47,
+      "detected_at": "2026-10-13T20:14:42.940196+00:00",
+      "amazon_url": "https://www.amazon.com/Queen-Size-Piece-Sheet-Set/dp/B01M16WBW1",
+      "image_url": "https://m.media-amazon.com/images/I/71zGC0oAIXL.jpg"
+    },
+    {
+      "asin": "B0GY4TQ2P8",
+      "title": "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W | 2,010Wh LiFePO4 Battery, 1,500W Output, Solar Generator for Home Backup, Outdoor and Emergency Use",
+      "current_price": 649.98,
+      "reference_price": 1199.0,
+      "discount_percent": 45.79,
+      "savings": 549.02,
+      "tier": "Amazon Deal",
+      "score": 46,
+      "detected_at": "2026-10-13T20:14:42.940261+00:00",
+      "amazon_url": "https://www.amazon.com/Anker-SOLIX-S2000-Portable-Station/dp/B0GY4TQ2P8",
+      "image_url": "https://m.media-amazon.com/images/I/71d9U6KPEVL.jpg"
+    },
     {
       "asin": "B01C5QS1T8",
       "title": "iHealth Track Smart Upper Arm Blood Pressure Monitor with Wide-Range Cuff | Bluetooth BP monitor for standard to large adult arms, compatible with iOS and Android",
@@ -12,7 +38,7 @@
       "savings": 22.0,
       "tier": "Amazon Deal",
       "score": 44,
-      "detected_at": "2026-10-13T14:08:03.952207+00:00",
+      "detected_at": "2026-10-13T20:14:42.940329+00:00",
       "amazon_url": "https://www.amazon.com/iHealth-Track-Pressure-Monitor-Wide-Range/dp/B01C5QS1T8",
       "image_url": "https://m.media-amazon.com/images/I/71wVl0n2dmL.jpg"
     },
@@ -25,9 +51,22 @@
       "savings": 90.0,
       "tier": "Amazon Deal",
       "score": 41,
-      "detected_at": "2026-10-13T14:08:03.951997+00:00",
+      "detected_at": "2026-10-13T20:14:42.940369+00:00",
       "amazon_url": "https://www.amazon.com/Keurig-Single-MultiStream-Technology-Reservoir/dp/B0D8LXRHQ8",
       "image_url": "https://m.media-amazon.com/images/I/717849a6v+L.jpg"
+    },
+    {
+      "asin": "B09GM8JZM9",
+      "title": "HelloBaby No WiFi Baby Monitor Camera and Audio HB6550, 5\" Video Screen | Trusted by 10M+ Families, 30H Battery, PTZ, Private No-WiFi, Night Vision, 1000ft, Easy Setup, 2-Way Talk, VOX, Travel Ready",
+      "current_price": 59.98,
+      "reference_price": 99.99,
+      "discount_percent": 40.01,
+      "savings": 40.01,
+      "tier": "Amazon Deal",
+      "score": 40,
+      "detected_at": "2026-10-13T20:14:42.940307+00:00",
+      "amazon_url": "https://www.amazon.com/HelloBaby-Monitor-Camera-HB6550-Screen/dp/B09GM8JZM9",
+      "image_url": "https://m.media-amazon.com/images/I/613RCWv-M1L.jpg"
     },
     {
       "asin": "B0GZSST8ZT",
@@ -38,7 +77,7 @@
       "savings": 120.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-10-13T14:08:03.951965+00:00",
+      "detected_at": "2026-10-13T20:14:42.940230+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Cordless-Lightweight-Cleaner-IY143H/dp/B0GZSST8ZT",
       "image_url": "https://m.media-amazon.com/images/I/61VaFQrV0QL.jpg"
     },
@@ -51,22 +90,22 @@
       "savings": 172.0,
       "tier": "Amazon Deal",
       "score": 38,
-      "detected_at": "2026-10-13T14:08:03.952066+00:00",
+      "detected_at": "2026-10-13T20:14:42.940277+00:00",
       "amazon_url": "https://www.amazon.com/Hisense-Class-Hi-QLED-Smart-55E6SR/dp/B0HBWGLN1F",
       "image_url": "https://m.media-amazon.com/images/I/71K8VGv799L.jpg"
     },
     {
-      "asin": "B0FNNR7F81",
-      "title": "Windproof Travel Umbrella - Compact & Withstands Winds up to 100MPH, Strongest Premium Auto Folding Umbrella for Rain and Sun - Durable, Light & Portable for Women & Men, Fits Backpack & Cars",
-      "current_price": 25.49,
-      "reference_price": 39.99,
-      "discount_percent": 36.26,
-      "savings": 14.5,
+      "asin": "B0GQXDBFRN",
+      "title": "Waterpik Cordless Gem 5100 Portable Water Flosser, Rechargeable, White | 2 Settings, 3 Tips, Travel Mode & Bag, for Gums, Teeth, Braces, Implants, Shower Use, ADA Accepted, WF-27 Packaging May Vary",
+      "current_price": 49.99,
+      "reference_price": 79.99,
+      "discount_percent": 37.5,
+      "savings": 30.0,
       "tier": "Amazon Deal",
-      "score": 36,
-      "detected_at": "2026-10-13T14:08:03.952009+00:00",
-      "amazon_url": "https://www.amazon.com/Windproof-Travel-Umbrella-Withstands-Strongest/dp/B0FNNR7F81",
-      "image_url": "https://m.media-amazon.com/images/I/71WVRvDb2mL.jpg"
+      "score": 38,
+      "detected_at": "2026-10-13T20:14:42.940430+00:00",
+      "amazon_url": "https://www.amazon.com/Waterpik-Cordless-Portable-Flosser-Rechargeable/dp/B0GQXDBFRN",
+      "image_url": "https://m.media-amazon.com/images/I/71k4ZaTMbFL.jpg"
     },
     {
       "asin": "B0GT2D9ZCR",
@@ -77,7 +116,7 @@
       "savings": 150.0,
       "tier": "Amazon Deal",
       "score": 31,
-      "detected_at": "2026-10-13T14:08:03.951954+00:00",
+      "detected_at": "2026-10-13T20:14:42.940269+00:00",
       "amazon_url": "https://www.amazon.com/Dyson-Cyclone-Origin-Cordless-Vacuum/dp/B0GT2D9ZCR",
       "image_url": "https://m.media-amazon.com/images/I/51j8ESQ0a5L.jpg"
     },
@@ -90,48 +129,22 @@
       "savings": 120.0,
       "tier": "Amazon Deal",
       "score": 31,
-      "detected_at": "2026-10-13T14:08:03.951987+00:00",
+      "detected_at": "2026-10-13T20:14:42.940378+00:00",
       "amazon_url": "https://www.amazon.com/Dyson-626423-01-V8TM-Cordless-Vacuum/dp/B0GT2DG9SK",
       "image_url": "https://m.media-amazon.com/images/I/51byt8oD+LL.jpg"
     },
     {
-      "asin": "B0DC156Y5X",
-      "title": "JIYU Toner Pads - Korean Skincare for Dark Spots, Wrinkles & Dull Skin - Hydrating Facial Treatment with Snail Mucin, Niacinamide, Peptides & Centella - 100 Count",
-      "current_price": 43.99,
-      "reference_price": 59.95,
-      "discount_percent": 26.62,
-      "savings": 15.96,
+      "asin": "B0GSVVSJXT",
+      "title": "xTool M2 20W Color Craft Laser Engraver, with Dual Cameras, CMYK Inkjet Printer, RA3 Lite Rotray, Class 1 Enclosed Safe Laser Engraving Machine for Wood, Leather, Felt, Fabric, Paper, DIY Crafts",
+      "current_price": 1228.98,
+      "reference_price": 1699.0,
+      "discount_percent": 27.66,
+      "savings": 470.02,
       "tier": "Amazon Deal",
-      "score": 27,
-      "detected_at": "2026-10-13T14:08:03.951976+00:00",
-      "amazon_url": "https://www.amazon.com/Toning-Polish-Pads-Hydrating-Niacinamide/dp/B0DC156Y5X",
-      "image_url": "https://m.media-amazon.com/images/I/61zUDkrf+OL.jpg"
-    },
-    {
-      "asin": "B0DL9WZRV8",
-      "title": "Rothy's The Casual Clog, Women's Slip-On Mule Shoe | Platform Shoe with Cushioned Comfort Insole, Sustainable & Machine-Washable, All-Day Wear, Made with Recycled Plastic Bottles",
-      "current_price": 119.0,
-      "reference_price": 160.0,
-      "discount_percent": 25.62,
-      "savings": 41.0,
-      "tier": "Amazon Deal",
-      "score": 26,
-      "detected_at": "2026-10-13T14:08:03.952044+00:00",
-      "amazon_url": "https://www.amazon.com/Rothys-Classic-Recycled-Plastic-Washable/dp/B0DL9WZRV8",
-      "image_url": "https://m.media-amazon.com/images/I/712GFbJ9cuL.jpg"
-    },
-    {
-      "asin": "B0FLX7WJMF",
-      "title": "ANRABESS Women Long Sleeve Shirts Ribbed Fitted Tops | Slim Basic Tee,2026 Fall Outfits,Lightweight Knit T-Shirt,Soft Underscrub,Winter Layer Clothing,Casual Work & Everyday Wear",
-      "current_price": 14.98,
-      "reference_price": 19.98,
-      "discount_percent": 25.03,
-      "savings": 5.0,
-      "tier": "Amazon Deal",
-      "score": 25,
-      "detected_at": "2026-10-13T14:08:03.952185+00:00",
-      "amazon_url": "https://www.amazon.com/ANRABESS-Sleeve-Shirts-Ribbed-Fitted/dp/B0FLX7WJMF",
-      "image_url": "https://m.media-amazon.com/images/I/71FN9lldCQL.jpg"
+      "score": 28,
+      "detected_at": "2026-10-13T20:14:42.940322+00:00",
+      "amazon_url": "https://www.amazon.com/xTool-Engraver-Cameras-Enclosed-Engraving/dp/B0GSVVSJXT",
+      "image_url": "https://m.media-amazon.com/images/I/71bWl3SsrWL.jpg"
     },
     {
       "asin": "B00JH98GR4",
@@ -142,7 +155,7 @@
       "savings": 50.0,
       "tier": "Amazon Deal",
       "score": 25,
-      "detected_at": "2026-10-13T14:08:03.951931+00:00",
+      "detected_at": "2026-10-13T20:14:42.940243+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Navigator-Professional-Anti-Allergy-NV360/dp/B00JH98GR4",
       "image_url": "https://m.media-amazon.com/images/I/61w1n9p2R0L.jpg"
     },
@@ -155,22 +168,22 @@
       "savings": 50.0,
       "tier": "Amazon Deal",
       "score": 23,
-      "detected_at": "2026-10-13T14:08:03.952020+00:00",
+      "detected_at": "2026-10-13T20:14:42.940285+00:00",
       "amazon_url": "https://www.amazon.com/Dell-Plus-QHD-Monitor-Adjustability/dp/B0GD1LMWH3",
       "image_url": "https://m.media-amazon.com/images/I/71E--5UD9vL.jpg"
     },
     {
-      "asin": "B0CR5NHMB2",
+      "asin": "B0CN8XKBLM",
       "title": "G4Free Yoga Pants for Women Wide Leg Pants with Pockets High Waisted | Moisture Wicking, Soft Comfortable Feel, 4-Way Stretch, Faux Fly, Faux Back Pockets, Yoga, Work & Casual Wear",
-      "current_price": 29.45,
-      "reference_price": 36.99,
-      "discount_percent": 20.38,
-      "savings": 7.54,
+      "current_price": 29.98,
+      "reference_price": 37.99,
+      "discount_percent": 21.08,
+      "savings": 8.01,
       "tier": "Amazon Deal",
-      "score": 20,
-      "detected_at": "2026-10-13T14:08:03.951848+00:00",
-      "amazon_url": "https://www.amazon.com/G4Free-Pockets-Palazzo-Fashion-Sweatpants/dp/B0CR5NHMB2",
-      "image_url": "https://m.media-amazon.com/images/I/51FbAdOJGaL.jpg"
+      "score": 21,
+      "detected_at": "2026-10-13T20:14:42.940385+00:00",
+      "amazon_url": "https://www.amazon.com/G4Free-Sweatpants-Womens-Pockets-Heather/dp/B0CN8XKBLM",
+      "image_url": "https://m.media-amazon.com/images/I/71yg9KoUwkL.jpg"
     },
     {
       "asin": "B0C1NM42PN",
@@ -181,22 +194,9 @@
       "savings": 6.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-10-13T14:08:03.951905+00:00",
+      "detected_at": "2026-10-13T20:14:42.940299+00:00",
       "amazon_url": "https://www.amazon.com/BEDLORE-Waterproof-Protector-Noiseless-Breathable/dp/B0C1NM42PN",
       "image_url": "https://m.media-amazon.com/images/I/71tUP9hEL+L.jpg"
-    },
-    {
-      "asin": "B00CJZ9I0C",
-      "title": "Filterbuy 20x25x4 Air Filter MERV 8 Dust & Allergy Defense (4-Pack) | Electrostatic Pleated HVAC AC Furnace Filters Replacement, Made in USA (Actual Size: 19.50 x 24.50 x 3.63)",
-      "current_price": 67.46,
-      "reference_price": 79.96,
-      "discount_percent": 15.63,
-      "savings": 12.5,
-      "tier": "Amazon Deal",
-      "score": 16,
-      "detected_at": "2026-10-13T14:08:03.951887+00:00",
-      "amazon_url": "https://www.amazon.com/FilterBuy-20x25x4-Pleated-Furnace-Filters/dp/B00CJZ9I0C",
-      "image_url": "https://m.media-amazon.com/images/I/81-5KBoLrOL.jpg"
     },
     {
       "asin": "B00EINBSEW",
@@ -207,22 +207,22 @@
       "savings": 13.35,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-10-13T14:08:03.952031+00:00",
+      "detected_at": "2026-10-13T20:14:42.940437+00:00",
       "amazon_url": "https://www.amazon.com/Coop-Home-Goods-Memory-Foam-Pillow-For-Side-Back-Stomach-Sleeper/dp/B00EINBSEW",
       "image_url": "https://m.media-amazon.com/images/I/61hiruVCYbL.jpg"
     },
     {
-      "asin": "B0DYG4Q6PL",
-      "title": "Shark CryoGlow LED Face Mask, Red Light Therapy, Under-Eye Cooling, FW312PL | Red, Blue & Deep Infrared Light, Skincare Device for Fine Lines & Acne, Clinically Tested & FDA-Cleared, 4 Modes, Lilac",
+      "asin": "B0DSGJCS47",
+      "title": "Shark CryoGlow LED Face Mask, Red Light Therapy, Under-Eye Cooling, FW312 | Red, Blue & Deep Infrared Light, Skincare Device for Fine Lines & Acne, Clinically Tested & FDA-Cleared, 4 Modes, Blue Frost\u200b",
       "current_price": 299.0,
       "reference_price": 349.99,
       "discount_percent": 14.57,
       "savings": 50.99,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-10-13T14:08:03.952077+00:00",
-      "amazon_url": "https://www.amazon.com/Shark-CryoGlow-Under-Eye-Anti-Ageing-FW312PL/dp/B0DYG4Q6PL",
-      "image_url": "https://m.media-amazon.com/images/I/71c4A5AT-OL.jpg"
+      "detected_at": "2026-10-13T20:14:42.940407+00:00",
+      "amazon_url": "https://www.amazon.com/Shark-CryoGlow-Under-Eye-Anti-Ageing-FW312/dp/B0DSGJCS47",
+      "image_url": "https://m.media-amazon.com/images/I/71JGSsBihcL.jpg"
     },
     {
       "asin": "B0C6FCKQML",
@@ -233,22 +233,22 @@
       "savings": 4.86,
       "tier": "Amazon Deal",
       "score": 12,
-      "detected_at": "2026-10-13T14:08:03.952087+00:00",
+      "detected_at": "2026-10-13T20:14:42.940416+00:00",
       "amazon_url": "https://www.amazon.com/Dreo-Portable-Electric-Heaters-Thermostat/dp/B0C6FCKQML",
       "image_url": "https://m.media-amazon.com/images/I/81Ha7nqu+bL.jpg"
     },
     {
-      "asin": "B06XS1P6NG",
-      "title": "California Design Den Soft 100% Cotton Sateen Queen Bed Sheets Set, White | 400 Thread Count Backed by Good Housekeeping Seal, 16\" Deep Pocket, All-Around Elastic, Durable, Easy Care",
-      "current_price": 49.99,
-      "reference_price": 55.99,
-      "discount_percent": 10.72,
-      "savings": 6.0,
+      "asin": "B0FP42WVL7",
+      "title": "Magic: the Gathering Lorwyn Eclipsed - Play Booster Box | 30 Packs",
+      "current_price": 108.99,
+      "reference_price": 122.09,
+      "discount_percent": 10.73,
+      "savings": 13.1,
       "tier": "Amazon Deal",
       "score": 11,
-      "detected_at": "2026-10-13T14:08:03.952223+00:00",
-      "amazon_url": "https://www.amazon.com/California-Design-Den-Cotton-Sheets/dp/B06XS1P6NG",
-      "image_url": "https://m.media-amazon.com/images/I/61alUTdSDuL.jpg"
+      "detected_at": "2026-10-13T20:14:42.940423+00:00",
+      "amazon_url": "https://www.amazon.com/Magic-Gathering-Lorwyn-Eclipsed-Booster/dp/B0FP42WVL7",
+      "image_url": "https://m.media-amazon.com/images/I/71fPQsW9USL.jpg"
     },
     {
       "asin": "B0C9S5PMSD",
@@ -259,22 +259,22 @@
       "savings": 1.01,
       "tier": "Amazon Deal",
       "score": 10,
-      "detected_at": "2026-10-13T14:08:03.952055+00:00",
+      "detected_at": "2026-10-13T20:14:42.940314+00:00",
       "amazon_url": "https://www.amazon.com/Supmedic-Nitrile-Disposable-Powder-Free-Latex-Free/dp/B0C9S5PMSD",
       "image_url": "https://m.media-amazon.com/images/I/81sawraa9DL.jpg"
     },
     {
-      "asin": "B0CT6NMTP9",
-      "title": "Ancient Nutrition Multi Collagen Protein, Hydrolyzed Peptides, Unflavored | Vitamin C, Probiotics, Grass-Fed Hydrolyzed Collagen, Supports Skin, Hair, Nails, Joints, Gut Health, 40 Servings",
-      "current_price": 35.96,
-      "reference_price": 39.96,
+      "asin": "B00CJZ8PGU",
+      "title": "Filterbuy 20x25x1 Air Filter MERV 8 Dust & Allergy Defense (4-Pack) | Electrostatic Pleated HVAC AC Furnace Filters Replacement, Made in USA (Actual Size: 19.50 x 24.50 x 0.75)",
+      "current_price": 34.16,
+      "reference_price": 37.96,
       "discount_percent": 10.01,
-      "savings": 4.0,
+      "savings": 3.8,
       "tier": "Amazon Deal",
       "score": 10,
-      "detected_at": "2026-10-13T14:08:03.951943+00:00",
-      "amazon_url": "https://www.amazon.com/Ancient-Nutrition-Probiotics-Hydrolyzed-Unflavored/dp/B0CT6NMTP9",
-      "image_url": "https://m.media-amazon.com/images/I/61+PFzM2bzL.jpg"
+      "detected_at": "2026-10-13T20:14:42.940252+00:00",
+      "amazon_url": "https://www.amazon.com/FilterBuy-20x25x1-Pleated-Furnace-Filters/dp/B00CJZ8PGU",
+      "image_url": "https://m.media-amazon.com/images/I/81cLP3k3+nL.jpg"
     },
     {
       "asin": "B0D1C6HWFF",
@@ -285,22 +285,22 @@
       "savings": 25.0,
       "tier": "Amazon Deal",
       "score": 10,
-      "detected_at": "2026-10-13T14:08:03.952150+00:00",
+      "detected_at": "2026-10-13T20:14:42.940399+00:00",
       "amazon_url": "https://www.amazon.com/Dehumidifier-AEOCKY-Compressor-Intelligent-Humidistat/dp/B0D1C6HWFF",
       "image_url": "https://m.media-amazon.com/images/I/61Rb8OrhWML.jpg"
     },
     {
-      "asin": "B081CYSWX5",
-      "title": "LANE LINEN 100% Organic Cotton Sheets Set, Long- Staple Percale Weave Ultra Soft Best- Bedding Sheets for Bed, GOTS Certified, Fits Mattress Upto 15inch Deep Pocket (King, Taupe)",
-      "current_price": 49.49,
-      "reference_price": 54.99,
+      "asin": "B0F2B29SPC",
+      "title": "KARDV Cordless Vacuum Cleaner, 500W/40Kpa Vacuum Cleaners for Home, 60Mins Stick Vacuum with LED Display, Anti-Tangle Wireless Vacuum, 8 in 1 Lightweight Vacuum for Hard Floors Carpet Pet Hair",
+      "current_price": 89.99,
+      "reference_price": 99.99,
       "discount_percent": 10.0,
-      "savings": 5.5,
+      "savings": 10.0,
       "tier": "Amazon Deal",
       "score": 10,
-      "detected_at": "2026-10-13T14:08:03.951919+00:00",
-      "amazon_url": "https://www.amazon.com/Casa-Platino-Organic-Certified-Mattress/dp/B081CYSWX5",
-      "image_url": "https://m.media-amazon.com/images/I/71I2zkJLPzL.jpg"
+      "detected_at": "2026-10-13T20:14:42.940392+00:00",
+      "amazon_url": "https://www.amazon.com/KARDV-Cordless-Cleaners-Anti-Tangle-Lightweight/dp/B0F2B29SPC",
+      "image_url": "https://m.media-amazon.com/images/I/71SycCUXQ-L.jpg"
     }
   ]
 }
