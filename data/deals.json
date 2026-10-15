@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-10-14T18:36:46.063188+00:00",
+  "generated_at": "2026-10-15T00:30:54.887763+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 23,
   "deals": [
-    {
-      "asin": "B0H99BP24X",
-      "title": "FreAire Air Purifiers for Home Large Room Up to 2600 Ft\u00b2, HAP605 White | HEPA Air Purifier with Washable Filter and Real-Time PM2.5 Display, 20 dB Sleep Mode, Turbo Mode for Pet Hair, Dust & Smoke",
-      "current_price": 89.99,
-      "reference_price": 249.99,
-      "discount_percent": 64.0,
-      "savings": 160.0,
-      "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
-      "score": 64,
-      "detected_at": "2026-10-14T18:36:46.063061+00:00",
-      "amazon_url": "https://www.amazon.com/FreAire-Purifiers-Large-HAP605-White/dp/B0H99BP24X",
-      "image_url": "https://m.media-amazon.com/images/I/71VaV1jDPBL.jpg"
-    },
     {
       "asin": "B0F95XVBFS",
       "title": "Blink Outdoor 2K+ (newest model) \u2014 Wireless smart security camera, 2K video resolution, enhanced audio, two-year battery. Sync Module Core included \u2014 5 camera system (Black)",
@@ -25,9 +12,35 @@
       "savings": 211.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-10-14T18:36:46.062983+00:00",
+      "detected_at": "2026-10-15T00:30:54.887532+00:00",
       "amazon_url": "https://www.amazon.com/Blink-Outdoor-2KPlus-5cam-Black/dp/B0F95XVBFS",
       "image_url": "https://m.media-amazon.com/images/I/41kPNlOQzIL.jpg"
+    },
+    {
+      "asin": "B0F3BB8D37",
+      "title": "Blink Mini 2K+ (newest model) \u2013 Plug-in Home & Pet Indoor Security Camera with 2K video resolution, night vision, enhanced audio, motion detection \u2013 1 camera (Black)",
+      "current_price": 16.99,
+      "reference_price": 39.99,
+      "discount_percent": 57.51,
+      "savings": 23.0,
+      "tier": "\u2705 50%+ GOOD DEAL",
+      "score": 58,
+      "detected_at": "2026-10-15T00:30:54.887619+00:00",
+      "amazon_url": "https://www.amazon.com/Blink-Mini-2KPlus-1cam-Black/dp/B0F3BB8D37",
+      "image_url": "https://m.media-amazon.com/images/I/51zmndEGfFL.jpg"
+    },
+    {
+      "asin": "B0DWXBCQVP",
+      "title": "roborock Q10 S5+ Robot Vacuum and Mop, 10,000Pa Suction | Upgraded from Q8 max+, 70-Day Self-Emptying, Obstacle Avoidance, Sonic Mopping, Dual Anti-Tangle Design, Auto Mop Lift, Black",
+      "current_price": 279.98,
+      "reference_price": 549.99,
+      "discount_percent": 49.09,
+      "savings": 270.01,
+      "tier": "Amazon Deal",
+      "score": 49,
+      "detected_at": "2026-10-15T00:30:54.887665+00:00",
+      "amazon_url": "https://www.amazon.com/roborock-Q10-S5-Self-Emptying-Anti-Tangle/dp/B0DWXBCQVP",
+      "image_url": "https://m.media-amazon.com/images/I/61KBMtvTenL.jpg"
     },
     {
       "asin": "B0GY4TQ2P8",
@@ -38,7 +51,7 @@
       "savings": 549.02,
       "tier": "Amazon Deal",
       "score": 46,
-      "detected_at": "2026-10-14T18:36:46.062946+00:00",
+      "detected_at": "2026-10-15T00:30:54.887540+00:00",
       "amazon_url": "https://www.amazon.com/Anker-SOLIX-S2000-Portable-Station/dp/B0GY4TQ2P8",
       "image_url": "https://m.media-amazon.com/images/I/71d9U6KPEVL.jpg"
     },
@@ -51,7 +64,7 @@
       "savings": 22.0,
       "tier": "Amazon Deal",
       "score": 44,
-      "detected_at": "2026-10-14T18:36:46.062997+00:00",
+      "detected_at": "2026-10-15T00:30:54.887577+00:00",
       "amazon_url": "https://www.amazon.com/iHealth-Track-Pressure-Monitor-Wide-Range/dp/B01C5QS1T8",
       "image_url": "https://m.media-amazon.com/images/I/71wVl0n2dmL.jpg"
     },
@@ -64,7 +77,7 @@
       "savings": 1302.02,
       "tier": "Amazon Deal",
       "score": 43,
-      "detected_at": "2026-10-14T18:36:46.063017+00:00",
+      "detected_at": "2026-10-15T00:30:54.887653+00:00",
       "amazon_url": "https://www.amazon.com/Hisense-Cinema-Hi-QLED-Mini-LED-100E7SF/dp/B0GV4Q9XSF",
       "image_url": "https://m.media-amazon.com/images/I/81Mn-AI51-L.jpg"
     },
@@ -77,7 +90,7 @@
       "savings": 90.0,
       "tier": "Amazon Deal",
       "score": 41,
-      "detected_at": "2026-10-14T18:36:46.063004+00:00",
+      "detected_at": "2026-10-15T00:30:54.887625+00:00",
       "amazon_url": "https://www.amazon.com/Keurig-Single-MultiStream-Technology-Reservoir/dp/B0D8LXRHQ8",
       "image_url": "https://m.media-amazon.com/images/I/717849a6v+L.jpg"
     },
@@ -90,22 +103,35 @@
       "savings": 120.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-10-14T18:36:46.062961+00:00",
+      "detected_at": "2026-10-15T00:30:54.887554+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Cordless-Lightweight-Cleaner-IY143H/dp/B0GZSST8ZT",
       "image_url": "https://m.media-amazon.com/images/I/61VaFQrV0QL.jpg"
     },
     {
-      "asin": "B0H7J38GDF",
-      "title": "Terunsoul 4K+4K Dash Cam, Free 128GB Card, 5.8GHz WiFi6 - up to 20MB/s | AProX HD Night Vision Dash Cam Front and Rear, App, GPS, G-Sensor, 24H Parking Mode, Support 512GB Max, Premium Dark Gray",
-      "current_price": 109.98,
-      "reference_price": 183.0,
-      "discount_percent": 39.9,
-      "savings": 73.02,
+      "asin": "B06XWG7H3S",
+      "title": "King Koil Air Mattress Queen with Built-in Pump, 20\u201d Raised Airbed | Luxury blow up mattress for guests & home \u2022 Inflates in 2 minutes \u2022 650 lb capacity \u2022 Patented high-speed pump",
+      "current_price": 89.95,
+      "reference_price": 148.54,
+      "discount_percent": 39.44,
+      "savings": 58.59,
       "tier": "Amazon Deal",
-      "score": 40,
-      "detected_at": "2026-10-14T18:36:46.062938+00:00",
-      "amazon_url": "https://www.amazon.com/Terunsoul-Dash-128GB-5-8GHz-WiFi6/dp/B0H7J38GDF",
-      "image_url": "https://m.media-amazon.com/images/I/71+ekd6Xr7L.jpg"
+      "score": 39,
+      "detected_at": "2026-10-15T00:30:54.887647+00:00",
+      "amazon_url": "https://www.amazon.com/King-Koil-Luxury-Raised-Mattress/dp/B06XWG7H3S",
+      "image_url": "https://m.media-amazon.com/images/I/61TqXdAAt6L.jpg"
+    },
+    {
+      "asin": "B0GQXDBFRN",
+      "title": "Waterpik Cordless Gem 5100 Portable Water Flosser, Rechargeable, White | 2 Settings, 3 Tips, Travel Mode & Bag, for Gums, Teeth, Braces, Implants, Shower Use, ADA Accepted, WF-27 Packaging May Vary",
+      "current_price": 49.99,
+      "reference_price": 79.99,
+      "discount_percent": 37.5,
+      "savings": 30.0,
+      "tier": "Amazon Deal",
+      "score": 38,
+      "detected_at": "2026-10-15T00:30:54.887598+00:00",
+      "amazon_url": "https://www.amazon.com/Waterpik-Cordless-Portable-Flosser-Rechargeable/dp/B0GQXDBFRN",
+      "image_url": "https://m.media-amazon.com/images/I/71k4ZaTMbFL.jpg"
     },
     {
       "asin": "B0GT2D9ZCR",
@@ -116,7 +142,7 @@
       "savings": 150.0,
       "tier": "Amazon Deal",
       "score": 31,
-      "detected_at": "2026-10-14T18:36:46.062974+00:00",
+      "detected_at": "2026-10-15T00:30:54.887561+00:00",
       "amazon_url": "https://www.amazon.com/Dyson-Cyclone-Origin-Cordless-Vacuum/dp/B0GT2D9ZCR",
       "image_url": "https://m.media-amazon.com/images/I/51j8ESQ0a5L.jpg"
     },
@@ -129,7 +155,7 @@
       "savings": 120.0,
       "tier": "Amazon Deal",
       "score": 31,
-      "detected_at": "2026-10-14T18:36:46.063036+00:00",
+      "detected_at": "2026-10-15T00:30:54.887571+00:00",
       "amazon_url": "https://www.amazon.com/Dyson-626423-01-V8TM-Cordless-Vacuum/dp/B0GT2DG9SK",
       "image_url": "https://m.media-amazon.com/images/I/51byt8oD+LL.jpg"
     },
@@ -142,7 +168,7 @@
       "savings": 9.17,
       "tier": "Amazon Deal",
       "score": 29,
-      "detected_at": "2026-10-14T18:36:46.062990+00:00",
+      "detected_at": "2026-10-15T00:30:54.887547+00:00",
       "amazon_url": "https://www.amazon.com/Energizer-Batteries-Combo-Pack-Count/dp/B087GMJXMC",
       "image_url": "https://m.media-amazon.com/images/I/81arDHi1PdL.jpg"
     },
@@ -155,7 +181,7 @@
       "savings": 15.96,
       "tier": "Amazon Deal",
       "score": 27,
-      "detected_at": "2026-10-14T18:36:46.063068+00:00",
+      "detected_at": "2026-10-15T00:30:54.887612+00:00",
       "amazon_url": "https://www.amazon.com/Toning-Polish-Pads-Hydrating-Niacinamide/dp/B0DC156Y5X",
       "image_url": "https://m.media-amazon.com/images/I/61zUDkrf+OL.jpg"
     },
@@ -168,9 +194,22 @@
       "savings": 50.0,
       "tier": "Amazon Deal",
       "score": 25,
-      "detected_at": "2026-10-14T18:36:46.062927+00:00",
+      "detected_at": "2026-10-15T00:30:54.887513+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Navigator-Professional-Anti-Allergy-NV360/dp/B00JH98GR4",
       "image_url": "https://m.media-amazon.com/images/I/61w1n9p2R0L.jpg"
+    },
+    {
+      "asin": "B0DPZLWX8J",
+      "title": "TYMO CurlPro Plus Automatic Rotating Curling Iron - Upgraded Long Barrel Curling Wand for Beach Waves & Long Hair, Ceramic Hair Curler for Women, Anti-Scald, 600M Ionic, Dual Voltage, Gold, 1 Inch",
+      "current_price": 74.99,
+      "reference_price": 99.99,
+      "discount_percent": 25.0,
+      "savings": 25.0,
+      "tier": "Amazon Deal",
+      "score": 25,
+      "detected_at": "2026-10-15T00:30:54.887632+00:00",
+      "amazon_url": "https://www.amazon.com/Upgraded-Automatic-Rotating-Curling-Iron/dp/B0DPZLWX8J",
+      "image_url": "https://m.media-amazon.com/images/I/61tEN+BEbtL.jpg"
     },
     {
       "asin": "B0GD1LMWH3",
@@ -181,7 +220,7 @@
       "savings": 50.0,
       "tier": "Amazon Deal",
       "score": 23,
-      "detected_at": "2026-10-14T18:36:46.062954+00:00",
+      "detected_at": "2026-10-15T00:30:54.887659+00:00",
       "amazon_url": "https://www.amazon.com/Dell-Plus-QHD-Monitor-Adjustability/dp/B0GD1LMWH3",
       "image_url": "https://m.media-amazon.com/images/I/71E--5UD9vL.jpg"
     },
@@ -194,7 +233,7 @@
       "savings": 6.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-10-14T18:36:46.062967+00:00",
+      "detected_at": "2026-10-15T00:30:54.887524+00:00",
       "amazon_url": "https://www.amazon.com/BEDLORE-Waterproof-Protector-Noiseless-Breathable/dp/B0C1NM42PN",
       "image_url": "https://m.media-amazon.com/images/I/71tUP9hEL+L.jpg"
     },
@@ -207,61 +246,22 @@
       "savings": 4.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-10-14T18:36:46.063024+00:00",
+      "detected_at": "2026-10-15T00:30:54.887584+00:00",
       "amazon_url": "https://www.amazon.com/Energizer-Batteries-Triple-Long-Lasting-Alkaline/dp/B09RTVN5GN",
       "image_url": "https://m.media-amazon.com/images/I/81WjCmxPuUL.jpg"
     },
     {
-      "asin": "B0GR6N8R3T",
-      "title": "Dell 14 2-in-1 Laptop, FHD+, AMD Ryzen 7 8840HS, 16GB RAM, Windows 11 Home | Touchscreen Display, AMD Radeon Graphics, DDR5, 1TB SSD, Wi\u2011Fi 6E, Indigo, Productivity Ready, INSPIRON-14-2",
-      "current_price": 799.97,
-      "reference_price": 999.99,
-      "discount_percent": 20.0,
-      "savings": 200.02,
-      "tier": "Amazon Deal",
-      "score": 20,
-      "detected_at": "2026-10-14T18:36:46.063055+00:00",
-      "amazon_url": "https://www.amazon.com/Dell-Laptop-Ryzen-8840HS-Windows/dp/B0GR6N8R3T",
-      "image_url": "https://m.media-amazon.com/images/I/71k09iaV+6L.jpg"
-    },
-    {
-      "asin": "B0CN8QLS4K",
-      "title": "Deco 7 Pro Tri-Band WiFi 7 BE10000 Whole Home Mesh System 6-Stream 10 Gbps | 4 x 2.5G Ports Wired Backhaul, 4 x Smart Internal Antennas, Up to 7,600 Sq.ft, VPN, HomeShield, AI-Roaming (BE63 3-Pack)",
-      "current_price": 396.5,
-      "reference_price": 469.99,
-      "discount_percent": 15.64,
-      "savings": 73.49,
-      "tier": "Amazon Deal",
-      "score": 16,
-      "detected_at": "2026-10-14T18:36:46.063074+00:00",
-      "amazon_url": "https://www.amazon.com/TP-Link-wifi-7-mesh-system/dp/B0CN8QLS4K",
-      "image_url": "https://m.media-amazon.com/images/I/61DeeFwkrpL.jpg"
-    },
-    {
-      "asin": "B0DB9Q5G3R",
-      "title": "Samsung 27\" Essential S3 (S36GD) Series FHD 1800R Curved Computer Monitor | 100Hz, Game Mode, Advanced Eye Comfort, HDMI and D-sub Ports (LS27D366GANXZA)",
-      "current_price": 109.99,
-      "reference_price": 129.99,
-      "discount_percent": 15.39,
-      "savings": 20.0,
+      "asin": "B0DSGJCS47",
+      "title": "Shark CryoGlow LED Face Mask, Red Light Therapy, Under-Eye Cooling, FW312 | Red, Blue & Deep Infrared Light, Skincare Device for Fine Lines & Acne, Clinically Tested & FDA-Cleared, 4 Modes, Blue Frost\u200b",
+      "current_price": 299.0,
+      "reference_price": 349.99,
+      "discount_percent": 14.57,
+      "savings": 50.99,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-10-14T18:36:46.063030+00:00",
-      "amazon_url": "https://www.amazon.com/SAMSUNG-Essential-Computer-Advanced-LS27D366GANXZA/dp/B0DB9Q5G3R",
-      "image_url": "https://m.media-amazon.com/images/I/619WSKm18ZL.jpg"
-    },
-    {
-      "asin": "B0C6FCKQML",
-      "title": "DREO Space Heater, Portable Electric Heaters for Indoor Use with Thermostat | 2026 Upgraded, 34dB Quiet, 12H Timer, 5 Mode, Remote, 1500W PTC Ceramic Fast Safety Heat for Office Bedroom Home, Gold",
-      "current_price": 35.13,
-      "reference_price": 39.99,
-      "discount_percent": 12.15,
-      "savings": 4.86,
-      "tier": "Amazon Deal",
-      "score": 12,
-      "detected_at": "2026-10-14T18:36:46.063043+00:00",
-      "amazon_url": "https://www.amazon.com/Dreo-Portable-Electric-Heaters-Thermostat/dp/B0C6FCKQML",
-      "image_url": "https://m.media-amazon.com/images/I/81Ha7nqu+bL.jpg"
+      "detected_at": "2026-10-15T00:30:54.887604+00:00",
+      "amazon_url": "https://www.amazon.com/Shark-CryoGlow-Under-Eye-Anti-Ageing-FW312/dp/B0DSGJCS47",
+      "image_url": "https://m.media-amazon.com/images/I/71JGSsBihcL.jpg"
     },
     {
       "asin": "B0C9S5PMSD",
@@ -272,9 +272,22 @@
       "savings": 1.01,
       "tier": "Amazon Deal",
       "score": 10,
-      "detected_at": "2026-10-14T18:36:46.063011+00:00",
+      "detected_at": "2026-10-15T00:30:54.887591+00:00",
       "amazon_url": "https://www.amazon.com/Supmedic-Nitrile-Disposable-Powder-Free-Latex-Free/dp/B0C9S5PMSD",
       "image_url": "https://m.media-amazon.com/images/I/81sawraa9DL.jpg"
+    },
+    {
+      "asin": "B0CT6NMTP9",
+      "title": "Ancient Nutrition Multi Collagen Protein, Hydrolyzed Peptides, Unflavored | Vitamin C, Probiotics, Grass-Fed Hydrolyzed Collagen, Supports Skin, Hair, Nails, Joints, Gut Health, 40 Servings",
+      "current_price": 35.96,
+      "reference_price": 39.96,
+      "discount_percent": 10.01,
+      "savings": 4.0,
+      "tier": "Amazon Deal",
+      "score": 10,
+      "detected_at": "2026-10-15T00:30:54.887638+00:00",
+      "amazon_url": "https://www.amazon.com/Ancient-Nutrition-Probiotics-Hydrolyzed-Unflavored/dp/B0CT6NMTP9",
+      "image_url": "https://m.media-amazon.com/images/I/61+PFzM2bzL.jpg"
     },
     {
       "asin": "B00CJZ8PGU",
@@ -285,22 +298,9 @@
       "savings": 3.8,
       "tier": "Amazon Deal",
       "score": 10,
-      "detected_at": "2026-10-14T18:36:46.062897+00:00",
+      "detected_at": "2026-10-15T00:30:54.887483+00:00",
       "amazon_url": "https://www.amazon.com/FilterBuy-20x25x1-Pleated-Furnace-Filters/dp/B00CJZ8PGU",
       "image_url": "https://m.media-amazon.com/images/I/81cLP3k3+nL.jpg"
-    },
-    {
-      "asin": "B0F2B29SPC",
-      "title": "KARDV Cordless Vacuum Cleaner, 500W/40Kpa Vacuum Cleaners for Home, 60Mins Stick Vacuum with LED Display, Anti-Tangle Wireless Vacuum, 8 in 1 Lightweight Vacuum for Hard Floors Carpet Pet Hair",
-      "current_price": 89.99,
-      "reference_price": 99.99,
-      "discount_percent": 10.0,
-      "savings": 10.0,
-      "tier": "Amazon Deal",
-      "score": 10,
-      "detected_at": "2026-10-14T18:36:46.063049+00:00",
-      "amazon_url": "https://www.amazon.com/KARDV-Cordless-Cleaners-Anti-Tangle-Lightweight/dp/B0F2B29SPC",
-      "image_url": "https://m.media-amazon.com/images/I/71SycCUXQ-L.jpg"
     }
   ]
 }
