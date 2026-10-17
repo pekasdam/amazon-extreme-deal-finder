@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-10-16T18:01:54.608114+00:00",
+  "generated_at": "2026-10-17T00:27:30.696570+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 23,
   "deals": [
     {
-      "asin": "B0BGMM1FZV",
-      "title": "Scotts Turf Builder WinterGuard Fall Lawn Food, 10 lbs. | Lawn Fertilizer for All Grass Types, Covers 4,000 sq. ft., Autumn Lawn Care",
-      "current_price": 13.81,
-      "reference_price": 30.49,
-      "discount_percent": 54.71,
-      "savings": 16.68,
-      "tier": "\u2705 50%+ GOOD DEAL",
-      "score": 55,
-      "detected_at": "2026-10-16T18:01:54.607933+00:00",
-      "amazon_url": "https://www.amazon.com/Scotts-Builder-WinterGuard-Fertilizer-Grass/dp/B0BGMM1FZV",
-      "image_url": "https://m.media-amazon.com/images/I/71YeM-sHDPL.jpg"
+      "asin": "B0BZR6YBHK",
+      "title": "Bedsure Heated Blanket Throw Blanket with Preheat Function - Fast Heating Electric Blanket, Soft Flannel Throw with 6 Time Settings(Up to 10H), 6 Heating Settings, Gifts for Grandma (50\"x60\", Grey)",
+      "current_price": 36.97,
+      "reference_price": 68.99,
+      "discount_percent": 46.41,
+      "savings": 32.02,
+      "tier": "Amazon Deal",
+      "score": 46,
+      "detected_at": "2026-10-17T00:27:30.696421+00:00",
+      "amazon_url": "https://www.amazon.com/Bedsure-Heated-Blanket-Electric-Throw/dp/B0BZR6YBHK",
+      "image_url": "https://m.media-amazon.com/images/I/81qDj3mcqOL.jpg"
     },
     {
       "asin": "B0GY4TQ2P8",
@@ -25,7 +25,7 @@
       "savings": 549.02,
       "tier": "Amazon Deal",
       "score": 46,
-      "detected_at": "2026-10-16T18:01:54.607708+00:00",
+      "detected_at": "2026-10-17T00:27:30.696316+00:00",
       "amazon_url": "https://www.amazon.com/Anker-SOLIX-S2000-Portable-Station/dp/B0GY4TQ2P8",
       "image_url": "https://m.media-amazon.com/images/I/71d9U6KPEVL.jpg"
     },
@@ -38,9 +38,22 @@
       "savings": 22.0,
       "tier": "Amazon Deal",
       "score": 44,
-      "detected_at": "2026-10-16T18:01:54.607967+00:00",
+      "detected_at": "2026-10-17T00:27:30.696436+00:00",
       "amazon_url": "https://www.amazon.com/iHealth-Track-Pressure-Monitor-Wide-Range/dp/B01C5QS1T8",
       "image_url": "https://m.media-amazon.com/images/I/71wVl0n2dmL.jpg"
+    },
+    {
+      "asin": "B0DJDQCJX2",
+      "title": "Creatine for Women | Creatine Monohydrate + BCAA Powder Myo-Inositol Collagen Biotin Hyaluronic Acid Folate L Glutamine Vitamin D3 Iron Zinc D-Chiro-Maca Digestion Shelf Builder By Clean Nutra",
+      "current_price": 22.75,
+      "reference_price": 39.95,
+      "discount_percent": 43.05,
+      "savings": 17.2,
+      "tier": "Amazon Deal",
+      "score": 43,
+      "detected_at": "2026-10-17T00:27:30.696464+00:00",
+      "amazon_url": "https://www.amazon.com/Monohydrate-Myo-Inositol-Hyaluronic-D-Chiro-Maca-Clean/dp/B0DJDQCJX2",
+      "image_url": "https://m.media-amazon.com/images/I/712zMtdAUUL.jpg"
     },
     {
       "asin": "B079H53D2B",
@@ -51,7 +64,7 @@
       "savings": 12.48,
       "tier": "Amazon Deal",
       "score": 42,
-      "detected_at": "2026-10-16T18:01:54.607866+00:00",
+      "detected_at": "2026-10-17T00:27:30.696370+00:00",
       "amazon_url": "https://www.amazon.com/Probiotics-Formulated-Probiotic-Supplement-Acidophilus/dp/B079H53D2B",
       "image_url": "https://m.media-amazon.com/images/I/71s2GESdMLL.jpg"
     },
@@ -64,7 +77,7 @@
       "savings": 90.0,
       "tier": "Amazon Deal",
       "score": 41,
-      "detected_at": "2026-10-16T18:01:54.607942+00:00",
+      "detected_at": "2026-10-17T00:27:30.696410+00:00",
       "amazon_url": "https://www.amazon.com/Keurig-Single-MultiStream-Technology-Reservoir/dp/B0D8LXRHQ8",
       "image_url": "https://m.media-amazon.com/images/I/717849a6v+L.jpg"
     },
@@ -77,35 +90,35 @@
       "savings": 120.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-10-16T18:01:54.607915+00:00",
+      "detected_at": "2026-10-17T00:27:30.696382+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Lightweight-IY143H-Brushroll-Removable/dp/B0GZSST8ZT",
       "image_url": "https://m.media-amazon.com/images/I/61VaFQrV0QL.jpg"
     },
     {
-      "asin": "B079JLY5M5",
-      "title": "Logitech MK270 Full Size Wireless Keyboard and Mouse Combo - Black | Full size keyboard with spill-resistant design, compact ambidextrous mouse, connect via single included USB-A Nano Receiver",
-      "current_price": 19.99,
-      "reference_price": 29.99,
-      "discount_percent": 33.34,
-      "savings": 10.0,
+      "asin": "B0HBWGLN1F",
+      "title": "Hisense 55\" Class E6SR Series Hi-QLED 4K UHD Smart Roku TV (55E6SR, 2026 Model) - Dolby Vision, Game Mode Plus, VRR, ALLM, DTS Virtual:X, Apple AirPlay, Compatible with Alexa and Google Assistant",
+      "current_price": 277.99,
+      "reference_price": 449.99,
+      "discount_percent": 38.22,
+      "savings": 172.0,
       "tier": "Amazon Deal",
-      "score": 33,
-      "detected_at": "2026-10-16T18:01:54.607884+00:00",
-      "amazon_url": "https://www.amazon.com/Logitech-MK270-Wireless-Keyboard-Mouse/dp/B079JLY5M5",
-      "image_url": "https://m.media-amazon.com/images/I/61a14rKCeCL.jpg"
+      "score": 38,
+      "detected_at": "2026-10-17T00:27:30.696448+00:00",
+      "amazon_url": "https://www.amazon.com/Hisense-Class-Hi-QLED-Smart-55E6SR/dp/B0HBWGLN1F",
+      "image_url": "https://m.media-amazon.com/images/I/71K8VGv799L.jpg"
     },
     {
-      "asin": "B0HBWF1WWH",
-      "title": "Hisense 65\" Class E6SR Series Hi-QLED 4K UHD Smart Roku TV (65E6SR, 2026 Model) - Dolby Vision, Game Mode Plus, VRR, ALLM, DTS Virtual:X, Apple AirPlay, Compatible with Alexa and Google Assistant",
-      "current_price": 377.97,
-      "reference_price": 549.99,
-      "discount_percent": 31.28,
-      "savings": 172.02,
+      "asin": "B0987FCQQW",
+      "title": "Waterdrop G3P800 Tankless Reverse Osmosis Water Filter System, 800 GPD | NSF/ANSI 42 & 53 & 58 & 372 Certified, 10-Stage RO Water Filtration System Under-Sink, 3:1 Pure to Drain, Smart LED Faucet",
+      "current_price": 699.0,
+      "reference_price": 999.0,
+      "discount_percent": 30.03,
+      "savings": 300.0,
       "tier": "Amazon Deal",
-      "score": 31,
-      "detected_at": "2026-10-16T18:01:54.607906+00:00",
-      "amazon_url": "https://www.amazon.com/Hisense-Class-Hi-QLED-Smart-65E6SR/dp/B0HBWF1WWH",
-      "image_url": "https://m.media-amazon.com/images/I/71bHIcsqV0L.jpg"
+      "score": 30,
+      "detected_at": "2026-10-17T00:27:30.696404+00:00",
+      "amazon_url": "https://www.amazon.com/Waterdrop-Reverse-Osmosis-Filtration-Tankless/dp/B0987FCQQW",
+      "image_url": "https://m.media-amazon.com/images/I/61JIdYrO0WL.jpg"
     },
     {
       "asin": "B087GMJXMC",
@@ -116,7 +129,7 @@
       "savings": 9.25,
       "tier": "Amazon Deal",
       "score": 29,
-      "detected_at": "2026-10-16T18:01:54.607842+00:00",
+      "detected_at": "2026-10-17T00:27:30.696426+00:00",
       "amazon_url": "https://www.amazon.com/Energizer-Batteries-Combo-Pack-Count/dp/B087GMJXMC",
       "image_url": "https://m.media-amazon.com/images/I/81arDHi1PdL.jpg"
     },
@@ -129,7 +142,7 @@
       "savings": 15.96,
       "tier": "Amazon Deal",
       "score": 27,
-      "detected_at": "2026-10-16T18:01:54.607984+00:00",
+      "detected_at": "2026-10-17T00:27:30.696441+00:00",
       "amazon_url": "https://www.amazon.com/Toning-Polish-Pads-Hydrating-Niacinamide/dp/B0DC156Y5X",
       "image_url": "https://m.media-amazon.com/images/I/61zUDkrf+OL.jpg"
     },
@@ -142,7 +155,7 @@
       "savings": 5.79,
       "tier": "Amazon Deal",
       "score": 27,
-      "detected_at": "2026-10-16T18:01:54.607876+00:00",
+      "detected_at": "2026-10-17T00:27:30.696376+00:00",
       "amazon_url": "https://www.amazon.com/Energizer-Batteries-Double-Long-Lasting-Alkaline/dp/B09RTVD1GF",
       "image_url": "https://m.media-amazon.com/images/I/81AX1sbArxL.jpg"
     },
@@ -155,22 +168,9 @@
       "savings": 50.0,
       "tier": "Amazon Deal",
       "score": 25,
-      "detected_at": "2026-10-16T18:01:54.607828+00:00",
+      "detected_at": "2026-10-17T00:27:30.696348+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Navigator-Professional-Anti-Allergy-NV360/dp/B00JH98GR4",
       "image_url": "https://m.media-amazon.com/images/I/61w1n9p2R0L.jpg"
-    },
-    {
-      "asin": "B0016HF5GK",
-      "title": "BISSELL Little Green Multi-Purpose Portable Carpet Cleaner, 1400B | Multi-surface upholstery cleaning; exclusive specialty tools included; car & auto detailing; Green color",
-      "current_price": 99.99,
-      "reference_price": 129.99,
-      "discount_percent": 23.08,
-      "savings": 30.0,
-      "tier": "Amazon Deal",
-      "score": 23,
-      "detected_at": "2026-10-16T18:01:54.608008+00:00",
-      "amazon_url": "https://www.amazon.com/Bissell-Multi-Purpose-Portable-Upholstery-1400B/dp/B0016HF5GK",
-      "image_url": "https://m.media-amazon.com/images/I/71CVVIgX1sL.jpg"
     },
     {
       "asin": "B0GD1LMWH3",
@@ -181,7 +181,7 @@
       "savings": 50.0,
       "tier": "Amazon Deal",
       "score": 23,
-      "detected_at": "2026-10-16T18:01:54.607897+00:00",
+      "detected_at": "2026-10-17T00:27:30.696393+00:00",
       "amazon_url": "https://www.amazon.com/Dell-Plus-QHD-Monitor-Adjustability/dp/B0GD1LMWH3",
       "image_url": "https://m.media-amazon.com/images/I/71E--5UD9vL.jpg"
     },
@@ -194,7 +194,7 @@
       "savings": 6.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-10-16T18:01:54.607856+00:00",
+      "detected_at": "2026-10-17T00:27:30.696364+00:00",
       "amazon_url": "https://www.amazon.com/BEDLORE-Waterproof-Protector-Noiseless-Breathable/dp/B0C1NM42PN",
       "image_url": "https://m.media-amazon.com/images/I/71tUP9hEL+L.jpg"
     },
@@ -207,9 +207,22 @@
       "savings": 4.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-10-16T18:01:54.607924+00:00",
+      "detected_at": "2026-10-17T00:27:30.696415+00:00",
       "amazon_url": "https://www.amazon.com/Energizer-Batteries-Triple-Long-Lasting-Alkaline/dp/B09RTVN5GN",
       "image_url": "https://m.media-amazon.com/images/I/81WjCmxPuUL.jpg"
+    },
+    {
+      "asin": "B09W4S2ZX7",
+      "title": "SZIVYSHI 14-Bone Overbust Corset Top",
+      "current_price": 19.99,
+      "reference_price": 23.99,
+      "discount_percent": 16.67,
+      "savings": 4.0,
+      "tier": "Amazon Deal",
+      "score": 17,
+      "detected_at": "2026-10-17T00:27:30.696470+00:00",
+      "amazon_url": "https://www.amazon.com/SZIVYSHI-14-Bone-Overbust-Corset-Top/dp/B09W4S2ZX7",
+      "image_url": "https://m.media-amazon.com/images/I/81hbs7D00gL.jpg"
     },
     {
       "asin": "B0DJFBDFZK",
@@ -220,22 +233,22 @@
       "savings": 27.0,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-10-16T18:01:54.608000+00:00",
+      "detected_at": "2026-10-17T00:27:30.696431+00:00",
       "amazon_url": "https://www.amazon.com/Ninja-Microwave-Dishwasher-Containers-FN101ST/dp/B0DJFBDFZK",
       "image_url": "https://m.media-amazon.com/images/I/71LIFg6xi2L.jpg"
     },
     {
-      "asin": "B0C6FCKQML",
-      "title": "DREO Space Heater, Portable Electric Heaters for Indoor Use with Thermostat | 2026 Upgraded, 34dB Quiet, 12H Timer, 5 Mode, Remote, 1500W PTC Ceramic Fast Safety Heat for Office Bedroom Home, Gold",
-      "current_price": 35.13,
-      "reference_price": 39.99,
-      "discount_percent": 12.15,
-      "savings": 4.86,
+      "asin": "B0G31J12SG",
+      "title": "Shark CryoGlow LED Face Mask, Red Light Therapy, Under-Eye Cooling, FW312PK | Red, Blue & Deep Infrared Light, Skincare Device for Fine Lines & Acne, Clinically Tested & FDA-Cleared, 4 Modes, Rose Glow\u200b",
+      "current_price": 299.0,
+      "reference_price": 349.99,
+      "discount_percent": 14.57,
+      "savings": 50.99,
       "tier": "Amazon Deal",
-      "score": 12,
-      "detected_at": "2026-10-16T18:01:54.607992+00:00",
-      "amazon_url": "https://www.amazon.com/Dreo-Portable-Electric-Heaters-Thermostat/dp/B0C6FCKQML",
-      "image_url": "https://m.media-amazon.com/images/I/81Ha7nqu+bL.jpg"
+      "score": 15,
+      "detected_at": "2026-10-17T00:27:30.696454+00:00",
+      "amazon_url": "https://www.amazon.com/Shark-Under-Eye-Anti-Ageing-Adjustable-FW312PK/dp/B0G31J12SG",
+      "image_url": "https://m.media-amazon.com/images/I/71TD8GqPHsL.jpg"
     },
     {
       "asin": "B0C9S5PMSD",
@@ -246,7 +259,7 @@
       "savings": 1.01,
       "tier": "Amazon Deal",
       "score": 10,
-      "detected_at": "2026-10-16T18:01:54.607950+00:00",
+      "detected_at": "2026-10-17T00:27:30.696459+00:00",
       "amazon_url": "https://www.amazon.com/Supmedic-Nitrile-Disposable-Powder-Free-Latex-Free/dp/B0C9S5PMSD",
       "image_url": "https://m.media-amazon.com/images/I/81sawraa9DL.jpg"
     },
@@ -259,35 +272,9 @@
       "savings": 3.5,
       "tier": "Amazon Deal",
       "score": 10,
-      "detected_at": "2026-10-16T18:01:54.607807+00:00",
+      "detected_at": "2026-10-17T00:27:30.696357+00:00",
       "amazon_url": "https://www.amazon.com/FilterBuy-16x25x1-Pleated-Furnace-produced/dp/B01MSP50CY",
       "image_url": "https://m.media-amazon.com/images/I/81rUl8yx1ZL.jpg"
-    },
-    {
-      "asin": "B0HBF7NS25",
-      "title": "Ninja Crispi Pro Glass Air Fryer, 6-in-1, Amazon Exclusive Bone & Champagne | Max crisp, air fry, bake, roast, recrisp, dehydrate, 1800W, 450F max, 6Qt, 2.5Qt containers, AS101WH1",
-      "current_price": 269.99,
-      "reference_price": 299.99,
-      "discount_percent": 10.0,
-      "savings": 30.0,
-      "tier": "Amazon Deal",
-      "score": 10,
-      "detected_at": "2026-10-16T18:01:54.607959+00:00",
-      "amazon_url": "https://www.amazon.com/Ninja-Exclusive-Champagne-containers-AS101WH1/dp/B0HBF7NS25",
-      "image_url": "https://m.media-amazon.com/images/I/81ZQ2IX+XtL.jpg"
-    },
-    {
-      "asin": "B0D1C6HWFF",
-      "title": "AEOCKY 5500 Sq.Ft Energy Star Most Efficient 2025 Dehumidifier Max 80Pint/D | Dehumidifier with Drain Hose for Basement, Home, Bedroom, Bathroom, Intelligent Humidistat",
-      "current_price": 224.97,
-      "reference_price": 249.97,
-      "discount_percent": 10.0,
-      "savings": 25.0,
-      "tier": "Amazon Deal",
-      "score": 10,
-      "detected_at": "2026-10-16T18:01:54.608019+00:00",
-      "amazon_url": "https://www.amazon.com/Dehumidifier-AEOCKY-Compressor-Intelligent-Humidistat/dp/B0D1C6HWFF",
-      "image_url": "https://m.media-amazon.com/images/I/61Rb8OrhWML.jpg"
     },
     {
       "asin": "B0F2B29SPC",
@@ -298,9 +285,22 @@
       "savings": 10.0,
       "tier": "Amazon Deal",
       "score": 10,
-      "detected_at": "2026-10-16T18:01:54.607975+00:00",
+      "detected_at": "2026-10-17T00:27:30.696399+00:00",
       "amazon_url": "https://www.amazon.com/KARDV-Cordless-Cleaners-Anti-Tangle-Lightweight/dp/B0F2B29SPC",
       "image_url": "https://m.media-amazon.com/images/I/71SycCUXQ-L.jpg"
+    },
+    {
+      "asin": "B0CHLRYPK1",
+      "title": "EGO Power+ 24\" Electric Snow Blower, Cordless Self-Propelled 2-Stage XP, Includes (2) 56 V 10.0Ah Batteries and Dual Port Charger - SNT2416",
+      "current_price": 1799.0,
+      "reference_price": 1979.99,
+      "discount_percent": 9.14,
+      "savings": 180.99,
+      "tier": "Amazon Deal",
+      "score": 9,
+      "detected_at": "2026-10-17T00:27:30.696388+00:00",
+      "amazon_url": "https://www.amazon.com/EGO-SNT2416-Self-Propelled-Batteries-Included/dp/B0CHLRYPK1",
+      "image_url": "https://m.media-amazon.com/images/I/71BzY8NzgFL.jpg"
     }
   ]
 }
