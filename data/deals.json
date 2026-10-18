@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-17T17:08:46.180412+00:00",
+  "generated_at": "2026-10-18T00:01:19.627844+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 23,
   "deals": [
+    {
+      "asin": "B09T4YZGQR",
+      "title": "Shark AI Ultra Robot Vacuum, 60-Day Self-Emptying Base, Black, AV2511AE | Matrix Clean Navigation for Carpet, Hard Floors & Pet Hair, HEPA, Powerful Suction, Anti-Hair Wrap, LiDAR Mapping, Wi-Fi",
+      "current_price": 269.99,
+      "reference_price": 599.0,
+      "discount_percent": 54.93,
+      "savings": 329.01,
+      "tier": "\u2705 50%+ GOOD DEAL",
+      "score": 55,
+      "detected_at": "2026-10-18T00:01:19.627637+00:00",
+      "amazon_url": "https://www.amazon.com/Shark-AV2511AE-Self-Empty-Capacity-Navigation/dp/B09T4YZGQR",
+      "image_url": "https://m.media-amazon.com/images/I/71n99mtBmqL.jpg"
+    },
     {
       "asin": "B0GVTPKJVT",
       "title": "Amazon Fire HD 10 tablet, built for relaxation, 10.1\" vibrant Full HD screen, octa-core processor, 4 GB RAM, 32 GB, Black",
@@ -12,9 +25,22 @@
       "savings": 82.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 53,
-      "detected_at": "2026-10-17T17:08:46.180076+00:00",
+      "detected_at": "2026-10-18T00:01:19.627538+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT",
       "image_url": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg"
+    },
+    {
+      "asin": "B0DWXBCQVP",
+      "title": "roborock Q10 S5+ Robot Vacuum and Mop, 10,000Pa Suction | Upgraded from Q8 max+, 70-Day Self-Emptying, Obstacle Avoidance, Sonic Mopping, Dual Anti-Tangle Design, Auto Mop Lift, Black",
+      "current_price": 279.98,
+      "reference_price": 549.99,
+      "discount_percent": 49.09,
+      "savings": 270.01,
+      "tier": "Amazon Deal",
+      "score": 49,
+      "detected_at": "2026-10-18T00:01:19.627677+00:00",
+      "amazon_url": "https://www.amazon.com/roborock-Q10-S5-Self-Emptying-Anti-Tangle/dp/B0DWXBCQVP",
+      "image_url": "https://m.media-amazon.com/images/I/61KBMtvTenL.jpg"
     },
     {
       "asin": "B0GY4TQ2P8",
@@ -25,7 +51,7 @@
       "savings": 549.02,
       "tier": "Amazon Deal",
       "score": 46,
-      "detected_at": "2026-10-17T17:08:46.180264+00:00",
+      "detected_at": "2026-10-18T00:01:19.627600+00:00",
       "amazon_url": "https://www.amazon.com/Anker-Portable-Station-Generator-Emergency/dp/B0GY4TQ2P8",
       "image_url": "https://m.media-amazon.com/images/I/71d9U6KPEVL.jpg"
     },
@@ -38,22 +64,9 @@
       "savings": 12.48,
       "tier": "Amazon Deal",
       "score": 42,
-      "detected_at": "2026-10-17T17:08:46.180126+00:00",
+      "detected_at": "2026-10-18T00:01:19.627571+00:00",
       "amazon_url": "https://www.amazon.com/Probiotics-Formulated-Probiotic-Supplement-Acidophilus/dp/B079H53D2B",
       "image_url": "https://m.media-amazon.com/images/I/71s2GESdMLL.jpg"
-    },
-    {
-      "asin": "B0DS5WV7V6",
-      "title": "roborock Qrevo Series Robot Vacuum and Mop, Upgraded from Qrevo S | 8000Pa Suction, Anti-Tangle Brushes, Smart Obstacle Avoidance, Auto Mop Washing, All-in-One Dock, Spinning Mop, White(QV 35A)",
-      "current_price": 379.98,
-      "reference_price": 649.99,
-      "discount_percent": 41.54,
-      "savings": 270.01,
-      "tier": "Amazon Deal",
-      "score": 42,
-      "detected_at": "2026-10-17T17:08:46.180036+00:00",
-      "amazon_url": "https://www.amazon.com/roborock-Anti-Tangle-Avoidance-QV-35A/dp/B0DS5WV7V6",
-      "image_url": "https://m.media-amazon.com/images/I/61M8glOLVyL.jpg"
     },
     {
       "asin": "B0D8LXRHQ8",
@@ -64,7 +77,7 @@
       "savings": 90.0,
       "tier": "Amazon Deal",
       "score": 41,
-      "detected_at": "2026-10-17T17:08:46.180226+00:00",
+      "detected_at": "2026-10-18T00:01:19.627689+00:00",
       "amazon_url": "https://www.amazon.com/Keurig-Single-MultiStream-Technology-Reservoir/dp/B0D8LXRHQ8",
       "image_url": "https://m.media-amazon.com/images/I/717849a6v+L.jpg"
     },
@@ -77,7 +90,7 @@
       "savings": 120.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-10-17T17:08:46.180138+00:00",
+      "detected_at": "2026-10-18T00:01:19.627644+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Lightweight-IY143H-Brushroll-Removable/dp/B0GZSST8ZT",
       "image_url": "https://m.media-amazon.com/images/I/61VaFQrV0QL.jpg"
     },
@@ -90,48 +103,22 @@
       "savings": 32.02,
       "tier": "Amazon Deal",
       "score": 39,
-      "detected_at": "2026-10-17T17:08:46.180286+00:00",
+      "detected_at": "2026-10-18T00:01:19.627630+00:00",
       "amazon_url": "https://www.amazon.com/Bedsure-Heating-Blanket-Solid-Flannel-G2-62x84/dp/B0BZRBGMGK",
       "image_url": "https://m.media-amazon.com/images/I/81hrfCTbNDL.jpg"
     },
     {
-      "asin": "B0HBWGLN1F",
-      "title": "Hisense 55\" Class E6SR Series Hi-QLED 4K UHD Smart Roku TV (55E6SR, 2026 Model) - Dolby Vision, Game Mode Plus, VRR, ALLM, DTS Virtual:X, Apple AirPlay, Compatible with Alexa and Google Assistant",
-      "current_price": 277.99,
-      "reference_price": 449.99,
-      "discount_percent": 38.22,
-      "savings": 172.0,
+      "asin": "B0HBWF1WWH",
+      "title": "Hisense 65\" Class E6SR Series Hi-QLED 4K UHD Smart Roku TV (65E6SR, 2026 Model) - Dolby Vision, Game Mode Plus, VRR, ALLM, DTS Virtual:X, Apple AirPlay, Compatible with Alexa and Google Assistant",
+      "current_price": 377.97,
+      "reference_price": 549.99,
+      "discount_percent": 31.28,
+      "savings": 172.02,
       "tier": "Amazon Deal",
-      "score": 38,
-      "detected_at": "2026-10-17T17:08:46.180302+00:00",
-      "amazon_url": "https://www.amazon.com/Hisense-Class-Hi-QLED-Smart-55E6SR/dp/B0HBWGLN1F",
-      "image_url": "https://m.media-amazon.com/images/I/71K8VGv799L.jpg"
-    },
-    {
-      "asin": "B0FSJPFDPV",
-      "title": "dreame L40 Ultra Gen 2 Robot Vacuum and Mop with 25,000Pa Suction | Extendable Side Brush & Mop, All-in-One Self-Emptying & Cleaning Dock, 10.5mm Mop Lifting, Obstacle Avoidance, App Control",
-      "current_price": 499.98,
-      "reference_price": 749.99,
-      "discount_percent": 33.34,
-      "savings": 250.01,
-      "tier": "Amazon Deal",
-      "score": 33,
-      "detected_at": "2026-10-17T17:08:46.180294+00:00",
-      "amazon_url": "https://www.amazon.com/dreame-Extendable-Self-Emptying-Cleaning-Avoidance/dp/B0FSJPFDPV",
-      "image_url": "https://m.media-amazon.com/images/I/61hMADKz9DL.jpg"
-    },
-    {
-      "asin": "B01728NLRG",
-      "title": "COWAY Air Purifier for Home Up to 1,748ft\u00b2, HEPA Filter for Smoke, Allergies, Pet Dander, Odor, Air Quality Monitor, Auto&Eco Mode, Timer, Filter Indicator, 3yr Warranty, Mighty AP-1512HH(W), White",
-      "current_price": 154.98,
-      "reference_price": 229.99,
-      "discount_percent": 32.61,
-      "savings": 75.01,
-      "tier": "Amazon Deal",
-      "score": 33,
-      "detected_at": "2026-10-17T17:08:46.180216+00:00",
-      "amazon_url": "https://www.amazon.com/Coway-AP-1512HH-Mighty-Purifier-White/dp/B01728NLRG",
-      "image_url": "https://m.media-amazon.com/images/I/61Cgh4ol4oL.jpg"
+      "score": 31,
+      "detected_at": "2026-10-18T00:01:19.627683+00:00",
+      "amazon_url": "https://www.amazon.com/Hisense-Class-Hi-QLED-Smart-65E6SR/dp/B0HBWF1WWH",
+      "image_url": "https://m.media-amazon.com/images/I/71bHIcsqV0L.jpg"
     },
     {
       "asin": "B087GMJXMC",
@@ -142,7 +129,7 @@
       "savings": 9.25,
       "tier": "Amazon Deal",
       "score": 29,
-      "detected_at": "2026-10-17T17:08:46.180171+00:00",
+      "detected_at": "2026-10-18T00:01:19.627695+00:00",
       "amazon_url": "https://www.amazon.com/Energizer-Batteries-Combo-Pack-Count/dp/B087GMJXMC",
       "image_url": "https://m.media-amazon.com/images/I/81arDHi1PdL.jpg"
     },
@@ -155,7 +142,7 @@
       "savings": 15.96,
       "tier": "Amazon Deal",
       "score": 27,
-      "detected_at": "2026-10-17T17:08:46.180205+00:00",
+      "detected_at": "2026-10-18T00:01:19.627670+00:00",
       "amazon_url": "https://www.amazon.com/Toning-Polish-Pads-Hydrating-Niacinamide/dp/B0DC156Y5X",
       "image_url": "https://m.media-amazon.com/images/I/61zUDkrf+OL.jpg"
     },
@@ -168,22 +155,9 @@
       "savings": 5.79,
       "tier": "Amazon Deal",
       "score": 27,
-      "detected_at": "2026-10-17T17:08:46.180161+00:00",
+      "detected_at": "2026-10-18T00:01:19.627592+00:00",
       "amazon_url": "https://www.amazon.com/Energizer-Batteries-Double-Long-Lasting-Alkaline/dp/B09RTVD1GF",
       "image_url": "https://m.media-amazon.com/images/I/81AX1sbArxL.jpg"
-    },
-    {
-      "asin": "B0BPLB81LX",
-      "title": "Bedsure GentleSoft White Throw Blanket for Couch - Halloween Decorations for Fall Home Living Room Decor, Cozy Fleece Blanket, Christmas Birthday Gifts for Women Mom Her Girls, Off White, 50x60 in",
-      "current_price": 13.48,
-      "reference_price": 17.99,
-      "discount_percent": 25.07,
-      "savings": 4.51,
-      "tier": "Amazon Deal",
-      "score": 25,
-      "detected_at": "2026-10-17T17:08:46.180312+00:00",
-      "amazon_url": "https://www.amazon.com/Bedsure-White-Fleece-Throw-Blanket/dp/B0BPLB81LX",
-      "image_url": "https://m.media-amazon.com/images/I/71lQ6usyNEL.jpg"
     },
     {
       "asin": "B00JH98GR4",
@@ -194,9 +168,22 @@
       "savings": 50.0,
       "tier": "Amazon Deal",
       "score": 25,
-      "detected_at": "2026-10-17T17:08:46.180095+00:00",
+      "detected_at": "2026-10-18T00:01:19.627552+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Navigator-Professional-Anti-Allergy-NV360/dp/B00JH98GR4",
       "image_url": "https://m.media-amazon.com/images/I/61w1n9p2R0L.jpg"
+    },
+    {
+      "asin": "B0GT5SV7VD",
+      "title": "Ninja\u00ae PossibleCooker\u2122 PRO Plus 9-in-1, 8.5-qt, Blue Macaron, MC2001 | Replaces 16 appliances, 1400W, Slow Cook, Sear, Saut\u00e9, Proof, Pasta/Rice, oven-safe ceramic pot, cooker-to-oven-to-table",
+      "current_price": 139.99,
+      "reference_price": 179.99,
+      "discount_percent": 22.22,
+      "savings": 40.0,
+      "tier": "Amazon Deal",
+      "score": 22,
+      "detected_at": "2026-10-18T00:01:19.627701+00:00",
+      "amazon_url": "https://www.amazon.com/Ninja%C2%AE-PossibleCookerTM-8-5-qt-Macaron-MC2001/dp/B0GT5SV7VD",
+      "image_url": "https://m.media-amazon.com/images/I/71gzzsRuiZL.jpg"
     },
     {
       "asin": "B0C1NM42PN",
@@ -207,7 +194,7 @@
       "savings": 6.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-10-17T17:08:46.180150+00:00",
+      "detected_at": "2026-10-18T00:01:19.627578+00:00",
       "amazon_url": "https://www.amazon.com/BEDLORE-Waterproof-Protector-Noiseless-Breathable/dp/B0C1NM42PN",
       "image_url": "https://m.media-amazon.com/images/I/71tUP9hEL+L.jpg"
     },
@@ -220,22 +207,22 @@
       "savings": 4.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-10-17T17:08:46.180236+00:00",
+      "detected_at": "2026-10-18T00:01:19.627616+00:00",
       "amazon_url": "https://www.amazon.com/Energizer-Batteries-Triple-Long-Lasting-Alkaline/dp/B09RTVN5GN",
       "image_url": "https://m.media-amazon.com/images/I/81WjCmxPuUL.jpg"
     },
     {
-      "asin": "B00EINBSEW",
-      "title": "Coop Home Goods Original Adjustable Pillow, Queen Size Bed Pillow for Sleeping, Cross Cut Memory Foam Pillow - Medium Firm Back, Stomach and Side Sleeper Pillow, CertiPUR-US/GREENGUARD Gold",
-      "current_price": 75.65,
-      "reference_price": 89.0,
+      "asin": "B0HFZMRF1B",
+      "title": "NASHALYLY Women's Chiffon Elastic High Waist Pleated A-Line Maxi Skirts",
+      "current_price": 29.74,
+      "reference_price": 34.99,
       "discount_percent": 15.0,
-      "savings": 13.35,
+      "savings": 5.25,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-10-17T17:08:46.180277+00:00",
-      "amazon_url": "https://www.amazon.com/Coop-Home-Goods-Memory-Foam-Pillow-For-Side-Back-Stomach-Sleeper/dp/B00EINBSEW",
-      "image_url": "https://m.media-amazon.com/images/I/61hiruVCYbL.jpg"
+      "detected_at": "2026-10-18T00:01:19.627710+00:00",
+      "amazon_url": "https://www.amazon.com/NASHALYLY-Womens-Chiffon-Elastic-Pleated/dp/B0HFZMRF1B",
+      "image_url": "https://m.media-amazon.com/images/I/81j3Nodb5OL.jpg"
     },
     {
       "asin": "B0C6FCKQML",
@@ -246,22 +233,48 @@
       "savings": 4.86,
       "tier": "Amazon Deal",
       "score": 12,
-      "detected_at": "2026-10-17T17:08:46.180247+00:00",
+      "detected_at": "2026-10-18T00:01:19.627657+00:00",
       "amazon_url": "https://www.amazon.com/Dreo-Portable-Electric-Heaters-Thermostat/dp/B0C6FCKQML",
       "image_url": "https://m.media-amazon.com/images/I/81Ha7nqu+bL.jpg"
     },
     {
-      "asin": "B01MSP50CY",
-      "title": "Filterbuy 16x25x1 Air Filter MERV 8 Dust & Allergy Defense (4-Pack) | Electrostatic Pleated HVAC AC Furnace Filters Replacement, Made in USA (Actual Size: 15.50 x 24.50 x 0.75)",
-      "current_price": 31.46,
-      "reference_price": 34.96,
-      "discount_percent": 10.01,
-      "savings": 3.5,
+      "asin": "B0H5KB6625",
+      "title": "roborock 2026 New Saros 20 Flow Robot Vacuum and Mop, SpiraFlow 2.0 Pressurized Self-Cleaning Roller Mop, 36000 Pa, 3.46 in Double-Layer Threshold, 300+ Obstacle Avoidance, Zero-Tangle, 212\u00b0F Mop Wash",
+      "current_price": 1499.99,
+      "reference_price": 1699.99,
+      "discount_percent": 11.76,
+      "savings": 200.0,
+      "tier": "Amazon Deal",
+      "score": 12,
+      "detected_at": "2026-10-18T00:01:19.627664+00:00",
+      "amazon_url": "https://www.amazon.com/roborock-Saros-Flow-Self-Cleaning-Double-Layer/dp/B0H5KB6625",
+      "image_url": "https://m.media-amazon.com/images/I/71vWYPY4KkL.jpg"
+    },
+    {
+      "asin": "B0D18VS397",
+      "title": "Inspire Black Nitrile Disposable Gloves | 4.5 Nitrile Disposable Safety Medical Cooking Cleaning Gloves",
+      "current_price": 8.98,
+      "reference_price": 9.99,
+      "discount_percent": 10.11,
+      "savings": 1.01,
       "tier": "Amazon Deal",
       "score": 10,
-      "detected_at": "2026-10-17T17:08:46.180111+00:00",
-      "amazon_url": "https://www.amazon.com/FilterBuy-16x25x1-Pleated-Furnace-produced/dp/B01MSP50CY",
-      "image_url": "https://m.media-amazon.com/images/I/81rUl8yx1ZL.jpg"
+      "detected_at": "2026-10-18T00:01:19.627501+00:00",
+      "amazon_url": "https://www.amazon.com/Inspire-Disposable-Chemical-Resistant-Cleaning/dp/B0D18VS397",
+      "image_url": "https://m.media-amazon.com/images/I/71fN668bgkL.jpg"
+    },
+    {
+      "asin": "B00CJZ8LAK",
+      "title": "Filterbuy 20x20x1 Air Filter MERV 8 Dust & Allergy Defense (4-Pack) | Electrostatic Pleated HVAC AC Furnace Filters Replacement, Made in USA (Actual Size: 19.50 x 19.50 x 0.75)",
+      "current_price": 26.96,
+      "reference_price": 29.96,
+      "discount_percent": 10.01,
+      "savings": 3.0,
+      "tier": "Amazon Deal",
+      "score": 10,
+      "detected_at": "2026-10-18T00:01:19.627563+00:00",
+      "amazon_url": "https://www.amazon.com/FilterBuy-20x20x1-Pleated-filters-produced/dp/B00CJZ8LAK",
+      "image_url": "https://m.media-amazon.com/images/I/71EQIImtStL.jpg"
     },
     {
       "asin": "B0HBF7NS25",
@@ -272,7 +285,7 @@
       "savings": 30.0,
       "tier": "Amazon Deal",
       "score": 10,
-      "detected_at": "2026-10-17T17:08:46.180194+00:00",
+      "detected_at": "2026-10-18T00:01:19.627623+00:00",
       "amazon_url": "https://www.amazon.com/Ninja-Exclusive-Champagne-containers-AS101WH1/dp/B0HBF7NS25",
       "image_url": "https://m.media-amazon.com/images/I/81ZQ2IX+XtL.jpg"
     },
@@ -285,22 +298,9 @@
       "savings": 10.0,
       "tier": "Amazon Deal",
       "score": 10,
-      "detected_at": "2026-10-17T17:08:46.180255+00:00",
+      "detected_at": "2026-10-18T00:01:19.627651+00:00",
       "amazon_url": "https://www.amazon.com/KARDV-Cordless-Cleaners-Anti-Tangle-Lightweight/dp/B0F2B29SPC",
       "image_url": "https://m.media-amazon.com/images/I/71SycCUXQ-L.jpg"
-    },
-    {
-      "asin": "B0CHLRYPK1",
-      "title": "EGO Power+ 24\" Electric Snow Blower, Cordless Self-Propelled 2-Stage XP, Includes (2) 56 V 10.0Ah Batteries and Dual Port Charger - SNT2416",
-      "current_price": 1799.0,
-      "reference_price": 1979.99,
-      "discount_percent": 9.14,
-      "savings": 180.99,
-      "tier": "Amazon Deal",
-      "score": 9,
-      "detected_at": "2026-10-17T17:08:46.180182+00:00",
-      "amazon_url": "https://www.amazon.com/EGO-SNT2416-Self-Propelled-Batteries-Included/dp/B0CHLRYPK1",
-      "image_url": "https://m.media-amazon.com/images/I/71BzY8NzgFL.jpg"
     }
   ]
 }
