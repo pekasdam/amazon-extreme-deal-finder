@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T17:25:29.883878+00:00",
+  "generated_at": "2026-10-25T00:19:45.007761+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 17,
   "deals": [
@@ -12,7 +12,7 @@
       "savings": 181.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-10-24T17:25:29.883738+00:00",
+      "detected_at": "2026-10-25T00:19:45.007644+00:00",
       "amazon_url": "https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLTCYWH",
       "image_url": "https://m.media-amazon.com/images/I/31oSNXtjjyL.jpg"
     },
@@ -25,7 +25,7 @@
       "savings": 55.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 55,
-      "detected_at": "2026-10-24T17:25:29.883600+00:00",
+      "detected_at": "2026-10-25T00:19:45.007569+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
       "image_url": "https://m.media-amazon.com/images/I/61ZzGy5LwDL.jpg"
     },
@@ -38,7 +38,7 @@
       "savings": 82.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 53,
-      "detected_at": "2026-10-24T17:25:29.883726+00:00",
+      "detected_at": "2026-10-25T00:19:45.007611+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT",
       "image_url": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg"
     },
@@ -51,48 +51,35 @@
       "savings": 18.77,
       "tier": "Amazon Deal",
       "score": 47,
-      "detected_at": "2026-10-24T17:25:29.883618+00:00",
+      "detected_at": "2026-10-25T00:19:45.007576+00:00",
       "amazon_url": "https://www.amazon.com/Queen-Size-Piece-Sheet-Set/dp/B01M16WBW1",
       "image_url": "https://m.media-amazon.com/images/I/71zGC0oAIXL.jpg"
     },
     {
-      "asin": "B0D8LXRHQ8",
-      "title": "Keurig K-Duo Hot & Iced Single Serve & Carafe Coffee Maker, MultiStream Technology, 72oz Reservoir (Gen 2)",
-      "current_price": 129.99,
-      "reference_price": 219.99,
-      "discount_percent": 40.91,
-      "savings": 90.0,
+      "asin": "B0FH655984",
+      "title": "SUPFINE Magnetic for iPhone 18 Pro Max Case/17 Pro Max Case Black | With Screen Protector, Translucent Matte, Compatible with MagSafe, Military Grade Drop Proof, Rugged Shockproof Protective",
+      "current_price": 5.58,
+      "reference_price": 9.99,
+      "discount_percent": 44.14,
+      "savings": 4.41,
       "tier": "Amazon Deal",
-      "score": 41,
-      "detected_at": "2026-10-24T17:25:29.883770+00:00",
-      "amazon_url": "https://www.amazon.com/Keurig-Single-MultiStream-Technology-Reservoir/dp/B0D8LXRHQ8",
-      "image_url": "https://m.media-amazon.com/images/I/717849a6v+L.jpg"
+      "score": 44,
+      "detected_at": "2026-10-25T00:19:45.007657+00:00",
+      "amazon_url": "https://www.amazon.com/SUPFINE-Pro-Max-Case-Anti-Fingerprint/dp/B0FH655984",
+      "image_url": "https://m.media-amazon.com/images/I/71Vo32MVCWL.jpg"
     },
     {
-      "asin": "B0FB59FN5M",
-      "title": "Shark PowerPro Reveal Plus Cordless Vacuum Cleaner - Charcoal - IZ376H | Lightweight Vacuum for Hardwood Floors and Carpet, Handheld Stick Design, Upholstery and Crevice Tools, 40-Min Runtime",
-      "current_price": 199.99,
-      "reference_price": 329.99,
-      "discount_percent": 39.4,
-      "savings": 130.0,
+      "asin": "B0GGRSMXKN",
+      "title": "roborock 2026 New Qrevo S Pro Robot Vacuum and Mop, 18,500Pa Suction | Multifunctional Dock with 167\u2109 Mop Self-Cleaning, Smart Obstacle Avoidance, Anti-Tangle Brush, Liftable Spinning Mop, Black",
+      "current_price": 399.99,
+      "reference_price": 699.99,
+      "discount_percent": 42.86,
+      "savings": 300.0,
       "tier": "Amazon Deal",
-      "score": 39,
-      "detected_at": "2026-10-24T17:25:29.883704+00:00",
-      "amazon_url": "https://www.amazon.com/Shark-FloorDetect-Dirt-Reveal-Rechargeable-IZ376H/dp/B0FB59FN5M",
-      "image_url": "https://m.media-amazon.com/images/I/71BSpB-pRaL.jpg"
-    },
-    {
-      "asin": "B0BRYCXRPG",
-      "title": "Physician's CHOICE Probiotics 60 Billion CFU - 10 Strains + Organic Prebiotics - Immune, Digestive & Gut Health - Supports Occasional Constipation, Diarrhea, Gas & Bloating - for Women & Men - 84ct",
-      "current_price": 30.97,
-      "reference_price": 49.97,
-      "discount_percent": 38.02,
-      "savings": 19.0,
-      "tier": "Amazon Deal",
-      "score": 38,
-      "detected_at": "2026-10-24T17:25:29.883715+00:00",
-      "amazon_url": "https://www.amazon.com/Physicians-CHOICE-Probiotics-Capsules-Billion/dp/B0BRYCXRPG",
-      "image_url": "https://m.media-amazon.com/images/I/81NGX8bVEnL.jpg"
+      "score": 43,
+      "detected_at": "2026-10-25T00:19:45.007558+00:00",
+      "amazon_url": "https://www.amazon.com/roborock-Qrevo-Pro-Multifunctional-Self-Cleaning/dp/B0GGRSMXKN",
+      "image_url": "https://m.media-amazon.com/images/I/615KW-IyiHL.jpg"
     },
     {
       "asin": "B0FVYBPSWY",
@@ -103,7 +90,7 @@
       "savings": 22.0,
       "tier": "Amazon Deal",
       "score": 38,
-      "detected_at": "2026-10-24T17:25:29.883646+00:00",
+      "detected_at": "2026-10-25T00:19:45.007584+00:00",
       "amazon_url": "https://www.amazon.com/Ultra-Soft-Queen-Mattress-Topper/dp/B0FVYBPSWY",
       "image_url": "https://m.media-amazon.com/images/I/81AArX908mL.jpg"
     },
@@ -116,9 +103,35 @@
       "savings": 90.0,
       "tier": "Amazon Deal",
       "score": 36,
-      "detected_at": "2026-10-24T17:25:29.883681+00:00",
+      "detected_at": "2026-10-25T00:19:45.007651+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Wired-Doorbell-Newest-Model/dp/B0F151GFYR",
       "image_url": "https://m.media-amazon.com/images/I/51cJpjaOeEL.jpg"
+    },
+    {
+      "asin": "B07MJL8NXR",
+      "title": "Premier Protein 30g High Protein Shake, Chocolate, 12 Pack | 160 Calories, 24 Vitamins & Minerals, No Added Sugar, Supports Muscle Health, Gluten-Free, 11.5 oz",
+      "current_price": 19.99,
+      "reference_price": 28.92,
+      "discount_percent": 30.88,
+      "savings": 8.93,
+      "tier": "Amazon Deal",
+      "score": 31,
+      "detected_at": "2026-10-25T00:19:45.007525+00:00",
+      "amazon_url": "https://www.amazon.com/Premier-Protein-Shake-Chocolate-11-5/dp/B07MJL8NXR",
+      "image_url": "https://m.media-amazon.com/images/I/71Y8GT3GYvL.jpg"
+    },
+    {
+      "asin": "B0BRYCXRPG",
+      "title": "Physician's CHOICE Probiotics 60 Billion CFU - 10 Strains + Organic Prebiotics - Immune, Digestive & Gut Health - Supports Occasional Constipation, Diarrhea, Gas & Bloating - for Women & Men - 84ct",
+      "current_price": 34.97,
+      "reference_price": 49.97,
+      "discount_percent": 30.02,
+      "savings": 15.0,
+      "tier": "Amazon Deal",
+      "score": 30,
+      "detected_at": "2026-10-25T00:19:45.007618+00:00",
+      "amazon_url": "https://www.amazon.com/Physicians-CHOICE-Probiotics-Capsules-Billion/dp/B0BRYCXRPG",
+      "image_url": "https://m.media-amazon.com/images/I/81NGX8bVEnL.jpg"
     },
     {
       "asin": "B0GTC14BFW",
@@ -129,22 +142,9 @@
       "savings": 250.0,
       "tier": "Amazon Deal",
       "score": 30,
-      "detected_at": "2026-10-24T17:25:29.883760+00:00",
+      "detected_at": "2026-10-25T00:19:45.007605+00:00",
       "amazon_url": "https://www.amazon.com/Dyson-DetectTM-Origin-Cordless-Vacuum/dp/B0GTC14BFW",
       "image_url": "https://m.media-amazon.com/images/I/61k9OPHOj-L.jpg"
-    },
-    {
-      "asin": "B07MCCVZYC",
-      "title": "Premier Protein 30g High Protein Shake, Vanilla, 12 Pack | 160 Calories, 24 Vitamins & Minerals, No Added Sugar, Supports Muscle Health, Gluten-Free, 11.5 oz",
-      "current_price": 19.99,
-      "reference_price": 26.67,
-      "discount_percent": 25.05,
-      "savings": 6.68,
-      "tier": "Amazon Deal",
-      "score": 25,
-      "detected_at": "2026-10-24T17:25:29.883563+00:00",
-      "amazon_url": "https://www.amazon.com/Premier-Protein-Shake-Vanilla-count/dp/B07MCCVZYC",
-      "image_url": "https://m.media-amazon.com/images/I/71C1kRqCJXL.jpg"
     },
     {
       "asin": "B00JH98GR4",
@@ -155,7 +155,7 @@
       "savings": 50.0,
       "tier": "Amazon Deal",
       "score": 25,
-      "detected_at": "2026-10-24T17:25:29.883633+00:00",
+      "detected_at": "2026-10-25T00:19:45.007592+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Navigator-Professional-Anti-Allergy-NV360/dp/B00JH98GR4",
       "image_url": "https://m.media-amazon.com/images/I/61w1n9p2R0L.jpg"
     },
@@ -168,9 +168,22 @@
       "savings": 11.0,
       "tier": "Amazon Deal",
       "score": 24,
-      "detected_at": "2026-10-24T17:25:29.883693+00:00",
+      "detected_at": "2026-10-25T00:19:45.007638+00:00",
       "amazon_url": "https://www.amazon.com/Crest-Professional-Whitestrips-Whitening-Treatments/dp/B00AHAWWO0",
       "image_url": "https://m.media-amazon.com/images/I/71JH8MLN5vL.jpg"
+    },
+    {
+      "asin": "B0FC31WQF8",
+      "title": "JoyPeak Corset Tops for Women,Lace Bustier Corset Lingerie top,Renaissance Overbust Corset Push Up Bodysuit",
+      "current_price": 23.9,
+      "reference_price": 29.99,
+      "discount_percent": 20.31,
+      "savings": 6.09,
+      "tier": "Amazon Deal",
+      "score": 20,
+      "detected_at": "2026-10-25T00:19:45.007632+00:00",
+      "amazon_url": "https://www.amazon.com/JoyPeak-Lingerie-Renaissance-Overbust-Bodysuit/dp/B0FC31WQF8",
+      "image_url": "https://m.media-amazon.com/images/I/810bewNah8L.jpg"
     },
     {
       "asin": "B0C1NM42PN",
@@ -181,7 +194,7 @@
       "savings": 6.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-10-24T17:25:29.883670+00:00",
+      "detected_at": "2026-10-25T00:19:45.007598+00:00",
       "amazon_url": "https://www.amazon.com/BEDLORE-Waterproof-Protector-Noiseless-Breathable/dp/B0C1NM42PN",
       "image_url": "https://m.media-amazon.com/images/I/71tUP9hEL+L.jpg"
     },
@@ -194,35 +207,22 @@
       "savings": 4.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-10-24T17:25:29.883781+00:00",
+      "detected_at": "2026-10-25T00:19:45.007663+00:00",
       "amazon_url": "https://www.amazon.com/Energizer-Batteries-Triple-Long-Lasting-Alkaline/dp/B09RTVN5GN",
       "image_url": "https://m.media-amazon.com/images/I/81WjCmxPuUL.jpg"
     },
     {
-      "asin": "B01MSP50CY",
-      "title": "Filterbuy 16x25x1 Air Filter MERV 8 Dust & Allergy Defense (4-Pack) | Electrostatic Pleated HVAC AC Furnace Filters Replacement, Made in USA (Actual Size: 15.50 x 24.50 x 0.75)",
-      "current_price": 31.46,
-      "reference_price": 34.96,
-      "discount_percent": 10.01,
-      "savings": 3.5,
+      "asin": "B00CJZ9I0C",
+      "title": "Filterbuy 20x25x4 Air Filter MERV 8 Dust & Allergy Defense (4-Pack) | Electrostatic Pleated HVAC AC Furnace Filters Replacement, Made in USA (Actual Size: 19.50 x 24.50 x 3.63)",
+      "current_price": 67.46,
+      "reference_price": 79.96,
+      "discount_percent": 15.63,
+      "savings": 12.5,
       "tier": "Amazon Deal",
-      "score": 10,
-      "detected_at": "2026-10-24T17:25:29.883659+00:00",
-      "amazon_url": "https://www.amazon.com/FilterBuy-16x25x1-Pleated-Furnace-produced/dp/B01MSP50CY",
-      "image_url": "https://m.media-amazon.com/images/I/81rUl8yx1ZL.jpg"
-    },
-    {
-      "asin": "B0CHLRYPK1",
-      "title": "EGO Power+ 24\" Electric Snow Blower, Cordless Self-Propelled 2-Stage XP, Includes (2) 56 V 10.0Ah Batteries and Dual Port Charger - SNT2416",
-      "current_price": 1799.0,
-      "reference_price": 1979.99,
-      "discount_percent": 9.14,
-      "savings": 180.99,
-      "tier": "Amazon Deal",
-      "score": 9,
-      "detected_at": "2026-10-24T17:25:29.883749+00:00",
-      "amazon_url": "https://www.amazon.com/EGO-SNT2416-Self-Propelled-Batteries-Included/dp/B0CHLRYPK1",
-      "image_url": "https://m.media-amazon.com/images/I/71BzY8NzgFL.jpg"
+      "score": 16,
+      "detected_at": "2026-10-25T00:19:45.007625+00:00",
+      "amazon_url": "https://www.amazon.com/FilterBuy-20x25x4-Pleated-Furnace-Filters/dp/B00CJZ9I0C",
+      "image_url": "https://m.media-amazon.com/images/I/81uZfSX59kL.jpg"
     }
   ]
 }
