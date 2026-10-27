@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T19:55:33.733473+00:00",
+  "generated_at": "2026-10-27T01:28:05.388254+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 17,
   "deals": [
@@ -12,7 +12,7 @@
       "savings": 181.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-10-26T19:55:33.733342+00:00",
+      "detected_at": "2026-10-27T01:28:05.388069+00:00",
       "amazon_url": "https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLTCYWH",
       "image_url": "https://m.media-amazon.com/images/I/31oSNXtjjyL.jpg"
     },
@@ -25,7 +25,7 @@
       "savings": 55.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 55,
-      "detected_at": "2026-10-26T19:55:33.733245+00:00",
+      "detected_at": "2026-10-27T01:28:05.387985+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
       "image_url": "https://m.media-amazon.com/images/I/61ZzGy5LwDL.jpg"
     },
@@ -38,7 +38,7 @@
       "savings": 82.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 53,
-      "detected_at": "2026-10-26T19:55:33.733323+00:00",
+      "detected_at": "2026-10-27T01:28:05.388060+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT",
       "image_url": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg"
     },
@@ -51,9 +51,22 @@
       "savings": 265.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-10-26T19:55:33.733230+00:00",
+      "detected_at": "2026-10-27T01:28:05.388016+00:00",
       "amazon_url": "https://www.amazon.com/Shark-AZ3002-Self-Cleaning-Neutralizer-Technology/dp/B0B2VTZ432",
       "image_url": "https://m.media-amazon.com/images/I/71SfhQ2wbOL.jpg"
+    },
+    {
+      "asin": "B0FH655984",
+      "title": "SUPFINE Magnetic for iPhone 18 Pro Max Case/17 Pro Max Case Black | With Screen Protector, Translucent Matte, Compatible with MagSafe, Military Grade Drop Proof, Rugged Shockproof Protective",
+      "current_price": 5.58,
+      "reference_price": 9.99,
+      "discount_percent": 44.14,
+      "savings": 4.41,
+      "tier": "Amazon Deal",
+      "score": 44,
+      "detected_at": "2026-10-27T01:28:05.388086+00:00",
+      "amazon_url": "https://www.amazon.com/SUPFINE-Pro-Max-Case-Anti-Fingerprint/dp/B0FH655984",
+      "image_url": "https://m.media-amazon.com/images/I/71Vo32MVCWL.jpg"
     },
     {
       "asin": "B079H53D2B",
@@ -64,22 +77,9 @@
       "savings": 12.48,
       "tier": "Amazon Deal",
       "score": 42,
-      "detected_at": "2026-10-26T19:55:33.733305+00:00",
+      "detected_at": "2026-10-27T01:28:05.388042+00:00",
       "amazon_url": "https://www.amazon.com/Probiotics-Formulated-Probiotic-Supplement-Acidophilus/dp/B079H53D2B",
       "image_url": "https://m.media-amazon.com/images/I/81WwpFusoAL.jpg"
-    },
-    {
-      "asin": "B0FK2HPNCB",
-      "title": "eufy E25 Robot Vacuum and Mop for Pet Hair, 20,000 Pa, HydroJet Roller Mop | Extendable Side Brush, Zero-Tangle Design, All-in-One Station, AI Obstacle Avoidance, Edge-to-Corner Cleaning",
-      "current_price": 599.98,
-      "reference_price": 999.99,
-      "discount_percent": 40.0,
-      "savings": 400.01,
-      "tier": "Amazon Deal",
-      "score": 40,
-      "detected_at": "2026-10-26T19:55:33.733369+00:00",
-      "amazon_url": "https://www.amazon.com/eufy-HydroJet-Cleaning-Zero-Tangle-Avoidance/dp/B0FK2HPNCB",
-      "image_url": "https://m.media-amazon.com/images/I/61HYCNbUjAL.jpg"
     },
     {
       "asin": "B0FVYBPSWY",
@@ -90,7 +90,7 @@
       "savings": 22.0,
       "tier": "Amazon Deal",
       "score": 38,
-      "detected_at": "2026-10-26T19:55:33.733296+00:00",
+      "detected_at": "2026-10-27T01:28:05.388005+00:00",
       "amazon_url": "https://www.amazon.com/Ultra-Soft-Queen-Mattress-Topper/dp/B0FVYBPSWY",
       "image_url": "https://m.media-amazon.com/images/I/81AArX908mL.jpg"
     },
@@ -103,7 +103,7 @@
       "savings": 75.0,
       "tier": "Amazon Deal",
       "score": 38,
-      "detected_at": "2026-10-26T19:55:33.733267+00:00",
+      "detected_at": "2026-10-27T01:28:05.387995+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Navigator-Professional-Anti-Allergy-NV360/dp/B00JH98GR4",
       "image_url": "https://m.media-amazon.com/images/I/61w1n9p2R0L.jpg"
     },
@@ -116,74 +116,22 @@
       "savings": 20.13,
       "tier": "Amazon Deal",
       "score": 34,
-      "detected_at": "2026-10-26T19:55:33.733256+00:00",
+      "detected_at": "2026-10-27T01:28:05.387970+00:00",
       "amazon_url": "https://www.amazon.com/Pillows-for-Sleeping-2-Pack/dp/B01LYNW421",
       "image_url": "https://m.media-amazon.com/images/I/61XtBANZuJL.jpg"
     },
     {
-      "asin": "B079JLY5M5",
-      "title": "Logitech MK270 Full Size Wireless Keyboard and Mouse Combo - Black | Full size keyboard with spill-resistant design, compact ambidextrous mouse, connect via single included USB-A Nano Receiver",
+      "asin": "B07MCCVZYC",
+      "title": "Premier Protein 30g High Protein Shake, Vanilla, 12 Pack | 160 Calories, 24 Vitamins & Minerals, No Added Sugar, Supports Muscle Health, Gluten-Free, 11.5 oz",
       "current_price": 19.99,
-      "reference_price": 29.99,
-      "discount_percent": 33.34,
-      "savings": 10.0,
-      "tier": "Amazon Deal",
-      "score": 33,
-      "detected_at": "2026-10-26T19:55:33.733286+00:00",
-      "amazon_url": "https://www.amazon.com/Logitech-MK270-Wireless-Keyboard-Mouse/dp/B079JLY5M5",
-      "image_url": "https://m.media-amazon.com/images/I/61a14rKCeCL.jpg"
-    },
-    {
-      "asin": "B0DW92LBH6",
-      "title": "SUPFINE Magnetic for iPhone 17e Case/iPhone 16e Case Black | With Screen Protector, Translucent Matte, Compatible with MagSafe, Military Grade Drop Proof, Rugged Shockproof Protective",
-      "current_price": 6.78,
-      "reference_price": 9.99,
-      "discount_percent": 32.13,
-      "savings": 3.21,
-      "tier": "Amazon Deal",
-      "score": 32,
-      "detected_at": "2026-10-26T19:55:33.733360+00:00",
-      "amazon_url": "https://www.amazon.com/SUPFINE-Magnetic-iPhone-16e-Black/dp/B0DW92LBH6",
-      "image_url": "https://m.media-amazon.com/images/I/71hJWUBnKML.jpg"
-    },
-    {
-      "asin": "B07MJL8NXR",
-      "title": "Premier Protein 30g High Protein Shake, Chocolate, 12 Pack | 160 Calories, 24 Vitamins & Minerals, No Added Sugar, Supports Muscle Health, Gluten-Free, 11.5 oz",
-      "current_price": 19.99,
-      "reference_price": 28.92,
-      "discount_percent": 30.88,
-      "savings": 8.93,
-      "tier": "Amazon Deal",
-      "score": 31,
-      "detected_at": "2026-10-26T19:55:33.733194+00:00",
-      "amazon_url": "https://www.amazon.com/Premier-Protein-Shake-Chocolate-11-5/dp/B07MJL8NXR",
-      "image_url": "https://m.media-amazon.com/images/I/71Y8GT3GYvL.jpg"
-    },
-    {
-      "asin": "B0CNTRVZPW",
-      "title": "Waterpik Cordless Pulse 3100 Portable Water Flosser, Rechargeable, White | 2 Settings, 1 Precision Tip & 1 Tongue Cleaner Tip for Fresh Breath, Travel, Shower Use, ADA Accepted, WF-20 Amazon Exclusive",
-      "current_price": 34.95,
-      "reference_price": 49.99,
-      "discount_percent": 30.09,
-      "savings": 15.04,
-      "tier": "Amazon Deal",
-      "score": 30,
-      "detected_at": "2026-10-26T19:55:33.733378+00:00",
-      "amazon_url": "https://www.amazon.com/Waterpik-Cordless-Rechargeable-Portable-Waterproof/dp/B0CNTRVZPW",
-      "image_url": "https://m.media-amazon.com/images/I/712lAbKMMnL.jpg"
-    },
-    {
-      "asin": "B0GT28CSYM",
-      "title": "Dyson V8 Cyclone Cordless Vacuum",
-      "current_price": 299.98,
-      "reference_price": 399.99,
-      "discount_percent": 25.0,
-      "savings": 100.01,
+      "reference_price": 26.67,
+      "discount_percent": 25.05,
+      "savings": 6.68,
       "tier": "Amazon Deal",
       "score": 25,
-      "detected_at": "2026-10-26T19:55:33.733351+00:00",
-      "amazon_url": "https://www.amazon.com/Dyson-V8-Cyclone-Cordless-Vacuum/dp/B0GT28CSYM",
-      "image_url": "https://m.media-amazon.com/images/I/51WShDQ+QIL.jpg"
+      "detected_at": "2026-10-27T01:28:05.387937+00:00",
+      "amazon_url": "https://www.amazon.com/Premier-Protein-Shake-Vanilla-count/dp/B07MCCVZYC",
+      "image_url": "https://m.media-amazon.com/images/I/71C1kRqCJXL.jpg"
     },
     {
       "asin": "B00AHAWWO0",
@@ -194,22 +142,48 @@
       "savings": 11.0,
       "tier": "Amazon Deal",
       "score": 24,
-      "detected_at": "2026-10-26T19:55:33.733277+00:00",
+      "detected_at": "2026-10-27T01:28:05.388033+00:00",
       "amazon_url": "https://www.amazon.com/Crest-Professional-Whitestrips-Whitening-Treatments/dp/B00AHAWWO0",
       "image_url": "https://m.media-amazon.com/images/I/71JH8MLN5vL.jpg"
     },
     {
-      "asin": "B09RTVN5GN",
-      "title": "Energizer Alkaline Power AAA Batteries (32 Pack), Long-Lasting | For wireless mouse, flashlights, thermometers, smart home devices, and controllers; hold power for up to 10 years in storage",
-      "current_price": 15.99,
-      "reference_price": 19.99,
-      "discount_percent": 20.01,
-      "savings": 4.0,
+      "asin": "B0DZCRJ1DR",
+      "title": "JUOLOET Unisex Adult Onesie Pajamas Animal One Piece Snug Fit Halloween Costume Cosplay for Women Men",
+      "current_price": 22.49,
+      "reference_price": 27.99,
+      "discount_percent": 19.65,
+      "savings": 5.5,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-10-26T19:55:33.733332+00:00",
-      "amazon_url": "https://www.amazon.com/Energizer-Batteries-Triple-Long-Lasting-Alkaline/dp/B09RTVN5GN",
-      "image_url": "https://m.media-amazon.com/images/I/81WjCmxPuUL.jpg"
+      "detected_at": "2026-10-27T01:28:05.388094+00:00",
+      "amazon_url": "https://www.amazon.com/JUOLOET-Pajamas-Halloween-Sleepwear-Homewear/dp/B0DZCRJ1DR",
+      "image_url": "https://m.media-amazon.com/images/I/71yewkEhWKL.jpg"
+    },
+    {
+      "asin": "B0761ZJGDK",
+      "title": "Funziez! Adult Slim One Piece Onesie Halloween Costume for Men and Women | Unisex Cosplay Animal One-Piece Pajamas with button closure and pockets, machine wash, great for themed parties or R and R",
+      "current_price": 24.99,
+      "reference_price": 29.99,
+      "discount_percent": 16.67,
+      "savings": 5.0,
+      "tier": "Amazon Deal",
+      "score": 17,
+      "detected_at": "2026-10-27T01:28:05.388051+00:00",
+      "amazon_url": "https://www.amazon.com/Funziez-Halloween-Wildlife-Washable-Sleepwear/dp/B0761ZJGDK",
+      "image_url": "https://m.media-amazon.com/images/I/61hfT3Q5nlS.jpg"
+    },
+    {
+      "asin": "B097ZL24QJ",
+      "title": "COSUSKET Snug Fit Unisex Adult Onesie Pajamas, Flannel Cosplay Animal One Piece Halloween Costume Sleepwear Homewear",
+      "current_price": 19.99,
+      "reference_price": 23.99,
+      "discount_percent": 16.67,
+      "savings": 4.0,
+      "tier": "Amazon Deal",
+      "score": 17,
+      "detected_at": "2026-10-27T01:28:05.388078+00:00",
+      "amazon_url": "https://www.amazon.com/Fitted-Pajamas-Halloween-Cosplay-Costume/dp/B097ZL24QJ",
+      "image_url": "https://m.media-amazon.com/images/I/71t4dHKO6CL.jpg"
     },
     {
       "asin": "B005CUK20Q",
@@ -220,9 +194,35 @@
       "savings": 3.74,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-10-26T19:55:33.733314+00:00",
+      "detected_at": "2026-10-27T01:28:05.388025+00:00",
       "amazon_url": "https://www.amazon.com/HERSH%C3%89YS-Hersheys-Chocolate-Variety-Reeses/dp/B005CUK20Q",
       "image_url": "https://m.media-amazon.com/images/I/81gjI4Y0tPL.jpg"
+    },
+    {
+      "asin": "B01L8JJDJU",
+      "title": "Hanes Men's Sweatshirt, EcoSmart Fleece Crewneck Sweatshirt, Big & Tall Available, 1 or 2-Pack",
+      "current_price": 11.68,
+      "reference_price": 13.0,
+      "discount_percent": 10.15,
+      "savings": 1.32,
+      "tier": "Amazon Deal",
+      "score": 10,
+      "detected_at": "2026-10-27T01:28:05.388103+00:00",
+      "amazon_url": "https://www.amazon.com/Hanes-Ecosmart-Fleece-Sweatshirt-Large/dp/B01L8JJDJU",
+      "image_url": "https://m.media-amazon.com/images/I/71Z50lG6B1L.jpg"
+    },
+    {
+      "asin": "B0HCYXTJHR",
+      "title": "Miracase Magnetic for iPhone 18 Pro Case, Silicone, Burgundy | Compatible with MagSafe, Soft Microfiber Lining,Shockproof Drop Protection Phone Case for 18 Pro",
+      "current_price": 19.79,
+      "reference_price": 21.99,
+      "discount_percent": 10.0,
+      "savings": 2.2,
+      "tier": "Amazon Deal",
+      "score": 10,
+      "detected_at": "2026-10-27T01:28:05.388112+00:00",
+      "amazon_url": "https://www.amazon.com/Miracase-Compatible-Microfiber-Shockproof-Protection/dp/B0HCYXTJHR",
+      "image_url": "https://m.media-amazon.com/images/I/61PxlVyu8NL.jpg"
     }
   ]
 }
