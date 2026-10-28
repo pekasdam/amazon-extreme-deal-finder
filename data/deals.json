@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-10-27T19:25:37.615603+00:00",
+  "generated_at": "2026-10-28T01:18:50.900203+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 17,
   "deals": [
-    {
-      "asin": "B0DHLTCYWH",
-      "title": "Blink Outdoor 4 \u2013 Wireless smart security camera, two-year battery life, 1080p HD day and infrared night live view, two-way talk. Sync Module Core included \u2013 5 camera system",
-      "current_price": 118.99,
-      "reference_price": 299.99,
-      "discount_percent": 60.34,
-      "savings": 181.0,
-      "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
-      "score": 60,
-      "detected_at": "2026-10-27T19:25:37.615500+00:00",
-      "amazon_url": "https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLTCYWH",
-      "image_url": "https://m.media-amazon.com/images/I/31oSNXtjjyL.jpg"
-    },
     {
       "asin": "B0FHJ7TKZM",
       "title": "Ring Battery Doorbell 2K (newest model) Retinal 2K with wide-angle video, up to 6x Enhanced Zoom, Two-Way Talk, and Built-In Battery, Speckled Gray",
@@ -25,7 +12,7 @@
       "savings": 55.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 55,
-      "detected_at": "2026-10-27T19:25:37.615369+00:00",
+      "detected_at": "2026-10-28T01:18:50.900017+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
       "image_url": "https://m.media-amazon.com/images/I/61ZzGy5LwDL.jpg"
     },
@@ -38,22 +25,9 @@
       "savings": 82.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 53,
-      "detected_at": "2026-10-27T19:25:37.615447+00:00",
+      "detected_at": "2026-10-28T01:18:50.900057+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT",
       "image_url": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg"
-    },
-    {
-      "asin": "B0DCPX2M8N",
-      "title": "Shark PowerDetect Robot Vacuum & Mop Combo, 60-Day Self-Empty, AV2800ZE | LiDAR Mapping & AutoLift for Carpet & Hard Floors, HEPA, Sonic Mopping, Edge & Object Detection, Self-Refill & Self-Clean",
-      "current_price": 399.99,
-      "reference_price": 829.0,
-      "discount_percent": 51.75,
-      "savings": 429.01,
-      "tier": "\u2705 50%+ GOOD DEAL",
-      "score": 52,
-      "detected_at": "2026-10-27T19:25:37.615417+00:00",
-      "amazon_url": "https://www.amazon.com/Shark-PowerDetect-Self-Emptying-Technologies-AV2800ZE/dp/B0DCPX2M8N",
-      "image_url": "https://m.media-amazon.com/images/I/814c2z79i0L.jpg"
     },
     {
       "asin": "B0B2VTZ432",
@@ -64,7 +38,7 @@
       "savings": 265.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-10-27T19:25:37.615392+00:00",
+      "detected_at": "2026-10-28T01:18:50.900034+00:00",
       "amazon_url": "https://www.amazon.com/Shark-AZ3002-Self-Cleaning-Neutralizer-Technology/dp/B0B2VTZ432",
       "image_url": "https://m.media-amazon.com/images/I/71SfhQ2wbOL.jpg"
     },
@@ -77,7 +51,7 @@
       "savings": 22.0,
       "tier": "Amazon Deal",
       "score": 38,
-      "detected_at": "2026-10-27T19:25:37.615425+00:00",
+      "detected_at": "2026-10-28T01:18:50.900052+00:00",
       "amazon_url": "https://www.amazon.com/Ultra-Soft-Queen-Mattress-Topper/dp/B0FVYBPSWY",
       "image_url": "https://m.media-amazon.com/images/I/81AArX908mL.jpg"
     },
@@ -90,7 +64,7 @@
       "savings": 75.0,
       "tier": "Amazon Deal",
       "score": 38,
-      "detected_at": "2026-10-27T19:25:37.615383+00:00",
+      "detected_at": "2026-10-28T01:18:50.900046+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Navigator-Professional-Anti-Allergy-NV360/dp/B00JH98GR4",
       "image_url": "https://m.media-amazon.com/images/I/61w1n9p2R0L.jpg"
     },
@@ -103,48 +77,22 @@
       "savings": 3.41,
       "tier": "Amazon Deal",
       "score": 34,
-      "detected_at": "2026-10-27T19:25:37.615493+00:00",
+      "detected_at": "2026-10-28T01:18:50.900084+00:00",
       "amazon_url": "https://www.amazon.com/SUPFINE-Pro-Case-Translucent-Anti-Fingerprint/dp/B0FH67STX8",
       "image_url": "https://m.media-amazon.com/images/I/719E-PGfC1L.jpg"
     },
     {
-      "asin": "B079JLY5M5",
-      "title": "Logitech MK270 Full Size Wireless Keyboard and Mouse Combo - Black | Full size keyboard with spill-resistant design, compact ambidextrous mouse, connect via single included USB-A Nano Receiver",
-      "current_price": 19.99,
-      "reference_price": 29.99,
-      "discount_percent": 33.34,
-      "savings": 10.0,
+      "asin": "B0CNTRVZPW",
+      "title": "Waterpik Cordless Pulse 3100 Portable Water Flosser, Rechargeable, White | 2 Settings, 1 Precision Tip & 1 Tongue Cleaner Tip for Fresh Breath, Travel, Shower Use, ADA Accepted, WF-20 Amazon Exclusive",
+      "current_price": 34.95,
+      "reference_price": 49.99,
+      "discount_percent": 30.09,
+      "savings": 15.04,
       "tier": "Amazon Deal",
-      "score": 33,
-      "detected_at": "2026-10-27T19:25:37.615409+00:00",
-      "amazon_url": "https://www.amazon.com/Logitech-MK270-Wireless-Keyboard-Mouse/dp/B079JLY5M5",
-      "image_url": "https://m.media-amazon.com/images/I/61a14rKCeCL.jpg"
-    },
-    {
-      "asin": "B07MJL8NXR",
-      "title": "Premier Protein 30g High Protein Shake, Chocolate, 12 Pack | 160 Calories, 24 Vitamins & Minerals, No Added Sugar, Supports Muscle Health, Gluten-Free, 11.5 oz",
-      "current_price": 19.99,
-      "reference_price": 28.92,
-      "discount_percent": 30.88,
-      "savings": 8.93,
-      "tier": "Amazon Deal",
-      "score": 31,
-      "detected_at": "2026-10-27T19:25:37.615336+00:00",
-      "amazon_url": "https://www.amazon.com/Premier-Protein-Shake-Chocolate-11-5/dp/B07MJL8NXR",
-      "image_url": "https://m.media-amazon.com/images/I/71Y8GT3GYvL.jpg"
-    },
-    {
-      "asin": "B0CHGT1KFJ",
-      "title": "Samsung SSD 990 PRO 4TB, PCIe 4.0 M.2 2280, Up to 7,450 MB/s | NVMe Internal Solid State Hard Drive for High End Computing, Gaming, and Heavy Duty Workstations (MZ-V9P4T0B/AM)",
-      "current_price": 799.9,
-      "reference_price": 1099.99,
-      "discount_percent": 27.28,
-      "savings": 300.09,
-      "tier": "Amazon Deal",
-      "score": 27,
-      "detected_at": "2026-10-27T19:25:37.615483+00:00",
-      "amazon_url": "https://www.amazon.com/Samsung-Computing-Workstations-MZ-V9P4T0B-AM/dp/B0CHGT1KFJ",
-      "image_url": "https://m.media-amazon.com/images/I/81WuG6lQuDL.jpg"
+      "score": 30,
+      "detected_at": "2026-10-28T01:18:50.900105+00:00",
+      "amazon_url": "https://www.amazon.com/Waterpik-Cordless-Rechargeable-Portable-Waterproof/dp/B0CNTRVZPW",
+      "image_url": "https://m.media-amazon.com/images/I/712lAbKMMnL.jpg"
     },
     {
       "asin": "B0HJ31GH9Y",
@@ -155,9 +103,22 @@
       "savings": 499.01,
       "tier": "Amazon Deal",
       "score": 26,
-      "detected_at": "2026-10-27T19:25:37.615432+00:00",
+      "detected_at": "2026-10-28T01:18:50.900040+00:00",
       "amazon_url": "https://www.amazon.com/Anker-Portable-Station-Bifacial-Generator/dp/B0HJ31GH9Y",
       "image_url": "https://m.media-amazon.com/images/I/81EFJjWKIzL.jpg"
+    },
+    {
+      "asin": "B07MCCVZYC",
+      "title": "Premier Protein 30g High Protein Shake, Vanilla, 12 Pack | 160 Calories, 24 Vitamins & Minerals, No Added Sugar, Supports Muscle Health, Gluten-Free, 11.5 oz",
+      "current_price": 19.99,
+      "reference_price": 26.67,
+      "discount_percent": 25.05,
+      "savings": 6.68,
+      "tier": "Amazon Deal",
+      "score": 25,
+      "detected_at": "2026-10-28T01:18:50.899985+00:00",
+      "amazon_url": "https://www.amazon.com/Premier-Protein-Shake-Vanilla-count/dp/B07MCCVZYC",
+      "image_url": "https://m.media-amazon.com/images/I/71C1kRqCJXL.jpg"
     },
     {
       "asin": "B0GT28CSYM",
@@ -168,7 +129,7 @@
       "savings": 100.01,
       "tier": "Amazon Deal",
       "score": 25,
-      "detected_at": "2026-10-27T19:25:37.615462+00:00",
+      "detected_at": "2026-10-28T01:18:50.900079+00:00",
       "amazon_url": "https://www.amazon.com/Dyson-V8-Cyclone-Cordless-Vacuum/dp/B0GT28CSYM",
       "image_url": "https://m.media-amazon.com/images/I/51WShDQ+QIL.jpg"
     },
@@ -181,35 +142,35 @@
       "savings": 11.0,
       "tier": "Amazon Deal",
       "score": 24,
-      "detected_at": "2026-10-27T19:25:37.615439+00:00",
+      "detected_at": "2026-10-28T01:18:50.900068+00:00",
       "amazon_url": "https://www.amazon.com/Crest-Professional-Whitestrips-Whitening-Treatments/dp/B00AHAWWO0",
       "image_url": "https://m.media-amazon.com/images/I/71JH8MLN5vL.jpg"
     },
     {
-      "asin": "0593799909",
-      "title": "Mediterranean All the Way: Bold Flavors, Built to Share: A Cookbook",
-      "current_price": 35.91,
-      "reference_price": 45.0,
-      "discount_percent": 20.2,
-      "savings": 9.09,
+      "asin": "B0DZCRJ1DR",
+      "title": "JUOLOET Unisex Adult Onesie Pajamas Animal One Piece Snug Fit Halloween Costume Cosplay for Women Men",
+      "current_price": 22.49,
+      "reference_price": 27.99,
+      "discount_percent": 19.65,
+      "savings": 5.5,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-10-27T19:25:37.615401+00:00",
-      "amazon_url": "https://www.amazon.com/Mediterranean-All-Way-Flavors-Cookbook/dp/0593799909",
-      "image_url": "https://m.media-amazon.com/images/I/91AUgb-jhvL.jpg"
+      "detected_at": "2026-10-28T01:18:50.900027+00:00",
+      "amazon_url": "https://www.amazon.com/JUOLOET-Pajamas-Halloween-Sleepwear-Homewear/dp/B0DZCRJ1DR",
+      "image_url": "https://m.media-amazon.com/images/I/71yewkEhWKL.jpg"
     },
     {
-      "asin": "B09RTVN5GN",
-      "title": "Energizer Alkaline Power AAA Batteries (32 Pack), Long-Lasting | For wireless mouse, flashlights, thermometers, smart home devices, and controllers; hold power for up to 10 years in storage",
-      "current_price": 15.99,
-      "reference_price": 19.99,
-      "discount_percent": 20.01,
-      "savings": 4.0,
+      "asin": "B01L8JJ840",
+      "title": "Hanes Men's Sweatshirt, EcoSmart Fleece Crewneck Sweatshirt, Big & Tall Available, 1 or 2-Pack",
+      "current_price": 9.83,
+      "reference_price": 11.57,
+      "discount_percent": 15.04,
+      "savings": 1.74,
       "tier": "Amazon Deal",
-      "score": 20,
-      "detected_at": "2026-10-27T19:25:37.615469+00:00",
-      "amazon_url": "https://www.amazon.com/Energizer-Batteries-Triple-Long-Lasting-Alkaline/dp/B09RTVN5GN",
-      "image_url": "https://m.media-amazon.com/images/I/81WjCmxPuUL.jpg"
+      "score": 15,
+      "detected_at": "2026-10-28T01:18:50.900100+00:00",
+      "amazon_url": "https://www.amazon.com/Hanes-Ecosmart-Fleece-Sweatshirt-Medium/dp/B01L8JJ840",
+      "image_url": "https://m.media-amazon.com/images/I/61azFaUG-XL.jpg"
     },
     {
       "asin": "B005CUK20Q",
@@ -220,9 +181,48 @@
       "savings": 3.74,
       "tier": "Amazon Deal",
       "score": 15,
-      "detected_at": "2026-10-27T19:25:37.615455+00:00",
+      "detected_at": "2026-10-28T01:18:50.900063+00:00",
       "amazon_url": "https://www.amazon.com/HERSH%C3%89YS-Hersheys-Chocolate-Variety-Reeses/dp/B005CUK20Q",
       "image_url": "https://m.media-amazon.com/images/I/81gjI4Y0tPL.jpg"
+    },
+    {
+      "asin": "B09JFR8HTV",
+      "title": "J.VER Men's Dress Shirts Solid Long Sleeve Stretch Wrinkle-Free Formal Shirt Business Casual Button Down Shirts",
+      "current_price": 16.99,
+      "reference_price": 19.99,
+      "discount_percent": 15.01,
+      "savings": 3.0,
+      "tier": "Amazon Deal",
+      "score": 15,
+      "detected_at": "2026-10-28T01:18:50.900095+00:00",
+      "amazon_url": "https://www.amazon.com/J-Ver-Shirts-Stretch-Wrinkle-Free-Regular/dp/B09JFR8HTV",
+      "image_url": "https://m.media-amazon.com/images/I/51rkKPruYvL.jpg"
+    },
+    {
+      "asin": "B0HCYX8QBJ",
+      "title": "Miracase Silicone & Magnetic for iPhone 18 Pro Max Case, Burgundy | Compatible with MagSafe, Camera Control Cover, Premium Silicone Cover Shockproof Drop Protection Phone Case for 18 Pro Max",
+      "current_price": 21.98,
+      "reference_price": 24.99,
+      "discount_percent": 12.04,
+      "savings": 3.01,
+      "tier": "Amazon Deal",
+      "score": 12,
+      "detected_at": "2026-10-28T01:18:50.900090+00:00",
+      "amazon_url": "https://www.amazon.com/Miracase-Silicone-Compatible-Shockproof-Protection/dp/B0HCYX8QBJ",
+      "image_url": "https://m.media-amazon.com/images/I/61PxlVyu8NL.jpg"
+    },
+    {
+      "asin": "B0CHLRYPK1",
+      "title": "EGO Power+ 24\" Electric Snow Blower, Cordless Self-Propelled 2-Stage XP, Includes (2) 56 V 10.0Ah Batteries and Dual Port Charger - SNT2416",
+      "current_price": 1799.0,
+      "reference_price": 1979.99,
+      "discount_percent": 9.14,
+      "savings": 180.99,
+      "tier": "Amazon Deal",
+      "score": 9,
+      "detected_at": "2026-10-28T01:18:50.900074+00:00",
+      "amazon_url": "https://www.amazon.com/EGO-SNT2416-Self-Propelled-Batteries-Included/dp/B0CHLRYPK1",
+      "image_url": "https://m.media-amazon.com/images/I/71BzY8NzgFL.jpg"
     }
   ]
 }
