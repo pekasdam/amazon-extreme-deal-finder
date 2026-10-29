@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:32:07.180772+00:00",
+  "generated_at": "2026-10-29T01:47:36.565411+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 17,
   "deals": [
@@ -12,7 +12,7 @@
       "savings": 181.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-10-28T19:32:07.180621+00:00",
+      "detected_at": "2026-10-29T01:47:36.565278+00:00",
       "amazon_url": "https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLTCYWH",
       "image_url": "https://m.media-amazon.com/images/I/31oSNXtjjyL.jpg"
     },
@@ -25,7 +25,7 @@
       "savings": 55.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 55,
-      "detected_at": "2026-10-28T19:32:07.180540+00:00",
+      "detected_at": "2026-10-29T01:47:36.565221+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
       "image_url": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg"
     },
@@ -38,7 +38,7 @@
       "savings": 82.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 53,
-      "detected_at": "2026-10-28T19:32:07.180549+00:00",
+      "detected_at": "2026-10-29T01:47:36.565272+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT",
       "image_url": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg"
     },
@@ -51,35 +51,9 @@
       "savings": 265.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-10-28T19:32:07.180557+00:00",
+      "detected_at": "2026-10-29T01:47:36.565238+00:00",
       "amazon_url": "https://www.amazon.com/Shark-AZ3002-Self-Cleaning-Neutralizer-Technology/dp/B0B2VTZ432",
       "image_url": "https://m.media-amazon.com/images/I/71SfhQ2wbOL.jpg"
-    },
-    {
-      "asin": "B0FVFGL38H",
-      "title": "Anker SOLIX C2000 Gen 2 Portable Power Station, 2,048Wh, 2,400W,  Camping | 2,048Wh LiFePO4 Battery, Full Charge in 58 Min, 2,400W (Peak 4,000W) Solar Generator for USP, Outdoor and Emergency Use",
-      "current_price": 899.98,
-      "reference_price": 1499.0,
-      "discount_percent": 39.96,
-      "savings": 599.02,
-      "tier": "Amazon Deal",
-      "score": 40,
-      "detected_at": "2026-10-28T19:32:07.180529+00:00",
-      "amazon_url": "https://www.amazon.com/Anker-Portable-Station-Generator-Optional/dp/B0FVFGL38H",
-      "image_url": "https://m.media-amazon.com/images/I/71O0pCnuK1L.jpg"
-    },
-    {
-      "asin": "B0H7J38GDF",
-      "title": "Terunsoul 4K+4K Dash Cam, Free 128GB Card, 5.8GHz WiFi6 - up to 20MB/s | AProX HD Night Vision Dash Cam Front and Rear, App, GPS, G-Sensor, 24H Parking Mode, Support 512GB Max, Premium Dark Gray",
-      "current_price": 109.98,
-      "reference_price": 183.0,
-      "discount_percent": 39.9,
-      "savings": 73.02,
-      "tier": "Amazon Deal",
-      "score": 40,
-      "detected_at": "2026-10-28T19:32:07.180596+00:00",
-      "amazon_url": "https://www.amazon.com/Terunsoul-Dash-128GB-5-8GHz-WiFi6/dp/B0H7J38GDF",
-      "image_url": "https://m.media-amazon.com/images/I/71+ekd6Xr7L.jpg"
     },
     {
       "asin": "B0FVYBPSWY",
@@ -90,7 +64,7 @@
       "savings": 22.0,
       "tier": "Amazon Deal",
       "score": 38,
-      "detected_at": "2026-10-28T19:32:07.180570+00:00",
+      "detected_at": "2026-10-29T01:47:36.565229+00:00",
       "amazon_url": "https://www.amazon.com/Ultra-Soft-Queen-Mattress-Topper/dp/B0FVYBPSWY",
       "image_url": "https://m.media-amazon.com/images/I/81AArX908mL.jpg"
     },
@@ -103,48 +77,22 @@
       "savings": 75.0,
       "tier": "Amazon Deal",
       "score": 38,
-      "detected_at": "2026-10-28T19:32:07.180564+00:00",
+      "detected_at": "2026-10-29T01:47:36.565252+00:00",
       "amazon_url": "https://www.amazon.com/Shark-Navigator-Professional-Anti-Allergy-NV360/dp/B00JH98GR4",
       "image_url": "https://m.media-amazon.com/images/I/61w1n9p2R0L.jpg"
     },
     {
-      "asin": "B0FH65ZLHV",
-      "title": "SUPFINE Magnetic for iPhone 17 Case Black With Screen Protector | Translucent Matte Phone Cover, Compatible with MagSafe, Military Grade Drop Proof, Rugged Shockproof Protective",
-      "current_price": 6.48,
+      "asin": "B0FH67STX8",
+      "title": "SUPFINE Magnetic for iPhone 18 Pro Case/ 17 Pro Case Black | With Screen Protector, Translucent Matte, Compatible with MagSafe, Military Grade Drop Proof, Rugged Shockproof Protective",
+      "current_price": 6.58,
       "reference_price": 9.99,
-      "discount_percent": 35.14,
-      "savings": 3.51,
+      "discount_percent": 34.13,
+      "savings": 3.41,
       "tier": "Amazon Deal",
-      "score": 35,
-      "detected_at": "2026-10-28T19:32:07.180667+00:00",
-      "amazon_url": "https://www.amazon.com/SUPFINE-17-Case-Translucent-Anti-Fingerprint/dp/B0FH65ZLHV",
-      "image_url": "https://m.media-amazon.com/images/I/71X8BVj-k1L.jpg"
-    },
-    {
-      "asin": "B079JLY5M5",
-      "title": "Logitech MK270 Full Size Wireless Keyboard and Mouse Combo - Black | Full size keyboard with spill-resistant design, compact ambidextrous mouse, connect via single included USB-A Nano Receiver",
-      "current_price": 19.99,
-      "reference_price": 29.99,
-      "discount_percent": 33.34,
-      "savings": 10.0,
-      "tier": "Amazon Deal",
-      "score": 33,
-      "detected_at": "2026-10-28T19:32:07.180590+00:00",
-      "amazon_url": "https://www.amazon.com/Logitech-MK270-Wireless-Keyboard-Mouse/dp/B079JLY5M5",
-      "image_url": "https://m.media-amazon.com/images/I/61a14rKCeCL.jpg"
-    },
-    {
-      "asin": "B07MJL8NXR",
-      "title": "Premier Protein 30g High Protein Shake, Chocolate, 12 Pack | 160 Calories, 24 Vitamins & Minerals, No Added Sugar, Supports Muscle Health, Gluten-Free, 11.5 oz",
-      "current_price": 19.99,
-      "reference_price": 28.92,
-      "discount_percent": 30.88,
-      "savings": 8.93,
-      "tier": "Amazon Deal",
-      "score": 31,
-      "detected_at": "2026-10-28T19:32:07.180497+00:00",
-      "amazon_url": "https://www.amazon.com/Premier-Protein-Shake-Chocolate-11-5/dp/B07MJL8NXR",
-      "image_url": "https://m.media-amazon.com/images/I/71Y8GT3GYvL.jpg"
+      "score": 34,
+      "detected_at": "2026-10-29T01:47:36.565299+00:00",
+      "amazon_url": "https://www.amazon.com/SUPFINE-Pro-Case-Translucent-Anti-Fingerprint/dp/B0FH67STX8",
+      "image_url": "https://m.media-amazon.com/images/I/719E-PGfC1L.jpg"
     },
     {
       "asin": "B0CNTRVZPW",
@@ -155,9 +103,35 @@
       "savings": 15.04,
       "tier": "Amazon Deal",
       "score": 30,
-      "detected_at": "2026-10-28T19:32:07.180627+00:00",
+      "detected_at": "2026-10-29T01:47:36.565317+00:00",
       "amazon_url": "https://www.amazon.com/Waterpik-Cordless-Rechargeable-Portable-Waterproof/dp/B0CNTRVZPW",
       "image_url": "https://m.media-amazon.com/images/I/712lAbKMMnL.jpg"
+    },
+    {
+      "asin": "B0HJ31GH9Y",
+      "title": "Anker SOLIX C2000 Gen 2 Portable Power Station&400W Bifacial Panel, 2048Wh | 2,400W (Peak 4,000W) Solar Generator, Full Charge in 58 Min, 2,048Wh LiFePO4 Battery for Home Backup, Power Outages, and Camp",
+      "current_price": 1399.99,
+      "reference_price": 1899.0,
+      "discount_percent": 26.28,
+      "savings": 499.01,
+      "tier": "Amazon Deal",
+      "score": 26,
+      "detected_at": "2026-10-29T01:47:36.565209+00:00",
+      "amazon_url": "https://www.amazon.com/Anker-Portable-Station-Bifacial-Generator/dp/B0HJ31GH9Y",
+      "image_url": "https://m.media-amazon.com/images/I/81EFJjWKIzL.jpg"
+    },
+    {
+      "asin": "B07MCCVZYC",
+      "title": "Premier Protein 30g High Protein Shake, Vanilla, 12 Pack | 160 Calories, 24 Vitamins & Minerals, No Added Sugar, Supports Muscle Health, Gluten-Free, 11.5 oz",
+      "current_price": 19.99,
+      "reference_price": 26.67,
+      "discount_percent": 25.05,
+      "savings": 6.68,
+      "tier": "Amazon Deal",
+      "score": 25,
+      "detected_at": "2026-10-29T01:47:36.565179+00:00",
+      "amazon_url": "https://www.amazon.com/Premier-Protein-Shake-Vanilla-count/dp/B07MCCVZYC",
+      "image_url": "https://m.media-amazon.com/images/I/71C1kRqCJXL.jpg"
     },
     {
       "asin": "B0GT28CSYM",
@@ -168,7 +142,7 @@
       "savings": 100.01,
       "tier": "Amazon Deal",
       "score": 25,
-      "detected_at": "2026-10-28T19:32:07.180577+00:00",
+      "detected_at": "2026-10-29T01:47:36.565265+00:00",
       "amazon_url": "https://www.amazon.com/Dyson-V8-Cyclone-Cordless-Vacuum/dp/B0GT28CSYM",
       "image_url": "https://m.media-amazon.com/images/I/51WShDQ+QIL.jpg"
     },
@@ -181,22 +155,9 @@
       "savings": 11.0,
       "tier": "Amazon Deal",
       "score": 24,
-      "detected_at": "2026-10-28T19:32:07.180602+00:00",
+      "detected_at": "2026-10-29T01:47:36.565259+00:00",
       "amazon_url": "https://www.amazon.com/Crest-Professional-Whitestrips-Whitening-Treatments/dp/B00AHAWWO0",
       "image_url": "https://m.media-amazon.com/images/I/71JH8MLN5vL.jpg"
-    },
-    {
-      "asin": "B0DWMW435C",
-      "title": "G4Free Yoga Pants for Women Wide Leg Pants with Pockets High Waisted | Moisture Wicking, Soft Comfortable Feel, 4-Way Stretch, Faux Fly, Faux Back Pockets, Yoga, Work & Casual Wear",
-      "current_price": 29.98,
-      "reference_price": 37.99,
-      "discount_percent": 21.08,
-      "savings": 8.01,
-      "tier": "Amazon Deal",
-      "score": 21,
-      "detected_at": "2026-10-28T19:32:07.180615+00:00",
-      "amazon_url": "https://www.amazon.com/G4Free-Sweatpants-Pockets-Lightweight-Breathable/dp/B0DWMW435C",
-      "image_url": "https://m.media-amazon.com/images/I/71yg9KoUwkL.jpg"
     },
     {
       "asin": "B09RTVN5GN",
@@ -207,22 +168,61 @@
       "savings": 4.0,
       "tier": "Amazon Deal",
       "score": 20,
-      "detected_at": "2026-10-28T19:32:07.180609+00:00",
+      "detected_at": "2026-10-29T01:47:36.565285+00:00",
       "amazon_url": "https://www.amazon.com/Energizer-Batteries-Triple-Long-Lasting-Alkaline/dp/B09RTVN5GN",
       "image_url": "https://m.media-amazon.com/images/I/81WjCmxPuUL.jpg"
     },
     {
-      "asin": "B0CHLRYPK1",
-      "title": "EGO Power+ 24\" Electric Snow Blower, Cordless Self-Propelled 2-Stage XP, Includes (2) 56 V 10.0Ah Batteries and Dual Port Charger - SNT2416",
-      "current_price": 1799.0,
-      "reference_price": 1979.99,
-      "discount_percent": 9.14,
-      "savings": 180.99,
+      "asin": "B0FD9K3L3C",
+      "title": "Lormandy Straw Water Filter 5 Pack - Outdoor Camping & Hiking Survival Gear | Family Use Ultra-Light Personal Filter Straws | Backpacking, Travel, Bug-Out Bags, Emergency Preparedness",
+      "current_price": 52.59,
+      "reference_price": 61.88,
+      "discount_percent": 15.01,
+      "savings": 9.29,
       "tier": "Amazon Deal",
-      "score": 9,
-      "detected_at": "2026-10-28T19:32:07.180583+00:00",
-      "amazon_url": "https://www.amazon.com/EGO-SNT2416-Self-Propelled-Batteries-Included/dp/B0CHLRYPK1",
-      "image_url": "https://m.media-amazon.com/images/I/71BzY8NzgFL.jpg"
+      "score": 15,
+      "detected_at": "2026-10-29T01:47:36.565245+00:00",
+      "amazon_url": "https://www.amazon.com/Lormandy-Straw-Water-Filter-Pack/dp/B0FD9K3L3C",
+      "image_url": "https://m.media-amazon.com/images/I/71Ypk-pFOrL.jpg"
+    },
+    {
+      "asin": "B09JFR8HTV",
+      "title": "J.VER Men's Dress Shirts Solid Long Sleeve Stretch Wrinkle-Free Formal Shirt Business Casual Button Down Shirts",
+      "current_price": 16.99,
+      "reference_price": 19.99,
+      "discount_percent": 15.01,
+      "savings": 3.0,
+      "tier": "Amazon Deal",
+      "score": 15,
+      "detected_at": "2026-10-29T01:47:36.565305+00:00",
+      "amazon_url": "https://www.amazon.com/J-Ver-Shirts-Stretch-Wrinkle-Free-Regular/dp/B09JFR8HTV",
+      "image_url": "https://m.media-amazon.com/images/I/51rkKPruYvL.jpg"
+    },
+    {
+      "asin": "B0HCYX8QBJ",
+      "title": "Miracase Silicone & Magnetic for iPhone 18 Pro Max Case, Burgundy | Compatible with MagSafe, Camera Control Cover, Premium Silicone Cover Shockproof Drop Protection Phone Case for 18 Pro Max",
+      "current_price": 21.98,
+      "reference_price": 24.99,
+      "discount_percent": 12.04,
+      "savings": 3.01,
+      "tier": "Amazon Deal",
+      "score": 12,
+      "detected_at": "2026-10-29T01:47:36.565311+00:00",
+      "amazon_url": "https://www.amazon.com/Miracase-Silicone-Compatible-Shockproof-Protection/dp/B0HCYX8QBJ",
+      "image_url": "https://m.media-amazon.com/images/I/61PxlVyu8NL.jpg"
+    },
+    {
+      "asin": "B0H33SHVPW",
+      "title": "FEELLE Solar Power Bank 50000mAh Magnetic Portable Charger with Hand Crank | Built in 4 Cables & 4 Solar Panels, PD QC 3.0 Fast Charging Battery Pack, Flashlight for Outdoor, Charge 6 Devices at Once",
+      "current_price": 62.99,
+      "reference_price": 69.99,
+      "discount_percent": 10.0,
+      "savings": 7.0,
+      "tier": "Amazon Deal",
+      "score": 10,
+      "detected_at": "2026-10-29T01:47:36.565292+00:00",
+      "amazon_url": "https://www.amazon.com/FEELLE-50000mAh-Magnetic-Portable-Charger/dp/B0H33SHVPW",
+      "image_url": "https://m.media-amazon.com/images/I/8195HfgV1EL.jpg"
     }
   ]
 }
