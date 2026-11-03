@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T03:28:13.323924+00:00",
+  "generated_at": "2026-11-03T14:08:18.288878+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 17,
   "deals": [
@@ -12,7 +12,7 @@
       "savings": 60.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-11-03T03:28:13.323688+00:00",
+      "detected_at": "2026-11-03T14:08:18.288532+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
       "image_url": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg"
     },
@@ -25,7 +25,7 @@
       "savings": 35.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 58,
-      "detected_at": "2026-11-03T03:28:13.323803+00:00",
+      "detected_at": "2026-11-03T14:08:18.288716+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Indoor-Cam-Plus-Plugin-White/dp/B0DXM9Y8J1",
       "image_url": "https://m.media-amazon.com/images/I/51WG7mi3h-L.jpg"
     },
@@ -38,7 +38,7 @@
       "savings": 82.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 53,
-      "detected_at": "2026-11-03T03:28:13.323776+00:00",
+      "detected_at": "2026-11-03T14:08:18.288632+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT",
       "image_url": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg"
     },
@@ -51,22 +51,22 @@
       "savings": 50.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-11-03T03:28:13.323781+00:00",
+      "detected_at": "2026-11-03T14:08:18.288641+00:00",
       "amazon_url": "https://www.amazon.com/Ring-business-security-Wide-Angle-Enhanced/dp/B0FWDSZ6Q2",
       "image_url": "https://m.media-amazon.com/images/I/51s3QBJPsvL.jpg"
     },
     {
-      "asin": "B00X7R1FZ2",
-      "title": "Shark NV752 Rotator Powered Lift-Away TruePet Upright Vacuum with HEPA Filter, Large Dust Cup Capacity, LED Headlights, Upholstery Tool, Perfect Pet Power Brush & Crevice Tool, Bordeaux",
-      "current_price": 199.99,
-      "reference_price": 399.99,
+      "asin": "B0091JG0LY",
+      "title": "Shark Rotator Lift-Away Upright Vacuum with HEPA Filter, White/Red, NV501 | Lift-Away Pod, 0.9-Qt Dust Cup, Swivel Steering, LED Headlights, Wide Upholstery Tool, Dusting Brush and Crevice Tool",
+      "current_price": 164.99,
+      "reference_price": 329.99,
       "discount_percent": 50.0,
-      "savings": 200.0,
+      "savings": 165.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-11-03T03:28:13.323817+00:00",
-      "amazon_url": "https://www.amazon.com/Shark-NV752-Lift-Away-Headlights-Upholstery/dp/B00X7R1FZ2",
-      "image_url": "https://m.media-amazon.com/images/I/61X2L+SohGL.jpg"
+      "detected_at": "2026-11-03T14:08:18.288616+00:00",
+      "amazon_url": "https://www.amazon.com/Shark-Professional-Lift-Away-Anti-Allergy-NV501/dp/B0091JG0LY",
+      "image_url": "https://m.media-amazon.com/images/I/61mVJng1EaL.jpg"
     },
     {
       "asin": "B0FWFJ5Q2Z",
@@ -77,22 +77,22 @@
       "savings": 100.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-11-03T03:28:13.323770+00:00",
+      "detected_at": "2026-11-03T14:08:18.288649+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Floodlight-Wide-Angle-Ultra-Bright-Floodlights/dp/B0FWFJ5Q2Z",
       "image_url": "https://m.media-amazon.com/images/I/51PUKKDMcZL.jpg"
     },
     {
-      "asin": "B0CS3V8M9H",
-      "title": "Ninja Air Fryer XL with MaxCrisp, 6.5 Qt, 6-in-1, Grey, AF181 | Max crisp, air fry, roast, bake, reheat, dehydrate, 1750W, 450F max, Fits 9 lbs wings",
-      "current_price": 99.99,
-      "reference_price": 179.99,
-      "discount_percent": 44.45,
-      "savings": 80.0,
+      "asin": "B0H5RLCXG8",
+      "title": "Bose QuietComfort Headphones (2nd Gen) - Wireless Headphones, Active Over Ear Noise Cancelling and Mic, Immersive Audio, USB-C Charging and Lossless Audio, Up to 24 Hours of Play time, Hazelnut Taupe",
+      "current_price": 199.0,
+      "reference_price": 359.0,
+      "discount_percent": 44.57,
+      "savings": 160.0,
       "tier": "Amazon Deal",
-      "score": 44,
-      "detected_at": "2026-11-03T03:28:13.323812+00:00",
-      "amazon_url": "https://www.amazon.com/Ninja-Capacity-Dehydrate-Technology-AF181/dp/B0CS3V8M9H",
-      "image_url": "https://m.media-amazon.com/images/I/61TH-Ig6i-L.jpg"
+      "score": 45,
+      "detected_at": "2026-11-03T14:08:18.288696+00:00",
+      "amazon_url": "https://www.amazon.com/Bose-QuietComfort-Headphones-2nd-Gen/dp/B0H5RLCXG8",
+      "image_url": "https://m.media-amazon.com/images/I/617oOmNGWcL.jpg"
     },
     {
       "asin": "B0GGRSMXKN",
@@ -103,22 +103,22 @@
       "savings": 300.0,
       "tier": "Amazon Deal",
       "score": 43,
-      "detected_at": "2026-11-03T03:28:13.323743+00:00",
+      "detected_at": "2026-11-03T14:08:18.288606+00:00",
       "amazon_url": "https://www.amazon.com/roborock-Qrevo-Pro-Multifunctional-Self-Cleaning/dp/B0GGRSMXKN",
       "image_url": "https://m.media-amazon.com/images/I/615KW-IyiHL.jpg"
     },
     {
-      "asin": "B0F7Z4QZTT",
-      "title": "Amazon Fire TV Stick 4K Plus with AI-powered Fire TV Search, Wi-Fi 6, stream hundreds of thousands of movies and shows, free & live TV, find shows faster with Alexa+",
-      "current_price": 39.99,
-      "reference_price": 69.99,
-      "discount_percent": 42.86,
-      "savings": 30.0,
+      "asin": "B0D8LXRHQ8",
+      "title": "Keurig K-Duo Hot & Iced Single Serve & Carafe Coffee Maker, MultiStream Technology, 72oz Reservoir (Gen 2)",
+      "current_price": 129.99,
+      "reference_price": 219.99,
+      "discount_percent": 40.91,
+      "savings": 90.0,
       "tier": "Amazon Deal",
-      "score": 43,
-      "detected_at": "2026-11-03T03:28:13.323764+00:00",
-      "amazon_url": "https://www.amazon.com/Amazon-newest-AI-powered-Search-million/dp/B0F7Z4QZTT",
-      "image_url": "https://m.media-amazon.com/images/I/51WtNy0OxLL.jpg"
+      "score": 41,
+      "detected_at": "2026-11-03T14:08:18.288673+00:00",
+      "amazon_url": "https://www.amazon.com/Keurig-Single-MultiStream-Technology-Reservoir/dp/B0D8LXRHQ8",
+      "image_url": "https://m.media-amazon.com/images/I/717849a6v+L.jpg"
     },
     {
       "asin": "B0CNTRVZPW",
@@ -129,9 +129,22 @@
       "savings": 20.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-11-03T03:28:13.323791+00:00",
+      "detected_at": "2026-11-03T14:08:18.288682+00:00",
       "amazon_url": "https://www.amazon.com/Waterpik-Cordless-Rechargeable-Portable-Waterproof/dp/B0CNTRVZPW",
       "image_url": "https://m.media-amazon.com/images/I/712lAbKMMnL.jpg"
+    },
+    {
+      "asin": "B07B8BSGPL",
+      "title": "Physician's CHOICE Probiotics for Women - PH Balance, Digestive, UT, & Feminine Health - 50 Billion CFU - 6 Unique Strains for Her - Organic Prebiotics, Cranberry Extract+ - Women Probiotic - 30 CT",
+      "current_price": 18.74,
+      "reference_price": 29.98,
+      "discount_percent": 37.49,
+      "savings": 11.24,
+      "tier": "Amazon Deal",
+      "score": 37,
+      "detected_at": "2026-11-03T14:08:18.288705+00:00",
+      "amazon_url": "https://www.amazon.com/Physicians-Choice-Probiotics-Women-Prebiotics/dp/B07B8BSGPL",
+      "image_url": "https://m.media-amazon.com/images/I/81cYPFGiSdL.jpg"
     },
     {
       "asin": "B0FT995SPF",
@@ -142,9 +155,22 @@
       "savings": 50.99,
       "tier": "Amazon Deal",
       "score": 34,
-      "detected_at": "2026-11-03T03:28:13.323752+00:00",
+      "detected_at": "2026-11-03T14:08:18.288585+00:00",
       "amazon_url": "https://www.amazon.com/Samsung-Express-microSDXC-Nintendo-Switch-AM/dp/B0FT995SPF",
       "image_url": "https://m.media-amazon.com/images/I/71KL+n-Rh4L.jpg"
+    },
+    {
+      "asin": "B0DCJS5WFX",
+      "title": "TYMO Automatic Rotating Curling Iron, TYMO CURLPRO Beach Waves Hair Curler | 500 Million Ionic Curling Wand, Dual Voltage, Portable Lightweight for Travel, Ceramic Coating, 1 Inch, Rose Gold",
+      "current_price": 49.99,
+      "reference_price": 69.99,
+      "discount_percent": 28.58,
+      "savings": 20.0,
+      "tier": "Amazon Deal",
+      "score": 29,
+      "detected_at": "2026-11-03T14:08:18.288725+00:00",
+      "amazon_url": "https://www.amazon.com/TYMO-Automatic-Rotating-Curling-Iron/dp/B0DCJS5WFX",
+      "image_url": "https://m.media-amazon.com/images/I/61q+bU24iKL.jpg"
     },
     {
       "asin": "B0H82XM1S2",
@@ -155,7 +181,7 @@
       "savings": 300.0,
       "tier": "Amazon Deal",
       "score": 27,
-      "detected_at": "2026-11-03T03:28:13.323759+00:00",
+      "detected_at": "2026-11-03T14:08:18.288596+00:00",
       "amazon_url": "https://www.amazon.com/Google-Pixel-Pro-Smartphone-Intelligence/dp/B0H82XM1S2",
       "image_url": "https://m.media-amazon.com/images/I/714ml-6grWL.jpg"
     },
@@ -168,22 +194,9 @@
       "savings": 100.99,
       "tier": "Amazon Deal",
       "score": 25,
-      "detected_at": "2026-11-03T03:28:13.323798+00:00",
+      "detected_at": "2026-11-03T14:08:18.288664+00:00",
       "amazon_url": "https://www.amazon.com/Dyson-V8-Cyclone-Cordless-Vacuum/dp/B0GT28CSYM",
       "image_url": "https://m.media-amazon.com/images/I/51WShDQ+QIL.jpg"
-    },
-    {
-      "asin": "B0F3PQHWTZ",
-      "title": "Sony WH-1000XM6 The Best Noise Cancelling Wireless Headphones, Black | HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mastered by Engineers, Studio-Quality, Up to 30 Hrs of Battery",
-      "current_price": 378.0,
-      "reference_price": 459.99,
-      "discount_percent": 17.82,
-      "savings": 81.99,
-      "tier": "Amazon Deal",
-      "score": 18,
-      "detected_at": "2026-11-03T03:28:13.323829+00:00",
-      "amazon_url": "https://www.amazon.com/Sony-WH-1000XM6-Headphones-Microphones-Studio-Quality/dp/B0F3PQHWTZ",
-      "image_url": "https://m.media-amazon.com/images/I/61ddahpESML.jpg"
     },
     {
       "asin": "B0BG52SJ5N",
@@ -194,35 +207,22 @@
       "savings": 7.01,
       "tier": "Amazon Deal",
       "score": 16,
-      "detected_at": "2026-11-03T03:28:13.323785+00:00",
+      "detected_at": "2026-11-03T14:08:18.288570+00:00",
       "amazon_url": "https://www.amazon.com/COSLUS-C20-Professional-Rechargeable-Orthodontic/dp/B0BG52SJ5N",
       "image_url": "https://m.media-amazon.com/images/I/71lAL+OP6TL.jpg"
     },
     {
-      "asin": "B0DBLQGHD5",
-      "title": "Anker SOLIX C300 DC Portable Power Station and 60W Solar Panel, 288Wh, 300W | 288Wh LiFePO4 Battery, 300W Solar Generator for Camping, Travel, and Emergency Use",
-      "current_price": 269.99,
-      "reference_price": 319.99,
-      "discount_percent": 15.63,
-      "savings": 50.0,
+      "asin": "B0H8Y8XCKS",
+      "title": "Trendy Queen Womens Mock Neck Sweatshirt Oversized Casual Fall Clothes 2026 | Fleece lined, comfort sweater, slight stretch material, travel ariport outfits, hoodie, winter fashion outfits, loungewear",
+      "current_price": 25.18,
+      "reference_price": 29.99,
+      "discount_percent": 16.04,
+      "savings": 4.81,
       "tier": "Amazon Deal",
       "score": 16,
-      "detected_at": "2026-11-03T03:28:13.323824+00:00",
-      "amazon_url": "https://www.amazon.com/Anker-Portable-Generator-Traveling-Emergencies/dp/B0DBLQGHD5",
-      "image_url": "https://m.media-amazon.com/images/I/71sRRIJLwqL.jpg"
-    },
-    {
-      "asin": "B0HCYX8QBJ",
-      "title": "Miracase Silicone & Magnetic for iPhone 18 Pro Max Case, Burgundy | Compatible with MagSafe, Camera Control Cover, Premium Silicone Cover Shockproof Drop Protection Phone Case for 18 Pro Max",
-      "current_price": 21.98,
-      "reference_price": 24.99,
-      "discount_percent": 12.04,
-      "savings": 3.01,
-      "tier": "Amazon Deal",
-      "score": 12,
-      "detected_at": "2026-11-03T03:28:13.323808+00:00",
-      "amazon_url": "https://www.amazon.com/Miracase-Silicone-Compatible-Shockproof-Protection/dp/B0HCYX8QBJ",
-      "image_url": "https://m.media-amazon.com/images/I/61PxlVyu8NL.jpg"
+      "detected_at": "2026-11-03T14:08:18.288624+00:00",
+      "amazon_url": "https://www.amazon.com/Trendy-Queen-Sweatshirt-Oversized-loungewear/dp/B0H8Y8XCKS",
+      "image_url": "https://m.media-amazon.com/images/I/71+B2ymkccL.jpg"
     }
   ]
 }
