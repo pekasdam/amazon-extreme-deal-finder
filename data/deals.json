@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T20:30:01.358106+00:00",
+  "generated_at": "2026-11-04T02:17:57.186160+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 17,
   "deals": [
@@ -12,7 +12,7 @@
       "savings": 60.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-11-03T20:30:01.357770+00:00",
+      "detected_at": "2026-11-04T02:17:57.185908+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
       "image_url": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg"
     },
@@ -25,9 +25,22 @@
       "savings": 35.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 58,
-      "detected_at": "2026-11-03T20:30:01.357962+00:00",
+      "detected_at": "2026-11-04T02:17:57.186027+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Indoor-Cam-Plus-Plugin-White/dp/B0DXM9Y8J1",
       "image_url": "https://m.media-amazon.com/images/I/51WG7mi3h-L.jpg"
+    },
+    {
+      "asin": "B0DZHR44J9",
+      "title": "Bose QuietComfort Headphones - Wireless Bluetooth Headphones, Active Over Ear Noise Cancelling and Mic, USB-C Charging, Deep Bass, Up to 24 Hours of Playtime, Twilight Blue - Limited Edition Color",
+      "current_price": 169.0,
+      "reference_price": 359.0,
+      "discount_percent": 52.92,
+      "savings": 190.0,
+      "tier": "\u2705 50%+ GOOD DEAL",
+      "score": 53,
+      "detected_at": "2026-11-04T02:17:57.185988+00:00",
+      "amazon_url": "https://www.amazon.com/Bose-QuietComfort-Bluetooth-Headphones-Cancelling/dp/B0DZHR44J9",
+      "image_url": "https://m.media-amazon.com/images/I/51tItfLj8xL.jpg"
     },
     {
       "asin": "B0GVTPKJVT",
@@ -38,7 +51,7 @@
       "savings": 82.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 53,
-      "detected_at": "2026-11-03T20:30:01.357847+00:00",
+      "detected_at": "2026-11-04T02:17:57.185993+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT",
       "image_url": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg"
     },
@@ -51,7 +64,7 @@
       "savings": 50.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-11-03T20:30:01.357935+00:00",
+      "detected_at": "2026-11-04T02:17:57.186005+00:00",
       "amazon_url": "https://www.amazon.com/Ring-business-security-Wide-Angle-Enhanced/dp/B0FWDSZ6Q2",
       "image_url": "https://m.media-amazon.com/images/I/51s3QBJPsvL.jpg"
     },
@@ -64,22 +77,9 @@
       "savings": 100.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-11-03T20:30:01.357954+00:00",
+      "detected_at": "2026-11-04T02:17:57.185982+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Floodlight-Wide-Angle-Ultra-Bright-Floodlights/dp/B0FWFJ5Q2Z",
       "image_url": "https://m.media-amazon.com/images/I/51PUKKDMcZL.jpg"
-    },
-    {
-      "asin": "B06WWRCZXX",
-      "title": "Queen Size 4 Piece Sheet Set - Breathable & Cooling Sheets - Dark Grey | Hotel Luxury Bed Sheets for Women & Men, Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets, Oeko-Tex Bed Sheet Set",
-      "current_price": 21.22,
-      "reference_price": 39.99,
-      "discount_percent": 46.94,
-      "savings": 18.77,
-      "tier": "Amazon Deal",
-      "score": 47,
-      "detected_at": "2026-11-03T20:30:01.357894+00:00",
-      "amazon_url": "https://www.amazon.com/Queen-Size-Piece-Sheet-Set/dp/B06WWRCZXX",
-      "image_url": "https://m.media-amazon.com/images/I/813JS2zoiPL.jpg"
     },
     {
       "asin": "B0CS3V8M9H",
@@ -90,9 +90,22 @@
       "savings": 80.0,
       "tier": "Amazon Deal",
       "score": 44,
-      "detected_at": "2026-11-03T20:30:01.357981+00:00",
+      "detected_at": "2026-11-04T02:17:57.186011+00:00",
       "amazon_url": "https://www.amazon.com/Ninja-Capacity-Dehydrate-Technology-AF181/dp/B0CS3V8M9H",
       "image_url": "https://m.media-amazon.com/images/I/61TH-Ig6i-L.jpg"
+    },
+    {
+      "asin": "B06X9M6CW7",
+      "title": "King Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - Dark Grey | Hotel Luxury Bed Sheets for Women, Men, Kids & Teens, Deep Pockets, Easy-Fit, Extra Soft & Wrinkle Free Sheets, Oeko-Tex",
+      "current_price": 25.47,
+      "reference_price": 44.99,
+      "discount_percent": 43.39,
+      "savings": 19.52,
+      "tier": "Amazon Deal",
+      "score": 43,
+      "detected_at": "2026-11-04T02:17:57.185959+00:00",
+      "amazon_url": "https://www.amazon.com/King-Size-Piece-Sheet-Set/dp/B06X9M6CW7",
+      "image_url": "https://m.media-amazon.com/images/I/813JS2zoiPL.jpg"
     },
     {
       "asin": "B0GGRSMXKN",
@@ -103,7 +116,7 @@
       "savings": 300.0,
       "tier": "Amazon Deal",
       "score": 43,
-      "detected_at": "2026-11-03T20:30:01.357807+00:00",
+      "detected_at": "2026-11-04T02:17:57.185965+00:00",
       "amazon_url": "https://www.amazon.com/roborock-Qrevo-Pro-Multifunctional-Self-Cleaning/dp/B0GGRSMXKN",
       "image_url": "https://m.media-amazon.com/images/I/615KW-IyiHL.jpg"
     },
@@ -116,7 +129,7 @@
       "savings": 30.0,
       "tier": "Amazon Deal",
       "score": 43,
-      "detected_at": "2026-11-03T20:30:01.357970+00:00",
+      "detected_at": "2026-11-04T02:17:57.185977+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-newest-AI-powered-Search-million/dp/B0F7Z4QZTT",
       "image_url": "https://m.media-amazon.com/images/I/51WtNy0OxLL.jpg"
     },
@@ -129,22 +142,9 @@
       "savings": 12.48,
       "tier": "Amazon Deal",
       "score": 42,
-      "detected_at": "2026-11-03T20:30:01.357886+00:00",
+      "detected_at": "2026-11-04T02:17:57.185970+00:00",
       "amazon_url": "https://www.amazon.com/Probiotics-Formulated-Probiotic-Supplement-Acidophilus/dp/B079H53D2B",
       "image_url": "https://m.media-amazon.com/images/I/81WwpFusoAL.jpg"
-    },
-    {
-      "asin": "B0D8LXRHQ8",
-      "title": "Keurig K-Duo Hot & Iced Single Serve & Carafe Coffee Maker, MultiStream Technology, 72oz Reservoir (Gen 2)",
-      "current_price": 129.99,
-      "reference_price": 219.99,
-      "discount_percent": 40.91,
-      "savings": 90.0,
-      "tier": "Amazon Deal",
-      "score": 41,
-      "detected_at": "2026-11-03T20:30:01.357989+00:00",
-      "amazon_url": "https://www.amazon.com/Keurig-Single-MultiStream-Technology-Reservoir/dp/B0D8LXRHQ8",
-      "image_url": "https://m.media-amazon.com/images/I/717849a6v+L.jpg"
     },
     {
       "asin": "B0CNTRVZPW",
@@ -155,48 +155,48 @@
       "savings": 20.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-11-03T20:30:01.357911+00:00",
+      "detected_at": "2026-11-04T02:17:57.186015+00:00",
       "amazon_url": "https://www.amazon.com/Waterpik-Cordless-Rechargeable-Portable-Waterproof/dp/B0CNTRVZPW",
       "image_url": "https://m.media-amazon.com/images/I/712lAbKMMnL.jpg"
     },
     {
-      "asin": "B0H832JH4Z",
-      "title": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 256 GB - Obsidian | Android, Gemini Intelligence, 30+ hour battery, 6.3\" Super Actua Display, Pixel HiLight, durable IP68 protection, 120x Zoom",
-      "current_price": 799.0,
-      "reference_price": 1099.0,
-      "discount_percent": 27.3,
-      "savings": 300.0,
+      "asin": "B0FG298Z4H",
+      "title": "YEOREO Ease Workout Leggings Womens Straight Leggings Eddiy Gym Yoga Pants | 29\"/31.5\"/33\"/35\",No Front Seam,High Waist,Buttery,Booty Lifting,Wide Leg",
+      "current_price": 22.92,
+      "reference_price": 35.99,
+      "discount_percent": 36.32,
+      "savings": 13.07,
       "tier": "Amazon Deal",
-      "score": 27,
-      "detected_at": "2026-11-03T20:30:01.357868+00:00",
-      "amazon_url": "https://www.amazon.com/Google-Pixel-Pro-Smartphone-Intelligence/dp/B0H832JH4Z",
-      "image_url": "https://m.media-amazon.com/images/I/71JsJOCSuTL.jpg"
+      "score": 36,
+      "detected_at": "2026-11-04T02:17:57.186000+00:00",
+      "amazon_url": "https://www.amazon.com/YEOREO-Workout-Leggings-Straight-Buttery/dp/B0FG298Z4H",
+      "image_url": "https://m.media-amazon.com/images/I/51ALuls6oZL.jpg"
     },
     {
-      "asin": "B0GT28CSYM",
-      "title": "Dyson V8 Cyclone Cordless Vacuum",
-      "current_price": 299.0,
-      "reference_price": 399.99,
-      "discount_percent": 25.25,
-      "savings": 100.99,
-      "tier": "Amazon Deal",
-      "score": 25,
-      "detected_at": "2026-11-03T20:30:01.357903+00:00",
-      "amazon_url": "https://www.amazon.com/Dyson-V8-Cyclone-Cordless-Vacuum/dp/B0GT28CSYM",
-      "image_url": "https://m.media-amazon.com/images/I/51WShDQ+QIL.jpg"
-    },
-    {
-      "asin": "B0H836MLYT",
-      "title": "Google Pixel 11 - Unlocked Smartphone, Gemini - 256 GB - Obsidian | Android, Gemini Intelligence, 30+ hour battery, 6.3\" Actua Display, durable IP68 protection",
-      "current_price": 699.0,
-      "reference_price": 899.0,
-      "discount_percent": 22.25,
+      "asin": "B00CH9QWOU",
+      "title": "Breville BES870XL Barista Express Espresso Machine, Brushed Stainless Steel | Craft caf\u00e9-quality espresso shots, lattes and cappuccinos at home with this manual coffee maker with built-in grinder",
+      "current_price": 499.95,
+      "reference_price": 699.95,
+      "discount_percent": 28.57,
       "savings": 200.0,
       "tier": "Amazon Deal",
-      "score": 22,
-      "detected_at": "2026-11-03T20:30:01.357878+00:00",
-      "amazon_url": "https://www.amazon.com/Google-Pixel-Smartphone-Intelligence-protection/dp/B0H836MLYT",
-      "image_url": "https://m.media-amazon.com/images/I/71ajKeZXVNL.jpg"
+      "score": 29,
+      "detected_at": "2026-11-04T02:17:57.185952+00:00",
+      "amazon_url": "https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU",
+      "image_url": "https://m.media-amazon.com/images/I/71BvCt6eAFL.jpg"
+    },
+    {
+      "asin": "B0H83511WP",
+      "title": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 512 GB - Olive | Android, Gemini Intelligence, 30+ hour battery, 6.3\" Super Actua Display, Pixel HiLight, durable IP68 protection, 120x Zoom",
+      "current_price": 919.0,
+      "reference_price": 1219.0,
+      "discount_percent": 24.61,
+      "savings": 300.0,
+      "tier": "Amazon Deal",
+      "score": 25,
+      "detected_at": "2026-11-04T02:17:57.185942+00:00",
+      "amazon_url": "https://www.amazon.com/Google-Pixel-Pro-Smartphone-Intelligence/dp/B0H83511WP",
+      "image_url": "https://m.media-amazon.com/images/I/714ml-6grWL.jpg"
     },
     {
       "asin": "B0F3PQHWTZ",
@@ -207,7 +207,7 @@
       "savings": 81.99,
       "tier": "Amazon Deal",
       "score": 18,
-      "detected_at": "2026-11-03T20:30:01.357858+00:00",
+      "detected_at": "2026-11-04T02:17:57.186033+00:00",
       "amazon_url": "https://www.amazon.com/Sony-WH-1000XM6-Headphones-Microphones-Studio-Quality/dp/B0F3PQHWTZ",
       "image_url": "https://m.media-amazon.com/images/I/61ddahpESML.jpg"
     },
@@ -220,7 +220,7 @@
       "savings": 7.01,
       "tier": "Amazon Deal",
       "score": 16,
-      "detected_at": "2026-11-03T20:30:01.357945+00:00",
+      "detected_at": "2026-11-04T02:17:57.186021+00:00",
       "amazon_url": "https://www.amazon.com/COSLUS-C20-Professional-Rechargeable-Orthodontic/dp/B0BG52SJ5N",
       "image_url": "https://m.media-amazon.com/images/I/71lAL+OP6TL.jpg"
     }
