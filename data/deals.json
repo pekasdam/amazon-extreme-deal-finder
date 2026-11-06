@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:13:05.544412+00:00",
+  "generated_at": "2026-11-06T20:26:56.638068+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 17,
   "deals": [
@@ -12,7 +12,7 @@
       "savings": 60.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-11-06T14:13:05.544158+00:00",
+      "detected_at": "2026-11-06T20:26:56.637810+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
       "image_url": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg"
     },
@@ -25,7 +25,7 @@
       "savings": 35.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 58,
-      "detected_at": "2026-11-06T14:13:05.544245+00:00",
+      "detected_at": "2026-11-06T20:26:56.637939+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Indoor-Cam-Plus-Plugin-White/dp/B0DXM9Y8J1",
       "image_url": "https://m.media-amazon.com/images/I/51WG7mi3h-L.jpg"
     },
@@ -38,7 +38,7 @@
       "savings": 190.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 53,
-      "detected_at": "2026-11-06T14:13:05.544170+00:00",
+      "detected_at": "2026-11-06T20:26:56.637879+00:00",
       "amazon_url": "https://www.amazon.com/Bose-QuietComfort-Bluetooth-Headphones-Cancelling/dp/B0DZHR44J9",
       "image_url": "https://m.media-amazon.com/images/I/51tItfLj8xL.jpg"
     },
@@ -51,22 +51,35 @@
       "savings": 50.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-11-06T14:13:05.544287+00:00",
+      "detected_at": "2026-11-06T20:26:56.637931+00:00",
       "amazon_url": "https://www.amazon.com/Ring-business-security-Wide-Angle-Enhanced/dp/B0FWDSZ6Q2",
       "image_url": "https://m.media-amazon.com/images/I/51s3QBJPsvL.jpg"
     },
     {
-      "asin": "B0F2GS1SN6",
-      "title": "Shark PowerPro Flex Reveal Plus Cordless Vacuum - Java - IZ382H | Lightweight Vacuum for Hardwood Floors and Carpet, Flexible Stick Design, Upholstery and Crevice Tools, 50-Min Runtime",
-      "current_price": 199.98,
-      "reference_price": 379.99,
-      "discount_percent": 47.37,
-      "savings": 180.01,
-      "tier": "Amazon Deal",
-      "score": 47,
-      "detected_at": "2026-11-06T14:13:05.544313+00:00",
-      "amazon_url": "https://www.amazon.com/Shark-FloorDetect-Dirt-Reveal-Technology-IZ382H/dp/B0F2GS1SN6",
-      "image_url": "https://m.media-amazon.com/images/I/71nOa4u5z0L.jpg"
+      "asin": "B00X7R1FZ2",
+      "title": "Shark NV752 Rotator Powered Lift-Away TruePet Upright Vacuum with HEPA Filter, Large Dust Cup Capacity, LED Headlights, Upholstery Tool, Perfect Pet Power Brush & Crevice Tool, Bordeaux",
+      "current_price": 199.99,
+      "reference_price": 399.99,
+      "discount_percent": 50.0,
+      "savings": 200.0,
+      "tier": "\u2705 50%+ GOOD DEAL",
+      "score": 50,
+      "detected_at": "2026-11-06T20:26:56.637946+00:00",
+      "amazon_url": "https://www.amazon.com/Shark-NV752-Lift-Away-Headlights-Upholstery/dp/B00X7R1FZ2",
+      "image_url": "https://m.media-amazon.com/images/I/61X2L+SohGL.jpg"
+    },
+    {
+      "asin": "B0FWFJ5Q2Z",
+      "title": "Ring Floodlight Cam 2K (newest model), Wired, Home or business security, Wide-Angle Retinal 2K Video, 6x Enhanced Zoom, Ultra-Bright Floodlights, White",
+      "current_price": 99.99,
+      "reference_price": 199.99,
+      "discount_percent": 50.0,
+      "savings": 100.0,
+      "tier": "\u2705 50%+ GOOD DEAL",
+      "score": 50,
+      "detected_at": "2026-11-06T20:26:56.637916+00:00",
+      "amazon_url": "https://www.amazon.com/Ring-Floodlight-Wide-Angle-Ultra-Bright-Floodlights/dp/B0FWFJ5Q2Z",
+      "image_url": "https://m.media-amazon.com/images/I/51PUKKDMcZL.jpg"
     },
     {
       "asin": "B0GGRSMXKN",
@@ -77,7 +90,7 @@
       "savings": 300.0,
       "tier": "Amazon Deal",
       "score": 43,
-      "detected_at": "2026-11-06T14:13:05.544192+00:00",
+      "detected_at": "2026-11-06T20:26:56.637870+00:00",
       "amazon_url": "https://www.amazon.com/roborock-Qrevo-Pro-Multifunctional-Self-Cleaning/dp/B0GGRSMXKN",
       "image_url": "https://m.media-amazon.com/images/I/615KW-IyiHL.jpg"
     },
@@ -90,35 +103,9 @@
       "savings": 30.0,
       "tier": "Amazon Deal",
       "score": 43,
-      "detected_at": "2026-11-06T14:13:05.544142+00:00",
+      "detected_at": "2026-11-06T20:26:56.637861+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-newest-AI-powered-Search-million/dp/B0F7Z4QZTT",
       "image_url": "https://m.media-amazon.com/images/I/51WtNy0OxLL.jpg"
-    },
-    {
-      "asin": "B0D3D4WHSF",
-      "title": "BEDLORE King Mattress Topper, Thick Soft Pillow Top Bed Topper | Viscose Bamboo, Stretchable Pockets Fit 6\"-18\", Breathable Mattress Topper for Back Pain Relief and Hot Sleepers(Dark Gray)",
-      "current_price": 46.98,
-      "reference_price": 78.99,
-      "discount_percent": 40.52,
-      "savings": 32.01,
-      "tier": "Amazon Deal",
-      "score": 41,
-      "detected_at": "2026-11-06T14:13:05.544256+00:00",
-      "amazon_url": "https://www.amazon.com/Mattress-Viscose-Derived-Stretchable-Breathable/dp/B0D3D4WHSF",
-      "image_url": "https://m.media-amazon.com/images/I/81fEHxFn38L.jpg"
-    },
-    {
-      "asin": "B0FNM7XLVJ",
-      "title": "Trendy Queen Womens Oversized Hoodie Wide Leg Pants 2 Piece Lounge Set | Drop Shoulder,Kangaroo Pocket,Elastic Waistband,Side Pockets,Matching Sweatsuit",
-      "current_price": 35.99,
-      "reference_price": 59.99,
-      "discount_percent": 40.01,
-      "savings": 24.0,
-      "tier": "Amazon Deal",
-      "score": 40,
-      "detected_at": "2026-11-06T14:13:05.544224+00:00",
-      "amazon_url": "https://www.amazon.com/Trendy-Queen-Fashion-Matching-Sweatsuits/dp/B0FNM7XLVJ",
-      "image_url": "https://m.media-amazon.com/images/I/613tVjFx8bL.jpg"
     },
     {
       "asin": "B0CNTRVZPW",
@@ -129,7 +116,7 @@
       "savings": 20.0,
       "tier": "Amazon Deal",
       "score": 40,
-      "detected_at": "2026-11-06T14:13:05.544234+00:00",
+      "detected_at": "2026-11-06T20:26:56.637968+00:00",
       "amazon_url": "https://www.amazon.com/Waterpik-Cordless-Rechargeable-Portable-Waterproof/dp/B0CNTRVZPW",
       "image_url": "https://m.media-amazon.com/images/I/712lAbKMMnL.jpg"
     },
@@ -142,22 +129,9 @@
       "savings": 570.01,
       "tier": "Amazon Deal",
       "score": 33,
-      "detected_at": "2026-11-06T14:13:05.544203+00:00",
+      "detected_at": "2026-11-06T20:26:56.637910+00:00",
       "amazon_url": "https://www.amazon.com/EF-ECOFLOW-Portable-Ultra-Fast-Charging/dp/B0FR8VG94V",
       "image_url": "https://m.media-amazon.com/images/I/61yCW+uG+1L.jpg"
-    },
-    {
-      "asin": "B0DP542W7G",
-      "title": "TYMO Automatic Rotating Curling Iron, TYMO CURLPRO Beach Waves Hair Curler | 500 Million Ionic Curling Wand, Dual Voltage, Portable Lightweight for Travel, Ceramic Coating, 1 Inch, Pink",
-      "current_price": 49.99,
-      "reference_price": 69.99,
-      "discount_percent": 28.58,
-      "savings": 20.0,
-      "tier": "Amazon Deal",
-      "score": 29,
-      "detected_at": "2026-11-06T14:13:05.544266+00:00",
-      "amazon_url": "https://www.amazon.com/TYMO-Automatic-Rotating-Curling-Iron/dp/B0DP542W7G",
-      "image_url": "https://m.media-amazon.com/images/I/51tnuc410ZL.jpg"
     },
     {
       "asin": "B00CH9QWOU",
@@ -168,22 +142,48 @@
       "savings": 200.0,
       "tier": "Amazon Deal",
       "score": 29,
-      "detected_at": "2026-11-06T14:13:05.544181+00:00",
+      "detected_at": "2026-11-06T20:26:56.637887+00:00",
       "amazon_url": "https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU",
       "image_url": "https://m.media-amazon.com/images/I/71BvCt6eAFL.jpg"
     },
     {
-      "asin": "B0H832WGF9",
-      "title": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 512 GB - Obsidian | Android, Gemini Intelligence, 30+ hour battery, 6.3\" Super Actua Display, Pixel HiLight, durable IP68 protection, 120x Zoom",
-      "current_price": 919.0,
-      "reference_price": 1219.0,
-      "discount_percent": 24.61,
+      "asin": "B0H832JH4Z",
+      "title": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 256 GB - Obsidian | Android, Gemini Intelligence, 30+ hour battery, 6.3\" Super Actua Display, Pixel HiLight, durable IP68 protection, 120x Zoom",
+      "current_price": 799.0,
+      "reference_price": 1099.0,
+      "discount_percent": 27.3,
       "savings": 300.0,
       "tier": "Amazon Deal",
-      "score": 25,
-      "detected_at": "2026-11-06T14:13:05.544214+00:00",
-      "amazon_url": "https://www.amazon.com/Google-Pixel-Pro-Smartphone-Intelligence/dp/B0H832WGF9",
+      "score": 27,
+      "detected_at": "2026-11-06T20:26:56.637895+00:00",
+      "amazon_url": "https://www.amazon.com/Google-Pixel-Pro-Smartphone-Intelligence/dp/B0H832JH4Z",
       "image_url": "https://m.media-amazon.com/images/I/71JsJOCSuTL.jpg"
+    },
+    {
+      "asin": "B0H2NKT73W",
+      "title": "Shark\u00ae PowerDetect\u00ae Transformer\u2122 Upright Vacuum, Midnight Steel, LX5002 | With DuoClean Detect, Reveal Technology, and Self-Cleaning Brushroll",
+      "current_price": 499.0,
+      "reference_price": 649.99,
+      "discount_percent": 23.23,
+      "savings": 150.99,
+      "tier": "Amazon Deal",
+      "score": 23,
+      "detected_at": "2026-11-06T20:26:56.637952+00:00",
+      "amazon_url": "https://www.amazon.com/PowerDetect%C2%AE-TransformerTM-LX5002-Technology-Self-Cleaning/dp/B0H2NKT73W",
+      "image_url": "https://m.media-amazon.com/images/I/71asvS6koNL.jpg"
+    },
+    {
+      "asin": "B0D3D5LKG9",
+      "title": "BEDLORE Queen Mattress Topper, Thick Soft Pillow Top Bed Topper | Viscose Bamboo, Stretchable Pockets Fit 6\u201d-18\u201d, Breathable Mattress Topper for Back Pain Relief and Hot Sleepers(Dark Gray)",
+      "current_price": 37.97,
+      "reference_price": 47.99,
+      "discount_percent": 20.88,
+      "savings": 10.02,
+      "tier": "Amazon Deal",
+      "score": 21,
+      "detected_at": "2026-11-06T20:26:56.637961+00:00",
+      "amazon_url": "https://www.amazon.com/Mattress-Viscose-Derived-Stretchable-Pockets/dp/B0D3D5LKG9",
+      "image_url": "https://m.media-amazon.com/images/I/81fEHxFn38L.jpg"
     },
     {
       "asin": "B0F3PQHWTZ",
@@ -194,9 +194,22 @@
       "savings": 81.99,
       "tier": "Amazon Deal",
       "score": 18,
-      "detected_at": "2026-11-06T14:13:05.544303+00:00",
+      "detected_at": "2026-11-06T20:26:56.637924+00:00",
       "amazon_url": "https://www.amazon.com/Sony-WH-1000XM6-Headphones-Microphones-Studio-Quality/dp/B0F3PQHWTZ",
       "image_url": "https://m.media-amazon.com/images/I/61ddahpESML.jpg"
+    },
+    {
+      "asin": "B0H12RY7Z6",
+      "title": "Samsung Galaxy Z Fold8 Unlocked Android Smartphone, 512GB Cream | All-New Shape, Content-Native Ratio, Customized Processor, 4800 mAh Battery, 12 GB Memory, Dual 50 MP Camera, My FanCam",
+      "current_price": 1799.99,
+      "reference_price": 2099.99,
+      "discount_percent": 14.29,
+      "savings": 300.0,
+      "tier": "Amazon Deal",
+      "score": 14,
+      "detected_at": "2026-11-06T20:26:56.637902+00:00",
+      "amazon_url": "https://www.amazon.com/Samsung-Smartphone-Content-Native-Customized-Processor/dp/B0H12RY7Z6",
+      "image_url": "https://m.media-amazon.com/images/I/51VIfW+k92L.jpg"
     },
     {
       "asin": "B0CHDM8VVZ",
@@ -207,22 +220,9 @@
       "savings": 50.0,
       "tier": "Amazon Deal",
       "score": 13,
-      "detected_at": "2026-11-06T14:13:05.544108+00:00",
+      "detected_at": "2026-11-06T20:26:56.637848+00:00",
       "amazon_url": "https://www.amazon.com/Bambu-Lab-P1S-Beginner-Friendly-MakerWorld/dp/B0CHDM8VVZ",
       "image_url": "https://m.media-amazon.com/images/I/61IXKmM4f9L.jpg"
-    },
-    {
-      "asin": "B07DX89ZHN",
-      "title": "Sports Research\u00ae Omega-3 Fish Oil 1250mg from Wild Alaska Pollock, 90 Count | Always Fresh Never Fishy | 690mg EPA 260mg DHA per Softgel \u00b7 Heart & Brain Health* \u00b7 MSC Certified Sustainable - 90 Servings",
-      "current_price": 29.3,
-      "reference_price": 32.55,
-      "discount_percent": 9.98,
-      "savings": 3.25,
-      "tier": "Amazon Deal",
-      "score": 10,
-      "detected_at": "2026-11-06T14:13:05.544277+00:00",
-      "amazon_url": "https://www.amazon.com/Sports-Research%C2%AE-Omega-3-Fish-1250/dp/B07DX89ZHN",
-      "image_url": "https://m.media-amazon.com/images/I/61zNAqRyQ5L.jpg"
     }
   ]
 }
