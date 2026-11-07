@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T20:26:56.638068+00:00",
+  "generated_at": "2026-11-07T01:54:23.975522+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 17,
   "deals": [
@@ -12,7 +12,7 @@
       "savings": 60.0,
       "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
       "score": 60,
-      "detected_at": "2026-11-06T20:26:56.637810+00:00",
+      "detected_at": "2026-11-07T01:54:23.975304+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
       "image_url": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg"
     },
@@ -25,7 +25,7 @@
       "savings": 35.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 58,
-      "detected_at": "2026-11-06T20:26:56.637939+00:00",
+      "detected_at": "2026-11-07T01:54:23.975399+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Indoor-Cam-Plus-Plugin-White/dp/B0DXM9Y8J1",
       "image_url": "https://m.media-amazon.com/images/I/51WG7mi3h-L.jpg"
     },
@@ -38,9 +38,22 @@
       "savings": 190.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 53,
-      "detected_at": "2026-11-06T20:26:56.637879+00:00",
+      "detected_at": "2026-11-07T01:54:23.975326+00:00",
       "amazon_url": "https://www.amazon.com/Bose-QuietComfort-Bluetooth-Headphones-Cancelling/dp/B0DZHR44J9",
       "image_url": "https://m.media-amazon.com/images/I/51tItfLj8xL.jpg"
+    },
+    {
+      "asin": "B0GVTPKJVT",
+      "title": "Amazon Fire HD 10 tablet, built for relaxation, 10.1\" vibrant Full HD screen, octa-core processor, 4 GB RAM, 32 GB, Black",
+      "current_price": 72.99,
+      "reference_price": 154.99,
+      "discount_percent": 52.91,
+      "savings": 82.0,
+      "tier": "\u2705 50%+ GOOD DEAL",
+      "score": 53,
+      "detected_at": "2026-11-07T01:54:23.975315+00:00",
+      "amazon_url": "https://www.amazon.com/Amazon-relaxation-vibrant-octa-core-processor/dp/B0GVTPKJVT",
+      "image_url": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg"
     },
     {
       "asin": "B0FWDSZ6Q2",
@@ -51,22 +64,9 @@
       "savings": 50.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-11-06T20:26:56.637931+00:00",
+      "detected_at": "2026-11-07T01:54:23.975407+00:00",
       "amazon_url": "https://www.amazon.com/Ring-business-security-Wide-Angle-Enhanced/dp/B0FWDSZ6Q2",
       "image_url": "https://m.media-amazon.com/images/I/51s3QBJPsvL.jpg"
-    },
-    {
-      "asin": "B00X7R1FZ2",
-      "title": "Shark NV752 Rotator Powered Lift-Away TruePet Upright Vacuum with HEPA Filter, Large Dust Cup Capacity, LED Headlights, Upholstery Tool, Perfect Pet Power Brush & Crevice Tool, Bordeaux",
-      "current_price": 199.99,
-      "reference_price": 399.99,
-      "discount_percent": 50.0,
-      "savings": 200.0,
-      "tier": "\u2705 50%+ GOOD DEAL",
-      "score": 50,
-      "detected_at": "2026-11-06T20:26:56.637946+00:00",
-      "amazon_url": "https://www.amazon.com/Shark-NV752-Lift-Away-Headlights-Upholstery/dp/B00X7R1FZ2",
-      "image_url": "https://m.media-amazon.com/images/I/61X2L+SohGL.jpg"
     },
     {
       "asin": "B0FWFJ5Q2Z",
@@ -77,9 +77,22 @@
       "savings": 100.0,
       "tier": "\u2705 50%+ GOOD DEAL",
       "score": 50,
-      "detected_at": "2026-11-06T20:26:56.637916+00:00",
+      "detected_at": "2026-11-07T01:54:23.975390+00:00",
       "amazon_url": "https://www.amazon.com/Ring-Floodlight-Wide-Angle-Ultra-Bright-Floodlights/dp/B0FWFJ5Q2Z",
       "image_url": "https://m.media-amazon.com/images/I/51PUKKDMcZL.jpg"
+    },
+    {
+      "asin": "B0CS3V8M9H",
+      "title": "Ninja Air Fryer XL with MaxCrisp, 6.5 Qt, 6-in-1, Grey, AF181 | Max crisp, air fry, roast, bake, reheat, dehydrate, 1750W, 450F max, Fits 9 lbs wings",
+      "current_price": 99.99,
+      "reference_price": 179.99,
+      "discount_percent": 44.45,
+      "savings": 80.0,
+      "tier": "Amazon Deal",
+      "score": 44,
+      "detected_at": "2026-11-07T01:54:23.975436+00:00",
+      "amazon_url": "https://www.amazon.com/Ninja-Capacity-Dehydrate-Technology-AF181/dp/B0CS3V8M9H",
+      "image_url": "https://m.media-amazon.com/images/I/61TH-Ig6i-L.jpg"
     },
     {
       "asin": "B0GGRSMXKN",
@@ -90,7 +103,7 @@
       "savings": 300.0,
       "tier": "Amazon Deal",
       "score": 43,
-      "detected_at": "2026-11-06T20:26:56.637870+00:00",
+      "detected_at": "2026-11-07T01:54:23.975354+00:00",
       "amazon_url": "https://www.amazon.com/roborock-Qrevo-Pro-Multifunctional-Self-Cleaning/dp/B0GGRSMXKN",
       "image_url": "https://m.media-amazon.com/images/I/615KW-IyiHL.jpg"
     },
@@ -103,22 +116,9 @@
       "savings": 30.0,
       "tier": "Amazon Deal",
       "score": 43,
-      "detected_at": "2026-11-06T20:26:56.637861+00:00",
+      "detected_at": "2026-11-07T01:54:23.975258+00:00",
       "amazon_url": "https://www.amazon.com/Amazon-newest-AI-powered-Search-million/dp/B0F7Z4QZTT",
       "image_url": "https://m.media-amazon.com/images/I/51WtNy0OxLL.jpg"
-    },
-    {
-      "asin": "B0CNTRVZPW",
-      "title": "Waterpik Cordless Pulse 3100 Portable Water Flosser, Rechargeable, White | 2 Settings, 1 Precision Tip & 1 Tongue Cleaner Tip for Fresh Breath, Travel, Shower Use, ADA Accepted, WF-20 Amazon Exclusive",
-      "current_price": 29.99,
-      "reference_price": 49.99,
-      "discount_percent": 40.01,
-      "savings": 20.0,
-      "tier": "Amazon Deal",
-      "score": 40,
-      "detected_at": "2026-11-06T20:26:56.637968+00:00",
-      "amazon_url": "https://www.amazon.com/Waterpik-Cordless-Rechargeable-Portable-Waterproof/dp/B0CNTRVZPW",
-      "image_url": "https://m.media-amazon.com/images/I/712lAbKMMnL.jpg"
     },
     {
       "asin": "B0FR8VG94V",
@@ -129,7 +129,7 @@
       "savings": 570.01,
       "tier": "Amazon Deal",
       "score": 33,
-      "detected_at": "2026-11-06T20:26:56.637910+00:00",
+      "detected_at": "2026-11-07T01:54:23.975345+00:00",
       "amazon_url": "https://www.amazon.com/EF-ECOFLOW-Portable-Ultra-Fast-Charging/dp/B0FR8VG94V",
       "image_url": "https://m.media-amazon.com/images/I/61yCW+uG+1L.jpg"
     },
@@ -142,7 +142,7 @@
       "savings": 200.0,
       "tier": "Amazon Deal",
       "score": 29,
-      "detected_at": "2026-11-06T20:26:56.637887+00:00",
+      "detected_at": "2026-11-07T01:54:23.975335+00:00",
       "amazon_url": "https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU",
       "image_url": "https://m.media-amazon.com/images/I/71BvCt6eAFL.jpg"
     },
@@ -155,35 +155,22 @@
       "savings": 300.0,
       "tier": "Amazon Deal",
       "score": 27,
-      "detected_at": "2026-11-06T20:26:56.637895+00:00",
+      "detected_at": "2026-11-07T01:54:23.975372+00:00",
       "amazon_url": "https://www.amazon.com/Google-Pixel-Pro-Smartphone-Intelligence/dp/B0H832JH4Z",
       "image_url": "https://m.media-amazon.com/images/I/71JsJOCSuTL.jpg"
     },
     {
-      "asin": "B0H2NKT73W",
-      "title": "Shark\u00ae PowerDetect\u00ae Transformer\u2122 Upright Vacuum, Midnight Steel, LX5002 | With DuoClean Detect, Reveal Technology, and Self-Cleaning Brushroll",
-      "current_price": 499.0,
-      "reference_price": 649.99,
-      "discount_percent": 23.23,
-      "savings": 150.99,
+      "asin": "B0CYZLT7M2",
+      "title": "eufy Heated Wearable Breast Pump S1 Pro, Charging Case, Hands-Free | HeatFlow, 5-Day Battery, App DIY Rhythm, Powerful 300mmHg, 30% More Output, 46dB Quiet, BPA-Free",
+      "current_price": 259.99,
+      "reference_price": 349.99,
+      "discount_percent": 25.72,
+      "savings": 90.0,
       "tier": "Amazon Deal",
-      "score": 23,
-      "detected_at": "2026-11-06T20:26:56.637952+00:00",
-      "amazon_url": "https://www.amazon.com/PowerDetect%C2%AE-TransformerTM-LX5002-Technology-Self-Cleaning/dp/B0H2NKT73W",
-      "image_url": "https://m.media-amazon.com/images/I/71asvS6koNL.jpg"
-    },
-    {
-      "asin": "B0D3D5LKG9",
-      "title": "BEDLORE Queen Mattress Topper, Thick Soft Pillow Top Bed Topper | Viscose Bamboo, Stretchable Pockets Fit 6\u201d-18\u201d, Breathable Mattress Topper for Back Pain Relief and Hot Sleepers(Dark Gray)",
-      "current_price": 37.97,
-      "reference_price": 47.99,
-      "discount_percent": 20.88,
-      "savings": 10.02,
-      "tier": "Amazon Deal",
-      "score": 21,
-      "detected_at": "2026-11-06T20:26:56.637961+00:00",
-      "amazon_url": "https://www.amazon.com/Mattress-Viscose-Derived-Stretchable-Pockets/dp/B0D3D5LKG9",
-      "image_url": "https://m.media-amazon.com/images/I/81fEHxFn38L.jpg"
+      "score": 26,
+      "detected_at": "2026-11-07T01:54:23.975415+00:00",
+      "amazon_url": "https://www.amazon.com/eufy-Hands-Free-App-Controlled-Hospital-Grade-Ultra-Quiet/dp/B0CYZLT7M2",
+      "image_url": "https://m.media-amazon.com/images/I/61mAYxPU7OL.jpg"
     },
     {
       "asin": "B0F3PQHWTZ",
@@ -194,22 +181,22 @@
       "savings": 81.99,
       "tier": "Amazon Deal",
       "score": 18,
-      "detected_at": "2026-11-06T20:26:56.637924+00:00",
+      "detected_at": "2026-11-07T01:54:23.975381+00:00",
       "amazon_url": "https://www.amazon.com/Sony-WH-1000XM6-Headphones-Microphones-Studio-Quality/dp/B0F3PQHWTZ",
       "image_url": "https://m.media-amazon.com/images/I/61ddahpESML.jpg"
     },
     {
-      "asin": "B0H12RY7Z6",
-      "title": "Samsung Galaxy Z Fold8 Unlocked Android Smartphone, 512GB Cream | All-New Shape, Content-Native Ratio, Customized Processor, 4800 mAh Battery, 12 GB Memory, Dual 50 MP Camera, My FanCam",
-      "current_price": 1799.99,
-      "reference_price": 2099.99,
-      "discount_percent": 14.29,
+      "asin": "B0H126B3KV",
+      "title": "Samsung Galaxy Z Fold8 Unlocked Android Smartphone, 256GB Graphite | All-New Shape, Content-Native Ratio, Customized Processor, 4800 mAh Battery, 12 GB Memory, Dual 50 MP Camera, My FanCam",
+      "current_price": 1599.99,
+      "reference_price": 1899.99,
+      "discount_percent": 15.79,
       "savings": 300.0,
       "tier": "Amazon Deal",
-      "score": 14,
-      "detected_at": "2026-11-06T20:26:56.637902+00:00",
-      "amazon_url": "https://www.amazon.com/Samsung-Smartphone-Content-Native-Customized-Processor/dp/B0H12RY7Z6",
-      "image_url": "https://m.media-amazon.com/images/I/51VIfW+k92L.jpg"
+      "score": 16,
+      "detected_at": "2026-11-07T01:54:23.975363+00:00",
+      "amazon_url": "https://www.amazon.com/Samsung-Smartphone-Content-Native-Customized-Processor/dp/B0H126B3KV",
+      "image_url": "https://m.media-amazon.com/images/I/51PFW8uARvL.jpg"
     },
     {
       "asin": "B0CHDM8VVZ",
@@ -220,9 +207,22 @@
       "savings": 50.0,
       "tier": "Amazon Deal",
       "score": 13,
-      "detected_at": "2026-11-06T20:26:56.637848+00:00",
+      "detected_at": "2026-11-07T01:54:23.975290+00:00",
       "amazon_url": "https://www.amazon.com/Bambu-Lab-P1S-Beginner-Friendly-MakerWorld/dp/B0CHDM8VVZ",
       "image_url": "https://m.media-amazon.com/images/I/61IXKmM4f9L.jpg"
+    },
+    {
+      "asin": "B0HCYX8QBJ",
+      "title": "Miracase Silicone & Magnetic for iPhone 18 Pro Max Case, Burgundy | Compatible with MagSafe, Camera Control Cover, Premium Silicone Cover Shockproof Drop Protection Phone Case for 18 Pro Max",
+      "current_price": 21.98,
+      "reference_price": 24.99,
+      "discount_percent": 12.04,
+      "savings": 3.01,
+      "tier": "Amazon Deal",
+      "score": 12,
+      "detected_at": "2026-11-07T01:54:23.975427+00:00",
+      "amazon_url": "https://www.amazon.com/Miracase-Silicone-Compatible-Shockproof-Protection/dp/B0HCYX8QBJ",
+      "image_url": "https://m.media-amazon.com/images/I/61PxlVyu8NL.jpg"
     }
   ]
 }
