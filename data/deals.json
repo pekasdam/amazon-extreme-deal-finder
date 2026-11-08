@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-07T18:45:20.258752+00:00",
+  "generated_at": "2026-11-08T01:25:36.836650+00:00",
   "source": "Apify Amazon Today's Deals",
   "count": 1,
   "deals": [
     {
-      "asin": "B0GGRSMXKN",
-      "title": "roborock 2026 New Qrevo S Pro Robot Vacuum and Mop, 18,500Pa Suction | Multifunctional Dock with 167\u2109 Mop Self-Cleaning, Smart Obstacle Avoidance, Anti-Tangle Brush, Liftable Spinning Mop, Black",
-      "current_price": 399.99,
-      "reference_price": 699.99,
-      "discount_percent": 42.86,
-      "savings": 300.0,
-      "tier": "Amazon Deal",
-      "score": 43,
-      "detected_at": "2026-11-07T18:45:20.258649+00:00",
-      "amazon_url": "https://www.amazon.com/roborock-Qrevo-Pro-Multifunctional-Self-Cleaning/dp/B0GGRSMXKN",
-      "image_url": "https://m.media-amazon.com/images/I/615KW-IyiHL.jpg"
+      "asin": "B0FHJ7TKZM",
+      "title": "Ring Battery Doorbell 2K (newest model) Retinal 2K with wide-angle video, up to 6x Enhanced Zoom, Two-Way Talk, and Built-In Battery, Speckled Gray",
+      "current_price": 39.99,
+      "reference_price": 99.99,
+      "discount_percent": 60.01,
+      "savings": 60.0,
+      "tier": "\ud83d\udcb0 60%+ STRONG DEAL",
+      "score": 60,
+      "detected_at": "2026-11-08T01:25:36.836552+00:00",
+      "amazon_url": "https://www.amazon.com/Ring-Battery-Doorbell-newest-Built/dp/B0FHJ7TKZM",
+      "image_url": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg"
     }
   ]
 }
